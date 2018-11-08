@@ -1,0 +1,2952 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Frenet–Serret formulas - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Frenet–Serret_formulas","wgTitle":"Frenet–Serret formulas","wgCurRevisionId":862709085,"wgRevisionId":862709085,"wgArticleId":666987,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Differential geometry","Multivariable calculus","Curves","Curvature (mathematics)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Frenet–Serret_formulas","wgRelevantArticleId":666987,"wgRequestId":"W9NKBwpAIC4AAIejSnwAAABE","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q947922","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/6/6f/Frenet.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Frenet%E2%80%93Serret_formulas" rel="alternate"/>
+<link href="/w/index.php?title=Frenet%E2%80%93Serret_formulas&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Frenet%E2%80%93Serret_formulas&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Frenet%E2%80%93Serret_formulas" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Frenet–Serret_formulas rootpage-Frenet–Serret_formulas skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Frenet–Serret formulas</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> Jump to navigation
+Jump to search
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">"Binormal" redirects here. For the category-theoretic meaning of this word, see normal morphism.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><img alt="" class="thumbimage" data-file-height="744" data-file-width="623" height="358" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Frenet.png/300px-Frenet.png" srcset width="300"/> <div class="thumbcaption"><div class="magnify"></div><div style='border: 3px solid red'><center><h1 style='color:red'>1</h1></center></div>A space curve; the vectors <b>T</b>, <b>N</b> and <b>B</b>; and the osculating plane spanned by <b>T</b> and <b>N</b></div></div></div>
+<p>In differential geometry, the <b>Frenet–Serret formulas</b> describe the kinematic properties of a particle moving along a continuous, differentiable curve in three-dimensional Euclidean space �, or the geometric properties of the curve itself irrespective of any motion.  More specifically, the formulas describe the derivatives of the so-called <b>tangent, normal, and binormal</b> unit vectors in terms of each other.  The formulas are named after the two French mathematicians who  independently discovered them: Jean Frédéric Frenet, in his thesis of 1847, and Joseph Alfred Serret in 1851.  Vector notation and linear algebra currently used to write these formulas were not yet in use at the time of their discovery.
+<a name="text1"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">1</span></p><p>The tangent, normal, and binormal unit vectors, often called <b>T</b>, <b>N</b>, and <b>B</b>, or collectively the <b>Frenet–Serret frame</b> or <b>TNB frame</b>, together form an orthonormal basis spanning � and are defined as follows:
+<a name="text2"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">2</span></p>
+<ul><li><b>T</b> is the unit vector tangent to the curve, pointing in the direction of motion.</li>
+<li><b>N</b> is the normal unit vector, the derivative of <b>T</b> with respect to the arclength parameter of the curve, divided by its length.</li>
+<li><b>B</b> is the binormal unit vector, the cross product of <b>T</b> and <b>N</b>.</li></ul>
+<p>The Frenet–Serret formulas are:
+<a name="text3"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">3</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}{\dfrac {d\mathbf {T} }{ds}}&amp;=&amp;\kappa \mathbf {N} ,\\{\dfrac {d\mathbf {N} }{ds}}&amp;=&amp;-\kappa \mathbf {T} +\tau \mathbf {B} ,\\{\dfrac {d\mathbf {B} }{ds}}&amp;=&amp;-\tau \mathbf {N} ,\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+</mtd>
+<mtd>
+<mi>κ<!-- κ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+<mo>,</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+</mtd>
+<mtd>
+<mo>−<!-- − --></mo>
+<mi>κ<!-- κ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+<mo>+</mo>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo>,</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+</mtd>
+<mtd>
+<mo>−<!-- − --></mo>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+<mo>,</mo>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle {\begin{aligned}{\dfrac {d\mathbf {T} }{ds}}&amp;=&amp;\kappa \mathbf {N} ,\\{\dfrac {d\mathbf {N} }{ds}}&amp;=&amp;-\kappa \mathbf {T} +\tau \mathbf {B} ,\\{\dfrac {d\mathbf {B} }{ds}}&amp;=&amp;-\tau \mathbf {N} ,\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{aligned}{\dfrac {d\mathbf {T} }{ds}}&amp;=&amp;\kappa \mathbf {N} ,\\{\dfrac {d\mathbf {N} }{ds}}&amp;=&amp;-\kappa \mathbf {T} +\tau \mathbf {B} ,\\{\dfrac {d\mathbf {B} }{ds}}&amp;=&amp;-\tau \mathbf {N} ,\end{aligned}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/571c6ac00c47dc13fdc4dd16f3f4c6c997944f03" srcset style="vertical-align: -7.422ex; margin-bottom: -0.25ex; width:23.59ex; height:16.509ex;"/></span></dd></dl>
+<p>where <i>d</i>/<i>ds</i> is the derivative with respect to arclength, <i>κ</i> is the curvature, and <i>τ</i> is the torsion of the curve. The two scalars <i>κ</i> and <i>τ</i> effectively define the curvature and torsion of a space curve.  The associated collection, <b>T</b>, <b>N</b>, <b>B</b>, <i>κ</i>, and <i>τ</i>, is called the <b>Frenet–Serret apparatus</b>.  Intuitively, curvature measures the failure of a curve to be a straight line, while torsion measures the failure of a curve to be planar.
+<a name="text4"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">4</span></p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Definitions</span></li>
+<li class="toclevel-1 tocsection-2"><span class="tocnumber">2</span> <span class="toctext">Formulas in <i>n</i> dimensions</span></li>
+<li class="toclevel-1 tocsection-3"><span class="tocnumber">3</span> <span class="toctext">Proof</span></li>
+<li class="toclevel-1 tocsection-4"><span class="tocnumber">4</span> <span class="toctext">Applications and interpretation</span>
+<ul>
+<li class="toclevel-2 tocsection-5"><span class="tocnumber">4.1</span> <span class="toctext">Kinematics of the frame</span>
+<ul>
+<li class="toclevel-3 tocsection-6"><span class="tocnumber">4.1.1</span> <span class="toctext">Graphical Illustrations</span></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><span class="tocnumber">4.2</span> <span class="toctext">Frenet–Serret formulas in calculus</span></li>
+<li class="toclevel-2 tocsection-8"><span class="tocnumber">4.3</span> <span class="toctext">Taylor expansion</span></li>
+<li class="toclevel-2 tocsection-9"><span class="tocnumber">4.4</span> <span class="toctext">Ribbons and tubes</span></li>
+<li class="toclevel-2 tocsection-10"><span class="tocnumber">4.5</span> <span class="toctext">Congruence of curves</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><span class="tocnumber">5</span> <span class="toctext">Other expressions of the frame</span></li>
+<li class="toclevel-1 tocsection-12"><span class="tocnumber">6</span> <span class="toctext">Special cases</span>
+<ul>
+<li class="toclevel-2 tocsection-13"><span class="tocnumber">6.1</span> <span class="toctext">Plane curves</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><span class="tocnumber">7</span> <span class="toctext">See also</span></li>
+<li class="toclevel-1 tocsection-15"><span class="tocnumber">8</span> <span class="toctext">Notes</span></li>
+<li class="toclevel-1 tocsection-16"><span class="tocnumber">9</span> <span class="toctext">References</span></li>
+<li class="toclevel-1 tocsection-17"><span class="tocnumber">10</span> <span class="toctext">External links</span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Definitions">Definitions</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:352px;"><img alt="" class="thumbimage" data-file-height="274" data-file-width="827" height="116" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FrenetTN.svg/350px-FrenetTN.svg.png" srcset width="350"/> <div class="thumbcaption"><div class="magnify"></div><div style='border: 3px solid red'><center><h1 style='color:red'>2</h1></center></div>The <b>T</b> and <b>N</b> vectors at two points on a plane curve, a translated version of the second frame (dotted), and the change in <b>T</b>: δ<b>T'</b>. δs is the distance between the points. In the limit <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\tfrac {d\mathbf {T} }{ds}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle {\tfrac {d\mathbf {T} }{ds}}}</annotation>
+</semantics>
+</math></span><img alt="\tfrac{d\mathbf{T}}{ds}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/69184e38fb3f06e0e3d138e49893c566a695fcec" srcset style="vertical-align: -1.338ex; width:3.011ex; height:3.843ex;"/></span> will be in the direction <b>N</b> and the curvature describes the speed of rotation of the frame.</div></div></div>
+<p>Let <b>r</b>(t) be a curve in Euclidean space, representing the position vector of the particle as a function of time.  The Frenet–Serret formulas apply to curves which are <i>non-degenerate</i>, which roughly means that they have nonzero curvature.  More formally, in this situation the velocity vector <b>r</b>′(t) and the acceleration vector <b>r</b>′′(t) are required not to be proportional.
+<a name="text5"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">5</span></p><p>Let <i>s(t)</i> represent the arc length which the particle has moved along the curve in time t.  The quantity <i>s</i> is used to give the curve traced out by the trajectory of the particle a natural parametrization by arc length, since many different particle paths may trace out the same geometrical curve by traversing it at different rates.  In detail, <i>s</i> is given by
+<a name="text6"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">6</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle s(t)=\int _{0}^{t}\|\mathbf {r} '(\sigma )\|d\sigma .}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>s</mi>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msubsup>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>σ<!-- σ --></mi>
+<mo stretchy="false">)</mo>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<mi>d</mi>
+<mi>σ<!-- σ --></mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+{\displaystyle s(t)=\int _{0}^{t}\|\mathbf {r} '(\sigma )\|d\sigma .}</annotation>
+</semantics>
+</math></span><img alt="s(t)=\int_0^t \|\mathbf{r}'(\sigma)\|d\sigma." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/0dd3c7bd240ddb3c7de5030c28b425bdf1a6f38e" srcset style="vertical-align: -2.338ex; width:20.958ex; height:6.176ex;"/></span></dd></dl>
+<p>Moreover, since we have assumed that <b>r</b>′ ≠ 0, it follows that <i>s</i>(<i>t</i>) is a strictly monotonically increasing function.  Therefore, it is possible to solve for <i>t</i> as a function of <i>s</i>, and thus to write <b>r</b>(<i>s</i>) = <b>r</b>(<i>t</i>(<i>s</i>)).  The curve is thus parametrized in a preferred manner by its arc length.
+<a name="text7"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">7</span></p><p>With a non-degenerate curve <b>r</b>(<i>s</i>), parameterized by its arc length, it is now possible to define the <b>Frenet–Serret frame</b> (or <b>TNB frame</b>):
+<a name="text8"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">8</span></p>
+<ul><li>The tangent unit vector <b>T</b> is defined as</li></ul>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {T} ={{\frac {d\mathbf {r} }{ds}} \over \left\|{\frac {d\mathbf {r} }{ds}}\right\|}.\qquad \qquad (1)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo symmetric="true">‖</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo symmetric="true">‖</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+<mspace width="2em"></mspace>
+<mspace width="2em"></mspace>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+{\displaystyle \mathbf {T} ={{\frac {d\mathbf {r} }{ds}} \over \left\|{\frac {d\mathbf {r} }{ds}}\right\|}.\qquad \qquad (1)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {T} ={{\frac {d\mathbf {r} }{ds}} \over \left\|{\frac {d\mathbf {r} }{ds}}\right\|}.\qquad \qquad (1)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/440bddf68d3c0cc83ab1b9aa503fedc82503833b" srcset style="vertical-align: -3.505ex; width:23.89ex; height:8.176ex;"/></span></dd></dl></dd></dl>
+<ul><li>The normal unit vector <b>N</b> is defined as</li></ul>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {N} ={{\frac {d\mathbf {T} }{ds}} \over \left\|{\frac {d\mathbf {T} }{ds}}\right\|}.\qquad \qquad (2)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo symmetric="true">‖</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo symmetric="true">‖</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+<mspace width="2em"></mspace>
+<mspace width="2em"></mspace>
+<mo stretchy="false">(</mo>
+<mn>2</mn>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+{\displaystyle \mathbf {N} ={{\frac {d\mathbf {T} }{ds}} \over \left\|{\frac {d\mathbf {T} }{ds}}\right\|}.\qquad \qquad (2)}</annotation>
+</semantics>
+</math></span><img alt=" \mathbf{N} = {\frac{d\mathbf{T}}{ds} \over \left\| \frac{d\mathbf{T}}{ds} \right\|}. \qquad \qquad (2) " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/9e850e632844584ac8d5a5b3cb65ee44a04e89a9" srcset style="vertical-align: -3.505ex; width:24.658ex; height:8.176ex;"/></span></dd></dl></dd></dl>
+<ul><li>The binormal unit vector <b>B</b> is defined as the cross product of <b>T</b> and <b>N</b>:</li></ul>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {B} =\mathbf {T} \times \mathbf {N} .\qquad \qquad (3)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+<mo>.</mo>
+<mspace width="2em"></mspace>
+<mspace width="2em"></mspace>
+<mo stretchy="false">(</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+{\displaystyle \mathbf {B} =\mathbf {T} \times \mathbf {N} .\qquad \qquad (3)}</annotation>
+</semantics>
+</math></span><img alt=" \mathbf{B} = \mathbf{T} \times \mathbf{N}. \qquad \qquad (3) " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/f8806515e3be7587fd3e88badc15558c8cb6252b" srcset style="vertical-align: -0.838ex; width:25.087ex; height:2.843ex;"/></span></dd></dl></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:292px;"><img alt="" class="thumbimage" data-file-height="205" data-file-width="290" height="205" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Frenetframehelix.gif" srcset width="290"/> <div class="thumbcaption"><div class="magnify"></div><div style='border: 3px solid red'><center><h1 style='color:red'>3</h1></center></div>The Frenet-Serret frame moving along a helix. The <b>T</b> is represented by the blue arrow, <b>N</b> is represented by the red vector while <b>B</b> is represented by the black vector.</div></div></div>
+<p>From equation (2) it follows, since <b>T</b> always has unit magnitude, that <b>N</b> (the change of <b>T</b>) is always perpendicular to <b>T</b>, since there is no change in direction of <b>T</b>.   From equation (3) it follows that <b>B</b> is always perpendicular to both <b>T</b> and <b>N</b>.  Thus, the three unit vectors <b>T</b>, <b>N</b>, and <b>B</b> are all perpendicular to each other.
+<a name="text9"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">9</span></p><p>The <b>Frenet–Serret formulas</b> are:
+<a name="text10"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">10</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{matrix}{\frac {d\mathbf {T} }{ds}}&amp;=&amp;&amp;\kappa \mathbf {N} &amp;\\&amp;&amp;&amp;&amp;\\{\frac {d\mathbf {N} }{ds}}&amp;=&amp;-\kappa \mathbf {T} &amp;&amp;+\,\tau \mathbf {B} \\&amp;&amp;&amp;&amp;\\{\frac {d\mathbf {B} }{ds}}&amp;=&amp;&amp;-\tau \mathbf {N} &amp;\end{matrix}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mo>=</mo>
+</mtd>
+<mtd></mtd>
+<mtd>
+<mi>κ<!-- κ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+</mtd>
+<mtd></mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd></mtd>
+<mtd></mtd>
+<mtd></mtd>
+<mtd></mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mo>=</mo>
+</mtd>
+<mtd>
+<mo>−<!-- − --></mo>
+<mi>κ<!-- κ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+</mtd>
+<mtd></mtd>
+<mtd>
+<mo>+</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd></mtd>
+<mtd></mtd>
+<mtd></mtd>
+<mtd></mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mo>=</mo>
+</mtd>
+<mtd></mtd>
+<mtd>
+<mo>−<!-- − --></mo>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+</mtd>
+<mtd></mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle {\begin{matrix}{\frac {d\mathbf {T} }{ds}}&amp;=&amp;&amp;\kappa \mathbf {N} &amp;\\&amp;&amp;&amp;&amp;\\{\frac {d\mathbf {N} }{ds}}&amp;=&amp;-\kappa \mathbf {T} &amp;&amp;+\,\tau \mathbf {B} \\&amp;&amp;&amp;&amp;\\{\frac {d\mathbf {B} }{ds}}&amp;=&amp;&amp;-\tau \mathbf {N} &amp;\end{matrix}}}</annotation>
+</semantics>
+</math></span><img alt=" 
+\begin{matrix}
+\frac{d\mathbf{T}}{ds} &amp;=&amp; &amp; \kappa \mathbf{N} &amp; \\
+&amp;&amp;&amp;&amp;\\
+\frac{d\mathbf{N}}{ds} &amp;=&amp; - \kappa \mathbf{T} &amp; &amp;+\, \tau \mathbf{B}\\
+&amp;&amp;&amp;&amp;\\
+\frac{d\mathbf{B}}{ds} &amp;=&amp; &amp; -\tau \mathbf{N} &amp;
+\end{matrix}
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/5f93f4026458d8c5e6e91d3542a721a6aba00d35" srcset style="vertical-align: -8.671ex; width:30.431ex; height:18.509ex;"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \kappa }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>κ<!-- κ --></mi>
+</mstyle>
+</mrow>
+{\displaystyle \kappa }</annotation>
+</semantics>
+</math></span><img alt="\kappa " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/54ddec2e922c5caea4e47d04feef86e782dc8e6d" srcset style="vertical-align: -0.338ex; width:1.339ex; height:1.676ex;"/></span> is the curvature and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>τ<!-- τ --></mi>
+</mstyle>
+</mrow>
+{\displaystyle \tau }</annotation>
+</semantics>
+</math></span><img alt="\tau " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/38a7dcde9730ef0853809fefc18d88771f95206c" srcset style="vertical-align: -0.338ex; width:1.202ex; height:1.676ex;"/></span> is the torsion.
+<a name="text11"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">11</span></p><p>The Frenet–Serret formulas are also known as <i>Frenet–Serret theorem</i>, and can be stated more concisely using matrix notation:
+<a name="text12"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">12</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{bmatrix}\mathbf {T'} \\\mathbf {N'} \\\mathbf {B'} \end{bmatrix}}={\begin{bmatrix}0&amp;\kappa &amp;0\\-\kappa &amp;0&amp;\tau \\0&amp;-\tau &amp;0\end{bmatrix}}{\begin{bmatrix}\mathbf {T} \\\mathbf {N} \\\mathbf {B} \end{bmatrix}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>[</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi mathvariant="bold">T</mi>
+<mo>′</mo>
+</msup>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi mathvariant="bold">N</mi>
+<mo>′</mo>
+</msup>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi mathvariant="bold">B</mi>
+<mo>′</mo>
+</msup>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+<mo>]</mo>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>[</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mi>κ<!-- κ --></mi>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mo>−<!-- − --></mo>
+<mi>κ<!-- κ --></mi>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mi>τ<!-- τ --></mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mo>−<!-- − --></mo>
+<mi>τ<!-- τ --></mi>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+</mtable>
+<mo>]</mo>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>[</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+<mo>]</mo>
+</mrow>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+{\displaystyle {\begin{bmatrix}\mathbf {T'} \\\mathbf {N'} \\\mathbf {B'} \end{bmatrix}}={\begin{bmatrix}0&amp;\kappa &amp;0\\-\kappa &amp;0&amp;\tau \\0&amp;-\tau &amp;0\end{bmatrix}}{\begin{bmatrix}\mathbf {T} \\\mathbf {N} \\\mathbf {B} \end{bmatrix}}.}</annotation>
+</semantics>
+</math></span><img alt=" \begin{bmatrix} \mathbf{T'} \\ \mathbf{N'} \\ \mathbf{B'} \end{bmatrix} = \begin{bmatrix} 0 &amp; \kappa &amp; 0 \\ -\kappa &amp; 0 &amp; \tau \\ 0 &amp; -\tau &amp; 0 \end{bmatrix} \begin{bmatrix} \mathbf{T} \\ \mathbf{N} \\ \mathbf{B} \end{bmatrix}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/dfe09655c47b65c82a2535da318ecb0216bf861a" srcset style="vertical-align: -4.005ex; width:32.174ex; height:9.176ex;"/></span></dd></dl>
+<p>This matrix is skew-symmetric.
+<a name="text13"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">13</span></p>
+<h2><span class="mw-headline" id="Formulas_in_n_dimensions">Formulas in <i>n</i> dimensions</span></h2>
+<p>The Frenet–Serret formulas were generalized to higher-dimensional Euclidean spaces by Camille Jordan in 1874.
+<a name="text14"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">14</span></p><p>Suppose that <b>r</b>(<i>s</i>) is a smooth curve in <b>R</b>, parametrized by arc length, and that the first <i>n</i> derivatives of <b>r</b> are linearly independent.  The vectors in the Frenet–Serret frame are an orthonormal basis constructed by applying the Gram-Schmidt process to the vectors (<b>r</b>′(<i>s</i>), <b>r</b>′′(<i>s</i>), ..., <b>r</b>(<i>s</i>)).
+<a name="text15"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">15</span></p><p>In detail, the unit tangent vector is the first Frenet vector <i>e</i><sub>1</sub>(<i>s</i>) and is defined as
+<a name="text16"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">16</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {e} _{1}(s)=\mathbf {r} '(s)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+{\displaystyle \mathbf {e} _{1}(s)=\mathbf {r} '(s)}</annotation>
+</semantics>
+</math></span><img alt="\mathbf{e}_1(s) = \mathbf{r}'(s)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/b9a410a804e8313eea2a7fd2c84a94e31bf31ab1" srcset style="vertical-align: -0.838ex; width:12.964ex; height:3.009ex;"/></span></dd></dl>
+<p>The <b>normal vector</b>, sometimes called the <b>curvature vector</b>, indicates the deviance of the curve from being a straight line. It is defined as
+<a name="text17"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">17</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {\mathbf {e} _{2}}}(s)=\mathbf {r} ''(s)-\langle \mathbf {r} ''(s),\mathbf {e} _{1}(s)\rangle \,\mathbf {e} _{1}(s)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>″</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>″</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mspace width="thinmathspace"></mspace>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+{\displaystyle {\overline {\mathbf {e} _{2}}}(s)=\mathbf {r} ''(s)-\langle \mathbf {r} ''(s),\mathbf {e} _{1}(s)\rangle \,\mathbf {e} _{1}(s)}</annotation>
+</semantics>
+</math></span><img alt="\overline{\mathbf{e}_2}(s) = \mathbf{r}''(s) - \langle \mathbf{r}''(s), \mathbf{e}_1(s) \rangle \, \mathbf{e}_1(s)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/6b4649c12f1afeb6f68ef39cedd22a34ececb261" srcset style="vertical-align: -0.838ex; width:35.1ex; height:3.009ex;"/></span></dd></dl>
+<p>Its normalized form, the <b>unit normal vector</b>, is the second Frenet vector <b>e</b><sub>2</sub>(<i>s</i>) and defined as
+<a name="text18"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">18</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {e} _{2}(s)={\frac {{\overline {\mathbf {e} _{2}}}(s)}{\|{\overline {\mathbf {e} _{2}}}(s)\|}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle \mathbf {e} _{2}(s)={\frac {{\overline {\mathbf {e} _{2}}}(s)}{\|{\overline {\mathbf {e} _{2}}}(s)\|}}}</annotation>
+</semantics>
+</math></span><img alt="\mathbf{e}_2(s) = \frac{\overline{\mathbf{e}_2}(s)} {\| \overline{\mathbf{e}_2}(s) \|}
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/232a8802b35b864a11b2256b5aaaf8a0a595dbbc" srcset style="vertical-align: -2.671ex; width:16.733ex; height:6.509ex;"/></span></dd></dl>
+<p>The tangent and the normal vector at point <i>s</i> define the <b>osculating plane</b> at point <b>r</b>(<i>s</i>).
+<a name="text19"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">19</span></p><p>The remaining vectors in the frame (the binormal, trinormal, etc.) are defined similarly by
+<a name="text20"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">20</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}\mathbf {e} _{j}(s)={\frac {{\overline {\mathbf {e} _{j}}}(s)}{\|{\overline {\mathbf {e} _{j}}}(s)\|}}{\mbox{, }}\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>, </mtext>
+</mstyle>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle {\begin{aligned}\mathbf {e} _{j}(s)={\frac {{\overline {\mathbf {e} _{j}}}(s)}{\|{\overline {\mathbf {e} _{j}}}(s)\|}}{\mbox{, }}\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\begin{aligned}{\mathbf  {e}}_{{j}}(s)={\frac  {\overline {{\mathbf  {e}}_{{j}}}(s)}{\|\overline {{\mathbf  {e}}_{{j}}}(s)\|}}{\mbox{, }}\end{aligned}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/0f3ad7320be0c9a9f187bc2e56d702866bf1931d" srcset style="vertical-align: -2.838ex; width:18.423ex; height:6.843ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}{\overline {\mathbf {e} _{j}}}(s)=\mathbf {r} ^{(j)}(s)-\sum _{i=1}^{j-1}\langle \mathbf {r} ^{(j)}(s),\mathbf {e} _{i}(s)\rangle \,\mathbf {e} _{i}(s).\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mi>j</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</munderover>
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mi>j</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mspace width="thinmathspace"></mspace>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>.</mo>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle {\begin{aligned}{\overline {\mathbf {e} _{j}}}(s)=\mathbf {r} ^{(j)}(s)-\sum _{i=1}^{j-1}\langle \mathbf {r} ^{(j)}(s),\mathbf {e} _{i}(s)\rangle \,\mathbf {e} _{i}(s).\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\begin{aligned}\overline {{\mathbf  {e}}_{{j}}}(s)={\mathbf  {r}}^{{(j)}}(s)-\sum _{{i=1}}^{{j-1}}\langle {\mathbf  {r}}^{{(j)}}(s),{\mathbf  {e}}_{i}(s)\rangle \,{\mathbf  {e}}_{i}(s).\end{aligned}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/8898389e49114bfe19ce0a30e17d97c16863d001" srcset style="vertical-align: -3.171ex; width:41.303ex; height:7.509ex;"/></span></dd></dl>
+<p>The real valued functions χ<sub><i>i</i></sub>(<i>s</i>) are called <b>generalized curvature</b> and are defined as
+<a name="text21"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">21</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \chi _{i}(s)={\frac {\langle \mathbf {e} _{i}'(s),\mathbf {e} _{i+1}(s)\rangle }{\|\mathbf {r} '(s)\|}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>+</mo>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+</mrow>
+<mrow>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle \chi _{i}(s)={\frac {\langle \mathbf {e} _{i}'(s),\mathbf {e} _{i+1}(s)\rangle }{\|\mathbf {r} '(s)\|}}}</annotation>
+</semantics>
+</math></span><img alt="\chi_i(s) = \frac{\langle \mathbf{e}_i'(s), \mathbf{e}_{i+1}(s) \rangle}{\| \mathbf{r}'(s) \|} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/48aadea192189b799e756cf28cf7523f8e2aacf3" srcset style="vertical-align: -2.671ex; width:23.882ex; height:6.676ex;"/></span></dd></dl>
+<p>The <b>Frenet–Serret formulas</b>, stated in matrix language, are
+<a name="text22"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">22</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}{\begin{bmatrix}\mathbf {e} _{1}'(s)\\\vdots \\\mathbf {e} _{n}'(s)\\\end{bmatrix}}=\\\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>[</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mo>⋮<!-- ⋮ --></mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+</mtd>
+</mtr>
+</mtable>
+<mo>]</mo>
+</mrow>
+</mrow>
+<mo>=</mo>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle {\begin{aligned}{\begin{bmatrix}\mathbf {e} _{1}'(s)\\\vdots \\\mathbf {e} _{n}'(s)\\\end{bmatrix}}=\\\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\begin{aligned}{\begin{bmatrix}{\mathbf  {e}}_{1}'(s)\\\vdots \\{\mathbf  {e}}_{n}'(s)\\\end{bmatrix}}=\\\end{aligned}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/4e77de26094aac310800a8532cc96320e163c040" srcset style="vertical-align: -4.838ex; width:12.4ex; height:10.843ex;"/></span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}{\begin{bmatrix}0&amp;\chi _{1}(s)&amp;&amp;0\\-\chi _{1}(s)&amp;\ddots &amp;\ddots &amp;\\&amp;\ddots &amp;0&amp;\chi _{n-1}(s)\\0&amp;&amp;-\chi _{n-1}(s)&amp;0\\\end{bmatrix}}{\begin{bmatrix}\mathbf {e} _{1}(s)\\\vdots \\\mathbf {e} _{n}(s)\\\end{bmatrix}}\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>[</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<msub>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+</mtd>
+<mtd></mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+</mtd>
+<mtd>
+<mo>⋱<!-- ⋱ --></mo>
+</mtd>
+<mtd>
+<mo>⋱<!-- ⋱ --></mo>
+</mtd>
+<mtd></mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<mo>⋱<!-- ⋱ --></mo>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<msub>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd></mtd>
+<mtd>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+</mtable>
+<mo>]</mo>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>[</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mo>⋮<!-- ⋮ --></mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+</mtd>
+</mtr>
+</mtable>
+<mo>]</mo>
+</mrow>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle {\begin{aligned}{\begin{bmatrix}0&amp;\chi _{1}(s)&amp;&amp;0\\-\chi _{1}(s)&amp;\ddots &amp;\ddots &amp;\\&amp;\ddots &amp;0&amp;\chi _{n-1}(s)\\0&amp;&amp;-\chi _{n-1}(s)&amp;0\\\end{bmatrix}}{\begin{bmatrix}\mathbf {e} _{1}(s)\\\vdots \\\mathbf {e} _{n}(s)\\\end{bmatrix}}\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\begin{aligned}{\begin{bmatrix}0&amp;\chi _{1}(s)&amp;&amp;0\\-\chi _{1}(s)&amp;\ddots &amp;\ddots &amp;\\&amp;\ddots &amp;0&amp;\chi _{{n-1}}(s)\\0&amp;&amp;-\chi _{{n-1}}(s)&amp;0\\\end{bmatrix}}{\begin{bmatrix}{\mathbf  {e}}_{1}(s)\\\vdots \\{\mathbf  {e}}_{n}(s)\\\end{bmatrix}}\end{aligned}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/fccddeae7c20e99ddcec228992798cf45815ab5d" srcset style="vertical-align: -7.671ex; width:50.549ex; height:16.509ex;"/></span></dd></dl>
+<h2><span class="mw-headline" id="Proof">Proof</span></h2>
+<p>Consider the matrix
+<a name="text23"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">23</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Q=\left[{\begin{matrix}\mathbf {T} \\\mathbf {N} \\\mathbf {B} \end{matrix}}\right]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>Q</mi>
+<mo>=</mo>
+<mrow>
+<mo>[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle Q=\left[{\begin{matrix}\mathbf {T} \\\mathbf {N} \\\mathbf {B} \end{matrix}}\right]}</annotation>
+</semantics>
+</math></span><img alt=" 
+Q = \left[\begin{matrix}
+ \mathbf{T}\\
+ \mathbf{N}\\
+ \mathbf{B}
+\end{matrix}\right]
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/10dcfcb959b7ce2541ea061d76b5fa487c0a2bef" srcset style="vertical-align: -4.005ex; width:10.88ex; height:9.176ex;"/></span></dd></dl>
+<p>The rows of this matrix are mutually perpendicular unit vectors: an orthonormal basis of �.  As a result, the transpose of <i>Q</i> is equal to the inverse of <i>Q</i>: <i>Q</i> is an orthogonal matrix.  It suffices to show that
+<a name="text24"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">24</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {dQ}{ds}}\right)Q^{T}=\left[{\begin{matrix}0&amp;\kappa &amp;0\\-\kappa &amp;0&amp;\tau \\0&amp;-\tau &amp;0\end{matrix}}\right]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>Q</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<msup>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<mrow>
+<mo>[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mi>κ<!-- κ --></mi>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mo>−<!-- − --></mo>
+<mi>κ<!-- κ --></mi>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mi>τ<!-- τ --></mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mo>−<!-- − --></mo>
+<mi>τ<!-- τ --></mi>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle \left({\frac {dQ}{ds}}\right)Q^{T}=\left[{\begin{matrix}0&amp;\kappa &amp;0\\-\kappa &amp;0&amp;\tau \\0&amp;-\tau &amp;0\end{matrix}}\right]}</annotation>
+</semantics>
+</math></span><img alt="
+\left(\frac{dQ}{ds}\right)Q^T =
+\left[\begin{matrix}
+  0 &amp; \kappa &amp; 0\\
+  -\kappa &amp; 0 &amp; \tau\\
+  0 &amp; -\tau &amp; 0
+\end{matrix}\right]
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/6145990050fd29ce5837ccc13293213e6d897a29" srcset style="vertical-align: -4.005ex; width:29.881ex; height:9.176ex;"/></span></dd></dl>
+<p>Note the first row of this equation already holds, by definition of the normal <b>N</b> and curvature κ.  So it suffices to show that (d<i>Q</i>/d<i>s</i>)<i>Q</i> is a skew-symmetric matrix.  Since <i>I</i> = <i>QQ</i>, taking a derivative and applying the product rule yields
+<a name="text25"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">25</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}0={\frac {dI}{ds}}=\left({\frac {dQ}{ds}}\right)Q^{T}+Q\left({\frac {dQ}{ds}}\right)^{T}\implies \\\left({\frac {dQ}{ds}}\right)Q^{T}=-\left(\left({\frac {dQ}{ds}}\right)Q^{T}\right)^{T}\\\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<mn>0</mn>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>I</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>Q</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<msup>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msup>
+<mo>+</mo>
+<mi>Q</mi>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>Q</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msup>
+<mspace width="thickmathspace"></mspace>
+<mo stretchy="false">⟹<!-- ⟹ --></mo>
+<mspace width="thickmathspace"></mspace>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>Q</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<msup>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>Q</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<msup>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msup>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msup>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle {\begin{aligned}0={\frac {dI}{ds}}=\left({\frac {dQ}{ds}}\right)Q^{T}+Q\left({\frac {dQ}{ds}}\right)^{T}\implies \\\left({\frac {dQ}{ds}}\right)Q^{T}=-\left(\left({\frac {dQ}{ds}}\right)Q^{T}\right)^{T}\\\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\begin{aligned}0={\frac  {dI}{ds}}=\left({\frac  {dQ}{ds}}\right)Q^{T}+Q\left({\frac  {dQ}{ds}}\right)^{T}\implies \\\left({\frac  {dQ}{ds}}\right)Q^{T}=-\left(\left({\frac  {dQ}{ds}}\right)Q^{T}\right)^{T}\\\end{aligned}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/87d6ed7ec4acfc05a2f93d12fbd5ac475f0627e3" srcset style="vertical-align: -6.005ex; width:41.381ex; height:13.176ex;"/></span></dd></dl>
+<p>which establishes the required skew-symmetry.
+<a name="text26"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">26</span></p>
+<h2><span class="mw-headline" id="Applications_and_interpretation">Applications and interpretation</span></h2>
+<h3><span class="mw-headline" id="Kinematics_of_the_frame">Kinematics of the frame</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:174px;"><img alt="" class="thumbimage" data-file-height="315" data-file-width="172" height="315" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Frenet-Serret_moving_frame1.png" srcset width="172"/> <div class="thumbcaption"><div class="magnify"></div><div style='border: 3px solid red'><center><h1 style='color:red'>27</h1></center></div>The Frenet-Serret frame moving along a helix in space</div></div></div>
+<p>The Frenet–Serret frame consisting of the tangent <b>T</b>, normal <b>N</b>, and binormal <b>B</b> collectively forms an orthonormal basis of 3-space.  At each point of the curve, this <i>attaches</i> a frame of reference or rectilinear coordinate system (see image).
+<a name="text27"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">28</span></p><p>The Frenet–Serret formulas admit a kinematic interpretation.  Imagine that an observer moves along the curve in time, using the attached frame at each point as her coordinate system.  The Frenet–Serret formulas mean that this coordinate system is constantly rotating as an observer moves along the curve.  Hence, this coordinate system is always non-inertial.  The angular momentum of the observer's coordinate system is proportional to the Darboux vector of the frame.
+<a name="text28"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">29</span></p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><img alt="" class="thumbimage" data-file-height="920" data-file-width="702" height="288" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TNB_frame_momenta.svg/220px-TNB_frame_momenta.svg.png" srcset width="220"/> <div class="thumbcaption"><div class="magnify"></div><div style='border: 3px solid red'><center><h1 style='color:red'>29</h1></center></div>A top whose axis is situated along the binormal is observed to rotate with angular speed κ. If the axis is along the tangent, it is observed to rotate with angular speed τ.</div></div></div>
+<p>Concretely, suppose that the observer carries an (inertial) top (or gyroscope) with her along the curve.  If the axis of the top points along the tangent to the curve, then it will be observed to rotate about its axis with angular velocity -τ relative to the observer's non-inertial coordinate system.  If, on the other hand, the axis of the top points in the binormal direction, then it is observed to rotate with angular velocity -κ.  This is easily visualized in the case when the curvature is a positive constant and the torsion vanishes.  The observer is then in uniform circular motion.  If the top points in the direction of the binormal, then by conservation of angular momentum it must rotate in the <i>opposite</i> direction of the circular motion.  In the limiting case when the curvature vanishes, the observer's normal precesses about the tangent vector, and similarly the top will rotate in the opposite direction of this precession.
+<a name="text30"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">30</span></p><p>The general case is illustrated below. There are further illustrations on Wikimedia.
+<a name="text31"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">31</span></p><p><b>Applications.</b>  The kinematics of the frame have many applications in the sciences.
+<a name="text32"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">32</span></p>
+<ul><li>In the life sciences, particularly in models of microbial motion, considerations of the Frenet-Serret frame have been used to explain the mechanism by which a moving organism in a viscous medium changes its direction.</li>
+<li>In physics, the Frenet-Serret frame is useful when it is impossible or inconvenient to assign a natural coordinate system for a trajectory.  Such is often the case, for instance, in relativity theory.  Within this setting, Frenet-Serret frames have been used to model the precession of a gyroscope in a gravitational well.</li></ul>
+<div style="clear:both;"></div>
+<h4><span class="mw-headline" id="Graphical_Illustrations">Graphical Illustrations</span></h4>
+<ol><li>Example of a moving Frenet basis (<b>T</b> in blue, <b>N</b> in green, <b>B</b> in purple) along Viviani's curve.</li></ol>
+<p><img alt="Frenet-Serret-frame along Vivani-curve.gif" data-file-height="534" data-file-width="500" height="534" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Frenet-Serret-frame_along_Vivani-curve.gif" srcset width="500"/>
+<a name="text33"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">33</span></p>
+<ol><li class="mw-empty-elt"></li><li value="2"> On the example of a torus knot, the tangent vector <b>T</b>, the normal vector <b>N</b>, and the binormal vector <b>B</b>, along with the curvature κ(s), and the torsion τ(s) are displayed. <br/> At the peaks of the torsion function the rotation of the Frenet-Serret frame (<b>T</b>,<b>N</b>,<b>B</b>) around the tangent vector is clearly visible.</li></ol>
+<p><img alt="Torus-Knot nebeneinander animated.gif" data-file-height="435" data-file-width="1024" height="435" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Torus-Knot_nebeneinander_animated.gif" srcset width="1024"/>
+<a name="text34"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">34</span></p>
+<ol><li class="mw-empty-elt"></li><li value="3"> The kinematic significance of the curvature is best illustrated with plane curves (having constant torsion equal to zero). See the page on curvature of plane curves.</li></ol>
+<h3><span id="Frenet.E2.80.93Serret_formulas_in_calculus"></span><span class="mw-headline" id="Frenet–Serret_formulas_in_calculus">Frenet–Serret formulas in calculus</span></h3>
+<p>The Frenet–Serret formulas are frequently introduced in courses on multivariable calculus as a companion to the study of space curves such as the helix.  A helix can be characterized by the height 2π<i>h</i> and radius <i>r</i> of a single turn.  The curvature and torsion of a helix (with constant radius) are given by the formulas
+<a name="text35"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">35</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \kappa ={\frac {r}{r^{2}+h^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>κ<!-- κ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>r</mi>
+<mrow>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle \kappa ={\frac {r}{r^{2}+h^{2}}}}</annotation>
+</semantics>
+</math></span><img alt=" \kappa = \frac{r}{r^2+h^2} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/f9a2d8d232d541198e5189df7b2dd89b7c59ff5c" srcset style="vertical-align: -2.338ex; width:12.61ex; height:5.176ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau =\pm {\frac {h}{r^{2}+h^{2}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>τ<!-- τ --></mi>
+<mo>=</mo>
+<mo>±<!-- ± --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>h</mi>
+<mrow>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+{\displaystyle \tau =\pm {\frac {h}{r^{2}+h^{2}}}.}</annotation>
+</semantics>
+</math></span><img alt=" \tau = \pm\frac{h}{r^2+h^2}. " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/10bad11558c5e208de8588b4275fdf9818db06f7" srcset style="vertical-align: -2.338ex; width:14.928ex; height:5.843ex;"/></span></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><img alt="" class="thumbimage" data-file-height="406" data-file-width="529" height="169" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Frenet-Serret_helices.png/220px-Frenet-Serret_helices.png" srcset width="220"/> <div class="thumbcaption"><div class="magnify"></div><div style='border: 3px solid red'><center><h1 style='color:red'>36</h1></center></div>Two helices (slinkies) in space. (a) A more compact helix with higher curvature and lower torsion. (b) A stretched out helix with slightly higher torsion but lower curvature.</div></div></div>
+<p>The sign of the torsion is determined by the right-handed or left-handed sense in which the helix twists around its central axis. Explicitly, the parametrization of a single turn of a right-handed helix with height 2π<i>h</i> and radius <i>r</i> is
+<a name="text36"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">37</span></p>
+<dl><dd><i>x</i> = <i>r</i> cos <i>t</i></dd>
+<dd><i>y</i> = <i>r</i> sin <i>t</i></dd>
+<dd><i>z</i> = <i>h</i> <i>t</i></dd>
+<dd>(0 ≤ t ≤ 2 π)</dd></dl>
+<p>and, for a left-handed helix,
+<a name="text37"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">38</span></p>
+<dl><dd><i>x</i> = <i>r</i> cos <i>t</i></dd>
+<dd><i>y</i> = −<i>r</i> sin <i>t</i></dd>
+<dd><i>z</i> = <i>h</i> <i>t</i></dd>
+<dd>(0 ≤ t ≤ 2 π).</dd></dl>
+<p>Note that these are not the arc length parametrizations (in which case, each of <i>x</i>, <i>y</i>, and <i>z</i> would need to be divided by <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\sqrt {h^{2}+r^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<msup>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle {\sqrt {h^{2}+r^{2}}}}</annotation>
+</semantics>
+</math></span><img alt="\sqrt{h^2+r^2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/fe5b8c97820c60aad39c4618f784dadc1f7ee7fa" srcset style="vertical-align: -0.838ex; width:9.66ex; height:3.509ex;"/></span>.)
+<a name="text38"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">39</span></p><p>In his expository writings on the geometry of curves, Rudy Rucker employs the model of a slinky to explain the meaning of the torsion and curvature.  The slinky, he says, is characterized by the property that the quantity
+<a name="text39"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">40</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A^{2}=h^{2}+r^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+{\displaystyle A^{2}=h^{2}+r^{2}}</annotation>
+</semantics>
+</math></span><img alt=" A^2 = h^2+r^2" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/2b9d42cddfc55f7dcceba4b2b9713deb1a73a825" srcset style="vertical-align: -0.505ex; width:13.232ex; height:2.843ex;"/></span></dd></dl>
+<p>remains constant if the slinky is vertically stretched out along its central axis.  (Here 2π<i>h</i> is the height of a single twist of the slinky, and <i>r</i> the radius.)  In particular, curvature and torsion are complementary in the sense that the torsion can be increased at the expense of curvature by stretching out the slinky.
+<a name="text40"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">41</span></p>
+<h3><span class="mw-headline" id="Taylor_expansion">Taylor expansion</span></h3>
+<p>Repeatedly differentiating the curve and applying the Frenet–Serret formulas gives the following Taylor approximation to the curve near <i>s</i> = 0:
+<a name="text41"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">42</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {r} (s)=\mathbf {r} (0)+\left(s-{\frac {s^{3}\kappa ^{2}(0)}{6}}\right)\mathbf {T} (0)+\left({\frac {s^{2}\kappa (0)}{2}}+{\frac {s^{3}\kappa '(0)}{6}}\right)\mathbf {N} (0)+\left({\frac {s^{3}\kappa (0)\tau (0)}{6}}\right)\mathbf {B} (0)+o(s^{3}).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>s</mi>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<msup>
+<mi>κ<!-- κ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>6</mn>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>κ<!-- κ --></mi>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<msup>
+<mi>κ<!-- κ --></mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>6</mn>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mi>κ<!-- κ --></mi>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mi>τ<!-- τ --></mi>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>6</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mi>o</mi>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mo stretchy="false">)</mo>
+<mo>.</mo>
+</mstyle>
+</mrow>
+{\displaystyle \mathbf {r} (s)=\mathbf {r} (0)+\left(s-{\frac {s^{3}\kappa ^{2}(0)}{6}}\right)\mathbf {T} (0)+\left({\frac {s^{2}\kappa (0)}{2}}+{\frac {s^{3}\kappa '(0)}{6}}\right)\mathbf {N} (0)+\left({\frac {s^{3}\kappa (0)\tau (0)}{6}}\right)\mathbf {B} (0)+o(s^{3}).}</annotation>
+</semantics>
+</math></span><img alt="\mathbf r(s) = \mathbf r(0) + \left(s-\frac{s^3\kappa^2(0)}{6}\right)\mathbf T(0) + \left(\frac{s^2\kappa(0)}{2}+\frac{s^3\kappa'(0)}{6}\right)\mathbf N(0) + \left(\frac{s^3\kappa(0)\tau(0)}{6}\right)\mathbf B(0) + o(s^3)." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/18c4b6813490cbceb016432f568a30b9378779a1" srcset style="vertical-align: -3.171ex; width:97.086ex; height:7.509ex;"/></span></dd></dl>
+<p>For a generic curve with nonvanishing torsion, the projection of the curve onto various coordinate planes in the <b>T</b>, <b>N</b>, <b>B</b> coordinate system at <span class="nowrap"><i>s</i> = 0</span> have the following interpretations:
+<a name="text42"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">43</span></p>
+<ul><li>The <b>osculating plane</b> is the plane containing <b>T</b> and <b>N</b>.  The projection of the curve onto this plane has the form:<br/>  <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {r} (0)+s\mathbf {T} (0)+{\frac {s^{2}\kappa (0)}{2}}\mathbf {N} (0)+o(s^{2}).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>κ<!-- κ --></mi>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mi>o</mi>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo stretchy="false">)</mo>
+<mo>.</mo>
+</mstyle>
+</mrow>
+{\displaystyle \mathbf {r} (0)+s\mathbf {T} (0)+{\frac {s^{2}\kappa (0)}{2}}\mathbf {N} (0)+o(s^{2}).}</annotation>
+</semantics>
+</math></span><img alt="\mathbf r(0) + s\mathbf T(0) + \frac{s^2\kappa(0)}{2}\mathbf N(0)+ o(s^2)." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/5f4f059ac57dde4145e3fabb1e85dc749f5ca14d" srcset style="vertical-align: -1.838ex; width:36.6ex; height:5.843ex;"/></span><br/>This is a parabola up to terms of order <i>o</i>(<i>s</i>), whose curvature at 0 is equal to κ(0).</li>
+<li>The <b>normal plane</b> is the plane containing <b>N</b> and <b>B</b>.  The projection of the curve onto this plane has the form:<br/>  <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {r} (0)+\left({\frac {s^{2}\kappa (0)}{2}}+{\frac {s^{3}\kappa '(0)}{6}}\right)\mathbf {N} (0)+\left({\frac {s^{3}\kappa (0)\tau (0)}{6}}\right)\mathbf {B} (0)+o(s^{3})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>κ<!-- κ --></mi>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<msup>
+<mi>κ<!-- κ --></mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>6</mn>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mi>κ<!-- κ --></mi>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mi>τ<!-- τ --></mi>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>6</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mi>o</mi>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+{\displaystyle \mathbf {r} (0)+\left({\frac {s^{2}\kappa (0)}{2}}+{\frac {s^{3}\kappa '(0)}{6}}\right)\mathbf {N} (0)+\left({\frac {s^{3}\kappa (0)\tau (0)}{6}}\right)\mathbf {B} (0)+o(s^{3})}</annotation>
+</semantics>
+</math></span><img alt="\mathbf r(0) + \left(\frac{s^2\kappa(0)}{2}+\frac{s^3\kappa'(0)}{6}\right)\mathbf N(0) + \left(\frac{s^3\kappa(0)\tau(0)}{6}\right)\mathbf B(0)+ o(s^3)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/0dfca0bbe506f2dd1b48323c901a4369bbfa4607" srcset style="vertical-align: -3.171ex; width:65.323ex; height:7.509ex;"/></span><br/>which is a cuspidal cubic to order <i>o</i>(<i>s</i>).</li>
+<li>The <b>rectifying plane</b> is the plane containing <b>T</b> and <b>B</b>.  The projection of the curve onto this plane is:<br/>  <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {r} (0)+\left(s-{\frac {s^{3}\kappa ^{2}(0)}{6}}\right)\mathbf {T} (0)+\left({\frac {s^{3}\kappa (0)\tau (0)}{6}}\right)\mathbf {B} (0)+o(s^{3})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>s</mi>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<msup>
+<mi>κ<!-- κ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>6</mn>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mi>κ<!-- κ --></mi>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mi>τ<!-- τ --></mi>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>6</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mi>o</mi>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+{\displaystyle \mathbf {r} (0)+\left(s-{\frac {s^{3}\kappa ^{2}(0)}{6}}\right)\mathbf {T} (0)+\left({\frac {s^{3}\kappa (0)\tau (0)}{6}}\right)\mathbf {B} (0)+o(s^{3})}</annotation>
+</semantics>
+</math></span><img alt="\mathbf r(0) + \left(s-\frac{s^3\kappa^2(0)}{6}\right)\mathbf T(0) + \left(\frac{s^3\kappa(0)\tau(0)}{6}\right)\mathbf B(0)+ o(s^3)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/e5f40328623d657b01515997755287bc98b4f75c" srcset style="vertical-align: -3.171ex; width:59.259ex; height:7.509ex;"/></span><br/>which traces out the graph of a cubic polynomial to order <i>o</i>(<i>s</i>).</li></ul>
+<h3><span class="mw-headline" id="Ribbons_and_tubes">Ribbons and tubes</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:352px;"><img alt="" class="thumbimage" data-file-height="346" data-file-width="552" height="219" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ribbon-Frenet.png/350px-Ribbon-Frenet.png" srcset width="350"/> <div class="thumbcaption"><div class="magnify"></div><div style='border: 3px solid red'><center><h1 style='color:red'>43</h1></center></div>A  ribbon defined by a curve of constant torsion and a highly oscillating curvature. The arc length parameterization of the curve was defined via integration of the Frenet-Serret equations.</div></div></div>
+<p>The Frenet–Serret apparatus allows one to define certain optimal <i>ribbons</i> and <i>tubes</i> centered around a curve.  These have diverse applications in materials science and elasticity theory, as well as to computer graphics.
+<a name="text44"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">44</span></p><p>A <b>Frenet ribbon</b> along a curve <i>C</i> is the surface traced out by sweeping the line segment [−<b>N</b>,<b>N</b>] generated by the unit normal along the curve.  Geometrically, a ribbon is a piece of the envelope of the osculating planes of the curve. Symbolically, the ribbon <i>R</i> has the following parametrization:
+<a name="text45"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">45</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle R(s,t)=C(s)+t\mathbf {N} ,\quad -1\leq t\leq 1.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>R</mi>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo>,</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>C</mi>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+<mo>,</mo>
+<mspace width="1em"></mspace>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo>≤<!-- ≤ --></mo>
+<mi>t</mi>
+<mo>≤<!-- ≤ --></mo>
+<mn>1.</mn>
+</mstyle>
+</mrow>
+{\displaystyle R(s,t)=C(s)+t\mathbf {N} ,\quad -1\leq t\leq 1.}</annotation>
+</semantics>
+</math></span><img alt=" R(s,t) = C(s)+t\mathbf{N},\quad -1\le t\le 1." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/961bf14e906a9107f9e1aad907e9065e76af02c3" srcset style="vertical-align: -0.838ex; width:35.246ex; height:2.843ex;"/></span></dd></dl>
+<p>In particular, the binormal <b>B</b> is a unit vector normal to the ribbon.  Moreover, the ribbon is a ruled surface whose reguli are the line segments spanned by <b>N</b>.  Thus each of the frame vectors <b>T</b>, <b>N</b>, and <b>B</b> can be visualized entirely in terms of the Frenet ribbon.
+<a name="text46"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">46</span></p><p>The Gauss curvature of a Frenet ribbon vanishes, and so it is a developable surface.  Geometrically, it is possible to "roll" a plane along the ribbon without slipping or twisting so that the regulus always remains within the plane.  The ribbon then traces out a ribbon in the plane (possibly with multiple sheets).  The curve <i>C</i> also traces out a curve <i>C</i><sub>P</sub> in the plane, whose curvature is given in terms of the curvature and torsion of <i>C</i> by
+<a name="text47"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">47</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \kappa _{P}(s)=\pm {\sqrt {\kappa (s)^{2}+\tau (s)^{2}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>κ<!-- κ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>P</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mo>±<!-- ± --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>κ<!-- κ --></mi>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mi>τ<!-- τ --></mi>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</msqrt>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+{\displaystyle \kappa _{P}(s)=\pm {\sqrt {\kappa (s)^{2}+\tau (s)^{2}}}.}</annotation>
+</semantics>
+</math></span><img alt="\kappa_P(s) = \pm\sqrt{\kappa(s)^2+\tau(s)^2}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/6bc9a682e865b37c58a567b2e61ca37cb7d93a2a" srcset style="vertical-align: -1.671ex; width:26.872ex; height:4.843ex;"/></span></dd></dl>
+<p>This fact gives a general procedure for constructing any Frenet ribbon.  Intuitively, one can cut out a curved ribbon from a flat piece of paper.  Then by bending the ribbon out into space without tearing it, one produces a Frenet ribbon.  In the simple case of the slinky, the ribbon is several turns of an annulus in the plane, and bending it up into space corresponds to stretching out the slinky.
+<a name="text48"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">48</span></p>
+<h3><span class="mw-headline" id="Congruence_of_curves">Congruence of curves</span></h3>
+<p>In classical Euclidean geometry, one is interested in studying the properties of figures in the plane which are <i>invariant</i> under congruence, so that if two figures are congruent then they must have the same properties.  The Frenet-Serret apparatus presents the curvature and torsion as numerical invariants of a space curve.
+<a name="text49"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">49</span></p><p>Roughly speaking, two curves <i>C</i> and <i>C</i>′ in space are <i>congruent</i> if one can be rigidly moved to the other.  A rigid motion consists of a combination of a translation and a rotation.  A translation moves one point of <i>C</i> to a point of <i>C</i>′.  The rotation then adjusts the orientation of the curve <i>C</i> to line up with that of <i>C</i>′.  Such a combination of translation and rotation is called a Euclidean motion.  In terms of the parametrization <b>r</b>(t) defining the first curve <i>C</i>, a general Euclidean motion of <i>C</i> is a composite of the following operations:
+<a name="text50"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">50</span></p>
+<ul><li>(<i>Translation</i>.)  <b>r</b>(t) →  <b>r</b>(t) + <b>v</b>, where <b>v</b> is a constant vector.</li>
+<li>(<i>Rotation</i>.)  <b>r</b>(t) + <b>v</b> → M(<b>r</b>(t) + <b>v</b>), where <i>M</i> is the matrix of a rotation.</li></ul>
+<p>The Frenet–Serret frame is particularly well-behaved with regard to Euclidean motions.  First, since <b>T</b>, <b>N</b>, and <b>B</b> can all be given as successive derivatives of the parametrization of the curve, each of them is insensitive to the addition of a constant vector to <b>r</b>(t).  Intuitively, the <b>TNB</b> frame attached to <b>r</b>(t) is the same as the <b>TNB</b> frame attached to the new curve <b>r</b>(t) + <b>v</b>.
+<a name="text51"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">51</span></p><p>This leaves only the rotations to consider.  Intuitively, if we apply a rotation <i>M</i> to the curve, then the <b>TNB</b> frame also rotates.  More precisely, the matrix <i>Q</i> whose rows are the <b>TNB</b> vectors of the Frenet-Serret frame changes by the matrix of a rotation
+<a name="text52"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">52</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Q\rightarrow QM.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>Q</mi>
+<mo stretchy="false">→<!-- → --></mo>
+<mi>Q</mi>
+<mi>M</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+{\displaystyle Q\rightarrow QM.}</annotation>
+</semantics>
+</math></span><img alt=" Q \rightarrow QM." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/b21eccab2af4225beab6b90ec66ddb7370cd953f" srcset style="vertical-align: -0.671ex; width:10.38ex; height:2.509ex;"/></span></dd></dl>
+<p><i>A fortiori</i>, the matrix (d<i>Q</i>/d<i>s</i>)<i>Q</i> is unaffected by a rotation:
+<a name="text53"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">53</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {d(QM)}{ds}}\right)(QM)^{T}=\left({\frac {dQ}{ds}}\right)MM^{T}Q^{T}=\left({\frac {dQ}{ds}}\right)Q^{T}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mo stretchy="false">(</mo>
+<mi>Q</mi>
+<mi>M</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>Q</mi>
+<mi>M</mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>Q</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>M</mi>
+<msup>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msup>
+<msup>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>Q</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<msup>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+{\displaystyle \left({\frac {d(QM)}{ds}}\right)(QM)^{T}=\left({\frac {dQ}{ds}}\right)MM^{T}Q^{T}=\left({\frac {dQ}{ds}}\right)Q^{T}}</annotation>
+</semantics>
+</math></span><img alt="
+\left(\frac{d(QM)}{ds}\right)(QM)^T 
+= \left(\frac{dQ}{ds}\right)MM^TQ^T
+= \left(\frac{dQ}{ds}\right)Q^T
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/0abdcda41e529bd7b0d85682992ec794c8113498" srcset style="vertical-align: -2.505ex; width:53.809ex; height:6.343ex;"/></span></dd></dl>
+<p>since <i>MM</i> = <i>I</i> for the matrix of a rotation.
+<a name="text54"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">54</span></p><p>Hence the entries κ and τ of (d<i>Q</i>/d<i>s</i>)<i>Q</i> are <i>invariants</i> of the curve under Euclidean motions: if a Euclidean motion is applied to a curve, then the resulting curve has <i>the same</i> curvature and torsion.
+<a name="text55"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">55</span></p><p>Moreover, using the Frenet–Serret frame, one can also prove the converse: any two curves having the same curvature and torsion functions must be congruent by a Euclidean motion.  Roughly speaking, the Frenet–Serret formulas express the Darboux derivative of the <b>TNB</b> frame.  If the Darboux derivatives of two frames are equal, then a version of the fundamental theorem of calculus asserts that the curves are congruent.  In particular, the curvature and torsion are a <i>complete</i> set of invariants for a curve in three-dimensions.
+<a name="text56"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">56</span></p>
+<h2><span class="mw-headline" id="Other_expressions_of_the_frame">Other expressions of the frame</span></h2>
+<p>The formulas given above for <b>T</b>, <b>N</b>, and <b>B</b> depend on the curve being given in terms of the arclength parameter.  This is a natural assumption in Euclidean geometry, because the arclength is a Euclidean invariant of the curve.  In the terminology of physics, the arclength parametrization is a natural choice of gauge. However, it may be awkward to work with in practice.  A number of other equivalent expressions are available.
+<a name="text57"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">57</span></p><p>Suppose that the curve is given by <b>r</b>(<i>t</i>), where the parameter <i>t</i> need no longer be arclength.  Then the unit tangent vector <b>T</b> may be written as
+<a name="text58"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">58</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {T} (t)={\frac {\mathbf {r} '(t)}{\|\mathbf {r} '(t)\|}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+{\displaystyle \mathbf {T} (t)={\frac {\mathbf {r} '(t)}{\|\mathbf {r} '(t)\|}}.}</annotation>
+</semantics>
+</math></span><img alt="\mathbf{T}(t) = \frac{\mathbf{r}'(t)}{\|\mathbf{r}'(t)\|}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/0e091f1c1af330d5368d78c665552d565fdca7d9" srcset style="vertical-align: -2.671ex; width:15.85ex; height:6.509ex;"/></span></dd></dl>
+<p>The normal vector <b>N</b> takes the form
+<a name="text59"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">59</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {N} (t)={\frac {\mathbf {T} '(t)}{\|\mathbf {T} '(t)\|}}={\frac {\mathbf {r} '(t)\times \left(\mathbf {r} ''(t)\times \mathbf {r} '(t)\right)}{\left\|\mathbf {r} '(t)\right\|\,\left\|\mathbf {r} ''(t)\times \mathbf {r} '(t)\right\|}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>×<!-- × --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>″</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>×<!-- × --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<mo symmetric="true">‖</mo>
+<mrow>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo symmetric="true">‖</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mo symmetric="true">‖</mo>
+<mrow>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>″</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>×<!-- × --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo symmetric="true">‖</mo>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+{\displaystyle \mathbf {N} (t)={\frac {\mathbf {T} '(t)}{\|\mathbf {T} '(t)\|}}={\frac {\mathbf {r} '(t)\times \left(\mathbf {r} ''(t)\times \mathbf {r} '(t)\right)}{\left\|\mathbf {r} '(t)\right\|\,\left\|\mathbf {r} ''(t)\times \mathbf {r} '(t)\right\|}}.}</annotation>
+</semantics>
+</math></span><img alt="\mathbf{N}(t) = \frac{\mathbf{T}'(t)}{\|\mathbf{T}'(t)\|} = \frac{\mathbf{r}'(t) \times \left(\mathbf{r}''(t) \times \mathbf{r}'(t) \right)}{\left\|\mathbf{r}'(t)\right\| \, \left\|\mathbf{r}''(t) \times \mathbf{r}'(t)\right\|}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/a8d57d203722458e0799ad911ad1baf62d0643e6" srcset style="vertical-align: -2.671ex; width:42.798ex; height:6.509ex;"/></span></dd></dl>
+<p>The binormal <b>B</b> is then
+<a name="text60"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">60</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {B} (t)=\mathbf {T} (t)\times \mathbf {N} (t)={\frac {\mathbf {r} '(t)\times \mathbf {r} ''(t)}{\|\mathbf {r} '(t)\times \mathbf {r} ''(t)\|}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>×<!-- × --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>″</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>×<!-- × --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>″</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+{\displaystyle \mathbf {B} (t)=\mathbf {T} (t)\times \mathbf {N} (t)={\frac {\mathbf {r} '(t)\times \mathbf {r} ''(t)}{\|\mathbf {r} '(t)\times \mathbf {r} ''(t)\|}}.}</annotation>
+</semantics>
+</math></span><img alt="\mathbf{B}(t) = \mathbf{T}(t)\times\mathbf{N}(t) = \frac{\mathbf{r}'(t)\times\mathbf{r}''(t)}{\|\mathbf{r}'(t)\times\mathbf{r}''(t)\|}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/f78ae60d568f0f66aa734776927d5a6dc84c2c99" srcset style="vertical-align: -2.671ex; width:38.808ex; height:6.509ex;"/></span></dd></dl>
+<p>An alternative way to arrive at the same expressions is to take the first three derivatives of the curve <b>r</b>′(<i>t</i>), <b>r</b>′′(<i>t</i>), <b>r</b>′′′(<i>t</i>), and to apply the Gram-Schmidt process.  The resulting ordered orthonormal basis is precisely the <b>TNB</b> frame.  This procedure also generalizes to produce Frenet frames in higher dimensions.
+<a name="text61"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">61</span></p><p>In terms of the parameter <i>t</i>, the Frenet–Serret formulas pick up an additional factor of ||<b>r</b>′(<i>t</i>)|| because of the chain rule:
+<a name="text62"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">62</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {d}{dt}}{\begin{bmatrix}\mathbf {T} \\\mathbf {N} \\\mathbf {B} \end{bmatrix}}=\|\mathbf {r} '(t)\|{\begin{bmatrix}0&amp;\kappa &amp;0\\-\kappa &amp;0&amp;\tau \\0&amp;-\tau &amp;0\end{bmatrix}}{\begin{bmatrix}\mathbf {T} \\\mathbf {N} \\\mathbf {B} \end{bmatrix}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>[</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+<mo>]</mo>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>[</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mi>κ<!-- κ --></mi>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mo>−<!-- − --></mo>
+<mi>κ<!-- κ --></mi>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mi>τ<!-- τ --></mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mo>−<!-- − --></mo>
+<mi>τ<!-- τ --></mi>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+</mtable>
+<mo>]</mo>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>[</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">T</mi>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">N</mi>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+<mo>]</mo>
+</mrow>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+{\displaystyle {\frac {d}{dt}}{\begin{bmatrix}\mathbf {T} \\\mathbf {N} \\\mathbf {B} \end{bmatrix}}=\|\mathbf {r} '(t)\|{\begin{bmatrix}0&amp;\kappa &amp;0\\-\kappa &amp;0&amp;\tau \\0&amp;-\tau &amp;0\end{bmatrix}}{\begin{bmatrix}\mathbf {T} \\\mathbf {N} \\\mathbf {B} \end{bmatrix}}.}</annotation>
+</semantics>
+</math></span><img alt="\frac{d}{dt} \begin{bmatrix}
+\mathbf{T}\\
+\mathbf{N}\\
+\mathbf{B}
+\end{bmatrix}
+= \|\mathbf{r}'(t)\|
+\begin{bmatrix}
+0&amp;\kappa&amp;0\\
+-\kappa&amp;0&amp;\tau\\
+0&amp;-\tau&amp;0
+\end{bmatrix}
+\begin{bmatrix}
+\mathbf{T}\\
+\mathbf{N}\\
+\mathbf{B}
+\end{bmatrix}.
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/a76537aa3c2733e34d48e3cd8022a6bdc1a79a5c" srcset style="vertical-align: -4.005ex; width:41.141ex; height:9.176ex;"/></span></dd></dl>
+<p>Explicit expressions for the curvature and torsion may be computed. For example,
+<a name="text63"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">63</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \kappa ={\frac {\|\mathbf {r} '(t)\times \mathbf {r} ''(t)\|}{\|\mathbf {r} '(t)\|^{3}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>κ<!-- κ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>×<!-- × --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>″</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+</mrow>
+<mrow>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<msup>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+{\displaystyle \kappa ={\frac {\|\mathbf {r} '(t)\times \mathbf {r} ''(t)\|}{\|\mathbf {r} '(t)\|^{3}}}.}</annotation>
+</semantics>
+</math></span><img alt="\kappa = \frac{\|\mathbf{r}'(t)\times\mathbf{r}''(t)\|}{\|\mathbf{r}'(t)\|^3}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/5132929b5b8ee7d33b4d687dc8953322ec93c68b" srcset style="vertical-align: -2.671ex; width:20.41ex; height:6.509ex;"/></span></dd></dl>
+<p>The torsion may be expressed using a scalar triple product as follows,
+<a name="text64"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">64</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau ={\frac {[\mathbf {r} '(t),\mathbf {r} ''(t),\mathbf {r} '''(t)]}{\|\mathbf {r} '(t)\times \mathbf {r} ''(t)\|^{2}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>τ<!-- τ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>″</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>‴</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">]</mo>
+</mrow>
+<mrow>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>×<!-- × --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>″</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<msup>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+{\displaystyle \tau ={\frac {[\mathbf {r} '(t),\mathbf {r} ''(t),\mathbf {r} '''(t)]}{\|\mathbf {r} '(t)\times \mathbf {r} ''(t)\|^{2}}}.}</annotation>
+</semantics>
+</math></span><img alt="\tau = \frac{[\mathbf{r}'(t),\mathbf{r}''(t),\mathbf{r}'''(t)]}{\|\mathbf{r}'(t)\times\mathbf{r}''(t)\|^2}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https://wikimedia.org/api/rest_v1/media/math/render/svg/572a725b6d898b6beaac5fe06cc6d57fb9d4ccef" srcset style="vertical-align: -2.671ex; width:23.809ex; height:6.509ex;"/></span></dd></dl>
+<h2><span class="mw-headline" id="Special_cases">Special cases</span></h2>
+<p>If the curvature is always zero then the curve will be a straight line. Here the vectors <b>N</b>, <b>B</b> and the torsion are not well defined.
+<a name="text65"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">65</span></p><p>If the torsion is always zero then the curve will lie in a plane.
+<a name="text66"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">66</span></p><p>A curve may have nonzero curvature and zero torsion.  For example, the circle of radius <i>R</i> given by <b>r</b>(<i>t</i>)=(<i>R</i> cos <i>t</i>, <i>R</i> sin <i>t</i>, 0) in the <i>z</i>=0 plane has zero torsion and curvature equal to 1/<i>R</i>.  The converse, however, is false.  That is, a regular curve with nonzero torsion must have nonzero curvature.  (This is just the contrapositive of the fact that zero curvature implies zero torsion.)
+<a name="text67"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">67</span></p><p>A helix has constant curvature and constant torsion.
+<a name="text68"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">68</span></p>
+<h3><span class="mw-headline" id="Plane_curves">Plane curves</span></h3>
+<p>Given a curve contained on the <i>x</i>-<i>y</i> plane, its tangent vector <b>T</b> is also contained on that plane. Its binormal vector <b>B</b> can be naturally postulated to coincide with the normal <i>to the plane</i> (along the <i>z</i> axis). Finally, the curve normal can be found completing the right-handed system, <b>N</b> = <b>B</b> × <b>T</b>. This form is well-defined even when the curvature is zero; for example, the normal to a straight line on a plane will be perpendicular to the tangent, all co-planar.
+<a name="text69"></a><span style="border: 3px solid blue; color:blue;font-weight: bold">69</span></p>
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
