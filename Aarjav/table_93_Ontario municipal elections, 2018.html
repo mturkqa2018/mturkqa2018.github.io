@@ -1,0 +1,51 @@
+<center><h1>Did a woman win the mayoral election, or a man?</h1><center><table><tr><td>mayoral candidate</td><td>vote</td><td>%</td></tr><tr><td>diane therrien</td><td>19,254</td><td>68.98</td></tr><tr><td>daryl bennett (x)</td><td>8,659</td><td>31.02</td></tr></table></center><br>The 2018 municipal elections in Ontario were held on October 22, 2018.<br><br>Voters in the province of Ontario will elect mayors, councillors, school board trustees and all other elected officials in all of the province's municipalities.<br><br>As per the Ontario Municipal Elections Act, 1996, nomination papers for candidates for municipal and school board elections can be filed from May 1, 2018, at which time the campaign period will begin.<br><br>Nominations close on July 27, 2018 at 2 PM local time. Certification of nomination papers is to be completed by 4 PM on July 30, 2018.<br><br>Voting starts on October 22 from 10 AM to 8 PM.<br><br>In 2016, the provincial government passed Bill 181, the Municipal Elections Modernization Act, which permitted municipalities to adopt ranked ballots for municipal elections.<br><br>London was the only municipality to use ranked ballots in the 2018 election itself, with the decision in that city being made by London City Council in 2017, while Kingston and Cambridge held referendums concurrently with their 2018 elections on whether to adopt ranked ballots for the next municipal elections in 2022. Both of the referendums passed, although the adoption of ranked ballots in both cities may remain in question as the referendums failed to reach the 50 per cent turnout required to make the results legally binding.<br><br>The 2018 elections were also noted for a significant increase in the adoption of online voting. Across Ontario, over 150 municipalities conducted their elections primarily online, with physical polling stations either abandoned entirely or limited to only a few central polling stations for voters who could not or did not want to vote online.<br><br>On election day, however, 51 of those municipalities, all of which had selected Dominion Voting Systems as their online voting contractor, were affected by a technical failure. According to Dominion the company's colocation centre provider imposed a bandwidth cap, without authorization from or consultation with Dominion, due to the massive increase in voting traffic in the early evening, thus making it impossible for many voters to get through to the server between 5:00 and 7:30 p.m. All of the affected municipalities extended voting for at least a few hours to compensate for the outage; several, including Pembroke, Waterloo, Prince Edward County and Greater Sudbury, opted to extend voting for a full 24 hours into the evening of October 23.<br><br>Two to be elected from each ward.  The results for Brant County Council are as follows:<br><br>Two to be elected from each ward. The map has changed slightly from 2014 due to the annexation of some territory from Brant County. <br><br>The results for city council are as follows:<br><br>The results for Chatham-Kent municipal council is as follows:<br><br>The results for Haldimand County Council are as follows:<br><br>For 2018, the Kawartha Lakes council will be reduced from 16 to 8 seats, plus the mayor.  <br><br>The results for Kawartha Lakes council are as follows:<br><br>The following are the results for Norfolk County.<br><br>There were some slight alterations to Norfolk County's ward map.<br><br>The following are the results for Prince Edward County.<br><br>Source:<br><br>The results for Barrie City Council are as follows:<br><br>The following are the results for Belleville.<br><br>The following are the results for Brockville.<br><br>Eight Councillors were elected.<br><br>The results for Cornwall city council are as follows:<br><br>Two councillors to be elected in each ward. Results for Guelph city council are as follows. <br><br>Referendum on ranked ballots. The "yes" side won decidedly with 62%, but the turnout to make the referendum binding did not reach the 50% mark. However, Kingston City Council has promised to pursue the matter anyway.<br><br>The results for Kingston city council are as follows:<br><br>The results for Pelee Island were as follows:<br><br>The following are the results for Peterborough.<br><br>Two councillors were elected from each of the 5 wards.<br><br>Elections results for Quinte West city council are as follows: <br><br>Source: <br><br>The results for St. Thomas city council are as follows: <br><br><br><br>
+			<style>
+			table, th, td {
+				border: 1px solid black;
+			}
+
+			</style>
+			<script src="https://www.gstatic.com/firebasejs/5.8.2/firebase.js"></script>
+			<script>
+			  // Initialize Firebase
+			  var config = {
+				apiKey: "AIzaSyDjd0dbqYelgZ78XGeMD1KlfR2zECpoYHo",
+				authDomain: "uncnlp.firebaseapp.com",
+				databaseURL: "https://uncnlp.firebaseio.com",
+				projectId: "uncnlp",
+				storageBucket: "uncnlp.appspot.com",
+				messagingSenderId: "237019366239"
+			  };
+			  firebase.initializeApp(config);
+			</script>
+			
+				<script>
+				function runme()
+				{
+					var answer = document.getElementById("answer").value;
+					
+					if (document.getElementById('answer').value.split(" ").length != 1)
+					{
+						alert("Answer should be one word");
+					}
+					
+					else if(document.getElementById('answer').value == "")
+					{
+						alert("Answer should be one word");
+					}
+					
+					else
+					{
+						firebase.database().ref('humanEval/').update({
+							"table_93_Ontario municipal elections, 2018": answer
+						}, function(error) {
+						if (error) {
+						  // The write failed...
+						} else {
+							window.location.href = 'table_14_List of Serbian monarchs.html';
+						}
+						});
+					}
+				}
+				</script>
+			<center>Answer: <input type="text" id='answer'><br><br><button onclick='runme()' type="button">Submit</button></center>

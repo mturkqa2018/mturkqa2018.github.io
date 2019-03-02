@@ -1,0 +1,51 @@
+<center><h1>Name the subway station that started operating in Boston, Massachusetts since 1830?</h1><center><table><tr><td>preceding station</td><td>mbta</td><td>following station</td></tr><tr><td>starting 2021</td></tr><tr><td>government centertoward riverside</td><td>green line"d" branch</td><td>north stationtoward college avenue</td></tr><tr><td>government centertoward heath street</td><td>green line"e" branch</td><td>north stationtoward union square</td></tr><tr><td>former services</td></tr><tr><td>boston elevated railway</td></tr><tr><td>scollay squaretoward dudley</td><td>main line elevated1901-1908</td><td>north stationtoward sullivan square</td></tr><tr><td>adams squareone-way operation</td></tr></table></center><br>Haymarket is a subway station in Boston, Massachusetts. It serves the MBTA's Green and Orange lines, and is located at the corner of Congress and New Sudbury streets in Downtown Boston. Haymarket allows transfers between the Orange and Green lines, as does North Station one stop to the north. Haymarket was named for Haymarket Square, which has served as a produce market since around 1830.<br><br>Unusually, the two subway lines that converge at Haymarket are not stacked vertically underground, but instead are parallel at approximately the same level. The Orange Line access consists of two side platforms to serve the line's two tracks, while the Green Line is served by a single island platform which is divided mostly in half by a wall. Passenger transfers between lines require changing levels via stairs or elevator, so it may be preferable to transfer at more-spacious North Station, which also allows convenient cross-platform transfers for inbound trips.<br><br>The station is fully accessible.<br><br>The Tremont Street Subway (future Green Line), including Haymarket, was built starting in 1894 and opened on September 3, 1898. The original trolley station was much more spacious than the current station, and consisted of four tracks with a pair of island platforms. The inner pair of tracks served cars from the northern suburbs which turned at Brattle Loop at Scollay Square (now Government Center) station, while the outer tracks served streetcars that ran through the entire Tremont Street Subway to the Public Gardens Portal and Pleasant Street Portal. All cars entered the subway through the Canal Street Incline just north of Haymarket.<br><br>On June 10, 1901, the Boston Elevated Railway's Main Line (future Orange Line) was opened from Sullivan Square to Dudley Square. The Tremont Street Subway was retrofitted to allow operation of the Main Line elevated cars. Main Line trains from the Charlestown Elevated entered the tunnel through the outer tracks of the Canal Street Portal and exited through the Pleasant Street Portal to the Washington Street Elevated. Elevated cars ran on the outer tracks at Haymarket, served by temporary high platforms; streetcars continued to use the inner tracks, which connected to a turnback loop at Adams Square station.<br><br>On November 30, 1908, a new Washington Street Tunnel opened for use by Main Line trains, and the whole Tremont Street Subway was returned to streetcar use. The Washington Street Tunnel ran separately from the Tremont Street Subway; however, because both tunnels used the newly expanded Canal Street Incline, the Main Line platforms at Haymarket Square were immediately adjacent to the Tremont Street Subway. Like the other Washington Street Tunnel stations, the two Main Line platforms were named after nearby streets. The northbound platform was Union and the southbound platform Friend - collectively called, Union-Friend.<br><br>The track configuration at Haymarket after 1908 was similar to the original 1898 setup - the outer tracks served streetcars running through the subway, while the center tracks served cars turning at Adams Square Loop and Brattle Loop at Scollay Square. The last (route #93) streetcars to use the inner tracks ran on July 2, 1949, although a North Station to Scollay Square shuttle ran until September 1952. After that, only emergency and special service cars used the inner tracks.<br><br>On October 28, 1963, the tunnel between Haymarket and the newly renamed Government Center station was realigned, and Adams Square station was closed. The outer tracks at Haymarket now connected directly to the through tracks at Government Center, while the center tracks connected to Brattle Loop. On January 26, 1967, Union and Friend platforms were officially renamed Haymarket.<br><br>On May 10, 1971, the MBTA opened a new, much narrower Green Line platform at Haymarket, located south (inbound) of the 1898 station. The new island platform occupies the space of the former center tracks, which were reconnected to the through tracks just south of the new platform. The original 1898 platforms are still visible in the tunnel from Green Line cars traveling just north of the new platforms. The empty space is now used for electrical equipment and occasional storage.<br><br>The Haymarket North Extension opened on April 7, 1975, replacing the Charlestown Elevated. North of Haymarket, the Orange Line tracks were redirected from the Canal Street Incline into a new tunnel to North Station, and then under the Charles River.  In June 2004, the Green Line was similarly rerouted, with the Canal Street Incline closing entirely in favor of a tunnel to a newly-rebuilt "superstation" at North Station. That spacious new facility allows convenient cross-platform transfers between the inbound Green and Orange Lines, as well as full outbound connections, lessening the importance of Haymarket as a rail transfer station. However, Haymarket station remains a major bus transfer station, served by many routes.<br><br>Haymarket station was made fully accessible by a 2000 renovation that added elevators to all levels of the station.<br><br>Haymarket is a major bus transfer station and features a two-lane busway off Surface Road. Services from Haymarket include several local routes to Charlestown, Chelsea, and Medford, as well as express buses to the North Shore.<br><br>Haymarket is also the terminus for four bus routes each with a single early-morning run. These routes were created in September 1960 for fare collectors, but in September 1999 they were added to public timetables as well.<br><br>
+			<style>
+			table, th, td {
+				border: 1px solid black;
+			}
+
+			</style>
+			<script src="https://www.gstatic.com/firebasejs/5.8.2/firebase.js"></script>
+			<script>
+			  // Initialize Firebase
+			  var config = {
+				apiKey: "AIzaSyDjd0dbqYelgZ78XGeMD1KlfR2zECpoYHo",
+				authDomain: "uncnlp.firebaseapp.com",
+				databaseURL: "https://uncnlp.firebaseio.com",
+				projectId: "uncnlp",
+				storageBucket: "uncnlp.appspot.com",
+				messagingSenderId: "237019366239"
+			  };
+			  firebase.initializeApp(config);
+			</script>
+			
+				<script>
+				function runme()
+				{
+					var answer = document.getElementById("answer").value;
+					
+					if (document.getElementById('answer').value.split(" ").length != 1)
+					{
+						alert("Answer should be one word");
+					}
+					
+					else if(document.getElementById('answer').value == "")
+					{
+						alert("Answer should be one word");
+					}
+					
+					else
+					{
+						firebase.database().ref('humanEval/').update({
+							"table_1_Haymarket station (MBTA)": answer
+						}, function(error) {
+						if (error) {
+						  // The write failed...
+						} else {
+							window.location.href = 'text_0_Aliso Creek (Orange County).html';
+						}
+						});
+					}
+				}
+				</script>
+			<center>Answer: <input type="text" id='answer'><br><br><button onclick='runme()' type="button">Submit</button></center>
