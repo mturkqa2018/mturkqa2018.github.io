@@ -1,0 +1,51 @@
+<center><h1>Which side of the angular gyrus has been associated with spatiovisual attention toward salient features?</h1><br><br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brain_Surface_Gyri.SVG/250px-Brain_Surface_Gyri.SVG.png'><br><h2>In this image, the angular gyrus is denoted by the double asterisk **</h2></center>The angular gyrus is a region of the brain lying mainly in the anterolateral region of parietal lobe, that lies near the superior edge of the temporal lobe, and immediately posterior to the supramarginal gyrus. Its significance is in transferring visual information to Wernicke's area, in order to make meaning out of visually perceived words. It is also involved in a number of processes related to language, number processing and spatial cognition, memory retrieval, attention, and theory of mind.  It is Brodmann area 39 of the human brain.<br><br>Left and right angular gyri are connected by the dorsal splenium and isthmus of the corpus callosum. Both gyri lie between the four lobes.<br><br>The angular gyrus is the part of the brain associated with complex language functions (i.e. reading, writing and interpretation of what is written). Lesion to this part of the brain shows symptoms of the Gerstmann syndrome: effects include finger agnosia, alexia (inability to read), acalculia (inability to use arithmetic operations), agraphia (inability to copy), and left-right confusion.<br><br>Geschwind proposed that written word is translated to internal monologue via the angular gyrus.<br><br>V. S. Ramachandran, and Edward Hubbard published a paper in 2003 in which they speculated that the angular gyrus is at least partially responsible for understanding metaphors. They stated:There may be neurological disorders that disturb metaphor and synaesthesia. This has not been studied in detail but we have seen disturbances in the Bouba/Kiki effect (Ramachandran & Hubbard, 2001a) as well as with proverbs in patients with angular gyrus lesions. It would be interesting to see whether they have deficits in other types of synaesthetic metaphor, e.g. 'sharp cheese' or 'loud shirt'. There are also hints that patients with right hemisphere lesions show problems with metaphor. It is possible that their deficits are mainly with spatial metaphors, such as 'He stepped down as director'.The fact that the angular gyrus is proportionately much larger in hominids than other primates, and its strategic location at the crossroads of areas specialized for processing touch, hearing and vision, leads Ramachandran to believe that it is critical both to conceptual metaphors and to cross-modal abstractions more generally. However, recent research challenges this theory.<br><br>Research by Krish Sathian (Emory University) using functional magnetic resonance imaging (fMRI) suggests that the angular gyrus does not play a role in creating conceptual metaphors. Sathian theorizes that conceptual metaphors activate the texture-selective somatosensory cortex in the parietal operculum.<br><br>Since 1919, brain injuries to the angular gyrus have been known to often cause arithmetic deficits. Functional imaging has shown that while other parts of the parietal lobe bilaterally are involved in approximate calculations due to its link with spatiovisual abilities, the left angular gyrus together with left Inferior frontal gyrus are involved in exact calculation due to verbal arithmetic fact retrieval.  When activation in the left angular gyrus is greater, a person's arithmetic skills are also more competent.<br><br>The right angular gyrus has been associated with spatiovisual attention toward salient features. It may allocate attention by employing a bottom-up strategy which draws on the area's ability to attend to retrieved memories. For example, the angular gyrus plays a critical role in distinguishing left from right, by integrating conceptual understanding of the language term "left" or "right" with its location in space.  Furthermore, the angular gyrus has been associated with orienting in three dimensional space, not because it interprets space, but because it may control attention shifts in space.<br><br>The angular gyrus is activated together with other brain regions when the mind is not engaged in an explicit task and does not have an obvious goal (referred to as the default mode network).<br><br>The angular gyrus reacts differently to intended and consequential movement.  This suggests that the angular gyrus monitors the self's intended movements, and uses the added information to compute differently as it does for consequential movements.  By recording the discrepancy, the angular gyrus maintains an awareness of the self.<br><br>Activation of the angular gyrus shows that not only does it mediate memory retrieval, but also it notes contradictions between what is expected from the retrieval, and what is unusual. The angular gyrus can access both content and episodic memories, and is useful in inferring from these the intentions of human characters.  Furthermore, the angular gyrus may use a feedback strategy to ascertain whether a retrieval is expected or unusual.<br><br>Recent experiments have demonstrated the possibility that stimulation of the right angular gyrus is the cause of out-of-body experiences.  Stimulation of the left angular gyrus in one experiment caused a woman to perceive a shadowy person lurking behind her. The shadowy figure is actually a perceived double of the self.  Another such experiment gave the test subject the sensation of being on the ceiling.  This is attributed to a discrepancy in the actual position of the body, and the mind's perceived location of the body.<br><br>Damage to the angular gyrus manifests as Gerstmann syndrome.  Damage may impair one or more of the below functions.<br><br>Position of angular gyrus (shown in red).<br><br>Lateral surface of left cerebral hemisphere, viewed from above. Angular gyrus is shown in orange.<br><br>Lateral surface of left cerebral hemisphere, viewed from the side. Angular gyrus is shown in orange.<br><br>Lateral view of a human brain, main gyri labeled.<br><br>Cerebrum. Lateral view.Deep dissection.<br><br>Cerebrum. Lateral view.Deep dissection.<br><br>Cerebrum. Lateral view.Deep dissection.<br><br>
+			<style>
+			table, th, td {
+				border: 1px solid black;
+			}
+
+			</style>
+			<script src="https://www.gstatic.com/firebasejs/5.8.2/firebase.js"></script>
+			<script>
+			  // Initialize Firebase
+			  var config = {
+				apiKey: "AIzaSyDjd0dbqYelgZ78XGeMD1KlfR2zECpoYHo",
+				authDomain: "uncnlp.firebaseapp.com",
+				databaseURL: "https://uncnlp.firebaseio.com",
+				projectId: "uncnlp",
+				storageBucket: "uncnlp.appspot.com",
+				messagingSenderId: "237019366239"
+			  };
+			  firebase.initializeApp(config);
+			</script>
+			
+				<script>
+				function runme()
+				{
+					var answer = document.getElementById("answer").value;
+					
+					if (document.getElementById('answer').value.split(" ").length != 1)
+					{
+						alert("Answer should be one word");
+					}
+					
+					else if(document.getElementById('answer').value == "")
+					{
+						alert("Answer should be one word");
+					}
+					
+					else
+					{
+						firebase.database().ref('humanEval/').update({
+							"text_2_Angular gyrus": answer
+						}, function(error) {
+						if (error) {
+						  // The write failed...
+						} else {
+							window.location.href = 'text_14_Alanya.html';
+						}
+						});
+					}
+				}
+				</script>
+			<center>Answer: <input type="text" id='answer'><br><br><button onclick='runme()' type="button">Submit</button></center>

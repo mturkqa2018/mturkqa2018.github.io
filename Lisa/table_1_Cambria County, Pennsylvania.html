@@ -1,0 +1,51 @@
+<center><h1>Both Representatives are from which party?</h1><center><table><tr><td>district</td><td>representative</td><td>party</td></tr><tr><td>9</td><td>bill shuster</td><td>republican</td></tr><tr><td>12</td><td>keith rothfus</td><td>republican</td></tr></table></center><br>Cambria County is a county  located in the U.S. state of Pennsylvania. As of the 2010 census, the population was 143,679. Its county seat is Ebensburg. The county was created on March 26, 1804, from parts of Bedford, Huntingdon, and Somerset Counties and later organized in 1807. It was named for the nation of Wales, which in Latin is known as "Cambria".<br><br>Cambria County comprises the Johnstown, PA Metropolitan Statistical Area, which is also included in the Johnstown-Somerset, PA Combined Statistical Area.<br><br>According to the U.S. Census Bureau, the county has a total area of 694 square miles (1,800 km), of which 688 square miles (1,780 km) is land and 5.3 square miles (14 km) (0.8%) is water.<br><br>As of the census of 2000, there were 152,598 people, 60,531 households, and 40,616 families residing in the county. The population density was 222 people per square mile (86/km²). There were 65,796 housing units at an average density of 96 per square mile (37/km²). The racial makeup of the county was 95.80% White, 2.83% Black or African American, 0.09% Native American, 0.38% Asian, 0.02% Pacific Islander, 0.25% from other races, and 0.64% from two or more races. 0.89% of the population were Hispanic or Latino of any race. 27.7% were of German, 10.2% Irish, 10.1% Italian, 10.0% Polish, 6.5% Slovak, 6.2% American and 5.6% English ancestry.<br><br>There were 60,531 households out of which 27.00% had children under the age of 18 living with them, 52.80% were married couples living together, 10.40% had a female householder with no husband present, and 32.90% were non-families. 29.80% of all households were made up of individuals and 15.60% had someone living alone who was 65 years of age or older. The average household size was 2.38 and the average family size was 2.96.<br><br>In the county, the population was spread out with 21.00% under the age of 18, 9.00% from 18 to 24, 26.20% from 25 to 44, 24.10% from 45 to 64, and 19.70% who were 65 years of age or older. The median age was 41 years. For every 100 females there were 94.20 males. For every 100 females age 18 and over, there were 91.30 males.<br><br>As of November 2008, there were 92,456 registered voters in Cambria County.<br><br>Despite being overwhelmingly Democratic in registration and the Democrats holding all row offices, Cambria has been a swing county in statewide elections since the 1990s, with all four statewide winners carrying it in 2008. Cambria County is one of Pennsylvania's most competitive counties. That is primarily due to its mixed urban-rural ratio.<br><br>Al Gore received 50.3% of the county vote to 46.4% for George W. Bush in 2000, but Bush carried it with 50.8% of the vote to 48.7% for John Kerry in 2004–only the third time since 1928 that the county had supported a Republican for president. Cambria returned to the Democratic Presidential column in 2008, with Barack Obama receiving 49.4% of the vote to 48.7% for John McCain. In 2011 the GOP won a majority on the county commissioners board and in 2012 gave Mitt Romney 58.1% of the vote to Barack Obama's 40.1%. <br><br>In 2016, Donald Trump carried the county with 66.5% of the vote to Hillary Clinton's 29.7%, winning the county by 36.8%. This broke the modern record for margin of victory in the county of 35.4% set by Lyndon Johnson in 1964.<br><br>There are also 11 public,cyber charter schools in Pennsylvania that are available for free statewide, to children K-12. See: Education in Pennsylvania.<br><br>According to the Pennsylvania Department of Education's Ed Names and Addresses, July 1, 2015<br><br>There are two Pennsylvania state parks in Cambria County.<br><br>Under Pennsylvania law, there are four types of incorporated municipalities: cities, boroughs, townships, and, in at most two cases, towns. The following cities, boroughs and townships are located in Cambria County:<br><br>Census-designated places are geographical areas designated by the U.S. Census Bureau for the purposes of compiling demographic data. They are not actual jurisdictions under Pennsylvania law. Other unincorporated communities, such as villages, may be listed here as well.<br><br>The population ranking of the following table is based on the 2010 census of Cambria County.<br><br>† county seat<br><br>
+			<style>
+			table, th, td {
+				border: 1px solid black;
+			}
+
+			</style>
+			<script src="https://www.gstatic.com/firebasejs/5.8.2/firebase.js"></script>
+			<script>
+			  // Initialize Firebase
+			  var config = {
+				apiKey: "AIzaSyDjd0dbqYelgZ78XGeMD1KlfR2zECpoYHo",
+				authDomain: "uncnlp.firebaseapp.com",
+				databaseURL: "https://uncnlp.firebaseio.com",
+				projectId: "uncnlp",
+				storageBucket: "uncnlp.appspot.com",
+				messagingSenderId: "237019366239"
+			  };
+			  firebase.initializeApp(config);
+			</script>
+			
+				<script>
+				function runme()
+				{
+					var answer = document.getElementById("answer").value;
+					
+					if (document.getElementById('answer').value.split(" ").length != 1)
+					{
+						alert("Answer should be one word");
+					}
+					
+					else if(document.getElementById('answer').value == "")
+					{
+						alert("Answer should be one word");
+					}
+					
+					else
+					{
+						firebase.database().ref('humanEval/').update({
+							"table_1_Cambria County, Pennsylvania": answer
+						}, function(error) {
+						if (error) {
+						  // The write failed...
+						} else {
+							window.location.href = 'done.html';
+						}
+						});
+					}
+				}
+				</script>
+			<center>Answer: <input type="text" id='answer'><br><br><button onclick='runme()' type="button">Submit</button></center>
