@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>pi_Yazoo_Delta.jpg/220px-Mississippi_Yazoo_Delta.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/ParchmanGateNewPhoto.JPG/220px-ParchmanGateNewPhoto.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/US_49_in_the_Mississippi_Delta_001.jpg/220px-US_49_in_the_Mississippi_Delta_001.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Seal_of_Mississippi_%282014%E2%80%93present%29.svg/100px-Seal_of_Mississippi_%282014%E2%80%93present%29.svg.png

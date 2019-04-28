@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/thumb/f/fa/Huanggang_Checkpoint_Station_Platform_%28revised%29.jpg/300px-Huanggang_Checkpoint_Station_Platform_%28revised%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Huanggang_Checkpoint_Station_Concourse.jpg/250px-Huanggang_Checkpoint_Station_Concourse.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Huanggang_Checkpoint_Station_Cultural_Art_Wall.jpg/250px-Huanggang_Checkpoint_Station_Cultural_Art_Wall.jpg

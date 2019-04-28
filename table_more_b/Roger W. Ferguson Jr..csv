@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/0/08/RogerWFergusonJr.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Roger_W._Ferguson_Jr._%2813896600150%29.jpg/220px-Roger_W._Ferguson_Jr._%2813896600150%29.jpg

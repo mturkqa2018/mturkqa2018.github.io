@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>a.org/wikipedia/commons/thumb/6/66/Englishbreakfast.jpg/220px-Englishbreakfast.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Full_irish_breakfast.jpg/220px-Full_irish_breakfast.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Full_Ulster_fry.jpg/220px-Full_Ulster_fry.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Scottish_breakfast.jpg/220px-Scottish_breakfast.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/American_breakfast_%28187066827%29.jpg/220px-American_breakfast_%28187066827%29.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/English_breakfast_2.jpg/220px-English_breakfast_2.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Desdejuni_angl%C3%A9s_a_un_restaurant_de_X%C3%A0bia.jpg/220px-Desdejuni_angl%C3%A9s_a_un_restaurant_de_X%C3%A0bia.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png

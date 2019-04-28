@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>dia/commons/thumb/b/ba/MauriceCookJimmyHill.jpg/150px-MauriceCookJimmyHill.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hei%C3%B0ar_Helguson.jpg/150px-Hei%C3%B0ar_Helguson.jpg

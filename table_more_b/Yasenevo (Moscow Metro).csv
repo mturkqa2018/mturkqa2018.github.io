@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>w_map_MKAD_grayscale.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Moscow_metro_map_including_line_14.svg/240px-Moscow_metro_map_including_line_14.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Yasenevo_%28%D0%AF%D1%81%D0%B5%D0%BD%D0%B5%D0%B2%D0%BE%29_%285531428891%29.jpg/120px-Yasenevo_%28%D0%AF%D1%81%D0%B5%D0%BD%D0%B5%D0%B2%D0%BE%29_%285531428891%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Yasenevo_02.jpg/120px-Yasenevo_02.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Yasenevo_03.jpg/120px-Yasenevo_03.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Apartment_buildings_in_Yasenevo_Moscow.jpg/120px-Apartment_buildings_in_Yasenevo_Moscow.jpg

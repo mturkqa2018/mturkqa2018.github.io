@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>val_2010.jpg/240px-Betty_Harris_at_Brooklyn_Soul_Festival_2010.jpg

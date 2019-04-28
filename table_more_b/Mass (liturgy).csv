@@ -1,0 +1,13 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ps:https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Mass%2C_St_Mary%27s_Basilica_Bangalore.jpg/220px-Mass%2C_St_Mary%27s_Basilica_Bangalore.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Elevation_of_the_Host.jpg/220px-Elevation_of_the_Host.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_British_Army_in_North-west_Europe_1944-45_B10582.jpg/220px-The_British_Army_in_North-west_Europe_1944-45_B10582.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Joan_Ferrer_i_Mir%C3%B3-_Sortida_de_missa-_169.jpg/180px-Joan_Ferrer_i_Mir%C3%B3-_Sortida_de_missa-_169.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/WilliamWhiteCommunion.jpg/220px-WilliamWhiteCommunion.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Elca_eucharistic_elevation.jpg/220px-Elca_eucharistic_elevation.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Methodistcommunion6.jpg/150px-Methodistcommunion6.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gregorian_chant.gif/200px-Gregorian_chant.gif
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Liturgical_year.svg/230px-Liturgical_year.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_the_Papacy_SE.svg/75px-Emblem_of_the_Papacy_SE.svg.png

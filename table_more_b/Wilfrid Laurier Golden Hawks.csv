@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>rier_goalie_2013.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Laurier_players_2013.JPG/86px-Laurier_players_2013.JPG
+https:https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/LaurierGoldenHawks.png/150px-LaurierGoldenHawks.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/CIS_Wilfrid_Laurier_Jersey.png/275px-CIS_Wilfrid_Laurier_Jersey.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Ontario.svg/100px-Flag_of_Ontario.svg.png

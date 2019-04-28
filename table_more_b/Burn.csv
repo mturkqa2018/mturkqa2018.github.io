@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scaldburn.jpg/70px-Scaldburn.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Major-2nd-degree-burn.jpg/70px-Major-2nd-degree-burn.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/8-day-old-3rd-degree-burn.jpg/70px-8-day-old-3rd-degree-burn.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%D0%9E%D0%B6%D0%BE%D0%B3_%D0%BA%D0%B8%D1%81%D1%82%D1%8C.jpg/70px-%D0%9E%D0%B6%D0%BE%D0%B3_%D0%BA%D0%B8%D1%81%D1%82%D1%8C.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burn_Degree_Diagram.svg/220px-Burn_Degree_Diagram.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/513_Degree_of_burns.jpg/220px-513_Degree_of_burns.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fires_world_map_-_DALY_-_WHO2004.svg/220px-Fires_world_map_-_DALY_-_WHO2004.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Guillaume_Dupuytren.jpg/220px-Guillaume_Dupuytren.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tango_Phone_medapp.svg/42px-Tango_Phone_medapp.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/45px-Sound-icon.svg.png

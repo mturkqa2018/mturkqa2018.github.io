@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ld_Dominion_Athletics_wordmark.svg/120px-Old_Dominion_Athletics_wordmark.svg.png

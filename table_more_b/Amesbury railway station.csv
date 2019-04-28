@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>pload.wikimedia.org/wikipedia/commons/thumb/9/97/Virgin_Voyager_220003_2005-06-09_05.jpg/50px-Virgin_Voyager_220003_2005-06-09_05.jpg

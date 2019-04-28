@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>28Japan%29.png/48px-E1_Expressway_%28Japan%29.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Location_TomeiExpway.jpg/290px-Location_TomeiExpway.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tomei-Expwy_Atsugi.jpg/220px-Tomei-Expwy_Atsugi.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Satta_yukei.jpg/220px-Satta_yukei.jpg

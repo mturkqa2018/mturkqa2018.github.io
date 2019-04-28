@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>rs_on_floats.JPG/220px-DHC-6_Twin_Otters_on_floats.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/De_Havilland_DHC-6_C-GMAS_Ski.JPG/220px-De_Havilland_DHC-6_C-GMAS_Ski.JPG

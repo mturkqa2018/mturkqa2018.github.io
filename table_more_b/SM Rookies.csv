@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>gkok_Press_Conference_04.png/300px-SM_Rookies_at_SMROOKIES_SHOW_in_Bangkok_Press_Conference_04.png

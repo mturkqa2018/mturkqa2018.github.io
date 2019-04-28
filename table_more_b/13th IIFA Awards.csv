@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_IIFA_Awards_logo.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zoyakhtar.jpg/150px-Zoyakhtar.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ranbir_Kapoor_at_the_launch_of_%27Barfi%21%27_promo_10.jpg/150px-Ranbir_Kapoor_at_the_launch_of_%27Barfi%21%27_promo_10.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Vidya_Balan_at_WWF_World_Earth_Hour_event%2C_ITC_Grand_Maratha%2C_Mumbai.jpg/150px-Vidya_Balan_at_WWF_World_Earth_Hour_event%2C_ITC_Grand_Maratha%2C_Mumbai.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/FarhanAkhtar.jpg/150px-FarhanAkhtar.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Parineeti_chopra_mother%27s_day.jpg/150px-Parineeti_chopra_mother%27s_day.jpg

@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>a_em_Aparecida.jpg/250px-Rodrigues_Alves_e_fam%C3%ADlia_em_Aparecida.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Presidential_Standard_of_Brazil.svg/100px-Presidential_Standard_of_Brazil.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/51px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Soccerball_current_event.svg/33px-Soccerball_current_event.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/King%27s_cup_participate.png/600px-King%27s_cup_participate.png

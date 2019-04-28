@@ -1,0 +1,13 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/GFCIReceptacle.jpg/200px-GFCIReceptacle.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Residual_current_device_2pole.jpg/77px-Residual_current_device_2pole.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/IEC_TS_60479-1_electric_shock_graph.svg/120px-IEC_TS_60479-1_electric_shock_graph.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/FISkizze.svg/120px-FISkizze.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/a/a7/ResidualCurrentCircuitBreak.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/FI-offen.jpg/300px-FI-offen.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Schneider_Electric_A9D31620.JPG/220px-Schneider_Electric_A9D31620.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Moeller_Xpole_PXF-40-4-003-A_-_case_removed-2371.jpg/220px-Moeller_Xpole_PXF-40-4-003-A_-_case_removed-2371.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/NEMA_5-20RA_GFCI_Tamper_Resistant_Receptacle.jpg/200px-NEMA_5-20RA_GFCI_Tamper_Resistant_Receptacle.jpg

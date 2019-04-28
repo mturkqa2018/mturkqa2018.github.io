@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Tina-Turner-Disco-Inferno.jpg/220px-Tina-Turner-Disco-Inferno.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Disco_Inferno.jpg/220px-Disco_Inferno.jpg

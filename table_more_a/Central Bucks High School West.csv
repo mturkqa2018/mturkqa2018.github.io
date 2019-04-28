@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>est%29.gif/150px-Central_Bucks_High_School_West_%28crest%29.gif
+https:https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/West_renovation.JPG/250px-West_renovation.JPG
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Map_of_Bucks_County_Pennsylvania_School_Districts.png/300px-Map_of_Bucks_County_Pennsylvania_School_Districts.png

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>part.svg/50px-Gnome-mime-sound-openclipart.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Halfway_Gone_Music_Video.png/170px-Halfway_Gone_Music_Video.png

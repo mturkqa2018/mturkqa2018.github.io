@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Vol_2.jpg/220px-Twig_Harper_IntAmEso_Vol_2.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Twig_Harper_IntAmEso_Vol_3.jpg/220px-Twig_Harper_IntAmEso_Vol_3.jpg

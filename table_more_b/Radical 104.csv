@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>%92-oracle.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/%E7%96%92-bronze.svg/120px-%E7%96%92-bronze.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%E7%96%92-seal.svg/120px-%E7%96%92-seal.svg.png

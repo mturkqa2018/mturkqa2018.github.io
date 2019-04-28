@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.jpg/220px-Weston_water_tank.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/1962_S.M.R_Railcar%2C_NSW.jpg/220px-1962_S.M.R_Railcar%2C_NSW.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/SMR10_steamfest_2006.jpg/220px-SMR10_steamfest_2006.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Neath_Signal_box.jpg/220px-Neath_Signal_box.jpg

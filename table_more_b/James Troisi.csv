@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>a/commons/thumb/f/f2/JamesTroisi.JPG/220px-JamesTroisi.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/James_Troisi.jpg/222px-James_Troisi.jpg

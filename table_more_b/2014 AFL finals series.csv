@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>r.jpg/275px-Hawthorn_banner.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Celebration_for_the_Geelong_Football_Club.jpg/170px-Celebration_for_the_Geelong_Football_Club.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Australia_location_map.svg/530px-Australia_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Anzac_Day_2011_game_3.jpg/200px-Anzac_Day_2011_game_3.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ANZ_Stadium%2C_Essendon.jpg/200px-ANZ_Stadium%2C_Essendon.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Completed_Adelaide_Oval_2014_-_cropped_and_rotated.jpg/200px-Completed_Adelaide_Oval_2014_-_cropped_and_rotated.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Foot_australien.JPG/200px-Foot_australien.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Completed_Adelaide_Oval_2014_-_cropped_and_rotated.jpg/220px-Completed_Adelaide_Oval_2014_-_cropped_and_rotated.jpg

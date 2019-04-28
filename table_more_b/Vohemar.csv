@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>0px-Vohemar%2C_port_et_plage.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Madagascar_location_map.svg/180px-Madagascar_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Madagascar-Sava_Region.png/100px-Madagascar-Sava_Region.png

@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ks_Corner_section_of_Berlin%2C_Rensselaer_County%2C_New_York.jpg/300px-thumbnail.jpg

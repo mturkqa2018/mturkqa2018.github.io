@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>r_Bevan-Baker.jpg/111px-Peter_Bevan-Baker.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wade_MacLauchlan_in_DC_%28cropped%29.jpg/108px-Wade_MacLauchlan_in_DC_%28cropped%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Prince_Edward_Island_general_election_2019_-_Results_by_Riding.svg/385px-Prince_Edward_Island_general_election_2019_-_Results_by_Riding.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/PEI_66th_provincial_election_polling.png/900px-PEI_66th_provincial_election_polling.png

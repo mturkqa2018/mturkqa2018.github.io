@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>isa.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mike_Defensor.jpg/100px-Mike_Defensor.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Political_Divisions_of_Quezon_City.png/250px-Political_Divisions_of_Quezon_City.png

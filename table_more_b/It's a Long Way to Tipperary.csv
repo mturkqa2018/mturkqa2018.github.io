@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/a/ac/It%27s_a_Long_Way_to_Tipperary_-_cover_2.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/JackJudgeStalybridge.jpg/220px-JackJudgeStalybridge.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/It%27s_a_Long_Way_to_Tipperary_-_cover.JPG/220px-It%27s_a_Long_Way_to_Tipperary_-_cover.JPG

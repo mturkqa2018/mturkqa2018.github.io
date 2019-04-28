@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mexico_relief_location_map.jpg/220px-Mexico_relief_location_map.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/North_America_laea_relief_location_map.jpg/220px-North_America_laea_relief_location_map.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Diagrama_MMMD.gif/200px-Diagrama_MMMD.gif
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aeropuerto_de_M%C3%A9rida.JPG/220px-Aeropuerto_de_M%C3%A9rida.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MID_2.JPG/220px-MID_2.JPG

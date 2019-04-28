@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ys_map.svg/220px-Cameroon_railways_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bf_Guimar%C3%A3es%2C_Meterspur-VT.jpg/100px-Bf_Guimar%C3%A3es%2C_Meterspur-VT.jpg

@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/Sergio_Perez_2017_Catalonia_test_%2827_Feb-2_Mar%29_Day_4.jpg/220px-Sergio_Perez_2017_Catalonia_test_%2827_Feb-2_Mar%29_Day_4.jpg

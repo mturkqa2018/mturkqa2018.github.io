@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>horizontal.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kit_body_basketball.svg/38px-Kit_body_basketball.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/6/6f/Kit_shorts.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/e/e7/Kit_body_whitehorizontal.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kit_body_basketball.svg/38px-Kit_body_basketball.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/6/6f/Kit_shorts.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Basketball_stub.svg/35px-Basketball_stub.svg.png

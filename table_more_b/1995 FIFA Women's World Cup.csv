@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_map%2C_40south.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/FIFA_Womens_World_Cup_1995.png/530px-FIFA_Womens_World_Cup_1995.png

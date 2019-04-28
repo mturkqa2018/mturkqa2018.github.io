@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>kimedia.org/wikipedia/en/thumb/d/d7/Camas_County_ID_Seal.PNG/75px-Camas_County_ID_Seal.PNG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Map_of_Idaho_highlighting_Camas_County.svg/130px-Map_of_Idaho_highlighting_Camas_County.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Map_of_USA_ID.svg/200px-Map_of_USA_ID.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Map_of_Idaho_highlighting_Camas_County.svg/48px-Map_of_Idaho_highlighting_Camas_County.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Seal_of_Idaho.svg/100px-Seal_of_Idaho.svg.png

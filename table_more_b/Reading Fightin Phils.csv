@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>adingFightinPhilscap.PNG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ryne_Sandberg.jpg/200px-Ryne_Sandberg.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mike_Lieberthal.jpg/200px-Mike_Lieberthal.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_Philadelphia%2C_Pennsylvania.svg/80px-Flag_of_Philadelphia%2C_Pennsylvania.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Philly_%2845%29.JPG/80px-Philly_%2845%29.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ct900.jpg/80px-Ct900.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Philly_%2835%29.jpg/80px-Philly_%2835%29.jpg

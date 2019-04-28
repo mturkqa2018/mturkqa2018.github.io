@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Insignia.svg/70px-Texas_Rangers_Insignia.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/AstrosRet_34.PNG/95px-AstrosRet_34.PNG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/NolanRyanRangers.png/95px-NolanRyanRangers.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Lone_Star_Series%2C_Houston_Astros_vs_Texas_Rangers_at_Globe_Life_Park_in_Arlington%2C_2013.jpg/220px-Lone_Star_Series%2C_Houston_Astros_vs_Texas_Rangers_at_Globe_Life_Park_in_Arlington%2C_2013.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2014_Silver_Boot_Trophy.JPG/300px-2014_Silver_Boot_Trophy.JPG

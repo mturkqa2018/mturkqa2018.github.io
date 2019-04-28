@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>son_Peyruis.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Provence-Alpes-Cote_d%27azur_region_location_map.svg/270px-Provence-Alpes-Cote_d%27azur_region_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/timeline/cb2e575e212fe409c145453ae49b4464.png

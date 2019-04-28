@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>rms.png/220px-Diocese_of_Manchester_Coat_of_Arms.png
+https:https://upload.wikimedia.org/wikipedia/commons/3/3f/Diocese_of_Manchester_map.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Cathedral_of_St._Joseph_Manchester_5.JPG/220px-Cathedral_of_St._Joseph_Manchester_5.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Catholic_Diocese_of_Manchester%2C_NH_IMG_2788.JPG/220px-Catholic_Diocese_of_Manchester%2C_NH_IMG_2788.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Roman_Catholic_Diocese_of_Manchester.svg/100px-Roman_Catholic_Diocese_of_Manchester.svg.png

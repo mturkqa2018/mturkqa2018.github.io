@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/A_Typhoon_F2_fighter_ignites_its_afterburners_whilst_taking_off_from_RAF_Coningsby_MOD_45147957.jpg/220px-A_Typhoon_F2_fighter_ignites_its_afterburners_whilst_taking_off_from_RAF_Coningsby_MOD_45147957.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png

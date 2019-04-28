@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>upaten_lumajang.png/250px-Locator_kabupaten_lumajang.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Indonesia_Java_location_map.svg/250px-Indonesia_Java_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Indonesia_location_map.svg/250px-Indonesia_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Candi_Kunir_131104-0857_jtg.JPG/220px-Candi_Kunir_131104-0857_jtg.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Coat_of_arms_of_East_Java.svg/50px-Coat_of_arms_of_East_Java.svg.png

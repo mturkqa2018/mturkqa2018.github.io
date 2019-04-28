@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ach_01.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Photography_of_bow_shock_waves_around_a_brass_bullet%2C_1888.jpg/260px-Photography_of_bow_shock_waves_around_a_brass_bullet%2C_1888.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ernst_Mach_-_Rathauspark%2C_Vienna.jpg/170px-Ernst_Mach_-_Rathauspark%2C_Vienna.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mach%27s_spinning_chair.jpg/220px-Mach%27s_spinning_chair.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/e/e8/Mach_bands_-_animation.gif
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png

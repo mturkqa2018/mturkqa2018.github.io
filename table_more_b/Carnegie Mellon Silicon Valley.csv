@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Carnegie_Mellon_West_Building_23_Front_Entrance.jpg/200px-Carnegie_Mellon_West_Building_23_Front_Entrance.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Carnegie_Mellon_Silicon_Valley.png/200px-Carnegie_Mellon_Silicon_Valley.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Andrew_Carnegie%2C_three-quarter_length_portrait%2C_seated%2C_facing_slightly_left%2C_1913.jpg/105px-Andrew_Carnegie%2C_three-quarter_length_portrait%2C_seated%2C_facing_slightly_left%2C_1913.jpg

@@ -1,0 +1,11 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>p%C3%A9rio_logo.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Roraima-Tepui.JPG/180px-Roraima-Tepui.JPG
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Imp%C3%A9rio_promotional_poster.png/250px-Imp%C3%A9rio_promotional_poster.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Alexandre_Nero.jpg/150px-Alexandre_Nero.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lilia_Cabral_01.jpg/150px-Lilia_Cabral_01.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Leandra_Leal_2014_cropped.jpg/150px-Leandra_Leal_2014_cropped.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marjorie_Estiano_em_2012.jpg/150px-Marjorie_Estiano_em_2012.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Marina_Ruy_Barbosa_02.jpg/150px-Marina_Ruy_Barbosa_02.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jos%C3%A9_Mayer.jpg/150px-Jos%C3%A9_Mayer.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Paulo_Betti.jpg/150px-Paulo_Betti.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Carmo_Dalla_Vechia_001.jpg/150px-Carmo_Dalla_Vechia_001.jpg

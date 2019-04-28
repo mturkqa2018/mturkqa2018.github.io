@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s/thumb/e/e6/Teemu_Selanne_2006.PNG/200px-Teemu_Selanne_2006.PNG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Teemu-turn.jpg/220px-Teemu-turn.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/TeemuSelanne2010WinterOlympics.jpg/200px-TeemuSelanne2010WinterOlympics.jpg

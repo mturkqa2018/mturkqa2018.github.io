@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>rauss_%282%29.JPG/270px-Repco_Brabham_BT11A_of_Peter_Strauss_%282%29.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BrabhamJack19650801S%C3%BCdkehre.jpg/220px-BrabhamJack19650801S%C3%BCdkehre.jpg

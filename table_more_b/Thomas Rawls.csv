@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>29.jpg/175px-Thomas_Rawls_%28running_back%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Russell_Wilson_Thomas_Rawls_vs_Ravens_2015.jpg/220px-Russell_Wilson_Thomas_Rawls_vs_Ravens_2015.jpg

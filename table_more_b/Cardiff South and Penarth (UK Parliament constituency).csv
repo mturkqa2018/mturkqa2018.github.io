@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>thumb/d/d1/Wales_Cardiff_locator_map.svg/150px-Wales_Cardiff_locator_map.svg.png

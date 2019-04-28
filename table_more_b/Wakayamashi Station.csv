@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/300px-Wakayamashi_station02nt3200.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg/240px-Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wakayamashi_station07n4592.jpg/120px-Wakayamashi_station07n4592.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wakayamashi_Station_2_line1.jpg/120px-Wakayamashi_Station_2_line1.jpg

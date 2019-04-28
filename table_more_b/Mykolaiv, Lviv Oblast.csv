@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ps://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Mykolayiv_lviv_prapor.png/100px-Mykolayiv_lviv_prapor.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%97%D0%B2_%E2%80%94%D0%9B%D1%8C%D0%B2%D1%96%D0%B2_%D0%B3%D0%B5%D1%80%D0%B1.png/100px-%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%97%D0%B2_%E2%80%94%D0%9B%D1%8C%D0%B2%D1%96%D0%B2_%D0%B3%D0%B5%D1%80%D0%B1.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ukraine_Lviv_oblast_location_map.svg/250px-Ukraine_Lviv_oblast_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ukraine_adm_location_map.svg/250px-Ukraine_adm_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mykolaivtsement_3.jpg/220px-Mykolaivtsement_3.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Coat_of_Arms_of_Lviv_Oblast.png/40px-Coat_of_Arms_of_Lviv_Oblast.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag-map_of_Lviv_Oblast.png/35px-Flag-map_of_Lviv_Oblast.png

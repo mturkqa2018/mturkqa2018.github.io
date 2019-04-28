@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Laverne_and_shirley_1976.JPG/170px-Laverne_and_shirley_1976.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Laverne_and_shirley_new_years_eve_1977.JPG/220px-Laverne_and_shirley_new_years_eve_1977.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Laverne_and_Shirley_cast_1976.JPG/250px-Laverne_and_Shirley_cast_1976.JPG
+https:https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Laverne_and_Shirley_Sing_LP.jpg/220px-Laverne_and_Shirley_Sing_LP.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Lenny_and_the_Squigtones_LP.jpg/220px-Lenny_and_the_Squigtones_LP.jpg

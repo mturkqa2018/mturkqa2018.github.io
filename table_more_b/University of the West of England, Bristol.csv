@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>:https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Map_uwe_bristol.png/160px-Map_uwe_bristol.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/EnglandBristol.png/120px-EnglandBristol.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Uwe.bristol.750pix.jpg/220px-Uwe.bristol.750pix.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Glenside_Hospital%2C_main_building%2C_front.jpg/220px-Glenside_Hospital%2C_main_building%2C_front.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Stmatthias.JPG/220px-Stmatthias.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hartpury_College_-_geograph.org.uk_-_9763.jpg/220px-Hartpury_College_-_geograph.org.uk_-_9763.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bower_Ashton_Campus%2C_UWE_%28geograph_3712271%29.jpg/220px-Bower_Ashton_Campus%2C_UWE_%28geograph_3712271%29.jpg

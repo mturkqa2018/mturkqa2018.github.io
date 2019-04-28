@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>A_Puerto_Rico_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Antonio_Rivera_Rodr%C3%ADguez_Airport_VQS.jpg/220px-Antonio_Rivera_Rodr%C3%ADguez_Airport_VQS.jpg

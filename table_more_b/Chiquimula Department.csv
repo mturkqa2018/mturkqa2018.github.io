@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/Coat_of_arms_of_Chiquimula.png/100px-Coat_of_arms_of_Chiquimula.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Chiquimula_in_Guatemala.svg/250px-Chiquimula_in_Guatemala.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Iglesia_de_Jocot%C3%A1n.jpg/220px-Iglesia_de_Jocot%C3%A1n.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cristo_negro_de_Esquipulas.jpg/170px-Cristo_negro_de_Esquipulas.jpg

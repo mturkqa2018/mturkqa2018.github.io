@@ -1,0 +1,2180 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Turing machine examples - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Turing_machine_examples","wgTitle":"Turing machine examples","wgCurRevisionId":851333693,"wgRevisionId":851333693,"wgArticleId":6246511,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Turing machine"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Turing_machine_examples","wgRelevantArticleId":6246511,"wgRequestId":"XMHrswpAAEYAAJeSJjwAAAAQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7854963","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.34.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Turing_machine_examples" rel="alternate"/>
+<link href="/w/index.php?title=Turing_machine_examples&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Turing_machine_examples&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Turing_machine_examples" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?lang=qqx&amp;modules=html5shiv&amp;only=scripts&amp;skin=fallback&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Turing_machine_examples rootpage-Turing_machine_examples skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Turing machine examples</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div id="jump-to-nav"></div>
+Jump to navigation
+Jump to search
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output">
+<p>The following are examples to supplement the article Turing machine.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">1</span></p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Turing's very first example</span></li>
+<li class="toclevel-1 tocsection-2"><span class="tocnumber">2</span> <span class="toctext">A copy subroutine</span>
+<ul>
+<li class="toclevel-2 tocsection-3"><span class="tocnumber">2.1</span> <span class="toctext">Alternative description</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><span class="tocnumber">3</span> <span class="toctext">3-state Busy Beaver</span></li>
+<li class="toclevel-1 tocsection-5"><span class="tocnumber">4</span> <span class="toctext">References</span></li>
+</ul>
+</div>
+<h2><span id="Turing.27s_very_first_example"></span><span class="mw-headline" id="Turing's_very_first_example">Turing's very first example</span></h2>
+<p>The following table is Turing's very first example (Alan Turing 1937):
+<span style="border: 3px solid blue; color:blue;font-weight: bold">2</span></p>
+<dl><dd>"1. A machine can be constructed to compute the sequence 0 1 0 1 0 1..." (0 &lt;blank&gt; 1 &lt;blank&gt; 0...) (<i>Undecidable</i> p. 119)</dd></dl>
+<table  style="text-align: center">
+<tbody><tr>
+<th colspan="2">Configuration
+</th>
+<th colspan="2">Behavior
+</th></tr>
+<tr>
+<th>m-configuration<br/>(state)
+</th>
+<th>Tape symbol
+</th>
+<th>Tape operations
+</th>
+<th>Final m-configuration<br/>(state)
+</th></tr>
+<tr>
+<td>b
+</td>
+<td style="background:#ececec;vertical-align:middle;text-align:center;">blank
+</td>
+<td>P0, R
+</td>
+<td>c
+</td></tr>
+<tr>
+<td>c
+</td>
+<td style="background:#ececec;vertical-align:middle;text-align:center;">blank
+</td>
+<td>R
+</td>
+<td>e
+</td></tr>
+<tr>
+<td>e
+</td>
+<td style="background:#ececec;vertical-align:middle;text-align:center;">blank
+</td>
+<td>P1, R
+</td>
+<td>f
+</td></tr>
+<tr>
+<td>f
+</td>
+<td style="background:#ececec;vertical-align:middle;text-align:center;">blank
+</td>
+<td>R
+</td>
+<td>b
+</td></tr></tbody></table><a name="table1"><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>1</span></a>
+<p>With regard to what actions the machine actually does, Turing (1936) (<i>Undecidable</i> p. 121) states the following:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">3</span></p>
+<dl><dd>"This [example] table (and all succeeding tables of the same kind) is to be understood to mean that for a configuration described in the first two columns the operations in the third column are carried out successively, and the machine then goes over into the m-configuration in the final column." (Undecidable p. 121)</dd></dl>
+<p>He makes this very clear when he reduces the above table to a single instruction called "b" (<i>Undecidable</i> p. 120), but his instruction consists of 3 lines. Instruction "b" has three different symbol possibilities {None, 0, 1}. Each possibility is followed by a sequence of actions until we arrive at the rightmost column, where the final m-configuration is "b":
+<span style="border: 3px solid blue; color:blue;font-weight: bold">4</span></p>
+<table  style="text-align: center; width:80%">
+<tbody><tr>
+<th width="25%">Current m-configuration (instruction)
+</th>
+<th width="25%">Tape symbol
+</th>
+<th width="25%">Operations on the tape
+</th>
+<th width="25%">Final m-configuration (instruction)
+</th></tr>
+<tr>
+<td>b
+</td>
+<td>None
+</td>
+<td>P0
+</td>
+<td>b
+</td></tr>
+<tr>
+<td>b
+</td>
+<td>0
+</td>
+<td>R, R, P1
+</td>
+<td>b
+</td></tr>
+<tr>
+<td>b
+</td>
+<td>1
+</td>
+<td>R, R, P0
+</td>
+<td>b
+</td></tr></tbody></table><a name="table2"><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>2</span></a>
+<p>As observed by a number of commentators including Turing (1937) himself, (e.g., Post (1936), Post (1947), Kleene (1952), Wang (1954)) the Turing instructions are not atomic — further simplifications of the model can be made without reducing its computational power; see more at Post–Turing machine.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">5</span></p><p>As stated in the article Turing machine, Turing proposed that his table be further atomized by allowing only a single print/erase followed by a single tape movement L/R/N. He gives us this example of the first little table converted (<i>Undecidable</i>, p. 127):
+<span style="border: 3px solid blue; color:blue;font-weight: bold">6</span></p>
+<table >
+<tbody><tr>
+<th>Current m-configuration (Turing state)
+</th>
+<th>Tape symbol
+</th>
+<th>Print-operation
+</th>
+<th>Tape-motion
+</th>
+<th>Final m-configuration (Turing state)
+</th></tr>
+<tr>
+<td>q<sub>1</sub>
+</td>
+<td style="background:#ececec;vertical-align:middle;text-align:center;">blank
+</td>
+<td>P0
+</td>
+<td>R
+</td>
+<td>q<sub>2</sub>
+</td></tr>
+<tr>
+<td>q<sub>2</sub>
+</td>
+<td style="background:#ececec;vertical-align:middle;text-align:center;">blank
+</td>
+<td>P blank, i.e. E
+</td>
+<td>R
+</td>
+<td>q<sub>3</sub>
+</td></tr>
+<tr>
+<td>q<sub>3</sub>
+</td>
+<td style="background:#ececec;vertical-align:middle;text-align:center;">blank
+</td>
+<td>P1
+</td>
+<td>R
+</td>
+<td>q<sub>4</sub>
+</td></tr>
+<tr>
+<td>q<sub>4</sub>
+</td>
+<td style="background:#ececec;vertical-align:middle;text-align:center;">blank
+</td>
+<td>P blank, i.e. E
+</td>
+<td>R
+</td>
+<td>q<sub>1</sub>
+</td></tr></tbody></table><a name="table3"><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>3</span></a>
+<p>Turing's statement still implies five atomic operations. At a given instruction (m-configuration) the machine:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">7</span></p>
+<ol><li>observes the tape-symbol underneath the head</li>
+<li>based on the observed symbol goes to the appropriate instruction-sequence to use</li>
+<li>prints symbol S<sub>j</sub> or erases or does nothing</li>
+<li>moves tape left, right or not at all</li>
+<li>goes to the final m-configuration for that symbol</li></ol>
+<p>Because a Turing machine's actions are not atomic, a simulation of the machine must atomize each 5-tuple into a sequence of simpler actions. One possibility — used in the following examples of "behaviors" of his machine — is as follows:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">8</span></p>
+<dl><dd>(q<sub>i</sub>) Test tape-symbol under head: If the symbol is S<sub>0</sub> go to q<sub>i</sub>.01, if symbol S<sub>1</sub> go to q<sub>i</sub>.11, if symbol S<sub>2</sub> go to q<sub>i</sub>.21, etc.</dd></dl>
+<dl><dd><dl><dd>(q<sub>i</sub>.01) print symbol S<sub>j</sub>0 or erase or do nothing then go to q<sub>i</sub>.02</dd>
+<dd>(q<sub>i</sub>.02) move tape left or right nor not at all then go to qm0</dd></dl></dd></dl>
+<dl><dd><dl><dd>(q<sub>i</sub>.11) print symbol S<sub>j</sub>1 or erase or do nothing then go to q<sub>i</sub>.12</dd>
+<dd>(q<sub>i</sub>.12) move tape left or right nor not at all then go to qm1</dd></dl></dd></dl>
+<dl><dd><dl><dd>(q<sub>i</sub>.21) print symbol S<sub>j</sub>2 or erase or do nothing then go to q<sub>i</sub>.22</dd>
+<dd>(q<sub>i</sub>.22) move tape left or right nor not at all then go to qm2</dd></dl></dd></dl>
+<dl><dd>(etc — all symbols must be accounted for)</dd></dl>
+<p>So-called "canonical" finite state machines do the symbol tests "in parallel"; see more at microprogramming.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">9</span></p><p>In the following example of what the machine does, we will note some peculiarities of Turing's models:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">10</span></p>
+<dl><dd>"The convention of writing the figures only on alternate squares is very useful: I shall always make use of it." (Undecidable p. 121)</dd></dl>
+<p>Thus when printing he skips every other square. The printed-on squares are called F-squares; the blank squares in between may be used for "markers" and are called "E-squares" as in "liable to erasure." The F-squares in turn are his "Figure squares" and will only bear the symbols 1 or 0 — symbols he called "figures" (as in "binary numbers").
+<span style="border: 3px solid blue; color:blue;font-weight: bold">11</span></p><p>In this example the tape starts out "blank", and the "figures" are then printed on it. For brevity only the TABLE-states are shown here:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">12</span></p>
+<table >
+<tbody><tr>
+<th>Sequence
+</th>
+<th>Instruction identifier
+</th>
+<th> 
+</th>
+<th> 
+</th>
+<th> 
+</th>
+<th> 
+</th>
+<th>Head
+</th>
+<th> 
+</th>
+<th> 
+</th>
+<th> 
+</th>
+<th> 
+</th>
+<th> 
+</th>
+<th> 
+</th>
+<th> 
+</th>
+<th> 
+</th>
+<th> 
+</th>
+<th> 
+</th>
+<th> 
+</th>
+<th> 
+</th>
+<th> 
+</th></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td><u>.</u>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td></tr>
+<tr>
+<td>1
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td><u>.</u>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td></tr>
+<tr>
+<td>2
+</td>
+<td><b>2</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td><u>.</u>
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td></tr>
+<tr>
+<td>3
+</td>
+<td><b>3</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td><u>.</u>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td></tr>
+<tr>
+<td>4
+</td>
+<td><b>4</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td><u>.</u>
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td></tr>
+<tr>
+<td>5
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td><u>.</u>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td></tr>
+<tr>
+<td>6
+</td>
+<td><b>2</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td><u>.</u>
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td></tr>
+<tr>
+<td>7
+</td>
+<td><b>3</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td><u>.</u>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td></tr>
+<tr>
+<td>8
+</td>
+<td><b>4</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td><u>.</u>
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td></tr>
+<tr>
+<td>9
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td><u>.</u>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td></tr>
+<tr>
+<td>10
+</td>
+<td><b>2</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td><u>.</u>
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td></tr>
+<tr>
+<td>11
+</td>
+<td><b>3</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td><u>.</u>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td></tr>
+<tr>
+<td>12
+</td>
+<td><b>4</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td><u>.</u>
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td>.
+</td></tr>
+<tr>
+<td>13
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td><u>.</u>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td></tr>
+<tr>
+<td>14
+</td>
+<td><b>2</b>
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td>.
+</td>
+<td><u>.</u>
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td>
+<td>.
+</td>
+<td><b>1</b>
+</td>
+<td>.
+</td>
+<td><b>0</b>
+</td></tr></tbody></table><a name="table4"><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>4</span></a>
+<p>The same "run" with all the intermediate tape-printing and movements is shown here:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">13</span></p><p><img alt="Turing machine Turing's first machine.JPG" data-file-height="820" data-file-width="1348" decoding="async" height="547" src="https:https:https:https:https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Turing_machine_Turing%27s_first_machine.JPG/900px-Turing_machine_Turing%27s_first_machine.JPG" srcset width="900"/>
+<span style="border: 3px solid blue; color:blue;font-weight: bold">14</span></p><p>A close look at the table reveals certain problems with Turing's own example—not all the symbols are accounted for.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">15</span></p><p>For example, suppose his tape was not initially blank. What would happen? 
+The Turing machine would read different values than the intended values.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">16</span></p>
+<h2><span class="mw-headline" id="A_copy_subroutine">A copy subroutine</span></h2>
+<p>This is a very important subroutine used in the "multiply" routine.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">17</span></p><p>The example Turing machine handles a string of 0s and 1s, with 0 represented by the blank symbol. Its task is to double any series of 1s encountered on the tape by writing a 0 between them. For example, when the head reads "111", it will write a 0, then "111". The output will be "1110111".
+<span style="border: 3px solid blue; color:blue;font-weight: bold">18</span></p><p>In order to accomplish its task, this Turing machine will need only 5 states of operation, which are called {s<sub>1</sub>, s<sub>2</sub>, s<sub>3</sub>, s<sub>4</sub>, s<sub>5</sub>}. Each state does 4 actions:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">19</span></p>
+<ol><li>Read the symbol under the head</li>
+<li class="mw-empty-elt"></li>
+<li>Write the output symbol decided by the state</li>
+<li class="mw-empty-elt"></li>
+<li>Move the tape to the left or to the right decided by the state</li>
+<li class="mw-empty-elt"></li>
+<li>Switch to the following state decided by the current state</li></ol>
+<table  style="text-align: center; width: 60%">
+<tbody><tr>
+<th>Initial m-configuration (current instruction)
+</th>
+<th>Tape symbol
+</th>
+<th>Print operation
+</th>
+<th>Tape motion
+</th>
+<th>Final m-configuration (next instruction)
+</th></tr>
+<tr>
+<td>s<sub>1</sub>
+</td>
+<td>0
+</td>
+<td>N
+</td>
+<td>N
+</td>
+<td>H
+</td></tr>
+<tr>
+<td>s<sub>1</sub>
+</td>
+<td>1
+</td>
+<td>E
+</td>
+<td>R
+</td>
+<td>s<sub>2</sub>
+</td></tr>
+<tr>
+<td>s<sub>2</sub>
+</td>
+<td>0
+</td>
+<td>E
+</td>
+<td>R
+</td>
+<td>s<sub>3</sub>
+</td></tr>
+<tr>
+<td>s<sub>2</sub>
+</td>
+<td>1
+</td>
+<td>P1
+</td>
+<td>R
+</td>
+<td>s<sub>2</sub>
+</td></tr>
+<tr>
+<td>s<sub>3</sub>
+</td>
+<td>0
+</td>
+<td>P1
+</td>
+<td>L
+</td>
+<td>s<sub>4</sub>
+</td></tr>
+<tr>
+<td>s<sub>3</sub>
+</td>
+<td>1
+</td>
+<td>P1
+</td>
+<td>R
+</td>
+<td>s<sub>3</sub>
+</td></tr>
+<tr>
+<td>s<sub>4</sub>
+</td>
+<td>0
+</td>
+<td>E
+</td>
+<td>L
+</td>
+<td>s<sub>5</sub>
+</td></tr>
+<tr>
+<td>s<sub>4</sub>
+</td>
+<td>1
+</td>
+<td>P1
+</td>
+<td>L
+</td>
+<td>s<sub>4</sub>
+</td></tr>
+<tr>
+<td>s<sub>5</sub>
+</td>
+<td>0
+</td>
+<td>P1
+</td>
+<td>R
+</td>
+<td>s<sub>1</sub>
+</td></tr>
+<tr>
+<td>s<sub>5</sub>
+</td>
+<td>1
+</td>
+<td>P1
+</td>
+<td>L
+</td>
+<td>s<sub>5</sub>
+</td></tr>
+<tr>
+<td>H
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>
+</td></tr></tbody></table><a name="table5"><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>5</span></a>
+<p>A "run" of the machine sequences through 16 machine-configurations (aka Turing states):
+<span style="border: 3px solid blue; color:blue;font-weight: bold">20</span></p>
+<table  style="text-align:center">
+<tbody><tr>
+<th>Sequence
+</th>
+<th>Instruction identifier
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>Head
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<td>1
+</td>
+<td>s<sub>1</sub>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><u><b>1</b></u>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>2
+</td>
+<td>s<sub>2</sub>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><u><b>1</b></u>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>3
+</td>
+<td>s<sub>2</sub>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><u>0</u>
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>4
+</td>
+<td>s<sub>3</sub>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><u>0</u>
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>5
+</td>
+<td>s<sub>4</sub>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><u>0</u>
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>6
+</td>
+<td>s<sub>5</sub>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td><u><b>1</b></u>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>7
+</td>
+<td>s<sub>5</sub>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><u>0</u>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>8
+</td>
+<td>s<sub>1</sub>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td><u><b>1</b></u>
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>9
+</td>
+<td>s<sub>2</sub>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><u>0</u>
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>10
+</td>
+<td>s<sub>3</sub>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><u><b>1</b></u>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>11
+</td>
+<td>s<sub>3</sub>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><u>0</u>
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>12
+</td>
+<td>s<sub>4</sub>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><u><b>1</b></u>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>13
+</td>
+<td>s<sub>4</sub>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><u>0</u>
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>14
+</td>
+<td>s<sub>5</sub>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td><u>0</u>
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>15
+</td>
+<td>s<sub>1</sub>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><u>0</u>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>16
+</td>
+<td>H
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><u>0</u>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr></tbody></table><a name="table6"><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>6</span></a>
+<p>The behavior of this machine can be described as a loop:
+it starts out in s<sub>1</sub>, replaces the first 1 with a 0, then uses s<sub>2</sub> to move to the right, skipping over 1s and the first 0 encountered. s<sub>3</sub> then skips over the next sequence of 1s (initially there are none) and replaces the first 0 it finds with a 1. s<sub>4</sub> moves back to the left, skipping over 1s until it finds a 0 and switches to s<sub>5</sub>. s<sub>5</sub> then moves to the left, skipping over 1s until it finds the 0 that was originally written by s<sub>1</sub>.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">21</span></p><p>It replaces that 0 with a 1, moves one position to the right and enters s<sub>1</sub> again for another round of the loop.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">22</span></p><p>This continues until s<sub>1</sub> finds a 0 (this is the 0 in the middle of the two strings of 1s) at which time the machine halts.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">23</span></p>
+<h3><span class="mw-headline" id="Alternative_description">Alternative description</span></h3>
+<p>Another description sees the problem as how to keep track of how many "1"s there are. We can't use one state for each possible number (a state for each of 0,1,2,3,4,5,6 etc), because then we'd need infinite states to represent all the natural numbers, and the state machine is <i>finite</i> - we'll have to track this using the tape in some way.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">24</span></p><p>The basic way it works is by copying each "1" to the other side, by moving back and forth - it is intelligent enough to remember which part of the trip it is on. In more detail, it carries each "1" across to the other side, by recognizing the separating "0" in the middle, and recognizing the "0" on the other side to know it's reached the end.   It comes back using the same method, detecting the middle "0", and then the "0" on the original side.  This "0" on the original side is the key to the puzzle of how it keeps track of the number of 1's.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">25</span></p><p>The trick is that before carrying the "1", it marks that digit as "taken" by replacing it with an "0". When it returns, it fills that "0" back in with a "1", <i>then moves on to the next one</i>, marking it with an "0" and repeating the cycle, carrying that "1" across and so on.  <i>With each trip across and back, the marker "0" moves one step closer to the centre</i>.  This is how it keeps track of how many "1"'s it has taken across.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">26</span></p><p>When it returns, the marker "0" looks like the end of the collection of "1"s to it - any "1"s that have already been taken across are invisible to it (on the other side of the marker "0") and so it is as if it is working on an (N-1) number of "1"s - similar to a proof by mathematical induction.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">27</span></p><p>A full "run" showing the results of the intermediate "motions". To see it better click on the image, then click on the higher resolution download:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">28</span></p><p><img alt="Turing machine copy example.JPG" data-file-height="820" data-file-width="1348" decoding="async" height="547" src="https:https:https:https:https:https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Turing_machine_copy_example.JPG/900px-Turing_machine_copy_example.JPG" srcset width="900"/>
+<span style="border: 3px solid blue; color:blue;font-weight: bold">29</span></p>
+<h2><span class="mw-headline" id="3-state_Busy_Beaver">3-state Busy Beaver</span></h2>
+<p>The following Turing table of instructions was derived from Peterson (1988) page 198, Figure 7.15. Peterson moves the head; in the following model the tape moves.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">30</span></p>
+<table  style="text-align:center">
+<tbody><tr>
+<th>Tape symbol
+</th>
+<th colspan="3">Current state <b>A</b>
+</th>
+<th colspan="3">Current state <b>B</b>
+</th>
+<th colspan="3">Current state <b>C</b>
+</th></tr>
+<tr>
+<td>
+</td>
+<td>Write symbol
+</td>
+<td>Move tape
+</td>
+<td>Next state
+</td>
+<td>Write symbol
+</td>
+<td>Move tape
+</td>
+<td>Next state
+</td>
+<td>Write symbol
+</td>
+<td>Move tape
+</td>
+<td>Next state
+</td></tr>
+<tr>
+<td>0
+</td>
+<td>1
+</td>
+<td>R
+</td>
+<td><b>B</b>
+</td>
+<td>1
+</td>
+<td>L
+</td>
+<td><b>A</b>
+</td>
+<td>1
+</td>
+<td>L
+</td>
+<td><b>B</b>
+</td></tr>
+<tr>
+<td>1
+</td>
+<td>1
+</td>
+<td>L
+</td>
+<td><b>C</b>
+</td>
+<td>1
+</td>
+<td>R
+</td>
+<td><b>B</b>
+</td>
+<td>1
+</td>
+<td>N
+</td>
+<td><b>HALT</b>
+</td></tr></tbody></table><a name="table7"><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>7</span></a>
+<p>The "state" drawing of the 3-state busy beaver shows the internal sequences of events required to actually perform "the state". As noted above Turing (1937) makes it perfectly clear that this is the proper interpretation of the 5-tuples that describe the instruction (<i>Undecidable</i>, p. 119). For more about the atomization of Turing 5-tuples see Post–Turing machine:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">31</span></p><p><img alt="State diagram 3 state busy beaver.JPG" data-file-height="830" data-file-width="1358" decoding="async" height="550" src="https:https:https:https:https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/State_diagram_3_state_busy_beaver.JPG/900px-State_diagram_3_state_busy_beaver.JPG" srcset width="900"/>
+<span style="border: 3px solid blue; color:blue;font-weight: bold">32</span></p><p>The following table shows the "compressed" run — just the Turing states:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">33</span></p>
+<table  style="text-align: center">
+<tbody><tr>
+<th>Sequence
+</th>
+<th>Instruction identifier
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>Head
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<td>1
+</td>
+<td><b>b</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><u><b>0</b></u>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>2
+</td>
+<td><b>B</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><u><b>0</b></u>
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>3
+</td>
+<td><b>A</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><u><b>1</b></u>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>4
+</td>
+<td><b>C</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><u><b>0</b></u>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>5
+</td>
+<td><b>B</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><u><b>0</b></u>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>6
+</td>
+<td><b>A</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><u><b>0</b></u>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>7
+</td>
+<td><b>B</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><u><b>1</b></u>
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>8
+</td>
+<td><b>B</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><u><b>1</b></u>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>9
+</td>
+<td><b>B</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><u><b>1</b></u>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>10
+</td>
+<td><b>B</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><u><b>1</b></u>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>11
+</td>
+<td><b>B</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><u><b>0</b></u>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>12
+</td>
+<td>A
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><u><b>1</b></u>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>13
+</td>
+<td><b>C</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><u><b>1</b></u>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>14
+</td>
+<td><b>H</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><u><b>1</b></u>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td><b>1</b>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td></tr></tbody></table><a name="table8"><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>8</span></a>
+<p>The full "run" of the 3-state busy beaver. The resulting Turing-states (what Turing called the "m-configurations" — "machine-configurations") are shown highlighted in grey in column A, and also under the machine's instructions (columns AF-AU)):
+<span style="border: 3px solid blue; color:blue;font-weight: bold">34</span></p><p><img alt="Turing machine example 3 state busy beaver.JPG" data-file-height="820" data-file-width="1349" decoding="async" height="547" src="https:https:https:https:https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Turing_machine_example_3_state_busy_beaver.JPG/900px-Turing_machine_example_3_state_busy_beaver.JPG" srcset width="900"/>
+<span style="border: 3px solid blue; color:blue;font-weight: bold">35</span></p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p>For complete references see Turing machine.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">36</span></p>
+<ul><li>Ivars Peterson, 1988, <i>The Mathematical Tourist: Snapshots of Modern Mathematics</i>, W. H. Freeman and Company, New York, <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style>ISBN 0-7167-2064-7 (pbk.). Turing machines are described on pp. 194ff, the busy beaver example is in Figure 7.15 on page 198.</li>
+<li>Martin Davis editor, 1965, The Undecidable: Basic Papers on Undecidable Propositions, Unsolvable Problems and Computable Functions<i>, Raven Press, New York, no ISBN, no card catalog number.</i></li></ul>
+<dl><dd><ul><li>Alan Turing, 1937, <i>On Computable Numbers, with an Application to the Entscheidungsproblem</i>, pp. 116ff, with brief commentary by Davis on page 115.</li>
+<li>Alan Turing, 1937, <i>On Computable Numbers, with an Application to the Entscheidungsproblem. A Correction</i>, p. 152-154.</li></ul></dd></dl>
+<div aria-labelledby="Automata_theory:_formal_languages_and_formal_grammars" class="navbox" role="navigation" style="padding:3px"></div>
+<!-- 
+NewPP limit report
+Parsed by mw1338
+Cached time: 20190403023256
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.256 seconds
+Real time usage: 0.299 seconds
+Preprocessor visited node count: 739/1000000
+Preprocessor generated node count: 0/1500000
+Post�expand include size: 29759/2097152 bytes
+Template argument size: 5120/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post�expand size: 1872/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.015/10.000 seconds
+Lua memory usage: 894 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  159.546      1 -total
+ 52.70%   84.083      1 Template:Isbn
+ 33.22%   52.999      1 Template:Catalog_lookup_link
+ 22.78%   36.343      1 Template:Formal_languages_and_grammars
+ 22.69%   36.206      1 Template:Turing
+ 21.17%   33.774      1 Template:Sidebar
+ 20.36%   32.478      1 Template:Navbox_with_columns
+ 10.16%   16.204      1 Template:Navbox
+  7.07%   11.286      1 Template:Error-small
+  5.29%    8.436      1 Template:Small
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6246511-0!canonical and timestamp 20190403023256 and revision id 851333693
+ -->
+</div><noscript><img alt="" height="1" src="https:https:https:https:https:https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" srcset style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+<div class="printfooter">Retrieved from "https://en.wikipedia.org/w/index.php?title=Turing_machine_examples&amp;oldid=851333693"</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks">Categories: <ul><li>Turing machine</li></ul></div></div>
+<div class="visualClear"></div>
+</div>
+</div>
+
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 21 July 2018, at 15:42<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy">Privacy policy</li>
+<li id="footer-places-about">About Wikipedia</li>
+<li id="footer-places-disclaimer">Disclaimers</li>
+<li id="footer-places-contact">Contact Wikipedia</li>
+<li id="footer-places-developers">Developers</li>
+<li id="footer-places-cookiestatement">Cookie statement</li>
+<li id="footer-places-mobileview">Mobile view</li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<img alt="Wikimedia Foundation" height="31" src="https:https:https:https:https:https:/static/images/wikimedia-button.png" srcset width="88"/> </li>
+<li id="footer-poweredbyico">
+<img alt="Powered by MediaWiki" height="31" src="https:https:https:https:https:https:/static/images/poweredby_mediawiki_88x31.png" srcset width="88"/> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.256","walltime":"0.299","ppvisitednodes":{"value":739,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":29759,"limit":2097152},"templateargumentsize":{"value":5120,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1872,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  159.546      1 -total"," 52.70%   84.083      1 Template:Isbn"," 33.22%   52.999      1 Template:Catalog_lookup_link"," 22.78%   36.343      1 Template:Formal_languages_and_grammars"," 22.69%   36.206      1 Template:Turing"," 21.17%   33.774      1 Template:Sidebar"," 20.36%   32.478      1 Template:Navbox_with_columns"," 10.16%   16.204      1 Template:Navbox","  7.07%   11.286      1 Template:Error-small","  5.29%    8.436      1 Template:Small"]},"scribunto":{"limitreport-timeusage":{"value":"0.015","limit":"10.000"},"limitreport-memusage":{"value":915814,"limit":52428800}},"cachereport":{"origin":"mw1338","timestamp":"20190403023256","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1275"});});</script>
+</body>
+</html>
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>

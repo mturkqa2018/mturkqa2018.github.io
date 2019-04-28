@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Boz_Scaggs_-_Dig.jpg/220px-Boz_Scaggs_-_Dig.jpg

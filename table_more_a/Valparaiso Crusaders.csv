@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>saders_wordmark.svg/200px-Valparaiso_Crusaders_wordmark.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Victory_Bell_of_Valparaiso_University_by_Athletics_and_Recreation_Center.jpg/220px-Victory_Bell_of_Valparaiso_University_by_Athletics_and_Recreation_Center.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Valpofootballhuddle.jpg/150px-Valpofootballhuddle.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Chicago%2C_Illinois.svg/80px-Flag_of_Chicago%2C_Illinois.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/United_Center_060716.jpg/80px-United_Center_060716.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Soldier_FieldChi.jpg/80px-Soldier_FieldChi.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Wrigley_Field_-_by_Kaczmarczyk.jpg/80px-Wrigley_Field_-_by_Kaczmarczyk.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/UScell01.jpg/80px-UScell01.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Indiana.svg/100px-Flag_of_Indiana.svg.png

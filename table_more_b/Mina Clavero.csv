@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>jpg/200px-R%C3%ADo_Mina_Clavero_pasarela.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Escudo_COA_Cordoba_province_argentina.png/40px-Escudo_COA_Cordoba_province_argentina.png

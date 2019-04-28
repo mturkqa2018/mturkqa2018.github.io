@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Valeport_Limited_Logo.jpg/220px-Valeport_Limited_Logo.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/View_of_Valeport_Limited_from_the_River_Dart_2013.jpg/220px-View_of_Valeport_Limited_from_the_River_Dart_2013.jpg

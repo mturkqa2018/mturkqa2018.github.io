@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Crystal_Clear_app_Login_Manager_2.png/35px-Crystal_Clear_app_Login_Manager_2.png

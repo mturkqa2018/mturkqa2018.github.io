@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>7b/Blason_ville_fr_Th%C3%A9zan-l%C3%A8s-B%C3%A9ziers_%28H%C3%A9rault%29.svg/73px-Blason_ville_fr_Th%C3%A9zan-l%C3%A8s-B%C3%A9ziers_%28H%C3%A9rault%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Languedoc-Roussillon-Midi-Pyr%C3%A9n%C3%A9es_region_location_map.svg/270px-Languedoc-Roussillon-Midi-Pyr%C3%A9n%C3%A9es_region_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Th%C3%A9zan-l%C3%A8s-B%C3%A9ziers%2C_H%C3%A9rault_02.jpg/220px-Th%C3%A9zan-l%C3%A8s-B%C3%A9ziers%2C_H%C3%A9rault_02.jpg

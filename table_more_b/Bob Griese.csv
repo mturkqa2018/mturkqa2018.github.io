@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>0px-Bob_Griese_with_soldier_CROP.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bob_Griese_1966.jpg/175px-Bob_Griese_1966.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/1986_Jeno%27s_Pizza_-_33_-_Jim_Kiick_%28Bob_Griese_crop%29.jpg/220px-1986_Jeno%27s_Pizza_-_33_-_Jim_Kiick_%28Bob_Griese_crop%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nat_Moore_%26_Bob_Griese_at_2014_MIFF.jpg/220px-Nat_Moore_%26_Bob_Griese_at_2014_MIFF.jpg

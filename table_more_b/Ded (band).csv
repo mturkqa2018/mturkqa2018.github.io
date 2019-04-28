@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kyle_Koelsch.jpg/175px-Kyle_Koelsch.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/David_Ludlow.jpg/175px-David_Ludlow.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Matt_Reinhard.jpg/175px-Matt_Reinhard.jpg

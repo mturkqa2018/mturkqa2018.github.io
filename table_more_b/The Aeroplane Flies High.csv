@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>e_Aeroplane_Flies_High_-_vinyl_cover.jpg/220px-The_Smashing_Pumpkins_-The_Aeroplane_Flies_High_-_vinyl_cover.jpg

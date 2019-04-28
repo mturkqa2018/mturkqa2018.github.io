@@ -1,0 +1,11 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ogo.svg/50px-BBC_Parliament_Logo.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/4/49/BBC_Parliament_Logo.svg/50px-BBC_Parliament_Logo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Elizabeth_II_in_Berlin_2015.JPG/175px-Elizabeth_II_in_Berlin_2015.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Henry_VIII_of_England%2C_by_Hans_Holbein.jpg/85px-Henry_VIII_of_England%2C_by_Hans_Holbein.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Anne_boleyn.jpg/85px-Anne_boleyn.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hans_Holbein_the_Younger_%28workshop_of%29_-_Jane_Seymour_%28Mauritshuis%29.jpg/85px-Hans_Holbein_the_Younger_%28workshop_of%29_-_Jane_Seymour_%28Mauritshuis%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Elizabeth_I_when_a_Princess.jpg/85px-Elizabeth_I_when_a_Princess.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mary_I_by_Master_John.png/85px-Mary_I_by_Master_John.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Edward_VI_of_England_c._1546.jpg/85px-Edward_VI_of_England_c._1546.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/William_II%2C_Prince_of_Orange_and_Mary_Henrietta_Stuart%2C_by_Gerard_van_Honthorst.jpg/160px-William_II%2C_Prince_of_Orange_and_Mary_Henrietta_Stuart%2C_by_Gerard_van_Honthorst.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bundesarchiv_Bild_102-13538%2C_Edward_Herzog_von_Windsor.jpg/170px-Bundesarchiv_Bild_102-13538%2C_Edward_Herzog_von_Windsor.jpg

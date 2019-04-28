@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.jpg/190px-Theycallmemistertibbs1970movieposter.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/They_Call_Me_Mister_Tibbs%21_%28soundtrack%29.jpg/220px-They_Call_Me_Mister_Tibbs%21_%28soundtrack%29.jpg

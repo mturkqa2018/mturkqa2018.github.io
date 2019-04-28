@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ons/thumb/8/82/Combat_Infantry_Badge.svg/125px-Combat_Infantry_Badge.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ranger_Tab.svg/80px-Ranger_Tab.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/USAFSeniorParatrooper.jpg/90px-USAFSeniorParatrooper.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Pathfinder.gif/80px-Pathfinder.gif
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/9th_Infantry_Regiment_DUI.png/50px-9th_Infantry_Regiment_DUI.png

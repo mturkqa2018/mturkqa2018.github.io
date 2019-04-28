@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>sons-WHO2012.svg/260px-Congenital_anomalies_world_map-Deaths_per_million_persons-WHO2012.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Congenital_anomalies_world_map_-_DALY_-_WHO2004.svg/260px-Congenital_anomalies_world_map_-_DALY_-_WHO2004.svg.png

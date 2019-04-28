@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_South_Carolina_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/250px-Usa_edcp_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/US-NationalParkService-ShadedLogo.svg/50px-US-NationalParkService-ShadedLogo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Map_of_USA_SC.svg/100px-Map_of_USA_SC.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hampson_effigypot_HRoe_2006.jpg/40px-Hampson_effigypot_HRoe_2006.jpg

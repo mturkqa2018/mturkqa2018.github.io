@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Normal-form game - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Normal-form_game","wgTitle":"Normal-form game","wgCurRevisionId":876788474,"wgRevisionId":876788474,"wgArticleId":1863612,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Game theory game classes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Normal-form_game","wgRelevantArticleId":1863612,"wgRequestId":"XL82BApAADgAAFIXlAAAAAAU","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1069099","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.34.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Normal-form_game" rel="alternate"/>
+<link href="/w/index.php?title=Normal-form_game&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Normal-form_game&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Normal-form_game" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?lang=qqx&amp;modules=html5shiv&amp;only=scripts&amp;skin=fallback&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Normal-form_game rootpage-Normal-form_game skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Normal-form game</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div id="jump-to-nav"></div>
+Jump to navigation
+Jump to search
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">"Matrix game" redirects here. For Chris Engle's game, see Storytelling game § Alternate form role-playing games. For the publisher, see Matrix Games.</div>
+<p>In game theory, <b>normal form</b> is a description of a <i>game</i>. Unlike extensive form, normal-form representations are not graphical <i>per se</i>, but rather represent the game by way of a matrix. While this approach can be of greater use in identifying strictly dominated strategies and Nash equilibria, some information is lost as compared to extensive-form representations. The normal-form representation of a game includes all perceptible and conceivable strategies, and their corresponding payoffs, for each player.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">1</span></p><p>In static games of complete, perfect information, a normal-form representation of a game is a specification of players' strategy spaces and payoff functions. A strategy space for a player is the set of all strategies available to that player, whereas a strategy is a complete plan of action for every stage of the game, regardless of whether that stage actually arises in play. A payoff function for a player is a mapping from the cross-product of players' strategy spaces to that player's set of payoffs (normally the set of real numbers, where the number represents a cardinal or ordinal utility—often cardinal in the normal-form representation) of a player, i.e. the payoff function of a player takes as its input a strategy profile (that is a specification of strategies for every player) and yields a representation of payoff as its output.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">2</span></p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">An example</span>
+<ul>
+<li class="toclevel-2 tocsection-2"><span class="tocnumber">1.1</span> <span class="toctext">Other representations</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><span class="tocnumber">2</span> <span class="toctext">Uses of normal form</span>
+<ul>
+<li class="toclevel-2 tocsection-4"><span class="tocnumber">2.1</span> <span class="toctext">Dominated strategies</span></li>
+<li class="toclevel-2 tocsection-5"><span class="tocnumber">2.2</span> <span class="toctext">Sequential games in normal form</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><span class="tocnumber">3</span> <span class="toctext">General formulation</span></li>
+<li class="toclevel-1 tocsection-7"><span class="tocnumber">4</span> <span class="toctext">References</span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="An_example">An example</span></h2>
+<table  style=" text-align:center; margin-left:1em;">
+<caption>A normal-form game
+</caption>
+<tbody><tr>
+<th style="background:linear-gradient(to top right,#eaecf0 49.5%,#aaa 49.5%,#aaa 50.5%,#eaecf0 50.5%);line-height:1;"><div style="margin-left:2em;text-align:right;"><span style="color:#900">Player 2</span></div><div style="margin-right:2em;text-align:left;"><span style="color:#009"><br/>Player 1</span></div>
+</th>
+<th scope="col"><span style="color:#900">Left</span>
+</th>
+<th scope="col"><span style="color:#900">Right</span>
+</th></tr>
+<tr>
+<th scope="col"><span style="color:#009">Top</span>
+</th>
+<td><span style="color:#009">4</span>, <span style="color:#900">3</span>
+</td>
+<td><span style="color:#009">−1</span>, <span style="color:#900">−1</span>
+</td></tr>
+<tr>
+<th scope="col"><span style="color:#009">Bottom</span>
+</th>
+<td><span style="color:#009">0</span>, <span style="color:#900">0</span>
+</td>
+<td><span style="color:#009">3</span>, <span style="color:#900">4</span>
+</td></tr></tbody></table><a name="table1"><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>1</span></a>
+<p>The matrix to the right is a normal-form representation of a game in which players move simultaneously (or at least do not observe the other player's move before making their own) and receive the payoffs as specified for the combinations of actions played. For example, if player 1 plays top and player 2 plays left, player 1 receives 4 and player 2 receives 3. In each cell, the first number represents the payoff to the row player (in this case player 1), and the second number represents the payoff to the column player (in this case player 2).
+<span style="border: 3px solid blue; color:blue;font-weight: bold">3</span></p>
+<h3><span class="mw-headline" id="Other_representations">Other representations</span></h3>
+<p>Often, symmetric games (where the payoffs do not depend on which player chooses each action) are represented with only one payoff. This is the payoff for the row player. For example, the payoff matrices on the right and left below represent the same game.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">4</span></p>
+<table style="margin:0 auto;text-align:center;">
+<tbody><tr>
+<td>
+<table >
+<caption align="bottom"><i>Both players</i>
+</caption>
+<tbody><tr>
+<th style="background:linear-gradient(to top right,#eaecf0 49.5%,#aaa 49.5%,#aaa 50.5%,#eaecf0 50.5%);line-height:1;"><div style="margin-left:2em;text-align:right;">Player 2</div><div style="margin-right:2em;text-align:left;"><br/>Player 1</div>
+</th>
+<th><i>Stag</i>
+</th>
+<th><i>Hare</i>
+</th></tr>
+<tr>
+<th><i>Stag</i>
+</th>
+<td>3, 3
+</td>
+<td>0, 2
+</td></tr>
+<tr>
+<th><i>Hare</i>
+</th>
+<td>2, 0
+</td>
+<td>2, 2
+</td></tr></tbody></table><a name="table2"><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>2</span></a>
+</td>
+<td style="padding-left:2em;">
+<table >
+<caption align="bottom"><i>Just row</i>
+</caption>
+<tbody><tr>
+<th style="background:linear-gradient(to top right,#eaecf0 49.5%,#aaa 49.5%,#aaa 50.5%,#eaecf0 50.5%);line-height:1;"><div style="margin-left:2em;text-align:right;">Player 2</div><div style="margin-right:2em;text-align:left;"><br/>Player 1</div>
+</th>
+<th><i>Stag</i>
+</th>
+<th><i>Hare</i>
+</th></tr>
+<tr>
+<th><i>Stag</i>
+</th>
+<td>3
+</td>
+<td>0
+</td></tr>
+<tr>
+<th><i>Hare</i>
+</th>
+<td>2
+</td>
+<td>2
+</td></tr></tbody></table><a name="table3"><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>3</span></a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Uses_of_normal_form">Uses of normal form</span></h2>
+<h3><span class="mw-headline" id="Dominated_strategies">Dominated strategies</span></h3>
+<table  style=" margin-left:1em; text-align:center;">
+<caption align="bottom"><i>The Prisoner's Dilemma</i>
+</caption>
+<tbody><tr>
+<th style="background:linear-gradient(to top right,#eaecf0 49.5%,#aaa 49.5%,#aaa 50.5%,#eaecf0 50.5%);line-height:1;"><div style="margin-left:2em;text-align:right;">Player 2</div><div style="margin-right:2em;text-align:left;"><br/>Player 1</div>
+</th>
+<th><i>Cooperate</i>
+</th>
+<th><i>Defect</i>
+</th></tr>
+<tr>
+<th><i>Cooperate</i>
+</th>
+<td>−1, −1
+</td>
+<td>−5, 0
+</td></tr>
+<tr>
+<th><i>Defect</i>
+</th>
+<td>0, −5
+</td>
+<td>−2, −2
+</td></tr></tbody></table><a name="table4"><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>4</span></a>
+<p>The payoff matrix facilitates elimination of dominated strategies, and it is usually used to illustrate this concept. For example, in the prisoner's dilemma (to the right), we can see that each prisoner can either "cooperate" or "defect". If exactly one prisoner defects, he gets off easily and the other prisoner is locked up for a long time. However, if they both defect, they will both be locked up for a shorter time. One can determine that <i>Cooperate</i> is strictly dominated by <i>Defect</i>. One must compare the first numbers in each column, in this case 0 &gt; −1 and −2 &gt; −5. This shows that no matter what the column player chooses, the row player does better by choosing <i>Defect</i>. Similarly, one compares the second payoff in each row; again 0 &gt; −1 and −2 &gt; −5. This shows that no matter what row does, column does better by choosing <i>Defect</i>. This demonstrates the unique Nash equilibrium of this game is (<i>Defect</i>, <i>Defect</i>).
+<span style="border: 3px solid blue; color:blue;font-weight: bold">5</span></p>
+<h3><span class="mw-headline" id="Sequential_games_in_normal_form">Sequential games in normal form</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><img alt="" class="thumbimage" data-file-height="130" data-file-width="148" decoding="async" height="264" src="https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/SGPNEandPlainNE_explainingexample.svg/300px-SGPNEandPlainNE_explainingexample.svg.png" srcset width="300"/> <div class="thumbcaption"><div class="magnify"></div><div style='border: 3px solid red'><center><h1 style='color:red'>1</h1></center></div>Both extensive and normal form illustration of a sequential game with subgame imperfect and perfect Nash equilibria marked with red and blue respectively.</div></div></div>
+<table  style=" margin-left:1em; text-align:center;">
+<caption align="bottom"><i>A sequential game</i>
+</caption>
+<tbody><tr>
+<th style="background:linear-gradient(to top right,#eaecf0 49.5%,#aaa 49.5%,#aaa 50.5%,#eaecf0 50.5%);line-height:1;"><div style="margin-left:2em;text-align:right;">Player 2</div><div style="margin-right:2em;text-align:left;"><br/>Player 1</div>
+</th>
+<th><i>Left, Left</i>
+</th>
+<th><i>Left, Right</i>
+</th>
+<th><i>Right, Left</i>
+</th>
+<th><i>Right, Right</i>
+</th></tr>
+<tr>
+<th><i>Top</i>
+</th>
+<td align="center">4, 3
+</td>
+<td align="center">4, 3
+</td>
+<td align="center">−1, −1
+</td>
+<td align="center">−1, −1
+</td></tr>
+<tr>
+<th><i>Bottom</i>
+</th>
+<td align="center">0, 0
+</td>
+<td align="center">3, 4
+</td>
+<td align="center">0, 0
+</td>
+<td align="center">3, 4
+</td></tr></tbody></table><a name="table5"><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>5</span></a>
+<p>These matrices only represent games in which moves are simultaneous (or, more generally, information is imperfect). The above matrix does not represent the game in which player 1 moves first, observed by player 2, and then player 2 moves, because it does not specify each of player 2's strategies in this case. In order to represent this sequential game we must specify all of player 2's actions, even in contingencies that can never arise in the course of the game. In this game, player 2 has actions, as before, <i>Left</i> and <i>Right</i>. Unlike before he has four strategies, contingent on player 1's actions. The strategies are:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">6</span></p>
+<ol><li><i>Left if player 1 plays Top and Left otherwise</i></li>
+<li><i>Left if player 1 plays Top and Right otherwise</i></li>
+<li><i>Right if player 1 plays Top and Left otherwise</i></li>
+<li><i>Right if player 1 plays Top and Right otherwise</i></li></ol>
+<p>On the right is the normal-form representation of this game.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">7</span></p>
+<h2><span class="mw-headline" id="General_formulation">General formulation</span></h2>
+<p>In order for a game to be in normal form, we are provided with the following data:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">8</span></p>
+<ul><li>There is a finite set <i>P</i> of players, which we label {1, 2, ..., <i>m</i>}</li>
+<li>Each player <i>k</i> in <i>P</i> has a finite number of pure strategies</li></ul>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle S_{k}=\{1,2,\ldots ,n_{k}\}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>k</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo fence="false" stretchy="false">{</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mn>2</mn>
+<mo>,</mo>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>k</mi>
+</mrow>
+</msub>
+<mo fence="false" stretchy="false">}</mo>
+<mo>.</mo>
+</mstyle>
+</mrow>
+{\displaystyle S_{k}=\{1,2,\ldots ,n_{k}\}.}</annotation>
+</semantics>
+</math></span><img alt="S_{k}=\{1,2,\ldots ,n_{k}\}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https:https://wikimedia.org/api/rest_v1/media/math/render/svg/a9c80293b13536602ae445a3799a2101bda19316" srcset style="vertical-align: -0.838ex; width:19.604ex; height:2.843ex;"/></span></dd></dl></dd></dl>
+<p>A <b><span id="pure_strategy_profile">pure strategy profile</span></b> is an association of strategies to players, that is an <i>m</i>-tuple
+<span style="border: 3px solid blue; color:blue;font-weight: bold">9</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {s}}=(s_{1},s_{2},\ldots ,s_{m})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>s</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<msub>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+{\displaystyle {\vec {s}}=(s_{1},s_{2},\ldots ,s_{m})}</annotation>
+</semantics>
+</math></span><img alt="{\vec  {s}}=(s_{1},s_{2},\ldots ,s_{m})" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https:https://wikimedia.org/api/rest_v1/media/math/render/svg/1f5133f8934220d2d1da8332e73ee12d51d27872" srcset style="vertical-align: -0.838ex; width:19.398ex; height:2.843ex;"/></span></dd></dl>
+<p>such that
+<span style="border: 3px solid blue; color:blue;font-weight: bold">10</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle s_{1}\in S_{1},s_{2}\in S_{2},\ldots ,s_{m}\in S_{m}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>∈<!-- ∈ --></mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>∈<!-- ∈ --></mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<msub>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mo>∈<!-- ∈ --></mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+{\displaystyle s_{1}\in S_{1},s_{2}\in S_{2},\ldots ,s_{m}\in S_{m}}</annotation>
+</semantics>
+</math></span><img alt="s_{1}\in S_{1},s_{2}\in S_{2},\ldots ,s_{m}\in S_{m}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https:https://wikimedia.org/api/rest_v1/media/math/render/svg/57f3188653228d18f49448cb5e23a6ba16576810" srcset style="vertical-align: -0.671ex; width:29.847ex; height:2.509ex;"/></span></dd></dl>
+<p>A <b><span id="payoff_function">payoff function</span></b> is a function
+<span style="border: 3px solid blue; color:blue;font-weight: bold">11</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle F:S_{1}\times S_{2}\times \ldots \times S_{m}\rightarrow \mathbb {R} .}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>F</mi>
+<mo>:</mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>×<!-- × --></mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>×<!-- × --></mo>
+<mo>…<!-- … --></mo>
+<mo>×<!-- × --></mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mo stretchy="false">→<!-- → --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+{\displaystyle F:S_{1}\times S_{2}\times \ldots \times S_{m}\rightarrow \mathbb {R} .}</annotation>
+</semantics>
+</math></span><img alt="F:S_{1}\times S_{2}\times \ldots \times S_{m}\rightarrow {\mathbb  {R}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https:https://wikimedia.org/api/rest_v1/media/math/render/svg/61909bc73986fd4f0d204720ec08df06c7321617" srcset style="vertical-align: -0.671ex; width:28.92ex; height:2.509ex;"/></span></dd></dl>
+<p>whose intended interpretation is the award given to a single player at the outcome of the game. Accordingly, to completely specify a game, the payoff function has to be specified for each player in the player set <i>P</i>= {1, 2, ..., <i>m</i>}.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">12</span></p><p><b>Definition</b>: A <i>game in normal form</i> is a structure
+<span style="border: 3px solid blue; color:blue;font-weight: bold">13</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle G=\langle P,\mathbf {S} ,\mathbf {F} \rangle }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mo>=</mo>
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mi>P</mi>
+<mo>,</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">S</mi>
+</mrow>
+<mo>,</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+</mstyle>
+</mrow>
+{\displaystyle G=\langle P,\mathbf {S} ,\mathbf {F} \rangle }</annotation>
+</semantics>
+</math></span><img alt="G=\langle P,{\mathbf  {S}},{\mathbf  {F}}\rangle " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https:https://wikimedia.org/api/rest_v1/media/math/render/svg/3ae2114e0aabb63ce9c3ee30493b41e4ba0c9647" srcset style="vertical-align: -0.838ex; width:13.716ex; height:2.843ex;"/></span></dd></dl>
+<p>where:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">14</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P=\{1,2,\ldots ,m\}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+<mo>=</mo>
+<mo fence="false" stretchy="false">{</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mn>2</mn>
+<mo>,</mo>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<mi>m</mi>
+<mo fence="false" stretchy="false">}</mo>
+</mstyle>
+</mrow>
+{\displaystyle P=\{1,2,\ldots ,m\}}</annotation>
+</semantics>
+</math></span><img alt="P=\{1,2,\ldots ,m\}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https:https://wikimedia.org/api/rest_v1/media/math/render/svg/0f3a8a62c40f63438bfdf061a0758af954bb94a0" srcset style="vertical-align: -0.838ex; width:17.746ex; height:2.843ex;"/></span></dd></dl>
+<p>is a set of players,
+<span style="border: 3px solid blue; color:blue;font-weight: bold">15</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {S} =\{S_{1},S_{2},\ldots ,S_{m}\}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">S</mi>
+</mrow>
+<mo>=</mo>
+<mo fence="false" stretchy="false">{</mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mo fence="false" stretchy="false">}</mo>
+</mstyle>
+</mrow>
+{\displaystyle \mathbf {S} =\{S_{1},S_{2},\ldots ,S_{m}\}}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {S}}=\{S_{1},S_{2},\ldots ,S_{m}\}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https:https://wikimedia.org/api/rest_v1/media/math/render/svg/8056ca2d030c658218879e01bbf114f997e1d0b1" srcset style="vertical-align: -0.838ex; width:21.179ex; height:2.843ex;"/></span></dd></dl>
+<p>is an <i>m</i>-tuple of pure strategy sets, one for each player, and
+<span style="border: 3px solid blue; color:blue;font-weight: bold">16</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =\{F_{1},F_{2},\ldots ,F_{m}\}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mo fence="false" stretchy="false">{</mo>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mo fence="false" stretchy="false">}</mo>
+</mstyle>
+</mrow>
+{\displaystyle \mathbf {F} =\{F_{1},F_{2},\ldots ,F_{m}\}}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {F}}=\{F_{1},F_{2},\ldots ,F_{m}\}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https:https:https://wikimedia.org/api/rest_v1/media/math/render/svg/f236b8a90114ee3d984e35a28e797a3b992aae79" srcset style="vertical-align: -0.838ex; width:21.586ex; height:2.843ex;"/></span></dd></dl>
+<p>is an <i>m</i>-tuple of payoff functions.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">17</span></p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<ul><li><cite class="citation book">Fudenberg, D.; Tirole, J. (1991). <i>Game Theory</i>. MIT Press. ISBN <bdi>0-262-06141-4</bdi>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Game+Theory&amp;rft.pub=MIT+Press&amp;rft.date=1991&amp;rft.isbn=0-262-06141-4&amp;rft.aulast=Fudenberg&amp;rft.aufirst=D.&amp;rft.au=Tirole%2C+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANormal-form+game"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li>
+<li><cite class="citation book">Leyton-Brown, Kevin; Shoham, Yoav (2008). <i>Essentials of Game Theory: A Concise, Multidisciplinary Introduction</i>. San Rafael, CA: Morgan &amp; Claypool Publishers. ISBN <bdi>978-1-59829-593-1</bdi>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Essentials+of+Game+Theory%3A+A+Concise%2C+Multidisciplinary+Introduction&amp;rft.place=San+Rafael%2C+CA&amp;rft.pub=Morgan+%26+Claypool+Publishers&amp;rft.date=2008&amp;rft.isbn=978-1-59829-593-1&amp;rft.aulast=Leyton-Brown&amp;rft.aufirst=Kevin&amp;rft.au=Shoham%2C+Yoav&amp;rft_id=http%3A%2F%2Fwww.gtessentials.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANormal-form+game"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>. An 88-page mathematical introduction; free online at many universities.</li>
+<li><cite class="citation book">Luce, R. D.; Raiffa, H. (1989). <i>Games and Decisions</i>. Dover Publications. ISBN <bdi>0-486-65943-7</bdi>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Games+and+Decisions&amp;rft.pub=Dover+Publications&amp;rft.date=1989&amp;rft.isbn=0-486-65943-7&amp;rft.aulast=Luce&amp;rft.aufirst=R.+D.&amp;rft.au=Raiffa%2C+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANormal-form+game"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book">Shoham, Yoav; Leyton-Brown, Kevin (2009). <i>Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations</i>. New York: Cambridge University Press. ISBN <bdi>978-0-521-89943-7</bdi>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Multiagent+Systems%3A+Algorithmic%2C+Game-Theoretic%2C+and+Logical+Foundations&amp;rft.place=New+York&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2009&amp;rft.isbn=978-0-521-89943-7&amp;rft.aulast=Shoham&amp;rft.aufirst=Yoav&amp;rft.au=Leyton-Brown%2C+Kevin&amp;rft_id=http%3A%2F%2Fwww.masfoundations.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANormal-form+game"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>. A comprehensive reference from a computational perspective; see Chapter 3. Downloadable free online.</li>
+<li><cite class="citation book">Weibull, J. (1996). <i>Evolutionary Game Theory</i>. MIT Press. ISBN <bdi>0-262-23181-6</bdi>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Evolutionary+Game+Theory&amp;rft.pub=MIT+Press&amp;rft.date=1996&amp;rft.isbn=0-262-23181-6&amp;rft.aulast=Weibull&amp;rft.aufirst=J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANormal-form+game"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li>J. von Neumann and O. Morgenstern, <i>Theory of games and Economic Behavior</i>,  John Wiley Science Editions, 1964. Which was originally  published in 1944 by Princeton University Press.</li></ul>
+<div aria-labelledby="Topics_in_game_theory" class="navbox" role="navigation" style="padding:3px"></div>
+<div aria-labelledby="Matrix_classes" class="navbox" role="navigation" style="padding:3px"></div>
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20190423145202
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.280 seconds
+Real time usage: 0.429 seconds
+Preprocessor visited node count: 683/1000000
+Preprocessor generated node count: 0/1500000
+Post�expand include size: 61748/2097152 bytes
+Template argument size: 392/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post�expand size: 9648/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.106/10.000 seconds
+Lua memory usage: 2.42 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  199.697      1 -total
+ 54.94%  109.709      5 Template:Cite_book
+ 25.19%   50.294      1 Template:Redirect
+  8.24%   16.462      1 Template:Game_theory
+  7.94%   15.848      2 Template:Navbox
+  4.22%    8.433      1 Template:Matrix_classes
+  3.00%    5.993      2 Template:Vanchor
+  2.43%    4.844      5 Template:Diagonal_split_header
+  1.25%    2.487     14 Template:Color
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1863612-0!canonical!math=5 and timestamp 20190423145202 and revision id 876788474
+ -->
+</div><noscript><img alt="" height="1" src="https:https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" srcset style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+<div class="printfooter">Retrieved from "https://en.wikipedia.org/w/index.php?title=Normal-form_game&amp;oldid=876788474"</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks">Categories: <ul><li>Game theory game classes</li></ul></div></div>
+<div class="visualClear"></div>
+</div>
+</div>
+
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 4 January 2019, at 13:35<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy">Privacy policy</li>
+<li id="footer-places-about">About Wikipedia</li>
+<li id="footer-places-disclaimer">Disclaimers</li>
+<li id="footer-places-contact">Contact Wikipedia</li>
+<li id="footer-places-developers">Developers</li>
+<li id="footer-places-cookiestatement">Cookie statement</li>
+<li id="footer-places-mobileview">Mobile view</li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<img alt="Wikimedia Foundation" height="31" src="https:https:/static/images/wikimedia-button.png" srcset width="88"/> </li>
+<li id="footer-poweredbyico">
+<img alt="Powered by MediaWiki" height="31" src="https:https:/static/images/poweredby_mediawiki_88x31.png" srcset width="88"/> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.280","walltime":"0.429","ppvisitednodes":{"value":683,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":61748,"limit":2097152},"templateargumentsize":{"value":392,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":9648,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  199.697      1 -total"," 54.94%  109.709      5 Template:Cite_book"," 25.19%   50.294      1 Template:Redirect","  8.24%   16.462      1 Template:Game_theory","  7.94%   15.848      2 Template:Navbox","  4.22%    8.433      1 Template:Matrix_classes","  3.00%    5.993      2 Template:Vanchor","  2.43%    4.844      5 Template:Diagonal_split_header","  1.25%    2.487     14 Template:Color"]},"scribunto":{"limitreport-timeusage":{"value":"0.106","limit":"10.000"},"limitreport-memusage":{"value":2536966,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20190423145202","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Normal-form game","url":"https:\/\/en.wikipedia.org\/wiki\/Normal-form_game","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1069099","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1069099","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-05-09T18:17:30Z","dateModified":"2019-01-04T13:35:17Z"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1261"});});</script>
+</body>
+</html>
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>

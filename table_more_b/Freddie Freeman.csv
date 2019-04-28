@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Braves_versus_Rangers_in_TX_Sept_2014.jpg/220px-Freddie_Freeman_Braves_versus_Rangers_in_TX_Sept_2014.jpg

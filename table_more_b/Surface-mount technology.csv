@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>up.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/SMD_capacitor.jpg/220px-SMD_capacitor.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/SMDcompared.jpeg/220px-SMDcompared.jpeg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Juki_KE-2080L_by_Megger.jpg/220px-Juki_KE-2080L_by_Megger.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Soldering_a_0805.jpg/220px-Soldering_a_0805.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/SMT_sizes%2C_based_on_original_by_Zureks.svg/220px-SMT_sizes%2C_based_on_original_by_Zureks.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Macro_photo_of_LED_matrix.jpg/220px-Macro_photo_of_LED_matrix.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Photo-SMDcapacitors.jpg/220px-Photo-SMDcapacitors.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Photo-SMDchips.jpg/220px-Photo-SMDchips.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/28_pin_MLP_integrated_circuit.jpg/220px-28_pin_MLP_integrated_circuit.jpg

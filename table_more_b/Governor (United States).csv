@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>p.svg/220px-United_States_Governors_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/United_States_gubernatorial_term_limits.svg/220px-United_States_gubernatorial_term_limits.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/United_States_Governor_gender_map.svg/220px-United_States_Governor_gender_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ethnic_minority_governors.svg/220px-Ethnic_minority_governors.svg.png

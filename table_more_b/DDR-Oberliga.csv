@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>06-032%2C_BFC_Dynamo_-_SG_Dynamo_Dresden_1-0.jpg/220px-Bundesarchiv_Bild_183-1988-0406-032%2C_BFC_Dynamo_-_SG_Dynamo_Dresden_1-0.jpg

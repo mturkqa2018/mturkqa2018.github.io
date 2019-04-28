@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>4c/Signature_of_Sergey_Sobyanin.png/44px-Signature_of_Sergey_Sobyanin.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Audio-input-microphone.svg/50px-Audio-input-microphone.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Celebrations_of_Moscow_s_870th_anniversary.ogv/250px--Celebrations_of_Moscow_s_870th_anniversary.ogv.jpg

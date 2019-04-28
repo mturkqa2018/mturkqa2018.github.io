@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>alentine_Grant_002.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Daughter_of_MacGregor.jpg/220px-The_Daughter_of_MacGregor.jpg

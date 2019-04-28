@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>e_Virginia_House_of_Delegates_%28Republican%29.png/133px-Bill_Howell%2C_Speaker_of_the_Virginia_House_of_Delegates_%28Republican%29.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ward_Armstrong_podium.jpg/128px-Ward_Armstrong_podium.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Seal_of_Virginia.svg/60px-Seal_of_Virginia.svg.png

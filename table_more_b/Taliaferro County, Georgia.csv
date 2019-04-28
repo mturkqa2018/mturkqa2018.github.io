@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>mmons/thumb/7/70/Map_of_Georgia_highlighting_Taliaferro_County.svg/200px-Map_of_Georgia_highlighting_Taliaferro_County.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Map_of_USA_GA.svg/200px-Map_of_USA_GA.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Map_of_Georgia_highlighting_Taliaferro_County.svg/86px-Map_of_Georgia_highlighting_Taliaferro_County.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Seal_of_Georgia.svg/100px-Seal_of_Georgia.svg.png

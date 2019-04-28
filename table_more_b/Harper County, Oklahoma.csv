@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_highlighting_Harper_County.svg/200px-Map_of_Oklahoma_highlighting_Harper_County.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Map_of_USA_OK.svg/200px-Map_of_USA_OK.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/USA_Harper_County%2C_Oklahoma_age_pyramid.svg/220px-USA_Harper_County%2C_Oklahoma_age_pyramid.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Map_of_Oklahoma_highlighting_Harper_County.svg/180px-Map_of_Oklahoma_highlighting_Harper_County.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Seal_of_Oklahoma.svg/100px-Seal_of_Oklahoma.svg.png

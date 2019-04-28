@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ng
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Wappen_Kirrweiler_%28Pfalz%29.svg/69px-Wappen_Kirrweiler_%28Pfalz%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kirrweiler_%28Pfalz%29_in_S%C3%9CW.svg/250px-Kirrweiler_%28Pfalz%29_in_S%C3%9CW.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/250px-Germany_adm_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rhineland-Palatinate_location_map.svg/250px-Rhineland-Palatinate_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Wappen_Landkreis_S%C3%BCdliche_Weinstra%C3%9Fe.svg/40px-Wappen_Landkreis_S%C3%BCdliche_Weinstra%C3%9Fe.svg.png

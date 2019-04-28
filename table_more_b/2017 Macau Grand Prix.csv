@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_over_Mandarin_Oriental_Bend.jpg/220px-Guia_Circuit_-_bridge_over_Mandarin_Oriental_Bend.jpg

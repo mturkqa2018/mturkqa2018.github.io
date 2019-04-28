@@ -1,0 +1,11 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>120px-Sogo_logo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sogo_Kobemise.jpg/250px-Sogo_Kobemise.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HachiojiStkita.jpg/220px-HachiojiStkita.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sogo_Department_Store%2C_Causeway_Bay_1.jpg/151px-Sogo_Department_Store%2C_Causeway_Bay_1.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/SOGO-Shinsaibashi1.jpg/90px-SOGO-Shinsaibashi1.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SOGO-Shinsaibashi2.jpg/90px-SOGO-Shinsaibashi2.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Isetan_department_store_Kokura.jpg/90px-Isetan_department_store_Kokura.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sogo_Department_Store_in_Causeway_Bay_Hong_Kong.jpg/120px-Sogo_Department_Store_in_Causeway_Bay_Hong_Kong.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/SOGO-TST%2CHK.png/120px-SOGO-TST%2CHK.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/KLSOGO.jpg/73px-KLSOGO.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/KLSOGO01.jpg/120px-KLSOGO01.jpg

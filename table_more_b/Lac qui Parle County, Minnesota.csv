@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Parle_County.svg/200px-Map_of_Minnesota_highlighting_Lac_qui_Parle_County.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Map_of_USA_MN.svg/200px-Map_of_USA_MN.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lac_qui_Parle_Co_Pie_Chart_No_Text_Version.pdf/page1-220px-Lac_qui_Parle_Co_Pie_Chart_No_Text_Version.pdf.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/USA_Lac_qui_Parle_County%2C_Minnesota_age_pyramid.svg/220px-USA_Lac_qui_Parle_County%2C_Minnesota_age_pyramid.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Map_of_Minnesota_highlighting_Lac_qui_Parle_County.svg/180px-Map_of_Minnesota_highlighting_Lac_qui_Parle_County.svg.png

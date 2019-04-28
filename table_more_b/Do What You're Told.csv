@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>b/b/b4/Sebastian_-se--do_what_youre_told_s-1-.jpg/220px-Sebastian_-se--do_what_youre_told_s-1-.jpg

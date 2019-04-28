@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>edia.org/wikipedia/commons/9/9a/Kit_shorts_FCK_9495h.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/9/95/Kit_socks_adidas_thick_stripes_white.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png

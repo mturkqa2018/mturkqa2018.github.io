@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ra_de_Rio_Grande.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bras%C3%A3o_Rio_Grande.jpg/100px-Bras%C3%A3o_Rio_Grande.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/RioGrandedoSul_Municip_RioGrande.svg/250px-RioGrandedoSul_Municip_RioGrande.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Brazil_location_map.svg/250px-Brazil_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/SchoonerRioGrande.jpg/220px-SchoonerRioGrande.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/IgrejaAnglicanaSalvador.jpg/220px-IgrejaAnglicanaSalvador.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ilha_dos_Marinheiros.jpg/220px-Ilha_dos_Marinheiros.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Brazil_State_RioGrandedoSul.svg/130px-Brazil_State_RioGrandedoSul.svg.png

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_chromosome_X_ideogram.svg/300px-Human_chromosome_X_ideogram.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PBB_GE_PPP2R3B_219264_s_at_fs.png/250px-PBB_GE_PPP2R3B_219264_s_at_fs.png

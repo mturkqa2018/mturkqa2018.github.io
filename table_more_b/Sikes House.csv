@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Fort_White_Sikes_House01.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/USA_Florida_location_map.svg/250px-USA_Florida_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/250px-Usa_edcp_location_map.svg.png

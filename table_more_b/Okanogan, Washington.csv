@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>kanogan_city_logo.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Okanogan_County_Washington_Incorporated_and_Unincorporated_areas_Okanogan_Highlighted.svg/250px-Okanogan_County_Washington_Incorporated_and_Unincorporated_areas_Okanogan_Highlighted.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/250px-Usa_edcp_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okanogan_County_Courthouse_01.jpg/220px-Okanogan_County_Courthouse_01.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Okanogan%2C_WA_-_street_clock_and_post_office.jpg/170px-Okanogan%2C_WA_-_street_clock_and_post_office.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Map_of_Washington_highlighting_Okanogan_County.svg/100px-Map_of_Washington_highlighting_Okanogan_County.svg.png

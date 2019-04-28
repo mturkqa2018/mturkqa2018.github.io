@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Peurunkaralli.jpg/220px-Jukka_Ketom%C3%A4ki_-_2005_Peurunkaralli.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Aaltonen%2C_Toivonen_and_M%C3%A4kinen_-_1965_Rally_Finland.jpg/220px-Aaltonen%2C_Toivonen_and_M%C3%A4kinen_-_1965_Rally_Finland.jpg

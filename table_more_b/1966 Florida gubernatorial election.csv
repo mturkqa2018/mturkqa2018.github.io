@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ommons/thumb/4/44/Kirk_cropped.jpg/113px-Kirk_cropped.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/3x4.svg/127px-3x4.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Florida_Governor_Election_Results_by_County%2C_1966.svg/300px-Florida_Governor_Election_Results_by_County%2C_1966.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/50px-Flag_of_Florida.svg.png

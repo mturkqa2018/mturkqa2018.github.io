@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_scale.JPG/400px-Children%27s_pain_scale.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/US_Navy_060822-N-2832L-128_Navy_Lt._Rachel_Oden%2C_of_Casa_Grande%2C_Ariz.%2C_a_physical_therapist_plays_with_a_young_girl_during_her_first_day_of_physical_therapy_for_her_neuromuscular_control_deficits.jpg/220px-thumbnail.jpg

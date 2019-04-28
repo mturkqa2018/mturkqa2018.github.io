@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bel_Air_High_School_2011.jpg/220px-Bel_Air_High_School_2011.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bel_Air_High_School_1.JPG/220px-Bel_Air_High_School_1.JPG

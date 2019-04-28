@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>umb/e/ed/Beijing_location_map.png/240px-Beijing_location_map.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/201108211350_Wangjing_Station.jpg/220px-201108211350_Wangjing_Station.jpg

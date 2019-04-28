@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ance_%28from_Royal_Standard%29.svg/40px-Coat_of_Arms_of_the_Kingdom_of_France_%28from_Royal_Standard%29.svg.png

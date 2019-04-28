@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>thumb/a/a6/Gifu_g%C3%A9olocalisation.svg/240px-Gifu_g%C3%A9olocalisation.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg/240px-Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg.png

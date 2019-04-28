@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>mnasium.JPG/150px-Matsumoto_City_Gymnasium.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Yoyogi-National-First-Gymnasium-01.jpg/150px-Yoyogi-National-First-Gymnasium-01.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tokyo_Metropolitan_Gymnasium_2008.jpg/150px-Tokyo_Metropolitan_Gymnasium_2008.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg/320px-Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Osaka_Municipal_Central_Gymnasium.jpg/150px-Osaka_Municipal_Central_Gymnasium.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nagoya_City_Sports_Complex_01.JPG/150px-Nagoya_City_Sports_Complex_01.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hamamatsu_Arena.jpg/150px-Hamamatsu_Arena.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Volleyball_%28indoor%29_pictogram.svg/80px-Volleyball_%28indoor%29_pictogram.svg.png

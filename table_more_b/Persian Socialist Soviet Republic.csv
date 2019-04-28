@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>dia/commons/thumb/9/95/Locator_map_Iran_Gilan_Province.png/250px-Locator_map_Iran_Gilan_Province.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gilyan1920.jpg/220px-Gilyan1920.jpg

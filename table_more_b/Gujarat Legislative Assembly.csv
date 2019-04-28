@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s/thumb/2/2f/Gujarat_Legislative_Assembly_2017.svg/300px-Gujarat_Legislative_Assembly_2017.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SACHIVALAY_PANORAMA.jpg/250px-SACHIVALAY_PANORAMA.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Parties_in_Gujarat_Legislative_Assembly_Constituencies_2017-18.png/300px-Parties_in_Gujarat_Legislative_Assembly_Constituencies_2017-18.png

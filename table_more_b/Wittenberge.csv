@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/72px-Wappen_Wittenberge.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Wittenberge_in_PR.png/250px-Wittenberge_in_PR.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/250px-Germany_adm_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Brandenburg_location_map.svg/250px-Brandenburg_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wittenberge_Rathaus.jpg/220px-Wittenberge_Rathaus.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bev%C3%B6lkerungsentwicklung_Wittenberge.pdf/page1-250px-Bev%C3%B6lkerungsentwicklung_Wittenberge.pdf.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bev%C3%B6lkerungsprognosen_Wittenberge.pdf/page1-250px-Bev%C3%B6lkerungsprognosen_Wittenberge.pdf.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hinzdorf_-_Kirche_SO.jpg/180px-Hinzdorf_-_Kirche_SO.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Eisenbahnbr%C3%BCcke_Wittenberge_-_panoramio.jpg/180px-Eisenbahnbr%C3%BCcke_Wittenberge_-_panoramio.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BfWittenberge.jpg/180px-BfWittenberge.jpg

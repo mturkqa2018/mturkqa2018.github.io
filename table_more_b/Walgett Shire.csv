@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>algett_Shire_Council_Logo.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Walgett_Shire_Council_Offices.jpg/270px-Walgett_Shire_Council_Offices.jpg

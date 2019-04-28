@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ayumi_Hamasaki_in_concert%2C_April_2007.jpg/220px-Ayumi_Hamasaki_in_concert%2C_April_2007.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ayumi_Hamasaki_in_Paris.jpg/220px-Ayumi_Hamasaki_in_Paris.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ayumi_Hamasaki_in_London.jpg/220px-Ayumi_Hamasaki_in_London.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ayumi_Hamasaki_Asia_Tour_2008_Mirrorcle_World.jpg/220px-Ayumi_Hamasaki_Asia_Tour_2008_Mirrorcle_World.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

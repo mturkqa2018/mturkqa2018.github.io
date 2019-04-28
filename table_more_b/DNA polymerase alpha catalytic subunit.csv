@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>mosome_X.svg/300px-Ideogram_human_chromosome_X.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Human_chromosome_X_ideogram.svg/300px-Human_chromosome_X_ideogram.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ideogram_house_mouse_chromosome_X.svg/260px-Ideogram_house_mouse_chromosome_X.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ideogram_of_house_mouse_chromosome_X.svg/300px-Ideogram_of_house_mouse_chromosome_X.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/PBB_GE_POLA1_204835_at_fs.png/250px-PBB_GE_POLA1_204835_at_fs.png

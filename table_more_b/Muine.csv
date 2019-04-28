@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s:https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Gnomelogo.svg/35px-Gnomelogo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vista-multimedia.png/35px-Vista-multimedia.png

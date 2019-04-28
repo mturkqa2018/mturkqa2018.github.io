@@ -1,0 +1,11 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ttps://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/d/d1/Kit_body_lightblue_black_white.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Soccerball_current_event.svg/33px-Soccerball_current_event.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Stadium_MBPJ_Petaling_Jaya_Malaysia.jpeg/200px-Stadium_MBPJ_Petaling_Jaya_Malaysia.jpeg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/3/30/MIFA_FA.png/120px-MIFA_FA.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PJ_City_FC_logo.png/95px-PJ_City_FC_logo.png

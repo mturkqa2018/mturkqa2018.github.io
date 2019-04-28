@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ranthakan2.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/India_Tamil_Nadu_location_map.svg/250px-India_Tamil_Nadu_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Standup_Paddle_or_Paddling_in_Lake_Maduranthakam%2CCities_and_towns_in_Kanchipuram_district.jpg/276px-Standup_Paddle_or_Paddling_in_Lake_Maduranthakam%2CCities_and_towns_in_Kanchipuram_district.jpg

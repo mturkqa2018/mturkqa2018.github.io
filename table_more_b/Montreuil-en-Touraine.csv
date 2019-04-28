@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Centre-Val_de_Loire_region_location_map.svg/270px-Centre-Val_de_Loire_region_location_map.svg.png

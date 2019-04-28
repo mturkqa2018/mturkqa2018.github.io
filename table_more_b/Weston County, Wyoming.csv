@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/Flag_of_Weston_County%2C_Wyoming.gif/100px-Flag_of_Weston_County%2C_Wyoming.gif
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Map_of_Wyoming_highlighting_Weston_County.svg/200px-Map_of_Wyoming_highlighting_Weston_County.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Map_of_USA_WY.svg/200px-Map_of_USA_WY.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Map_of_Wyoming_highlighting_Weston_County.svg/180px-Map_of_Wyoming_highlighting_Weston_County.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Seal_of_Wyoming.svg/100px-Seal_of_Wyoming.svg.png

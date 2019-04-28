@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>wikimedia.org/wikipedia/commons/thumb/a/ab/CoA_fr_Les_Champs-G%C3%A9raux.svg/73px-CoA_fr_Les_Champs-G%C3%A9raux.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bretagne_region_location_map.svg/270px-Bretagne_region_location_map.svg.png

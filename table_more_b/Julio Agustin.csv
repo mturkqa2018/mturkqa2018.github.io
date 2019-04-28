@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Coverage-_Jerry_Mitchell_at_B%26N_for_%27Broadway_Bares-_Backstage_Pass%27_Signing.jpg

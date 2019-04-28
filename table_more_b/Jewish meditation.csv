@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>io_058.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/4Q201.jpg/200px-4Q201.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tree_of_life_bahir_Hebrew.svg/200px-Tree_of_life_bahir_Hebrew.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Shefa_Tal.png/150px-Shefa_Tal.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ari_Ashkenazi_Synagogue%2C_shiviti.jpg/150px-Ari_Ashkenazi_Synagogue%2C_shiviti.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/A_man_prays_at_the_Western_Wall_in_Jerusalem.jpg/150px-A_man_prays_at_the_Western_Wall_in_Jerusalem.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Prayers_in_Kutaisi_synagogue.jpg/170px-Prayers_in_Kutaisi_synagogue.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ford_Madox_Brown_003.jpg/170px-Ford_Madox_Brown_003.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Israel_Meir_Poupko%2C_tefillin.jpg/170px-Israel_Meir_Poupko%2C_tefillin.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png

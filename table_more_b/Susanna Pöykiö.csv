@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>umb/e/ee/SusannaPOYKIO_EC2007_SP.jpg/175px-SusannaPOYKIO_EC2007_SP.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Susanna_P%C3%96YKI%C3%96_European_Championships_2009.jpg/195px-Susanna_P%C3%96YKI%C3%96_European_Championships_2009.jpg

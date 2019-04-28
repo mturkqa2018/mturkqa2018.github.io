@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>x-KRMetrotram.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/KR_City_metrotram.jpg/250px-KR_City_metrotram.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kryvyi_Rih_-_Prospekt_Metalurhiv.jpg/220px-Kryvyi_Rih_-_Prospekt_Metalurhiv.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/AX_Kryvyi_Rih_Rapid_Tram_GeoMap_Uk_En_Routes.png/220px-AX_Kryvyi_Rih_Rapid_Tram_GeoMap_Uk_En_Routes.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/KrRih_metrotram_logo.svg/40px-KrRih_metrotram_logo.svg.png

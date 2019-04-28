@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>astern_Samar.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ph_locator_eastern_samar_sulat.png/250px-Ph_locator_eastern_samar_sulat.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Philippines_location_map_%28square%29.svg/250px-Philippines_location_map_%28square%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ph_fil_eastern_visayas.png/40px-Ph_fil_eastern_visayas.png

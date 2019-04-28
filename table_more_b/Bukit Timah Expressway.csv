@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Expressways_and_Semi-expressways_of_Singapore_2012.png/290px-Expressways_and_Semi-expressways_of_Singapore_2012.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bukit_Timah_Expressway.JPG/240px-Bukit_Timah_Expressway.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bukit_Timah_Expressway.jpg/240px-Bukit_Timah_Expressway.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Singapore_road_sign_-_Informatory_-_Expressway_begins_-_Type_II.svg/40px-Singapore_road_sign_-_Informatory_-_Expressway_begins_-_Type_II.svg.png

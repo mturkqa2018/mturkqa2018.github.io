@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>3cap.PNG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Dummy_Taylor%2C_pitcher%2C_Buffalo_Bisons%2C_ca._1910.jpg/170px-Dummy_Taylor%2C_pitcher%2C_Buffalo_Bisons%2C_ca._1910.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/80px-Flag_of_New_York.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/New_Yankee_Stadium.JPG/80px-New_Yankee_Stadium.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Citi_Field_and_Apple.JPG/80px-Citi_Field_and_Apple.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CarrierDome.jpg/80px-CarrierDome.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Barclays_Center_western_side.jpg/80px-Barclays_Center_western_side.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Madisonsquaregarden.jpg/80px-Madisonsquaregarden.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Michie_Stadium_West.jpg/80px-Michie_Stadium_West.jpg

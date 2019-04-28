@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>wikipedia/commons/thumb/8/84/Audi_Ar%C3%A9na_Gy%C5%91r_04.JPG/175px-Audi_Ar%C3%A9na_Gy%C5%91r_04.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hall_A_2013_World_Fencing_Championships_n3.jpg/175px-Hall_A_2013_World_Fencing_Championships_n3.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Budapest%2C_T%C3%BCskecsarnok_2.jpg/175px-Budapest%2C_T%C3%BCskecsarnok_2.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ar%C3%A9na_Savaria.JPG/175px-Ar%C3%A9na_Savaria.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lauber_Dezso_Sportcsarnok.jpg/175px-Lauber_Dezso_Sportcsarnok.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Zalaegerszegi_V%C3%A1rosi_Sportcsarnok.jpg/175px-Zalaegerszegi_V%C3%A1rosi_Sportcsarnok.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sport_hall_B%C3%A9k%C3%A9scsaba.jpg/160px-Sport_hall_B%C3%A9k%C3%A9scsaba.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tiszaligeti_Sportcsarnok.jpg/160px-Tiszaligeti_Sportcsarnok.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gy%C3%B6ngy%C3%B6siSportcsarnok.jpg/160px-Gy%C3%B6ngy%C3%B6siSportcsarnok.jpg

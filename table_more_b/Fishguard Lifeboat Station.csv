@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>wikimedia.org/wikipedia/commons/thumb/7/73/Wales_relief_location_map.jpg/240px-Wales_relief_location_map.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fishguard_lifeboat%2C_Blue_Peter_VII_-_geograph.org.uk_-_581422.jpg/281px-Fishguard_lifeboat%2C_Blue_Peter_VII_-_geograph.org.uk_-_581422.jpg

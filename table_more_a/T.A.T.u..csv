@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>umb/d/d3/Gaudi_arena.jpg/220px-Gaudi_arena.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tatu_Bacardi_2008.jpg/170px-Tatu_Bacardi_2008.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TatuGroupPhoto.jpg/220px-TatuGroupPhoto.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

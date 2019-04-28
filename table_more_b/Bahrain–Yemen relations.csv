@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>vg/250px-Bahrain%E2%80%93Yemen_Locator.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Emblem_of_Yemen.svg/80px-Emblem_of_Yemen.svg.png

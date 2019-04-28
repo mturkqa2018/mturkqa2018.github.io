@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/NeoHittiteStates.gif/200px-NeoHittiteStates.gif
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/King_Barrekub_prays_in_front_of_divine_symbols._Detail_of_a_stele_from_Sam%27al._8th_century_BC._Museum_of_the_Ancient_Orient%2C_Istanbul.jpg/220px-King_Barrekub_prays_in_front_of_divine_symbols._Detail_of_a_stele_from_Sam%27al._8th_century_BC._Museum_of_the_Ancient_Orient%2C_Istanbul.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pergamonmuseum_-_Vorderasiatisches_Museum_046.JPG/200px-Pergamonmuseum_-_Vorderasiatisches_Museum_046.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lion_Zincirli.JPG/225px-Lion_Zincirli.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/NeoHittiteStates.gif/300px-NeoHittiteStates.gif

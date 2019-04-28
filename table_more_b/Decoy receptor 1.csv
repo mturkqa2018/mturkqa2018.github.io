@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_chromosome_8_ideogram.svg/300px-Human_chromosome_8_ideogram.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/PBB_GE_TNFRSF10C_206222_at_fs.png/250px-PBB_GE_TNFRSF10C_206222_at_fs.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/PBB_GE_TNFRSF10C_210484_s_at_fs.png/250px-PBB_GE_TNFRSF10C_210484_s_at_fs.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/PBB_GE_TNFRSF10C_211163_s_at_fs.png/250px-PBB_GE_TNFRSF10C_211163_s_at_fs.png

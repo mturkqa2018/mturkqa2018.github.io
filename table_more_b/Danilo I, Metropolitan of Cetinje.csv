@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/thumb/e/e9/Danilo_%C5%A0%C4%8Dep%C4%87evi%C4%87%2C_The_Mountain_Wreath.jpg/250px-Danilo_%C5%A0%C4%8Dep%C4%87evi%C4%87%2C_The_Mountain_Wreath.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Coat_of_arms_of_Montenegro_%281711%29.png/50px-Coat_of_arms_of_Montenegro_%281711%29.png

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>tswa_highlighted_%282011%29.svg/250px-Map_of_South_Africa_with_Lejweleputswa_highlighted_%282011%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Map_of_the_Free_State_with_districts_shaded_and_municipalities_numbered_%282016%29.svg/140px-Map_of_the_Free_State_with_districts_shaded_and_municipalities_numbered_%282016%29.svg.png

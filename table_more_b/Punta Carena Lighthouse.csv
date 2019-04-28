@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>cation_map.svg/240px-Italy_Campania_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Italy_relief_location_map.jpg/240px-Italy_relief_location_map.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Capri_sights.png/220px-Capri_sights.png

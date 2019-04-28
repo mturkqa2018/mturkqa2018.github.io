@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s/thumb/d/d4/Tanzania_location_map.svg/220px-Tanzania_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Africa_location_map.svg/220px-Africa_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Aircraft_parked_at_Seronera_airstrip.jpg/120px-Aircraft_parked_at_Seronera_airstrip.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Seronera_Airstrip_2013.jpg/120px-Seronera_Airstrip_2013.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Seronera_Airstrip_Terminal.jpg/120px-Seronera_Airstrip_Terminal.jpg

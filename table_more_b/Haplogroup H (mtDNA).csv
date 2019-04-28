@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s_of_mtDNA_haplogroup_H.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Spatial_frequency_distribution_%28%25%29_of_haplogroup_H1_in_western_Eurasia_and_North_Africa..png/220px-Spatial_frequency_distribution_%28%25%29_of_haplogroup_H1_in_western_Eurasia_and_North_Africa..png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Phylogeny_of_haplogroup_H.png/220px-Phylogeny_of_haplogroup_H.png

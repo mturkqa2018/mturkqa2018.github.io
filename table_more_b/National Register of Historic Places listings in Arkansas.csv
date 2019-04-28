@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Little_Rock.jpg/220px-Arkansas_State_Capitol%2C_Little_Rock.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OldMainUofA.jpg/220px-OldMainUofA.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Central_High_in_Little_Rock_11.jpg/220px-Central_High_in_Little_Rock_11.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bill_Clinton_Birthplace.jpg/220px-Bill_Clinton_Birthplace.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Seal_of_Arkansas.svg/100px-Seal_of_Arkansas.svg.png

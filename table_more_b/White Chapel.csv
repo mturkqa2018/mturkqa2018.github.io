@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>elle-blanche-detail-2.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chapelle_blanche-detail-5.JPG/74px-Chapelle_blanche-detail-5.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Nome_L_Col_17_19.jpg/120px-Nome_L_Col_17_19.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Karnak_Temples.jpg/150px-Karnak_Temples.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Head_of_the_Great_Sphinx_%28icon%29.png/40px-Head_of_the_Great_Sphinx_%28icon%29.png

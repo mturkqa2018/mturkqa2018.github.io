@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dan_Hamhuis_Canucks_practice_2012.jpg/250px-Dan_Hamhuis_Canucks_practice_2012.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dan_Hamhuis_WC08.jpg/200px-Dan_Hamhuis_WC08.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2007_IIHF_WC_Dan_Hamhuis_crop.jpg/200px-2007_IIHF_WC_Dan_Hamhuis_crop.jpg

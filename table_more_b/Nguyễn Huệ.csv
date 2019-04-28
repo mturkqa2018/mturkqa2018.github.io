@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>tps:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/T%C6%B0%E1%BB%A3ng_%C4%91%C3%A0i_R%E1%BA%A1ch_G%E1%BA%A7m-Xo%C3%A0i_M%C3%BAt.JPG/200px-T%C6%B0%E1%BB%A3ng_%C4%91%C3%A0i_R%E1%BA%A1ch_G%E1%BA%A7m-Xo%C3%A0i_M%C3%BAt.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Annam%27s_envois_with_Qing%27s_officials.jpg/220px-Annam%27s_envois_with_Qing%27s_officials.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/An34_Tay_Son_Van_Hue_Quang_Trung_1ar_%2812409968153%29.jpg/200px-An34_Tay_Son_Van_Hue_Quang_Trung_1ar_%2812409968153%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Royal_order_concerning_tax_exemption%2C_Tay_Son_dynasty%2C_15_May_of_3rd_year_of_Quang_Trung_reign_%281790_AD%29%2C_paper_-_National_Museum_of_Vietnamese_History_-_Hanoi%2C_Vietnam_-_DSC05654.JPG/200px-thumbnail.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/V%C5%A9_kh%C3%AD_T%C3%A2y_S%C6%A1n.jpg/200px-V%C5%A9_kh%C3%AD_T%C3%A2y_S%C6%A1n.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Giaybac200-1514640852545.jpg/200px-Giaybac200-1514640852545.jpg

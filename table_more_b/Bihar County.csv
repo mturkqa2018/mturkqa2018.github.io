@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>r.png/250px-Hungary_Bihar.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Szent_L%C3%A1szl%C3%B3_legenda_4.jpg/220px-Szent_L%C3%A1szl%C3%B3_legenda_4.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Transylvanian_Principality.svg/250px-Transylvanian_Principality.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bethlen_G%C3%A1bor_fejedelems%C3%A9ge.png/250px-Bethlen_G%C3%A1bor_fejedelems%C3%A9ge.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bihar_county_map_%281891%29.jpg/200px-Bihar_county_map_%281891%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bihar_ethnic_map.png/200px-Bihar_ethnic_map.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bihar_v%C3%A1rmegye.png/500px-Bihar_v%C3%A1rmegye.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kingdom_of_Hungary_counties.svg/150px-Kingdom_of_Hungary_counties.svg.png

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>png/100px-Argyle_NS_seal.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Argyle_Municipal_District_-_Nova_Scotia.PNG/250px-Argyle_Municipal_District_-_Nova_Scotia.PNG

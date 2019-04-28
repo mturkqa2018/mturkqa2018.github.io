@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>1px-Thomas_William_Hislop%2C_1908.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/William_Henry_Peter_Barber.jpg/104px-William_Henry_Peter_Barber.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/John_Luke.jpg/100px-John_Luke.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wellington_Mayoral_Instillation%2C_1905.jpg/250px-Wellington_Mayoral_Instillation%2C_1905.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wellington_COA.gif/50px-Wellington_COA.gif

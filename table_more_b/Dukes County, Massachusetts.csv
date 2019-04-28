@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ssachusetts_seal.png/75px-Dukes_County%2C_Massachusetts_seal.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Map_of_Massachusetts_highlighting_Dukes_County.svg/200px-Map_of_Massachusetts_highlighting_Dukes_County.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Map_of_USA_MA.svg/200px-Map_of_USA_MA.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Early_seal_of_Dukes_County%2C_Massachusetts.svg/130px-Early_seal_of_Dukes_County%2C_Massachusetts.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Map_of_Massachusetts_highlighting_Dukes_County.svg/180px-Map_of_Massachusetts_highlighting_Dukes_County.svg.png

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ral_Rly_1865.gif/220px-Scottish_Central_Rly_1865.gif
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Perth_Scotland_railways.gif/220px-Perth_Scotland_railways.gif

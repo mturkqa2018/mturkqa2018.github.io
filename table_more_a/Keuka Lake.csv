@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/New_York_Adirondack.svg/250px-New_York_Adirondack.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Usa_edcp_relief_location_map.png/250px-Usa_edcp_relief_location_map.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Fingerlakesmap.png/400px-Fingerlakesmap.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/LangleyAerodromeFlown.jpg/250px-LangleyAerodromeFlown.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bluffpoint.jpg/220px-Bluffpoint.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png

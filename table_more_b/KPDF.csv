@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/e/e4/Kpdf_icon.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kpdf-screenshot.png/250px-Kpdf-screenshot.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/KDE_logo.svg/60px-KDE_logo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/KDE4_logo_preview.svg/35px-KDE4_logo_preview.svg.png

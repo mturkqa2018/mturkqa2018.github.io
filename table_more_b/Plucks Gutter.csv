@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/The_Dog_and_Duck_pub%2C_Plucks_Gutter.jpg/220px-The_Dog_and_Duck_pub%2C_Plucks_Gutter.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kent_UK_location_map.svg/240px-Kent_UK_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/KentDover.svg/100px-KentDover.svg.png

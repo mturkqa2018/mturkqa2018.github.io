@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Gasperi_2.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Palmiro_Togliatti_Official.jpg/114px-Palmiro_Togliatti_Official.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pietro_Nenni_2.jpg/111px-Pietro_Nenni_2.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Italian_Election_1953_Province.png/200px-Italian_Election_1953_Province.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Italian_Election_1953_Senate.png/200px-Italian_Election_1953_Senate.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Italian_Chamber_of_Deputies_1953.svg/300px-Italian_Chamber_of_Deputies_1953.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Italian_Senate_1953.svg/300px-Italian_Senate_1953.svg.png

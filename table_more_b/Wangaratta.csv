@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ingsOverWangaratta.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Australia_Victoria_location_map.svg/270px-Australia_Victoria_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/WangarattaOldPostOffice.JPG/220px-WangarattaOldPostOffice.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/WangarattaOldFreeLibrary.JPG/220px-WangarattaOldFreeLibrary.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Holy_Trinity_Cathedral%2C_Wangaratta%2C_2018_%2803%29.jpg/220px-Holy_Trinity_Cathedral%2C_Wangaratta%2C_2018_%2803%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/WangarattaRomanCatholicChurch.JPG/220px-WangarattaRomanCatholicChurch.JPG
+https:https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Wangaratta_murphy_street_1908.jpg/220px-Wangaratta_murphy_street_1908.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WangarattaGovernmentCentre.JPG/220px-WangarattaGovernmentCentre.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ok07gf3rds.jpg/220px-Ok07gf3rds.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wangaratta_railway_station.jpg/220px-Wangaratta_railway_station.jpg

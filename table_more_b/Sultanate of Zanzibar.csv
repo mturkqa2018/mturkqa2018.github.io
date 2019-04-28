@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>wikipedia/commons/thumb/c/cc/Sultanat_de_Zanzibar_v%C3%A8rs_1875.png/220px-Sultanat_de_Zanzibar_v%C3%A8rs_1875.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Anglo-Zanzibar_war_map.png/250px-Anglo-Zanzibar_war_map.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Harem_and_Tower_Harbour_of_Zanzibar_%28p.234%2C_1890%29_-_Copy.jpg/200px-The_Harem_and_Tower_Harbour_of_Zanzibar_%28p.234%2C_1890%29_-_Copy.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Zanzibar_1964_Jamhuri_overprint_stamp.jpg/180px-Zanzibar_1964_Jamhuri_overprint_stamp.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/National_emblem_of_Oman.svg/50px-National_emblem_of_Oman.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Coat_of_arms_of_Tanzania.svg/75px-Coat_of_arms_of_Tanzania.svg.png

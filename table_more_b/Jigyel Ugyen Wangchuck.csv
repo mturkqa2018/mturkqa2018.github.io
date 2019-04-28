@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s/thumb/e/eb/Emblem_of_Bhutan.svg/100px-Emblem_of_Bhutan.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/6/68/The_queen_of_bhutan.jpg/262px-The_queen_of_bhutan.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Emblem_of_Bhutan.svg/70px-Emblem_of_Bhutan.svg.png

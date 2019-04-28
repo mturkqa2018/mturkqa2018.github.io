@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>tem-search.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/45px-Unbalanced_scales.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/HCR_Manor_Care_World_Headquarters.jpg/200px-HCR_Manor_Care_World_Headquarters.jpg

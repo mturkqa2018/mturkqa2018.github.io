@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>a.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/100px-Flag_of_New_Zealand.svg.png

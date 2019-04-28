@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ons/thumb/0/0f/Gravitomagnetic_field_due_to_angular_momentum.svg/190px-Gravitomagnetic_field_due_to_angular_momentum.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SI_base_units.svg/125px-SI_base_units.svg.png

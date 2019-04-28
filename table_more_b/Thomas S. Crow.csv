@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ng
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/US_Navy_790601-N-0000X-001_Retired_Master_Chief_Petty_Officer_of_the_Navy_%28MCPON%29_Tom_Crow_died_of_cancer_Sunday%2C_Nov._30th_at_his_home_in_San_Diego.jpg/220px-US_Navy_790601-N-0000X-001_Retired_Master_Chief_Petty_Officer_of_the_Navy_%28MCPON%29_Tom_Crow_died_of_cancer_Sunday%2C_Nov._30th_at_his_home_in_San_Diego.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/En-NavyAircrew.jpg/140px-En-NavyAircrew.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MCPON_Full.png/50px-MCPON_Full.png

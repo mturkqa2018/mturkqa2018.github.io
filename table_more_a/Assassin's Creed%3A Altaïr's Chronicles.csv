@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Assassin%27s_Creed_Alta%C3%AFr%27s_Chronicles.png/220px-Assassin%27s_Creed_Alta%C3%AFr%27s_Chronicles.png

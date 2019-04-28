@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>y_Polamalu-vsRams-Dec-20-07.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Terrell_Suggs_2011_stadium_practice.jpg/170px-Terrell_Suggs_2011_stadium_practice.jpg

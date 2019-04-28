@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ertay_University_Logo.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Abertay_University_logo.png/220px-Abertay_University_logo.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abertay_Kidd_building.jpg/220px-Abertay_Kidd_building.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Abertaylib.jpg/220px-Abertaylib.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/University_of_Abertay_Dundee_logo.jpg/220px-University_of_Abertay_Dundee_logo.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Old_College_Quad.jpg/240px-Old_College_Quad.jpg

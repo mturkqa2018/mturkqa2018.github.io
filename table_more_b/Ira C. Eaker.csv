@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Eaker.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boeing_P-12.jpg/250px-Boeing_P-12.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/BG_Ira_Eaker.jpg/220px-BG_Ira_Eaker.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/US-O4_insignia.svg/33px-US-O4_insignia.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/US-O4_insignia.svg/33px-US-O4_insignia.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/US-O5_insignia.svg/33px-US-O5_insignia.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/US-O5_insignia.svg/33px-US-O5_insignia.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/COMMAND_PILOT_WINGS.png/150px-COMMAND_PILOT_WINGS.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/IraEaker-bust.jpg/200px-IraEaker-bust.jpg

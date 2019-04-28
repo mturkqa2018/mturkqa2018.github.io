@@ -1,0 +1,12 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/thumb/2/2b/CSS_Albemarle.jpg/300px-CSS_Albemarle.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Building_the_Albemarle.jpg/220px-Building_the_Albemarle.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sinking_of_the_Southfield.jpg/220px-Sinking_of_the_Southfield.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WoodVIron.jpg/300px-WoodVIron.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/CSSAlbemarle1.gif/300px-CSSAlbemarle1.gif
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/WilliamBCushing.jpg/220px-WilliamBCushing.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Naval_battles%2C_ancient_and_modern_%281883%29_%2814578563567%29.jpg/220px-Naval_battles%2C_ancient_and_modern_%281883%29_%2814578563567%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CSSAlbemarle.jpg/220px-CSSAlbemarle.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CSS_Albemarle_replica.JPG/220px-CSS_Albemarle_replica.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Flag_of_North_Carolina_%281861%E2%80%931865%29.svg/75px-Flag_of_North_Carolina_%281861%E2%80%931865%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flag_of_the_Confederate_States_of_America_%281861%E2%80%931863%29.svg/75px-Flag_of_the_Confederate_States_of_America_%281861%E2%80%931863%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Confederate_States_of_America_%281863%E2%80%931865%29.svg/75px-Flag_of_the_Confederate_States_of_America_%281863%E2%80%931865%29.svg.png

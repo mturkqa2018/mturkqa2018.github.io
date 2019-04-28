@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>e_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/DE_Iteas.svg/250px-DE_Iteas.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Itea_Cityscape.jpg/230px-Itea_Cityscape.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Itea_Sunset.jpg/230px-Itea_Sunset.jpg

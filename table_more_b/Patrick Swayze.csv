@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>a.org/wikipedia/commons/thumb/5/55/Paula_Abdul_%26_Patrick_Swayze_%28cropped%29.jpg/220px-Paula_Abdul_%26_Patrick_Swayze_%28cropped%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alan_Light_-_Patrick_Swayze_-_1990_Grammy_Awards_%28cropped%29.jpg/250px-Alan_Light_-_Patrick_Swayze_-_1990_Grammy_Awards_%28cropped%29.jpg

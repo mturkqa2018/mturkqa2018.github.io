@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ommons/thumb/6/6c/Einsatzgruppen_murder_Jews_in_Ivanhorod%2C_Ukraine%2C_1942.jpg/220px-Einsatzgruppen_murder_Jews_in_Ivanhorod%2C_Ukraine%2C_1942.jpg

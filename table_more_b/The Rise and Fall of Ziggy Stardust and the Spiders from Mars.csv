@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>3Mix.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/VinceTaylor1963Blokker.jpg/220px-VinceTaylor1963Blokker.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ziggy_Stardust_plaque.jpg/220px-Ziggy_Stardust_plaque.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/David-Bowie_Early.jpg/220px-David-Bowie_Early.jpg

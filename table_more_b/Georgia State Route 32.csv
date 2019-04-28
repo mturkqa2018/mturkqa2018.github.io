@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>rgia_state_route_32_map.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Jefferson_Davis_Highway_marker%2C_Irwin_County%2C_GA%2C_US.jpg/220px-Jefferson_Davis_Highway_marker%2C_Irwin_County%2C_GA%2C_US.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Georgia_32.svg/40px-Georgia_32.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Georgia_32_Connector.svg/40px-Georgia_32_Connector.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Georgia_32.svg/40px-Georgia_32.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Georgia_32_Connector.svg/40px-Georgia_32_Connector.svg.png

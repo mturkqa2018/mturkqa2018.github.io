@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/upload.wikimedia.org/wikipedia/commons/thumb/8/81/S%C3%ADmbolo_radiaci%C3%B3n.png/35px-S%C3%ADmbolo_radiaci%C3%B3n.png

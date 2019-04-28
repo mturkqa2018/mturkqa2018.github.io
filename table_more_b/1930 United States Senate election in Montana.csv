@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ommons/thumb/a/a7/Thomas_J._Walsh_cph.3c02581.jpg/125px-Thomas_J._Walsh_cph.3c02581.jpg

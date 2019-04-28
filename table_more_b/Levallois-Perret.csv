@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Blason_Levallois-Perret_92.svg/73px-Blason_Levallois-Perret_92.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Levallois-Perret_map.svg/250px-Levallois-Perret_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ile-de-France_region_location_map.svg/270px-Ile-de-France_region_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Levallois_streets.JPG/200px-Levallois_streets.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/c/cd/Levallois.gif
+https:https://upload.wikimedia.org/wikipedia/en/9/9a/Logo_levallois_perret.gif

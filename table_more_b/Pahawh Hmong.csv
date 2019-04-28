@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>lossed.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Pahawh_Source_rimes.png/220px-Pahawh_Source_rimes.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Pahawh_Source_onsets.png/220px-Pahawh_Source_onsets.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Braille_I9.svg/50px-Braille_I9.svg.png

@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/thumb/b/b5/Marc_Guggenheim_by_Gage_Skidmore_3.jpg/220px-Marc_Guggenheim_by_Gage_Skidmore_3.jpg

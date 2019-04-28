@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>5px-Emblem_of_SFR_Yugoslavia.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Wereldkampioenschappen_ijshockey_C-landen_te_Gen%C3%A8ve_Nederland_tegen_Joegoslavi%E2%80%A6%2C_Bestanddeelnr_912-1815.jpg/220px-Wereldkampioenschappen_ijshockey_C-landen_te_Gen%C3%A8ve_Nederland_tegen_Joegoslavi%E2%80%A6%2C_Bestanddeelnr_912-1815.jpg

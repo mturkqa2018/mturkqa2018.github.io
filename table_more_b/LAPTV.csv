@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/4/4c/LapTelevision.jpeg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LAPTV_Channels_2010.png/400px-LAPTV_Channels_2010.png
+https:https://upload.wikimedia.org/wikipedia/commons/d/d3/Cinecanal.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HD_Television.svg/33px-HD_Television.svg.png

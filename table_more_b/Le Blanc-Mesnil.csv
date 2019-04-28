@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>%A8che_de_l%27H%C3%B4tel_de_ville.jpg/166px-La_Place_de_l%27eau_et_la_fl%C3%A8che_de_l%27H%C3%B4tel_de_ville.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blason_Blanc-M%C3%A9nil_93.svg/73px-Blason_Blanc-M%C3%A9nil_93.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Le_Blanc-Mesnil_map.svg/250px-Le_Blanc-Mesnil_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ile-de-France_region_location_map.svg/270px-Ile-de-France_region_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blason_Blanc-M%C3%A9nil_93.svg/120px-Blason_Blanc-M%C3%A9nil_93.svg.png

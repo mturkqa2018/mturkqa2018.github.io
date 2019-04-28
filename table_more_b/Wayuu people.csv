@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Wayuumap.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Map_of_La_Guajira_1769.png/250px-Map_of_La_Guajira_1769.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wayuu_on_horses_1928.png/250px-Wayuu_on_horses_1928.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Guajiran_artisans.jpg/220px-Guajiran_artisans.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Chinchorro_wayuu_en_choza.png/250px-Chinchorro_wayuu_en_choza.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rancher%C3%ADa_Way%C3%BAu.JPG/220px-Rancher%C3%ADa_Way%C3%BAu.JPG
+https:https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Hammockguajira.png/220px-Hammockguajira.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Wayuu_Patterns._Wayuu-mochila-bags.png/220px-Wayuu_Patterns._Wayuu-mochila-bags.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mochilas_wayuu.png/220px-Mochilas_wayuu.png

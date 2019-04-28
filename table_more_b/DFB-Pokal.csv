@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>vg/33px-Soccerball_current_event.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/DFB_Pokal.jpg/220px-DFB_Pokal.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/DFB-Pokal_logo_2010.svg/100px-DFB-Pokal_logo_2010.svg.png

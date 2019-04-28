@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s/thumb/1/1f/Moscow_map_MKAD_grayscale.png/240px-Moscow_map_MKAD_grayscale.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Moscow_metro_map_including_line_14.svg/240px-Moscow_metro_map_including_line_14.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Alexeyevskaya_%28%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29_%285316674917%29.jpg/220px-Alexeyevskaya_%28%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29_%285316674917%29.jpg

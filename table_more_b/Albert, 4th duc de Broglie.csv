@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Albert_de_Broglie.jpg/220px-Ingres_Princess_Albert_de_Broglie.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Blason-broglie.png/60px-Blason-broglie.png

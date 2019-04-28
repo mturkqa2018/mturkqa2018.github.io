@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>MG_1012.JPG/250px-Catholic_Church%2C_Victoria%2C_TX_IMG_1012.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Relief_map_of_Texas.png/250px-Relief_map_of_Texas.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Usa_edcp_relief_location_map.png/250px-Usa_edcp_relief_location_map.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Map_of_Texas_highlighting_Victoria_County.svg/100px-Map_of_Texas_highlighting_Victoria_County.svg.png

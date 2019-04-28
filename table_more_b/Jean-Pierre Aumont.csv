@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>px-Jean-Pierre_Aumont_1959.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Marisa_Pavan_Jean-Pierre_Aumont_1965.jpg/180px-Marisa_Pavan_Jean-Pierre_Aumont_1965.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jean-Pierre_Aumont_Cannes_nineties.jpg/220px-Jean-Pierre_Aumont_Cannes_nineties.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Jean-Pierre-Aumont-in-%E2%80%9CLac-aux-Dames%E2%80%9D-1934-a.jpg/220px-Jean-Pierre-Aumont-in-%E2%80%9CLac-aux-Dames%E2%80%9D-1934-a.jpg

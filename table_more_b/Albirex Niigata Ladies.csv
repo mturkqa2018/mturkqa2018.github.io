@@ -1,0 +1,15 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ata.png
+https:https://upload.wikimedia.org/wikipedia/commons/1/14/Kit_body_ALBIREX_12h.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/6/6a/Kit_shorts_adidas_blue.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/a/aa/Kit_socks_ALBIREX_12h.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/c/c5/Kit_body_ALBIREX_12a.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/8/8b/Kit_shorts_ALBIREX_12a.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/e/ef/Kit_socks_ALBIREX_12a.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/50px-Flag_of_Japan.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Soccerball_mask.svg/50px-Soccerball_mask.svg.png

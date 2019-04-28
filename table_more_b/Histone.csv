@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>png/220px-Protein_H2AFJ_PDB_1aoi.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/PBB_Protein_HIST1H1B_image.jpg/220px-PBB_Protein_HIST1H1B_image.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Histone_modifications.png/640px-Histone_modifications.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Methyl_lysine.svg/300px-Methyl_lysine.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Methyl_arginine.svg/350px-Methyl_arginine.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Acetyl_lysine.tif/lossy-page1-194px-Acetyl_lysine.tif.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Amino_acid_phosphorylations.tif/lossy-page1-788px-Amino_acid_phosphorylations.tif.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>chusetts_Route_24.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Route_24_Fall_River.JPG/220px-Route_24_Fall_River.JPG

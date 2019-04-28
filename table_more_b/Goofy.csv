@@ -1,0 +1,11 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https:https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Goofy_Debut.PNG/250px-Goofy_Debut.PNG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Disney_drawing_goofy.jpg/180px-Disney_drawing_goofy.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/602d_Bombardment_Squadron_-_Emblem.png/118px-602d_Bombardment_Squadron_-_Emblem.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/756th_Bombardment_Squadron_-_Emblem.png/120px-756th_Bombardment_Squadron_-_Emblem.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Geefgoof.jpg/250px-Geefgoof.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Goofymoviemain.jpg/250px-Goofymoviemain.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Goofyll8.jpg/170px-Goofyll8.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kingdom_Hearts_heart_symbol.svg/50px-Kingdom_Hearts_heart_symbol.svg.png

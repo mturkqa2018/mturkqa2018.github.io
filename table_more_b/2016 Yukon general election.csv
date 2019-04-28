@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>wikimedia.org/wikipedia/commons/thumb/b/b8/Darrell_Pasloski.jpg/100px-Darrell_Pasloski.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Liz_Hanson.jpg/107px-Liz_Hanson.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Yukon_Election_2016_Results_Map.svg/351px-Yukon_Election_2016_Results_Map.svg.png

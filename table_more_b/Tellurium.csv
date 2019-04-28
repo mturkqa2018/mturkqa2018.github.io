@@ -1,0 +1,12 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ium_spectrum_visible.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hexagonal.svg/50px-Hexagonal.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tellurium.jpg/220px-Tellurium.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tellurium-89043.jpg/220px-Tellurium-89043.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Martin_Heinrich_Klaproth.jpg/220px-Martin_Heinrich_Klaproth.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/World_Tellurium_Production_2006.svg/310px-World_Tellurium_Production_2006.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/TeO2powder.jpg/220px-TeO2powder.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NREL_Array.jpg/200px-NREL_Array.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GHS-pictogram-exclam.svg/50px-GHS-pictogram-exclam.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/GHS-pictogram-silhouette.svg/50px-GHS-pictogram-silhouette.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/80px-NFPA_704.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png

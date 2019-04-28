@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>edia.org/wikipedia/commons/thumb/7/70/Cllr_John_Hale.jpg/120px-Cllr_John_Hale.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wirral_Council_Election_Results_Map_1988.svg/300px-Wirral_Council_Election_Results_Map_1988.svg.png

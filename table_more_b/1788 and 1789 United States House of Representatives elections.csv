@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>t_Stuart_1804.jpeg/147px-James_Madison_by_Gilbert_Stuart_1804.jpeg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/1788HouseofRepsElection.svg/400px-1788HouseofRepsElection.svg.png

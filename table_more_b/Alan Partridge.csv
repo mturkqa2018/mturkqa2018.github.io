@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>n_2013.jpg/200px-Steve_Coogan_2013.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Market_Square%2C_Norwich.JPG/220px-Market_Square%2C_Norwich.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

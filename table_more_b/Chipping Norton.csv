@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>kimedia.org/wikipedia/commons/thumb/5/58/Oxfordshire_UK_location_map.svg/240px-Oxfordshire_UK_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Church_of_St_Mary%2C_Chipping_Norton_-_geograph.org.uk_-_1955588.jpg/220px-Church_of_St_Mary%2C_Chipping_Norton_-_geograph.org.uk_-_1955588.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Chipping_Norton_Almshouses_-_geograph.org.uk_-_236409.jpg/220px-Chipping_Norton_Almshouses_-_geograph.org.uk_-_236409.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Town_Hall_Chipping_Norton_-_geograph.org.uk_-_1955577.jpg/220px-The_Town_Hall_Chipping_Norton_-_geograph.org.uk_-_1955577.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Chipping_Norton_Railway_Station.jpg/220px-Chipping_Norton_Railway_Station.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bliss_Mill_from_Worcester_Road_-_geograph.org.uk_-_329977.jpg/220px-Bliss_Mill_from_Worcester_Road_-_geograph.org.uk_-_329977.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Former_Chipping_Norton_Recording_Studios.jpg/220px-Former_Chipping_Norton_Recording_Studios.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/OxfordshireWest.png/75px-OxfordshireWest.png

@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ttps://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steubenville%2C_Ohio%2C_Fort_Steuben_Bridge.jpg/220px-Steubenville%2C_Ohio%2C_Fort_Steuben_Bridge.jpg

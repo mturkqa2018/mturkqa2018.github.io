@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Medium_format.jpg/220px-Medium_format.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Film_size_comparison.jpg/320px-Film_size_comparison.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Pentaxshift.jpg/320px-Pentaxshift.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mamiya_645_Super_system.svg/320px-Mamiya_645_Super_system.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Baldafix_folding_camera.jpg/220px-Baldafix_folding_camera.jpg

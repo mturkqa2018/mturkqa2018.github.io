@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Lo%C3%AFcRemy.jpg/200px-Lo%C3%AFcRemy.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lo%C3%AFc_R%C3%A9my_5414b.jpg/200px-Lo%C3%AFc_R%C3%A9my_5414b.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Filipe_Lu%C3%ADs_Kasmirski%2C_Lo%C3%AFc_R%C3%A9my%2C_Chelsea_3_Watford_0_FA_Cup_3rd_round.jpg/220px-Filipe_Lu%C3%ADs_Kasmirski%2C_Lo%C3%AFc_R%C3%A9my%2C_Chelsea_3_Watford_0_FA_Cup_3rd_round.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Loic_Remy_-_France_v_Armenia.jpg/220px-Loic_Remy_-_France_v_Armenia.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chris_Gadi_-_Trophee_des_champions_2011.jpeg/180px-Chris_Gadi_-_Trophee_des_champions_2011.jpeg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/50px-Flag_of_France.svg.png

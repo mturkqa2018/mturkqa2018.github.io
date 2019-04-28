@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>RomanDeckert.jpg/100px-HassanAlTurabi_Feb2015_RomanDeckert.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/1986_Sudanese_parliamentary_election_map.svg/300px-1986_Sudanese_parliamentary_election_map.svg.png

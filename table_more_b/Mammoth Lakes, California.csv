@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/100px-TownOfMammothLakeslogo.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/California_Locator_Map_with_US.PNG/250px-California_Locator_Map_with_US.PNG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Mammoth_Lakes_%28Dec_2013%29_03.JPG/220px-Mammoth_Lakes_%28Dec_2013%29_03.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mammoth_Lakes_%28Dec_2013%29_01.JPG/220px-Mammoth_Lakes_%28Dec_2013%29_01.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Deena_Kastor_at_the_2007_Boston_Marathon.jpg/180px-Deena_Kastor_at_the_2007_Boston_Marathon.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Map_of_California_highlighting_Mono_County.svg/87px-Map_of_California_highlighting_Mono_County.svg.png

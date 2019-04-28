@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>dia.org/wikipedia/commons/thumb/f/f5/Blason_ville_fr_Abbaretz_%28Loire-Atlantique%29.svg/73px-Blason_ville_fr_Abbaretz_%28Loire-Atlantique%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Pays_de_la_Loire_region_location_map.svg/270px-Pays_de_la_Loire_region_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Blason_ville_fr_Abbaretz_%28Loire-Atlantique%29.svg/120px-Blason_ville_fr_Abbaretz_%28Loire-Atlantique%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Abbaretz_-_Panorama_terril.jpg/440px-Abbaretz_-_Panorama_terril.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Abbaretz_mine.jpg/120px-Abbaretz_mine.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Abbaretz_-_Terril_%281%29.jpg/120px-Abbaretz_-_Terril_%281%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Forges_de_la_Jahoti%C3%A8re_%28usine_haut-fourneau_chemin%C3%A9e%29_-_Abbaretz.jpg/79px-Forges_de_la_Jahoti%C3%A8re_%28usine_haut-fourneau_chemin%C3%A9e%29_-_Abbaretz.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Forges_de_la_Jahoti%C3%A8re_%28logis_fa%C3%A7ade%29_-_Abbaretz.jpg/120px-Forges_de_la_Jahoti%C3%A8re_%28logis_fa%C3%A7ade%29_-_Abbaretz.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Forges_de_la_Jahoti%C3%A8re_%28r%C3%A9fectoire_2%29_-_Abbaretz.jpg/120px-Forges_de_la_Jahoti%C3%A8re_%28r%C3%A9fectoire_2%29_-_Abbaretz.jpg

@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_map.svg/250px-USA_Colorado_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/250px-Usa_edcp_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/D%26RGW_168_in_1909_2.jpg/180px-D%26RGW_168_in_1909_2.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/D%26RGW_168_in_1904.jpg/127px-D%26RGW_168_in_1904.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/DRGW_168_in_1923.jpg/180px-DRGW_168_in_1923.jpg

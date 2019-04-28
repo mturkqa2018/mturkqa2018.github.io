@@ -1,0 +1,13 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ok_z_Czantorii.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flaga_Ksi%C4%99stwa_Cieszy%C5%84skiego.jpg/100px-Flaga_Ksi%C4%99stwa_Cieszy%C5%84skiego.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cieszyn_Piast_dynasty_COA.png/100px-Cieszyn_Piast_dynasty_COA.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Slask_cieszynski.png/250px-Slask_cieszynski.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Poland_adm_location_map.svg/250px-Poland_adm_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Czech_Republic_adm_location_map.svg/250px-Czech_Republic_adm_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/%C5%9Al%C4%85sk_Cieszy%C5%84ski.PNG/250px-%C5%9Al%C4%85sk_Cieszy%C5%84ski.PNG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Cieszyn_-_Wie%C5%BCa_Piastowska_01.jpg/200px-Cieszyn_-_Wie%C5%BCa_Piastowska_01.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Olza_grodek.jpg/250px-Olza_grodek.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Festiwal_pzko_1078.jpg/250px-Festiwal_pzko_1078.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dux_Tessinensis_Wernigeroder_Wappenbuch.jpg/50px-Dux_Tessinensis_Wernigeroder_Wappenbuch.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cieszyn_Piast_dynasty_COA.png/50px-Cieszyn_Piast_dynasty_COA.png

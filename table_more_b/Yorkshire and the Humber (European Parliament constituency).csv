@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ber.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Royal_Arms_of_England.svg/105px-Royal_Arms_of_England.svg.png

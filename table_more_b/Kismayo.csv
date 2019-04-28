@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ief_location_map.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Muzzaffar_%28Mogadishu_area%29_flag_according_to_1576_Portuguese_map.svg/200px-Muzzaffar_%28Mogadishu_area%29_flag_according_to_1576_Portuguese_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Harti-MohamedZubeir.png/250px-Harti-MohamedZubeir.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kismaayo_panorama.jpg/200px-Kismaayo_panorama.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Huseen_boqow.jpg/200px-Huseen_boqow.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kismayo_Dalxiiska_2016.jpg/220px-Kismayo_Dalxiiska_2016.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kismayo_city_map.gif/220px-Kismayo_city_map.gif
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kismayo_Airport.jpg/220px-Kismayo_Airport.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Kismayo_Int_Airport_2016.jpg/220px-Kismayo_Int_Airport_2016.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png

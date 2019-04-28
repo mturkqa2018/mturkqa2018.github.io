@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ion_map.svg/230px-Australia_South_Australia_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Fowlers-Bay-approach.JPG/120px-Fowlers-Bay-approach.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fowlers-Bay-jetty.JPG/120px-Fowlers-Bay-jetty.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Fowlers-Bay-cemetery.JPG/120px-Fowlers-Bay-cemetery.JPG

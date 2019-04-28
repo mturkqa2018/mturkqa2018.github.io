@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>HS.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Swami_William.jpg/120px-Swami_William.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Germany_film_clapperboard.svg/35px-Germany_film_clapperboard.svg.png

@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_mark.svg/40px-Text_document_with_red_question_mark.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Takehara_kuresen004.JPG/300px-Takehara_kuresen004.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/JRW-115-2000EC-hiroshima.jpg/220px-JRW-115-2000EC-hiroshima.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/JR_logo_%28west%29.svg/80px-JR_logo_%28west%29.svg.png

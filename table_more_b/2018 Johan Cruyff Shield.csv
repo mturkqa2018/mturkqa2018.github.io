@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>dia.org/wikipedia/commons/d/d2/Kit_shorts_psv1819h.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/b/b0/Kit_socks_psv1819h_long.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/f/f5/Kit_body_feyenoord1819A.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/e/e8/Kit_shorts_feyenoord1819A.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png

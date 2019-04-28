@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s_map.PNG/250px-Commonwealth_games_1958_countries_map.PNG
+https:https://upload.wikimedia.org/wikipedia/en/4/48/1958_British_Empire_and_Commonwealth_Games_poster.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/1958_Commonwealth_Games_3d_Stamp.jpg/220px-1958_Commonwealth_Games_3d_Stamp.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Commonwealth_Games_Federation_seal.svg/100px-Commonwealth_Games_Federation_seal.svg.png

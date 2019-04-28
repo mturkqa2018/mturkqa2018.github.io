@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>20px-Crown_Prince_Asfaw_Wossen.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bundesarchiv_Bild_102-12834%2C_Kronprinz_von_Abessinien_und_K%C3%B6nig_Fuad_I..jpg/260px-Bundesarchiv_Bild_102-12834%2C_Kronprinz_von_Abessinien_und_K%C3%B6nig_Fuad_I..jpg

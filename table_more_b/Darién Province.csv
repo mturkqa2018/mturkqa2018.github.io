@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>px-La_palma%2C_Dari%C3%A9n.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bandera_de_la_Provincia_de_Dari%C3%A9n.svg/100px-Bandera_de_la_Provincia_de_Dari%C3%A9n.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Panama_-_Darien.svg/250px-Panama_-_Darien.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Panama_Embera_0617.jpg/220px-Panama_Embera_0617.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Darien_Gap_OSM.svg/250px-Darien_Gap_OSM.svg.png

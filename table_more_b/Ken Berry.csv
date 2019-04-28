@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>https:https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ken_Berry_1972.JPG/220px-Ken_Berry_1972.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Carol_Burnett_Once_Upon_a_Mattress_1972.JPG/225px-Carol_Burnett_Once_Upon_a_Mattress_1972.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Andy_Griffith_Ken_Berry_Mayberry_RFD_1968.JPG/225px-Andy_Griffith_Ken_Berry_Mayberry_RFD_1968.JPG

@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Split_on_NY_96_in_Owego.jpg/220px-Split_on_NY_96_in_Owego.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/NY_89-96_north_in_Ithaca.jpg/220px-NY_89-96_north_in_Ithaca.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/NY_96_south_at_Main_St_Waterloo.jpg/220px-NY_96_south_at_Main_St_Waterloo.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/NY_96_south_at_NY_14.jpg/220px-NY_96_south_at_NY_14.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rochester_Eastview_Mall.jpg/220px-Rochester_Eastview_Mall.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/NY_96_south_at_NY_31.jpg/220px-NY_96_south_at_NY_31.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/NY_96_north_at_Winton_Rd.jpg/220px-NY_96_north_at_Winton_Rd.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Rochester_Little_Theatre_-_Exterior.jpg/170px-Rochester_Little_Theatre_-_Exterior.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/NY_64_north_at_NY_251.jpg/220px-NY_64_north_at_NY_251.jpg

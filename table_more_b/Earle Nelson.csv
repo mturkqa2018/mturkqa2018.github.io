@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>tate_Hospital_c._1900.jpg
+https:https://upload.wikimedia.org/wikipedia/en/8/8e/Clara_Newman%2C_Earle_Nelson_victim.jpg
+https:https://upload.wikimedia.org/wikipedia/en/9/91/Beata_Winters%2C_Earle_Nelson_victim.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Germania_and_Robert_Harpin.jpg/130px-Germania_and_Robert_Harpin.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Winnipeg_Law_Courts_P1040654.jpg/220px-Winnipeg_Law_Courts_P1040654.jpg

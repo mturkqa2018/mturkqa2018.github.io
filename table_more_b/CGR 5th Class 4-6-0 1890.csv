@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>dia/commons/thumb/f/f7/Michael_Stephens_-_CGR.jpg/150px-Michael_Stephens_-_CGR.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CGR_5th_Class_4-6-0_no._495_1890.jpg/1477px-CGR_5th_Class_4-6-0_no._495_1890.jpg

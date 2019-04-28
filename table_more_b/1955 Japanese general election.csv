@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Ichir%C5%8D.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Taketora_Ogata_2.jpg/115px-Taketora_Ogata_2.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Suzuki_Mosaburo.JPG/108px-Suzuki_Mosaburo.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kawakami_Jotaro_1952.JPG/124px-Kawakami_Jotaro_1952.JPG

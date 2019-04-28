@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s:https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Boy_with_Down_Syndrome.JPG/310px-Boy_with_Down_Syndrome.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Feet_of_a_boy_with_Down_Syndrome.JPG/310px-Feet_of_a_boy_with_Down_Syndrome.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Brushfield_eye_crop.jpg/330px-Brushfield_eye_crop.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Down_Syndrome_Karyotype.png/310px-Down_Syndrome_Karyotype.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/T21.JPG/310px-T21.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nuchal_edema_in_Down_Syndrome_Dr._W._Moroder.jpg/310px-Nuchal_edema_in_Down_Syndrome_Dr._W._Moroder.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Downs_syndrome_world_map-Deaths_per_million_persons-WHO2012.svg/310px-Downs_syndrome_world_map-Deaths_per_million_persons-WHO2012.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Down_risk_by_maternal_age.png/310px-Down_risk_by_maternal_age.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/The_Adoration_of_the_Christ_Child_MET_DT8852.jpg/310px-The_Adoration_of_the_Christ_Child_MET_DT8852.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Vater_und_Sohn_mit_Down-Syndrom.jpg/220px-Vater_und_Sohn_mit_Down-Syndrom.jpg

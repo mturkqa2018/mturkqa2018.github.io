@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ps:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/timeline/8584f226db815b8f5819c6312b91f8f3.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/50px-Flag_of_Angola.svg.png

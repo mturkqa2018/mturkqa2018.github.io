@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-Tommy_Thompson_1.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ed_Garvey_2.jpg/114px-Ed_Garvey_2.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Wisconsin_Gubernatorial_Election_Results_by_County%2C_1998.svg/225px-Wisconsin_Gubernatorial_Election_Results_by_County%2C_1998.svg.png

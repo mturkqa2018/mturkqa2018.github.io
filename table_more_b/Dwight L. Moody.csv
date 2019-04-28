@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dwight_Lyman_Moody_c.1900.jpg/220px-Dwight_Lyman_Moody_c.1900.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Plaque_on_Site_of_the_conversion_of_Dwight_Moody_in_Boston_Massachusetts_MA_USA_on_Court_Street.jpg/220px-Plaque_on_Site_of_the_conversion_of_Dwight_Moody_in_Boston_Massachusetts_MA_USA_on_Court_Street.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Portrait_of_Dwight_Lyman_Moody_%284669848%29.jpg/170px-Portrait_of_Dwight_Lyman_Moody_%284669848%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Will_it_pay%3F_D.L._Moody_and_J.V._Farwell%27s_first_Sunday_school_class%2C_North_Market_Hall%2C_Chicago%2C_Ill._-_-_Ruehlow._LCCN2006678632.tif/lossy-page1-220px-Will_it_pay%3F_D.L._Moody_and_J.V._Farwell%27s_first_Sunday_school_class%2C_North_Market_Hall%2C_Chicago%2C_Ill._-_-_Ruehlow._LCCN2006678632.tif.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dwight_Lyman_Moody_Vanity_Fair_3_April_1875.jpg/220px-Dwight_Lyman_Moody_Vanity_Fair_3_April_1875.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Open_Air_Preaching_WB.jpg/220px-Open_Air_Preaching_WB.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png

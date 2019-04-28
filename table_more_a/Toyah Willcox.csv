@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>14.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Reddish_House_Broad_Chalke.jpg/220px-Reddish_House_Broad_Chalke.jpg

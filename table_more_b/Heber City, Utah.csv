@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>corporated_areas_Heber_highlighted.svg/260px-Wasatch_County_Utah_incorporated_and_unincorporated_areas_Heber_highlighted.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Map_of_Utah_highlighting_Wasatch_County.svg/80px-Map_of_Utah_highlighting_Wasatch_County.svg.png

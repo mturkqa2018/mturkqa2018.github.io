@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ay_2018.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/EBART_transfer_platform%2C_February_2018.JPG/220px-EBART_transfer_platform%2C_February_2018.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/EBART_test_DMU_leaving_central_Pittsburg_transfer_point.jpg/220px-EBART_test_DMU_leaving_central_Pittsburg_transfer_point.jpg

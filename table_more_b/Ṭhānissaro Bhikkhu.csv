@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ammatthana_Yantra.png/180px-Kammatthana_Yantra.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gandhara_Buddha_%28tnm%29.jpeg/100px-Gandhara_Buddha_%28tnm%29.jpeg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ajaan_Geoff_Almsround.jpg/220px-Ajaan_Geoff_Almsround.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

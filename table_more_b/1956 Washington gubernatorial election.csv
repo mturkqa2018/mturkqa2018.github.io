@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>70/Lieutenant_Governor_Anderson%2C_1955_%28cropped%29.jpg/117px-Lieutenant_Governor_Anderson%2C_1955_%28cropped%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Washington_gubernatorial_election_1956.svg/300px-Washington_gubernatorial_election_1956.svg.png

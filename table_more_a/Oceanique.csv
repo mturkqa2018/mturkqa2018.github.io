@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Oceanique_Restaurant.png/220px-Oceanique_Restaurant.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Oceanique_Wine_Bottles.png/220px-Oceanique_Wine_Bottles.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Oceanique_West_Room.png/220px-Oceanique_West_Room.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Oceanique_East_Room.png/220px-Oceanique_East_Room.png

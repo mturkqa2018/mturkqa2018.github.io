@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>%27carEV.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tobe_m%27car_ev_4.jpg/220px-Tobe_m%27car_ev_4.jpg

@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>90%29_%28cropped%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/RichardJenkinsApr2011.jpg/190px-RichardJenkinsApr2011.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

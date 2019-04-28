@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>mosome_21.svg/300px-Ideogram_human_chromosome_21.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Human_chromosome_21_ideogram.svg/300px-Human_chromosome_21_ideogram.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/PBB_GE_U2AF1_202858_at_fs.png/250px-PBB_GE_U2AF1_202858_at_fs.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PDB_1jmt_EBI.jpg/180px-PDB_1jmt_EBI.jpg

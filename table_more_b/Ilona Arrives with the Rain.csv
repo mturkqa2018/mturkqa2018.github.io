@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>oad.wikimedia.org/wikipedia/commons/thumb/3/3c/Spain_film_clapperboard.svg/35px-Spain_film_clapperboard.svg.png

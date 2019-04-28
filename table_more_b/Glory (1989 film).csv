@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Shaw.jpg/207px-Robert_Gould_Shaw.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Matthew_Broderick.jpg/177px-Matthew_Broderick.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/St_GaudensShaw_Mem.jpg/220px-St_GaudensShaw_Mem.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Edward_Zwick_by_Bridget_Laudien.jpg/220px-Edward_Zwick_by_Bridget_Laudien.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wooden_rice_mortar_3.jpg/100px-Wooden_rice_mortar_3.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Gullah_basket.JPG/100px-Gullah_basket.JPG

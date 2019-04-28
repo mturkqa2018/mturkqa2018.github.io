@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>b/5/5c/TG-District-KNerus.jpg/250px-TG-District-KNerus.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Malaysia_location_map.svg/250px-Malaysia_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pasir_Panjang.JPG/220px-Pasir_Panjang.JPG

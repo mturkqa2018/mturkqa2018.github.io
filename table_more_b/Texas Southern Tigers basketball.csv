@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>rn_University_box_logo.png/250px-Texas_Southern_University_box_logo.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HPEFront.jpg/220px-HPEFront.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Basketball_Clipart.svg/36px-Basketball_Clipart.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Basketball_Clipart.svg/35px-Basketball_Clipart.svg.png

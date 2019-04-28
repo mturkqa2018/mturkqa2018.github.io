@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>commons/thumb/1/18/Rue_de_la_Bo%C3%A9tie%2C_54-56.jpg/220px-Rue_de_la_Bo%C3%A9tie%2C_54-56.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Sanofi_HQ.jpg/220px-Sanofi_HQ.jpg

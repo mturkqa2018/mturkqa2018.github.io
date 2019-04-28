@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>jpg/220px-Roman_soldiers_at_rest.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/6/66/Epikur2.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CiceroEpistulaeAdFamiliaresVenice1547page329Detail.jpg/220px-CiceroEpistulaeAdFamiliaresVenice1547page329Detail.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/GNM_-_R%C3%B6mische_Villa.jpg/220px-GNM_-_R%C3%B6mische_Villa.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Saint_Augustine_of_Hippo.jpg/170px-Saint_Augustine_of_Hippo.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Francesco_Petrarca00.jpg/170px-Francesco_Petrarca00.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Oslo_US_embassy_residence.gif/220px-Oslo_US_embassy_residence.gif
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png

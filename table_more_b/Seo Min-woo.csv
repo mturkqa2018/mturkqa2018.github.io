@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>EC%82%AC%EC%9D%B8%ED%9A%8C_%EB%B0%B1%ED%8D%BC%EC%84%BC%ED%8A%B8.jpg

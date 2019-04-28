@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>org/wikipedia/commons/thumb/9/95/Youth_FIFA_World_Cup_Champion_1987%2C_Chile.jpg/250px-Youth_FIFA_World_Cup_Champion_1987%2C_Chile.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dejan_Antonic_with_HK_National_Team_in_2011_Asian_Cup_Qualification.jpg/250px-Dejan_Antonic_with_HK_National_Team_in_2011_Asian_Cup_Qualification.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dejan_Antonic%2C_League_Cup_Champion_2006-2007%2C_Hong_Kong.jpg/250px-Dejan_Antonic%2C_League_Cup_Champion_2006-2007%2C_Hong_Kong.jpg

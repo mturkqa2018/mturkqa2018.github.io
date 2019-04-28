@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/SB_2018.jpg/220px-SB_2018.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/01_SB_2018.jpg/220px-01_SB_2018.jpg

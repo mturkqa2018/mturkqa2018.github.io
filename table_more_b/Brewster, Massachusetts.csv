@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>tps:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Barnstable_County_Massachusetts_incorporated_and_unincorporated_areas_Brewster_highlighted.svg/260px-Barnstable_County_Massachusetts_incorporated_and_unincorporated_areas_Brewster_highlighted.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Brewster_Old_Town_Hall.jpg/220px-Brewster_Old_Town_Hall.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/The_Brewster_Store%2C_Brewster_MA.jpg/220px-The_Brewster_Store%2C_Brewster_MA.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Helen_Keller_with_Anne_Sullivan_in_July_1888.jpg/250px-Helen_Keller_with_Anne_Sullivan_in_July_1888.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Map_of_Massachusetts_highlighting_Barnstable_County.svg/180px-Map_of_Massachusetts_highlighting_Barnstable_County.svg.png

@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>b3/Goh_Chok_Tong_signature.png/108px-Goh_Chok_Tong_signature.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/SingaporeUS_FreeTrade.jpg/220px-SingaporeUS_FreeTrade.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Goh_Chok_Tong%2C_Potong_Pasir_rally.jpg/200px-Goh_Chok_Tong%2C_Potong_Pasir_rally.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Coat_of_arms_of_Singapore.svg/80px-Coat_of_arms_of_Singapore.svg.png

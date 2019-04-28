@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ed_scales.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rz_Logo_claim_under_SWISSTXT_4c.jpg/220px-Rz_Logo_claim_under_SWISSTXT_4c.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/SRF_1_Teletext_2016.gif/220px-SRF_1_Teletext_2016.gif

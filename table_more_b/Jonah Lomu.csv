@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ena.jpg/220px-Mardel_24-1-01_lomu_en_villa_marista_foto_fabian_gastiarena.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jonah_Lomu_played_for_Cardiff_in_2006.jpg/220px-Jonah_Lomu_played_for_Cardiff_in_2006.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jonah_Lomu_Madame_Tussaud_london.jpg/220px-Jonah_Lomu_Madame_Tussaud_london.jpg

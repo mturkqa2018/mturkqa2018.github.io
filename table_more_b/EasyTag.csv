@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.png/300px-Easytag_screenshot_2.1.9.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Gnomelogo.svg/80px-Gnomelogo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vista-multimedia.png/35px-Vista-multimedia.png

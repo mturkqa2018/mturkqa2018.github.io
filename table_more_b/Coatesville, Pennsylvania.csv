@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>commons/thumb/1/16/Chester_County_Pennsylvania_incorporated_and_unincorporated_areas_Coatesville_highlighted.svg/260px-Chester_County_Pennsylvania_incorporated_and_unincorporated_areas_Coatesville_highlighted.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/USA_Pennsylvania_location_map.svg/250px-USA_Pennsylvania_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/250px-Usa_edcp_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lukens_Main_Office.JPG/220px-Lukens_Main_Office.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Trinity_Episcopal_Church_Coatesville.JPG/220px-Trinity_Episcopal_Church_Coatesville.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Map_of_Pennsylvania_highlighting_Chester_County.svg/180px-Map_of_Pennsylvania_highlighting_Chester_County.svg.png

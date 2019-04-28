@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>yland_Route_380_map.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2017-08-28_11_16_59_View_north_along_Maryland_State_Route_380_%28Lawsonia_Road%29_at_Ape_Hole_Road_in_Byrdtown%2C_Somerset_County%2C_Maryland.jpg/220px-2017-08-28_11_16_59_View_north_along_Maryland_State_Route_380_%28Lawsonia_Road%29_at_Ape_Hole_Road_in_Byrdtown%2C_Somerset_County%2C_Maryland.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/MD_380_Crisfield_from_Somerset_Avenue.jpg/220px-MD_380_Crisfield_from_Somerset_Avenue.jpg

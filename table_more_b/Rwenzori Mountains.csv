@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/256px-Uganda_location_map_Topographic.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/MargheritaPeak.jpg/220px-MargheritaPeak.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/House_on_ledge_in_Kasese.jpg/220px-House_on_ledge_in_Kasese.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ruwenpflanzen.jpg/220px-Ruwenpflanzen.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Explorer_Chapin_with_Club_Flag_-4.JPG/220px-Explorer_Chapin_with_Club_Flag_-4.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png

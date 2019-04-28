@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>use._-_geograph.org.uk_-_304182.jpg/220px-Royal_St_George%27s_Golf_Clubhouse._-_geograph.org.uk_-_304182.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kent_UK_location_map.svg/240px-Kent_UK_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Starters_hut_at_1st_hole_on_Royal_St_Georges_Golf_Club_-_geograph.org.uk_-_81110.jpg/220px-Starters_hut_at_1st_hole_on_Royal_St_Georges_Golf_Club_-_geograph.org.uk_-_81110.jpg

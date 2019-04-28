@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/fe/Roberto_Carlos1.jpg/160px-Roberto_Carlos1.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jennifer_Lopez_12%2C_2012.jpg/167px-Jennifer_Lopez_12%2C_2012.jpg

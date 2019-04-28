@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>nsymbol2064.PNG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_the_CPN-UML.svg/130px-Flag_of_the_CPN-UML.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Madhav_Kumar_Nepal2.JPG/200px-Madhav_Kumar_Nepal2.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/J.n_%282%29.jpg/200px-J.n_%282%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Madhav_Kumar_Nepal_2009-09-23.jpg/75px-Madhav_Kumar_Nepal_2009-09-23.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/J.n_%282%29.jpg/75px-J.n_%282%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/KP_Oli.jpg/75px-KP_Oli.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sherdhan_Rai.jpg/79px-Sherdhan_Rai.jpg

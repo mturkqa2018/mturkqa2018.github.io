@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Ascoli_Piceno_Italy.jpg/220px-La_Cattedrale_di_San_Emidio_in_Ascoli_Piceno_Italy.jpg

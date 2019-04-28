@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/220px-Nauru_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/100px-Flag_of_Nauru.svg.png

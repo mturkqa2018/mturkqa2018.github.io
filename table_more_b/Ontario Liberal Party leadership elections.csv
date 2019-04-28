@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>on_McGuinty_Crop_2.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Pupatello3.jpg/50px-Pupatello3.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kathleen_Wynne.JPG/50px-Kathleen_Wynne.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gerard_kennedy.jpg/50px-Gerard_kennedy.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Takhar1.jpg/50px-Takhar1.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sousa1.jpg/50px-Sousa1.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Eric_Hoskins.JPG/50px-Eric_Hoskins.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/GlenMurray1.jpg/50px-GlenMurray1.jpg

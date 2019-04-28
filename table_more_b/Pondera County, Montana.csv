@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Montana_highlighting_Pondera_County.svg/200px-Map_of_Montana_highlighting_Pondera_County.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Map_of_U.S._-_MT.svg/200px-Map_of_U.S._-_MT.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Map_of_Montana_highlighting_Pondera_County.svg/180px-Map_of_Montana_highlighting_Pondera_County.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Great_Seal_of_Montana.svg/100px-Great_Seal_of_Montana.svg.png

@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>onneville_la_Mallet_%28Seine-Maritime%29.svg/73px-Blason_ville_fr_Gonneville_la_Mallet_%28Seine-Maritime%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Normandie_region_location_map.svg/270px-Normandie_region_location_map.svg.png

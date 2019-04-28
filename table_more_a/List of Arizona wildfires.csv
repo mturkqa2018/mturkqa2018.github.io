@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ire%2C_Arizona_3500x1000.JPG/800px-Horseshoe_2_Fire%2C_Arizona_3500x1000.JPG

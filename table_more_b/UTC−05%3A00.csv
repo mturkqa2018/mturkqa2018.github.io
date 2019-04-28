@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/440px-UTC_hue4map_X_world_Robinson.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Timezones2008_UTC-5.png/300px-Timezones2008_UTC-5.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/UTC_hue4map_CAN-NU.png/299px-UTC_hue4map_CAN-NU.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/UTC_hue4map_USA-IN.svg/300px-UTC_hue4map_USA-IN.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mexico_time_zones_map_en.svg/300px-Mexico_time_zones_map_en.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Standard_Timezones_and_DST_of_Brazil.svg/300px-Standard_Timezones_and_DST_of_Brazil.svg.png

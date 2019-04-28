@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_cacao.jpg/100px-Starr_020813-0016_Theobroma_cacao.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Emoji_u1f36d.svg/35px-Emoji_u1f36d.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Nuvola_apps_cookie.svg/35px-Nuvola_apps_cookie.svg.png

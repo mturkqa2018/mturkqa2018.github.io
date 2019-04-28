@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>220px-Dent_building_1869.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lai_Afong%2C_buildings_of_Central_and_Mid-Levels_from_ferry_stage%2C_Hong_Kong.jpg/220px-Lai_Afong%2C_buildings_of_Central_and_Mid-Levels_from_ferry_stage%2C_Hong_Kong.jpg

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>drial_haplogroups.PNG/220px-Human_migrations_and_mitochondrial_haplogroups.PNG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/World_map_of_prehistoric_human_migrations.jpg/340px-World_map_of_prehistoric_human_migrations.jpg

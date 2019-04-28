@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>250px-Taiwan_relief_location_map.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tamsui_Township1.JPG/220px-Tamsui_Township1.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qing_army_Sino-French_war.jpg/220px-Qing_army_Sino-French_war.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/0/06/Liutaiwan.jpg

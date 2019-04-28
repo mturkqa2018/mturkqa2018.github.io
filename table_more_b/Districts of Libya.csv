@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>1/16/Libya_Municipalities_2001-2007.svg/300px-Libya_Municipalities_2001-2007.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Libia_regions_with_numbers.svg/400px-Libia_regions_with_numbers.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Libia_regiones.PNG/80px-Libia_regiones.PNG

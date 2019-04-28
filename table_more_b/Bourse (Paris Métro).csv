@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>commons/thumb/7/74/Paris_department_land_cover_location_map.svg/240px-Paris_department_land_cover_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Paris_metro3_-_Bourse-_entrance2.jpg/220px-Paris_metro3_-_Bourse-_entrance2.jpg

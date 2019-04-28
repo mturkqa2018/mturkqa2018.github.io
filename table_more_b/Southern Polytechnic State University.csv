@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https:https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kennesaw_State_University%2C_Marietta_Campus_1.jpg/220px-Kennesaw_State_University%2C_Marietta_Campus_1.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Southern_Polytechnic_State_University_%28logo%29.jpg/220px-Southern_Polytechnic_State_University_%28logo%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Kennesaw_State_University%2C_Marietta_Campus_9.jpg/120px-Kennesaw_State_University%2C_Marietta_Campus_9.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kennesaw_State_University%2C_Marietta_Campus_10.jpg/120px-Kennesaw_State_University%2C_Marietta_Campus_10.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kennesaw_State_University%2C_Marietta_Campus_4.jpg/120px-Kennesaw_State_University%2C_Marietta_Campus_4.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kennesaw_State_University%2C_Marietta_Campus_6.jpg/220px-Kennesaw_State_University%2C_Marietta_Campus_6.jpg

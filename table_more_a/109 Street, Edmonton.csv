@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>neau%2C_Edmonton.JPG/120px-Garneau%2C_Edmonton.JPG
+https:https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Garneau_109_Street_023_Compressed.jpg/120px-Garneau_109_Street_023_Compressed.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/High-level-bridge4557.JPG/120px-High-level-bridge4557.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HighLevelWaterfallatNight.JPG/120px-HighLevelWaterfallatNight.JPG

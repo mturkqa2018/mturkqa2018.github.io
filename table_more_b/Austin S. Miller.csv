@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CIB2.png/140px-CIB2.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Master_Parachutist_badge_%28United_States%29.svg/90px-Master_Parachutist_badge_%28United_States%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ranger_Tab.svg/80px-Ranger_Tab.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/USAF_-_Occupational_Badge_-_High_Altitude_Low_Opening.svg/105px-USAF_-_Occupational_Badge_-_High_Altitude_Low_Opening.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Joint_Chiefs_of_Staff_seal.svg/90px-Joint_Chiefs_of_Staff_seal.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/USAE_Special_Operations_Joint_Task_Force_Afghanistan_SSI_2013-04-30.png/80px-USAE_Special_Operations_Joint_Task_Force_Afghanistan_SSI_2013-04-30.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/325InfRegtDUI.png/45px-325InfRegtDUI.png

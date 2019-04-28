@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>px-Bangkok_Skytrain_06.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/a/a3/Giant_Swing_icon.png

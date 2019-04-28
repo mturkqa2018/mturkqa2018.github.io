@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Highway_59_north_of_Highway_45_junction%2C_Washington_County%2C_AR.jpg/250px-Highway_59_north_of_Highway_45_junction%2C_Washington_County%2C_AR.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Highway_59_in_Evansville%2C_Arkansas.jpg/220px-Highway_59_in_Evansville%2C_Arkansas.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hwy._59B_southern_terminus_in_Gentry%2C_AR.jpg/220px-Hwy._59B_southern_terminus_in_Gentry%2C_AR.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Arkansas_59B.svg/50px-Arkansas_59B.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hwy._59S_eastern_terminus_in_Gentry%2C_AR.jpg/220px-Hwy._59S_eastern_terminus_in_Gentry%2C_AR.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Arkansas_59S.svg/50px-Arkansas_59S.svg.png

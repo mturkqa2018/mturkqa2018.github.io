@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>econnaissance_Group_%28emblem%29.jpg/200px-373d_Intelligence%2C_Surveillance_and_Reconnaissance_Group_%28emblem%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2daf-wwii.jpg/80px-2daf-wwii.jpg

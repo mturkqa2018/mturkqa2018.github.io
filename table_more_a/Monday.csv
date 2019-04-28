@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>alileo_moon_phases.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/M%C3%A1ni_and_S%C3%B3l_by_Lorenz_Fr%C3%B8lich.jpg/220px-M%C3%A1ni_and_S%C3%B3l_by_Lorenz_Fr%C3%B8lich.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/PostcardMondayMorningInNewYorkCity1907.jpg/220px-PostcardMondayMorningInNewYorkCity1907.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>x-Policenauts_screenshot.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hideo_Kojima_20100702_Japan_Expo_1.jpg/220px-Hideo_Kojima_20100702_Japan_Expo_1.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Policenauts_version_compare.png/220px-Policenauts_version_compare.png

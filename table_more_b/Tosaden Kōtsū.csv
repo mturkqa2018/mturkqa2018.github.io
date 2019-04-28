@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>saden_kotsu_logo.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tosaden-Heartram.JPG/220px-Tosaden-Heartram.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kochiekimae_sta.JPG/220px-Kochiekimae_sta.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Anpanmantram1.jpg/220px-Anpanmantram1.jpg

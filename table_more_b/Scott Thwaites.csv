@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>:https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ToB_2014_stage_8a_-_Scott_Thwaites_03.jpg/220px-ToB_2014_stage_8a_-_Scott_Thwaites_03.jpg

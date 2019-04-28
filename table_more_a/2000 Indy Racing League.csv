@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>go.png/250px-Indy_Racing_Northern_Light_Series_logo.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Buddy_Lazier_2008_Indy_500_Bump_Day.jpg/153px-Buddy_Lazier_2008_Indy_500_Bump_Day.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Scott_Goodyear_2008_Indy_500_Second_Qual_Day.jpg/131px-Scott_Goodyear_2008_Indy_500_Second_Qual_Day.jpg

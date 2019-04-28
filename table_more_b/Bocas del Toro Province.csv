@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-Bandera_de_la_Provincia_de_Bocas_del_Toro.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Panama_-_Bocas_del_Toro.svg/250px-Panama_-_Bocas_del_Toro.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Panama_location_map.svg/250px-Panama_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bocas1.jpg/170px-Bocas1.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Red_poison_dart_frog.jpg/170px-Red_poison_dart_frog.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Amanecer_Bocas_del_Toro.jpg/170px-Amanecer_Bocas_del_Toro.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Panama_-_Bocas_del_Toro.svg/120px-Panama_-_Bocas_del_Toro.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/60px-Flag_of_Panama.svg.png

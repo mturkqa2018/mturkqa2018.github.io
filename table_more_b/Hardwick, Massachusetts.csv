@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>rdwickMA-seal.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Worcester_County_Massachusetts_incorporated_and_unincorporated_areas_Hardwick_highlighted.svg/260px-Worcester_County_Massachusetts_incorporated_and_unincorporated_areas_Hardwick_highlighted.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Map_of_Massachusetts_highlighting_Worcester_County.svg/180px-Map_of_Massachusetts_highlighting_Worcester_County.svg.png

@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>mmons/thumb/d/d8/Map_of_Utah_highlighting_Sanpete_County.svg/200px-Map_of_Utah_highlighting_Sanpete_County.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Map_of_USA_UT.svg/200px-Map_of_USA_UT.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Sanpete_turkeys.jpg/250px-Sanpete_turkeys.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sanpete_County_Utah_incorporated_and_unincorporated_areas.svg/220px-Sanpete_County_Utah_incorporated_and_unincorporated_areas.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Map_of_Utah_highlighting_Sanpete_County.svg/80px-Map_of_Utah_highlighting_Sanpete_County.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Seal_of_Utah.svg/100px-Seal_of_Utah.svg.png

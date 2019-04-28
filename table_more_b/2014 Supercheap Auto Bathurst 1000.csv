@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>b/3/3c/Mostert_Morris_2014_Bathurst_1000.JPG/220px-Mostert_Morris_2014_Bathurst_1000.JPG

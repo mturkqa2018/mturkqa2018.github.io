@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ropped.jpg/220px-Frances_Shimer_portrait_cropped.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Pecuniary_aid_seminary_ad.jpg/220px-Pecuniary_aid_seminary_ad.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Oread_cover_1878.jpg/220px-Oread_cover_1878.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mt_Carroll_seminary.jpg/220px-Mt_Carroll_seminary.jpg
+https:https://upload.wikimedia.org/wikipedia/en/d/df/Harper%2C_William_Rainey.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Frances_Shimer_frontis_cropped.jpg/220px-Frances_Shimer_frontis_cropped.jpg

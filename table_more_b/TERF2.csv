@@ -1,0 +1,12 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>mosome_16.svg/300px-Ideogram_human_chromosome_16.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Human_chromosome_16_ideogram.svg/300px-Human_chromosome_16_ideogram.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ideogram_house_mouse_chromosome_8.svg/260px-Ideogram_house_mouse_chromosome_8.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ideogram_of_house_mouse_chromosome_8.svg/300px-Ideogram_of_house_mouse_chromosome_8.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/PBB_GE_TERF2_203611_at_fs.png/250px-PBB_GE_TERF2_203611_at_fs.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TERF2_Domains.png/548px-TERF2_Domains.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TERF2_client_protein_recruitment.png/549px-TERF2_client_protein_recruitment.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/PDB_1h6p_EBI.jpg/180px-PDB_1h6p_EBI.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/PDB_1vf9_EBI.jpg/180px-PDB_1vf9_EBI.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/PDB_1vfc_EBI.jpg/180px-PDB_1vfc_EBI.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/PDB_1w0u_EBI.jpg/180px-PDB_1w0u_EBI.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/PDB_1xg1_EBI.jpg/180px-PDB_1xg1_EBI.jpg

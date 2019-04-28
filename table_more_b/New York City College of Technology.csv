@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ed_scales.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/3/30/City_Tech.png/150px-City_Tech.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%28King1893NYC%29_pg280_NEW-YORK_TRADE-SCHOOL%2C_FIRST_AVENUE%2C_67TH_AND_68TH_STREETS.jpg/220px-%28King1893NYC%29_pg280_NEW-YORK_TRADE-SCHOOL%2C_FIRST_AVENUE%2C_67TH_AND_68TH_STREETS.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/SocialScienceClass%2C_at_city_tech%2C_Feb_1950.jpg/220px-SocialScienceClass%2C_at_city_tech%2C_Feb_1950.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Us_Air_Force%2Cat_city_tech%2C_Sept_1951.jpg/220px-Us_Air_Force%2Cat_city_tech%2C_Sept_1951.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/The_Atrium_and_Pearl_Buildings.jpg/220px-The_Atrium_and_Pearl_Buildings.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/The_Voorhees_building_Night_2014.jpg/220px-The_Voorhees_building_Night_2014.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/City_College_of_New_York_04.JPG/100px-City_College_of_New_York_04.JPG

@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>n_map.svg/400px-1996_Senate_election_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/United_States_House_of_Representatives_elections%2C_1996.png/400px-United_States_House_of_Representatives_elections%2C_1996.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/1996_Gubernatorial_election_map.svg/400px-1996_Gubernatorial_election_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png

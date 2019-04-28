@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>45px-Unbalanced_scales.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/3/30/World_Vision_logo_2017.png/200px-World_Vision_logo_2017.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wvi_relief2.jpg/220px-Wvi_relief2.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wvi_relief.jpg/220px-Wvi_relief.jpg

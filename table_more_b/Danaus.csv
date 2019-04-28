@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>uant_leurs_maris_BnF_Fran%C3%A7ais_874_fol._170v.jpg/200px-Dana%C3%AFdes_tuant_leurs_maris_BnF_Fran%C3%A7ais_874_fol._170v.jpg

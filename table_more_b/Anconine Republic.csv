@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>b/5/57/Ancona_in_Italy.svg/250px-Ancona_in_Italy.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/First_French_Empire_1812.svg/200px-First_French_Empire_1812.svg.png

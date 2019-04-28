@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>istian_Kostov_%28Bulgaria%29._Photo_472.jpg/200px-Kristian_Kostov_%28Bulgaria%29._Photo_472.jpg

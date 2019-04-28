@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>humb/7/7a/Turing_machine_copy_example.JPG/900px-Turing_machine_copy_example.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/State_diagram_3_state_busy_beaver.JPG/900px-State_diagram_3_state_busy_beaver.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Turing_machine_example_3_state_busy_beaver.JPG/900px-Turing_machine_example_3_state_busy_beaver.JPG

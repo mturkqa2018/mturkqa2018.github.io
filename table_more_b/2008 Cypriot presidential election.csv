@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>imitris_Christofias.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%B8%D1%81_%D0%9A%D0%B0%D1%81%D1%83%D0%BB%D0%B8%D0%B4%D0%B8%D1%81.jpg/104px-%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%B8%D1%81_%D0%9A%D0%B0%D1%81%D1%83%D0%BB%D0%B8%D0%B4%D0%B8%D1%81.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Casoulides.jpg/120px-Casoulides.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Christophias.jpg/120px-Christophias.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Papadopoullos.jpg/120px-Papadopoullos.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Casoulides-2.jpg/120px-Casoulides-2.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Christophias-2.jpg/120px-Christophias-2.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Comparative.jpg/120px-Comparative.jpg

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>commons/thumb/8/8a/Kristjan_Kangur_e_Jeff_Viggiano.jpg/300px-Kristjan_Kangur_e_Jeff_Viggiano.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Estonian_Basketball_Cup_trophy.jpg/200px-Estonian_Basketball_Cup_trophy.jpg

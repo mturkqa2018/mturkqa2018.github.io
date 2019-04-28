@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>umb/d/d3/USA_Oregon_location_map.svg/250px-USA_Oregon_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KCVO_Hangar.JPG/220px-KCVO_Hangar.JPG

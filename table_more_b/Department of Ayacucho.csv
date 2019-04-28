@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ag_of_Ayacucho.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Escudo_de_Ayacucho.svg/100px-Escudo_de_Ayacucho.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Peru_-_Ayacucho_Department_%28locator_map%29.svg/250px-Peru_-_Ayacucho_Department_%28locator_map%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Provinces_of_the_Ayacucho_region_in_Peru.png/175px-Provinces_of_the_Ayacucho_region_in_Peru.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Peru_-_Altiplano1.jpg/120px-Peru_-_Altiplano1.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Obelisk_Battle_of_Ayacucho_and_Sucre_MC.jpg/120px-Obelisk_Battle_of_Ayacucho_and_Sucre_MC.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Peru_-_HotSprings.jpg/86px-Peru_-_HotSprings.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Obelisk_Battle_of_Ayacucho1_MC.jpg/80px-Obelisk_Battle_of_Ayacucho1_MC.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ayacucho_church_by_night.jpg/120px-Ayacucho_church_by_night.jpg

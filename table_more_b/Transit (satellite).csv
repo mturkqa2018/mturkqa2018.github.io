@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/wikipedia/commons/4/49/Transit-o.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Accuracy_of_Navigation_Systems.svg/300px-Accuracy_of_Navigation_Systems.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Transit-1A.jpg/220px-Transit-1A.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Doppler_019_outside%2C_McMurdo_Station%2C_1974.png/500px-Doppler_019_outside%2C_McMurdo_Station%2C_1974.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Doppler_019_inside%2C_McMurdo_Station%2C_1974.png/500px-Doppler_019_inside%2C_McMurdo_Station%2C_1974.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NNSS_%285_Polarbahnen%29.png/220px-NNSS_%285_Polarbahnen%29.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png

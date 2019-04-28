@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>a%2C_Iraq.jpg/220px-Baghdad_Cathedral_2016%2C_Shorja%2C_Iraq.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Chaldean_Catholic_COA.svg/100px-Chaldean_Catholic_COA.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Christ_Pantocrator_Deesis_mosaic_Hagia_Sophia.jpg/35px-Christ_Pantocrator_Deesis_mosaic_Hagia_Sophia.jpg

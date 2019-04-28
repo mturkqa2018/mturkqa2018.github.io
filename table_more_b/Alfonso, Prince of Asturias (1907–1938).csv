@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/upload.wikimedia.org/wikipedia/commons/thumb/9/98/Alfonso_de_Borb%C3%B3n_explorador_1918.jpg/170px-Alfonso_de_Borb%C3%B3n_explorador_1918.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alfonso_de_Borb%C3%B3n_y_Battenberg.jpg/220px-Alfonso_de_Borb%C3%B3n_y_Battenberg.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Coat_of_Arms_of_Leonor%2C_Princess_of_Asturias.svg/75px-Coat_of_Arms_of_Leonor%2C_Princess_of_Asturias.svg.png

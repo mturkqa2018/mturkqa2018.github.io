@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/New_Zealand_location_map.svg/250px-New_Zealand_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Motueka_aerial_photo.JPG/220px-Motueka_aerial_photo.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Motueka_Museum.JPG/220px-Motueka_Museum.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Port_Motueka.jpg/220px-Port_Motueka.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Motueka_Fire_Station%2C_No_Danger_Today.jpg/220px-Motueka_Fire_Station%2C_No_Danger_Today.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Motueka_State_Highway_60_002.JPG/220px-Motueka_State_Highway_60_002.JPG

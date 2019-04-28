@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ron_Santo_1973.jpg/220px-Ron_Santo_1973.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Banks-Santo_retired_numbers.jpg/220px-Banks-Santo_retired_numbers.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cubs_10_Santo.svg/95px-Cubs_10_Santo.svg.png

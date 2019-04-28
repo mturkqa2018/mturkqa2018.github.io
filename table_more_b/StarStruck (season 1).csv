@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Dantes_at_the_Eat_Bulaga%21_Press_Conference%2C_July_2008.JPG/150px-Dingdong_Dantes_at_the_Eat_Bulaga%21_Press_Conference%2C_July_2008.JPG

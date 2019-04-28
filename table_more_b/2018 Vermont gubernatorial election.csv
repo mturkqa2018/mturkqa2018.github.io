@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>tine_Hallquist_%28cropped%29.jpg/122px-Christine_Hallquist_%28cropped%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Vermont_Governor_Election_Results_by_County%2C_2018.svg/125px-Vermont_Governor_Election_Results_by_County%2C_2018.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2018_VT_GOV_GOP_primary.svg/150px-2018_VT_GOV_GOP_primary.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2018_VT_GOV_Dem_primary.svg/150px-2018_VT_GOV_Dem_primary.svg.png

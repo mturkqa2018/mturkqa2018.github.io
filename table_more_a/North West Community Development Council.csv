@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>West_CDC_logo.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/North_West_CDC_map_2015.svg/300px-North_West_CDC_map_2015.svg.png

@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Blagoevgrad_Province%29.png/250px-Map_of_Simitli_municipality_%28Blagoevgrad_Province%29.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Simitli_Municipality_Bulgaria_map.png/250px-Simitli_Municipality_Bulgaria_map.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Simitli-centre-1.jpg/120px-Simitli-centre-1.jpg

@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>abra_danglas.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Philippines_location_map_%28square%29.svg/250px-Philippines_location_map_%28square%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ph_fil_central_luzon.png/40px-Ph_fil_central_luzon.png

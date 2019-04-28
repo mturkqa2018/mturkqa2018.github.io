@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>halon_Pagoda.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Myanmar_location_map.svg/240px-Myanmar_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burmese_building_icon.svg/45px-Burmese_building_icon.svg.png

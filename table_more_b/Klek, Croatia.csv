@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>tia_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Polutok_Klek_i_granica.JPG/330px-Polutok_Klek_i_granica.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/35px-Flag_map_of_Croatia.svg.png

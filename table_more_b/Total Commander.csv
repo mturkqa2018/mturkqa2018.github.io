@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>mmander.png/300px-Screenshot_of_program_Total_Commander.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Crystal_kpackage.png/35px-Crystal_kpackage.png

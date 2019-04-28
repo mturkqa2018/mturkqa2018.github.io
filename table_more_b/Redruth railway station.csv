@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ons/thumb/5/50/Redruth_viaduct_from_station.jpg/220px-Redruth_viaduct_from_station.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_at_Redruth_station_-_from_the_north.JPG/220px-2018_at_Redruth_station_-_from_the_north.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Redruth_-_GWR_150243_down_train.JPG/220px-Redruth_-_GWR_150243_down_train.JPG

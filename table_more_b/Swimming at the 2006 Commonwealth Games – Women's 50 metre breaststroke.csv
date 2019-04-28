@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>isel_Jones_-_Sarah_Ewart.jpg/220px-2008_Australian_Olympic_team_Leisel_Jones_-_Sarah_Ewart.jpg

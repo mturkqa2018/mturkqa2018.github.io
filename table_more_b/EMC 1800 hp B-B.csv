@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Baltimore_and_Ohio_50_in_1972.JPG/250px-Baltimore_and_Ohio_50_in_1972.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/ATSF1_1935.JPG/250px-ATSF1_1935.JPG

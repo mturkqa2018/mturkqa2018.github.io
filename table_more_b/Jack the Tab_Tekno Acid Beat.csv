@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.wikimedia.org/wikipedia/en/thumb/d/d3/PsychicTVJackTheTabAcidTabletsVolume1AlbumCover.jpg/220px-PsychicTVJackTheTabAcidTabletsVolume1AlbumCover.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Tekno_Acid_Beat_cover.jpg/220px-Tekno_Acid_Beat_cover.jpg

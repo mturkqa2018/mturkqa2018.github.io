@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>https:https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Western_al-Bab_offensive_%282016%29_%28within_Northern_Syria%29.svg/300px-Western_al-Bab_offensive_%282016%29_%28within_Northern_Syria%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Free_Syrian_Army_M2_Browning_in_northern_Aleppo.png/220px-Free_Syrian_Army_M2_Browning_in_northern_Aleppo.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Al-Bab_military_council.png/220px-Al-Bab_military_council.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bataille_d%27al-Bab_14_d%C3%A9cembre_2016_%281%29.jpg/220px-Bataille_d%27al-Bab_14_d%C3%A9cembre_2016_%281%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/US_Humvees_near_Manbij.png/220px-US_Humvees_near_Manbij.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/F%C4%B1rat_Kalkan%C4%B1_Harekat%C4%B1nda_G%C3%B6revli_Deniz_Piyadesi.jpg/220px-F%C4%B1rat_Kalkan%C4%B1_Harekat%C4%B1nda_G%C3%B6revli_Deniz_Piyadesi.jpg

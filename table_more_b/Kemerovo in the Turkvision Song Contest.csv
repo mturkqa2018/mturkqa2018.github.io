@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Kemerovo_oblast.svg/125px-Flag_of_Kemerovo_oblast.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Song_contest_current_event.png/35px-Song_contest_current_event.png

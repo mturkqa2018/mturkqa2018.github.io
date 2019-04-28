@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/160px-Flag_of_Puerto_Rico.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/World_Map_FIBA.svg/220px-World_Map_FIBA.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/World_Map_FIBA.svg/250px-World_Map_FIBA.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Basketball_stub.svg/35px-Basketball_stub.svg.png

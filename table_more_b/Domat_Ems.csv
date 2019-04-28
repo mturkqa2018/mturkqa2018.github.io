@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>omat_Ems_wappen.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Switzerland_adm_location_map.svg/250px-Switzerland_adm_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Reliefkarte_Graub%C3%BCnden_blank.png/250px-Reliefkarte_Graub%C3%BCnden_blank.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dreib%C3%BCndenstein.jpg/170px-Dreib%C3%BCndenstein.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Domat_Kirche.jpg/170px-Domat_Kirche.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Grisons-coat_of_arms.svg/35px-Grisons-coat_of_arms.svg.png

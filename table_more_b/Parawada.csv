@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ons/thumb/9/94/Location_map_India_Andhra_Pradesh_EN.svg/250px-Location_map_India_Andhra_Pradesh_EN.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/India_location_map.svg/250px-India_location_map.svg.png

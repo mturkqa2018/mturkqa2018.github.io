@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/PUC2014.JPG/200px-PUC2014.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Celtic_Park%2C_Derry%2C_August_2009.JPG/200px-Celtic_Park%2C_Derry%2C_August_2009.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Croke_Park_from_the_hill.jpg/200px-Croke_Park_from_the_hill.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Pearse_Park.jpg/200px-Pearse_Park.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/FitzGeraldStadium.jpg/200px-FitzGeraldStadium.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Semple1.jpg/200px-Semple1.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Healy_Park%2C_Omagh.jpg/200px-Healy_Park%2C_Omagh.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cusack_Park_Mullingar_Main_Stand.jpg/200px-Cusack_Park_Mullingar_Main_Stand.jpg

@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>tps://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Capturing_the_Solar_Maximum_Mission_satellite.jpg/220px-Capturing_the_Solar_Maximum_Mission_satellite.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cp22liberationdaytransient.png/220px-Cp22liberationdaytransient.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Skylab_Solar_flare.jpg/100px-Skylab_Solar_flare.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sun_-_August_1%2C_2010.jpg/100px-Sun_-_August_1%2C_2010.jpg

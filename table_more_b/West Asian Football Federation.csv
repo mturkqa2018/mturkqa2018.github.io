@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>bers.png/250px-WAFF_members.png
+https:https://upload.wikimedia.org/wikipedia/en/timeline/0181669b66bab3c2cc37057d4c86d0fe.png
+https:https://upload.wikimedia.org/wikipedia/en/timeline/29487e0ec99bf18c2ed68889bee06e64.png

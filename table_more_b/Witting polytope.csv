@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/60px-Complex_polyhedron_3-3-3-3-3.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Complex_polygon_3-3-3.png/40px-Complex_polygon_3-3-3.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Complex_polygon_3-4-3.png/60px-Complex_polygon_3-4-3.png

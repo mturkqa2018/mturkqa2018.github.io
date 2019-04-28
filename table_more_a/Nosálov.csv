@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Czech_Republic_adm_location_map.svg/300px-Czech_Republic_adm_location_map.svg.png

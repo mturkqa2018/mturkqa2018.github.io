@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>of_the_Governor_of_Kansas.svg/100px-Flag_of_the_Governor_of_Kansas.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Seal_of_Kansas.svg/75px-Seal_of_Kansas.svg.png

@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Zenit-Lion15_%281%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zen-OL16_%285%29.jpg/170px-Zen-OL16_%285%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rus-Fra_2018_%2822%29_%28cropped%29.jpg/150px-Rus-Fra_2018_%2822%29_%28cropped%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Corentin_Tolisso_World_Cup_Trophy.jpg/200px-Corentin_Tolisso_World_Cup_Trophy.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/50px-Flag_of_France.svg.png

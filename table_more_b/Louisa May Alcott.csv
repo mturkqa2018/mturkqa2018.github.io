@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ps:https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Alcott-L.jpg/220px-Alcott-L.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Louisa_May_Alcott_5c_1940_issue.JPG/250px-Louisa_May_Alcott_5c_1940_issue.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Grave_of_Louisa_May_Alcott.jpg/220px-Grave_of_Louisa_May_Alcott.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Louisa_May_Alcott_Bust.jpg/200px-Louisa_May_Alcott_Bust.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Louisa_May_Alcott_headshot.jpg/100px-Louisa_May_Alcott_headshot.jpg

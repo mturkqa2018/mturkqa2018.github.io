@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/thumb/b/bc/Owczarek_francuski_beauceron_009pl.jpg/220px-Owczarek_francuski_beauceron_009pl.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Beaucerons.jpg/220px-Beaucerons.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Owczarek_francuski_beauceron_wilczy_pazur_z_bliska.jpg/150px-Owczarek_francuski_beauceron_wilczy_pazur_z_bliska.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/2/2b/Beauceron.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/50px-Flag_of_France.svg.png

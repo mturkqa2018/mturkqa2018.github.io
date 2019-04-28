@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Stella_Michaels.jpg/220px-Stella_Michaels.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/%22Houses_of_the_Holy_VI%22_Painting_by_Stella_Michaels.jpg/220px-%22Houses_of_the_Holy_VI%22_Painting_by_Stella_Michaels.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Red_Sea_IV%22_Painting_by_Stella_Michaels.jpg/220px-Red_Sea_IV%22_Painting_by_Stella_Michaels.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Amerika_No.1_Painting_by_Stella_Michaels.jpg/220px-Amerika_No.1_Painting_by_Stella_Michaels.jpg

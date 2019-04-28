@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>e_squadron_%28StarCraft%29.png/220px-Valkyrie_squadron_%28StarCraft%29.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/UED_Marine_%28StarCraft%29.jpg/220px-UED_Marine_%28StarCraft%29.jpg

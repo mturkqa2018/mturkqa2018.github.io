@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ed_scales.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Logo_Chernobyl_Children.png/220px-Logo_Chernobyl_Children.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Chernobyl_Nuclear_Power_Plant_2011.jpg/225px-Chernobyl_Nuclear_Power_Plant_2011.jpg

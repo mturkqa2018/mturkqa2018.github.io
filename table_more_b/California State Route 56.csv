@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>G
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/BellsvireoF1.jpg/220px-BellsvireoF1.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ted_Williams_BBall_Digest_May_1949_raw.jpg/220px-Ted_Williams_BBall_Digest_May_1949_raw.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/SR_56_east.JPG/220px-SR_56_east.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_56_ramps.JPG/220px-SR_56_ramps.JPG

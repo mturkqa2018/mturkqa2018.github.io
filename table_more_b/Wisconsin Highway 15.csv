@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>15WisconsinEastTerminus.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Wisconsin_Highway_15_West_Terminus_looking_East.jpg/220px-Wisconsin_Highway_15_West_Terminus_looking_East.jpg

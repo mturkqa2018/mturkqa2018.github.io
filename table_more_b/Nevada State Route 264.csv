@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2015-04-29_18_02_03_View_south_from_the_north_end_of_Nevada_State_Route_264_%28Dicalite_Cutoff%29_in_Esmeralda_County%2C_Nevada.jpg/220px-2015-04-29_18_02_03_View_south_from_the_north_end_of_Nevada_State_Route_264_%28Dicalite_Cutoff%29_in_Esmeralda_County%2C_Nevada.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Nevada_3A.svg/50px-Nevada_3A.svg.png

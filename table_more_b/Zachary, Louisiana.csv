@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>x-Zachary_Railroad_Depot.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/East_Baton_Rouge_Parish_Louisiana_Incorporated_and_Unincorporated_areas_Zachary_Highlighted.svg/300px-East_Baton_Rouge_Parish_Louisiana_Incorporated_and_Unincorporated_areas_Zachary_Highlighted.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Louisiana_in_United_States_%28US48%29.svg/250px-Louisiana_in_United_States_%28US48%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hurricane_Gustav_over_Zachary%2C_Louisiana.jpg/170px-Hurricane_Gustav_over_Zachary%2C_Louisiana.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Map_of_Louisiana_highlighting_East_Baton_Rouge_Parish.svg/180px-Map_of_Louisiana_highlighting_East_Baton_Rouge_Parish.svg.png

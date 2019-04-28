@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Icc_cricket_world_cup_trophy.jpg/70px-Icc_cricket_world_cup_trophy.jpg

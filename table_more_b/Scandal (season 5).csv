@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ott_Foley_1.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Mia_Maestro_SDCC_2014_%28cropped%29.jpg/130px-Mia_Maestro_SDCC_2014_%28cropped%29.jpg

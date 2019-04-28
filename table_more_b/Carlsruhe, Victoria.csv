@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>arlsruheRiverLodge.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Australia_Victoria_Macedon_Ranges_Shire_location_map.svg/270px-Australia_Victoria_Macedon_Ranges_Shire_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Carlsruhe_commemoration_plaque.JPG/250px-Carlsruhe_commemoration_plaque.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Carlsruhe_VIC_general_information.JPG/250px-Carlsruhe_VIC_general_information.JPG

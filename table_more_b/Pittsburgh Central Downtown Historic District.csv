@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>location_map.svg/250px-USA_Pennsylvania_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Pittsburgh%2C_Pennsylvania.svg/100px-Flag_of_Pittsburgh%2C_Pennsylvania.svg.png

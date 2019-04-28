@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>9_2012_-_Prologue_%28cropped%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tour_de_l%27Ain_2009_-_%C3%A9tape_4_-_Rein_Taaramae.jpg/220px-Tour_de_l%27Ain_2009_-_%C3%A9tape_4_-_Rein_Taaramae.jpg

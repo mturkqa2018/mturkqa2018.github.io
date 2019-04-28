@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>1/Icy_IIHF_2013.jpg/220px-Icy_IIHF_2013.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Stockholm_Globe_Arena.jpg/150px-Stockholm_Globe_Arena.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hartwall_areena%2C_Helsinki.JPG/150px-Hartwall_areena%2C_Helsinki.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Map_IIHF_WC_Sweden_and_Finland_2013_hosts_promoted.png/400px-Map_IIHF_WC_Sweden_and_Finland_2013_hosts_promoted.png

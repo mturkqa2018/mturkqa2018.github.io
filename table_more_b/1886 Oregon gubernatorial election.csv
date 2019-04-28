@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>25px-Thomas_R._Cornelius_1896.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Oregon_election_results-DATA_MISSING.svg/200px-Oregon_election_results-DATA_MISSING.svg.png

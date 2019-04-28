@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>20px-All-Ireland_Club_Championships.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Cushendall_vs_De_La_Salle_-_2009.jpg/300px-Cushendall_vs_De_La_Salle_-_2009.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ollie_Canning.jpg/220px-Ollie_Canning.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kilkenny_Hurler_%28circa_1923%29.jpg/63px-Kilkenny_Hurler_%28circa_1923%29.jpg

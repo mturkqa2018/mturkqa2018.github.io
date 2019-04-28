@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rank_insignia_of_ammiraglio_di_squadra_con_incarichi_speciali_of_the_Italian_Navy.svg/35px-Rank_insignia_of_ammiraglio_di_squadra_con_incarichi_speciali_of_the_Italian_Navy.svg.png

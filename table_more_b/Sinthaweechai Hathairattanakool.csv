@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/200px-Sinthaveechai_Hathairattanakool.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sinthaweechai_H_after_THA-OMA.jpg/200px-Sinthaweechai_H_after_THA-OMA.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/50px-Flag_of_Thailand.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/50px-Flag_of_Thailand.svg.png

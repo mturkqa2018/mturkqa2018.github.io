@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ealCouncilDiagram2011.svg/275px-CiudadRealCouncilDiagram2011.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/CuencaCouncilDiagram2011.svg/275px-CuencaCouncilDiagram2011.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/GuadalajaraCouncilDiagram2011.svg/275px-GuadalajaraCouncilDiagram2011.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TalaveradelaReinaCouncilDiagram2011.svg/275px-TalaveradelaReinaCouncilDiagram2011.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ToledoCouncilDiagram2011.svg/275px-ToledoCouncilDiagram2011.svg.png

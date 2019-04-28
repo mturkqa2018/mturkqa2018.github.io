@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ap.svg/220px-Mexico_Sinaloa_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mexico_States_blank_map.svg/220px-Mexico_States_blank_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/LMM_International_1.JPG/120px-LMM_International_1.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/LMM_International_2.JPG/120px-LMM_International_2.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/LMM_International_3.JPG/120px-LMM_International_3.JPG

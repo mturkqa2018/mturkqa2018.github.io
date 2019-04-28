@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>//upload.wikimedia.org/wikipedia/en/thumb/0/0f/Taylor_dayne_tell_it_to_my_heart.jpg/220px-Taylor_dayne_tell_it_to_my_heart.jpg

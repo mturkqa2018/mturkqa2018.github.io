@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-new.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Circuit_Gilles_Villeneuve_%281996-2001%29.svg/220px-Circuit_Gilles_Villeneuve_%281996-2001%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/timeline/706b77d4ede6fdbc161720a7703e28c7.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jacques_Villeneuve_1996.jpg/250px-Jacques_Villeneuve_1996.jpg
