@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>toine_crest.gif/100px-Saint-Antoine_crest.gif
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Canada_New_Brunswick_location_map_2.svg/250px-Canada_New_Brunswick_location_map_2.svg.png

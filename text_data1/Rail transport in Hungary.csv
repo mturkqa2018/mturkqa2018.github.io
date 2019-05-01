@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>arn_1898.jpg/160px-%C3%96sterreich-Ungarn_1898.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Roell-1912_Karte_der_Ungarischen_Eisenbahnen.jpg/160px-Roell-1912_Karte_der_Ungarischen_Eisenbahnen.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Magyarorsz%C3%A1g_villamos%C3%ADtott_vas%C3%BAtvonalai.svg/160px-Magyarorsz%C3%A1g_villamos%C3%ADtott_vas%C3%BAtvonalai.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Coat_of_arms_of_Hungary.svg/80px-Coat_of_arms_of_Hungary.svg.png

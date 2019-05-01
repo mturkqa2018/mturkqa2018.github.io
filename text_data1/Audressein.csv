@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Languedoc-Roussillon-Midi-Pyr%C3%A9n%C3%A9es_region_location_map.svg/270px-Languedoc-Roussillon-Midi-Pyr%C3%A9n%C3%A9es_region_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Population_-_Municipality_code_09026.svg/475px-Population_-_Municipality_code_09026.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ari%C3%A8ge-_ange_musicien_de_l%27%C3%A9glise_d%27Audressein.jpg/220px-Ari%C3%A8ge-_ange_musicien_de_l%27%C3%A9glise_d%27Audressein.jpg

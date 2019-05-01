@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>90%E7%85%A4%E7%A4%A6%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92_Jingtong_Coal_Mine_Memorial_Park_-_panoramio.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Taiwan_location_map.svg/250px-Taiwan_location_map.svg.png

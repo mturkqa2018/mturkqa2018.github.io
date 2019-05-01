@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/Mary_Tyler_Moore_House_2.jpg/220px-Mary_Tyler_Moore_House_2.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mary_Tyler_Moore_cast_1970_1977.JPG/350px-Mary_Tyler_Moore_cast_1970_1977.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mary_Tyler_Moore_Show_cast_last_show_1977.JPG/300px-Mary_Tyler_Moore_Show_cast_last_show_1977.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Mary_Tyler_Moore_Valerie_Harper_Cloris_Leachman_Last_Mary_Tyler_Moore_show_1977.JPG/220px-Mary_Tyler_Moore_Valerie_Harper_Cloris_Leachman_Last_Mary_Tyler_Moore_show_1977.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/cc/Ahmed_bin_ali_stadium.jpg/200px-Ahmed_bin_ali_stadium.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Qatar_adm_location_map.svg/385px-Qatar_adm_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Qatar_Doha_location_map.svg/300px-Qatar_Doha_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Khalifa_Stadium%2C_Doha%2C_Brazil_vs_Argentina_%282010%29.jpg/200px-Khalifa_Stadium%2C_Doha%2C_Brazil_vs_Argentina_%282010%29.jpg

@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>mmertime_Blues.png/220px-Blue_Cheer_Summertime_Blues.png
+https:https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/SummertimeBlues45.jpg/220px-SummertimeBlues45.jpg
+https:https://upload.wikimedia.org/wikipedia/en/c/cf/Summertime_blues.jpg

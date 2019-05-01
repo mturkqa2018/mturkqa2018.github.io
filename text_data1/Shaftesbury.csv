@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>d.wikimedia.org/wikipedia/commons/thumb/8/8d/Dorset_UK_location_map.svg/240px-Dorset_UK_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Milestone%2C_Blandford_Forum_-_geograph.org.uk_-_1714569.jpg/170px-Milestone%2C_Blandford_Forum_-_geograph.org.uk_-_1714569.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ruins_of_Shaftesbury_Abbey_%28geograph_3605823%29.jpg/220px-Ruins_of_Shaftesbury_Abbey_%28geograph_3605823%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Edwardstowe%2C_Shaftesbury_-_geograph.org.uk_-_224159.jpg/220px-Edwardstowe%2C_Shaftesbury_-_geograph.org.uk_-_224159.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Shaftesbury_Town_Hall_-_geograph.org.uk_-_1436981.jpg/220px-Shaftesbury_Town_Hall_-_geograph.org.uk_-_1436981.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Viewpoint%2C_Park_Walk%2CShaftesbury_-_geograph.org.uk_-_1436844.jpg/220px-Viewpoint%2C_Park_Walk%2CShaftesbury_-_geograph.org.uk_-_1436844.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/High_Street_%2CShaftesbury%2C_Dorset_-_geograph.org.uk_-_411160.jpg/220px-High_Street_%2CShaftesbury%2C_Dorset_-_geograph.org.uk_-_411160.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gold_Hill%2C_Shaftsbury%2C_Dorset%2C_England.JPG/220px-Gold_Hill%2C_Shaftsbury%2C_Dorset%2C_England.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/North_Dorset_UK_locator_map.svg/140px-North_Dorset_UK_locator_map.svg.png

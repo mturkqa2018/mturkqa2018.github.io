@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>S_Central_Temples_Outline_Map_with_Missouri_highlighted.PNG/350px-US_Central_Temples_Outline_Map_with_Missouri_highlighted.PNG

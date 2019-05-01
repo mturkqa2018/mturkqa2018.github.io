@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>tone_Canyon_Reservoir%2C_and_UCLA.jpg/220px-Bel_Air_California%2C_Stone_Canyon_Reservoir%2C_and_UCLA.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Map_of_Thomas_Fire.png/280px-Map_of_Thomas_Fire.png

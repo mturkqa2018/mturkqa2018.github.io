@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>dia.org/wikipedia/commons/thumb/2/2e/Map_of_Alabama_highlighting_Jefferson_County.svg/120px-Map_of_Alabama_highlighting_Jefferson_County.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Map_of_USA_AL.svg/200px-Map_of_USA_AL.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TANNEHILL_VALLEY_COVERED_BRIDGE.jpg/290px-TANNEHILL_VALLEY_COVERED_BRIDGE.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Map_of_Alabama_highlighting_Jefferson_County.svg/63px-Map_of_Alabama_highlighting_Jefferson_County.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Seal_of_Alabama.svg/100px-Seal_of_Alabama.svg.png

@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>9/99/Nice_airport.jpg/250px-Nice_airport.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Provence-Alpes-C%C3%B4te_d-Azur_in_France.svg/220px-Provence-Alpes-C%C3%B4te_d-Azur_in_France.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Provence-Alpes-Cote_d%27azur_region_location_map.svg/220px-Provence-Alpes-Cote_d%27azur_region_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Nice_-_Cote_d%27Azur_%28NCE_-_LFMN%29_AN2003762.jpg/220px-Nice_-_Cote_d%27Azur_%28NCE_-_LFMN%29_AN2003762.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nice_-_Cote_d%27Azur_%28NCE_-_LFMN%29_AN0430566.jpg/220px-Nice_-_Cote_d%27Azur_%28NCE_-_LFMN%29_AN0430566.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Nice_tour_de_controle.JPG/220px-Nice_tour_de_controle.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aerial_view_of_Nice-C%C3%B4te_d%E2%80%99Azur_Airport.jpg/220px-Aerial_view_of_Nice-C%C3%B4te_d%E2%80%99Azur_Airport.jpg

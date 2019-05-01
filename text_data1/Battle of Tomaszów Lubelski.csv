@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_lub_1.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/TomLubENG.png/220px-TomLubENG.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bitwa_tomaszow_lub_2.png/220px-Bitwa_tomaszow_lub_2.png

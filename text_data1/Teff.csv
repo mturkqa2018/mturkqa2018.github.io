@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ra_with_stews.jpg/220px-Eritrean_Injera_with_stews.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Mashella_ena_Teff.JPG/220px-Mashella_ena_Teff.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/The_Teff_Harvest%2C_Northern_Ethiopia_%283131617016%29.jpg/220px-The_Teff_Harvest%2C_Northern_Ethiopia_%283131617016%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ethiopie-Battage_du_teff_%284%29.jpg/220px-Ethiopie-Battage_du_teff_%284%29.jpg

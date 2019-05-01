@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>gs_for_the_Ride_Home.jpg/220px-Elizabethtown_-_Songs_for_the_Ride_Home.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/ElizabethtownSoundtrackVol2.jpg/220px-ElizabethtownSoundtrackVol2.jpg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/1/16/ElizabethtownOriginalScore.jpg/220px-ElizabethtownOriginalScore.jpg

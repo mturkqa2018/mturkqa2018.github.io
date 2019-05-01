@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>setts_Route_9.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MA_Route_9_entering_Leicester%2C_MA.jpg/150px-MA_Route_9_entering_Leicester%2C_MA.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Spencer_Center.jpg/150px-Spencer_Center.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Main_Street%2C_Ware_MA.jpg/150px-Main_Street%2C_Ware_MA.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MA_Route_9_eastbound_in_Windsor%2C_MA.jpg/150px-MA_Route_9_eastbound_in_Windsor%2C_MA.jpg

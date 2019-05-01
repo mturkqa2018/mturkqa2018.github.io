@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>px-Swimming_pictogram.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Swimming_pictogram.svg/50px-Swimming_pictogram.svg.png

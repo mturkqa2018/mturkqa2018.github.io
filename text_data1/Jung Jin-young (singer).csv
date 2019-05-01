@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>media.org/wikipedia/commons/thumb/4/46/Jung_Jin-young_at_WFMF_concert_in_September_2016_01.jpg/170px-Jung_Jin-young_at_WFMF_concert_in_September_2016_01.jpg

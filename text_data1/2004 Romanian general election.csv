@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>mit_2008%29.jpg/136px-Traian_B%C4%83sescu_%28EPP_Summit_2008%29.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adrian_N%C4%83stase3.jpg/133px-Adrian_N%C4%83stase3.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Romania-presidential-2004-by-county.png/400px-Romania-presidential-2004-by-county.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Romania_presidentia2004_Run-off_by_county.png/400px-Romania_presidentia2004_Run-off_by_county.png

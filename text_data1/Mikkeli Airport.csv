@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>umb/7/73/Finland_adm_location_map.svg/110px-Finland_adm_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mikkeli_Airport_%28MIK%29%2C_Finland.JPG/120px-Mikkeli_Airport_%28MIK%29%2C_Finland.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Secondary_tower_of_Mikkeli_Airport.JPG/120px-Secondary_tower_of_Mikkeli_Airport.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/A_Cessna152_taking_off_at_Mikkeli_Airport.JPG/120px-A_Cessna152_taking_off_at_Mikkeli_Airport.JPG

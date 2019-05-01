@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>enya_adm_location_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nairobi_location_map.png/380px-Nairobi_location_map.png

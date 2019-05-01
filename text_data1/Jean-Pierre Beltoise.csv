@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s/thumb/1/1c/N%C3%BCrburgring_1968_Beltoise_Matra.jpg/220px-N%C3%BCrburgring_1968_Beltoise_Matra.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Beltoise_at_1968_Dutch_Grand_Prix.jpg/220px-Beltoise_at_1968_Dutch_Grand_Prix.jpg

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>b/a/ad/Philippines_location_map_%28square%29.svg/250px-Philippines_location_map_%28square%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ph_fil_zamboanga_peninsula.png/40px-Ph_fil_zamboanga_peninsula.png

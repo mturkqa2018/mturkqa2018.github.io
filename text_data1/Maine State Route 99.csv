@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>te_Route_99_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Route_99_westbound%2C_Kennebunk_ME.jpg/220px-Route_99_westbound%2C_Kennebunk_ME.jpg

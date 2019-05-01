@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s:https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Institute_for_Nuclear_Problems_of_BSU_logo.png/50px-Institute_for_Nuclear_Problems_of_BSU_logo.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Institute_for_Nuclear_Problems_of_BSU_people.jpg/246px-Institute_for_Nuclear_Problems_of_BSU_people.jpg

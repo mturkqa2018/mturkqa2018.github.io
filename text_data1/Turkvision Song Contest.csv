@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/a7/T%C3%BCrkvizyon_all_map.svg/250px-T%C3%BCrkvizyon_all_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/T%C3%BCrkvizyon_winners_map.svg/220px-T%C3%BCrkvizyon_winners_map.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tatneft_Arena.jpg/150px-Tatneft_Arena.jpg

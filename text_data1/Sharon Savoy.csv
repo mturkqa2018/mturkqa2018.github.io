@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>k.svg/40px-Text_document_with_red_question_mark.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/45px-Unbalanced_scales.svg.png
+https:https://upload.wikimedia.org/wikipedia/en/f/fd/Sharon_savoy_headshot.jpeg
+https:https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Sharon_Savoy_and_Ben_Vereen.jpg/190px-Sharon_Savoy_and_Ben_Vereen.jpg

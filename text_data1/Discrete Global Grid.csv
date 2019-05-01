@@ -1,0 +1,11 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>SA.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Utmzonenugitterp.png/140px-Utmzonenugitterp.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Geographic_coordinates_sphere.png/140px-Geographic_coordinates_sphere.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Delaunay-Triangulation.svg/140px-Delaunay-Triangulation.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Great_Britain_Box-hiearchy.png/380px-Great_Britain_Box-hiearchy.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/HealpixGridRefinement.jpg/180px-HealpixGridRefinement.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Four-level_Z.svg/140px-Four-level_Z.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hilbert_Cubed_Sphere.png/140px-Hilbert_Cubed_Sphere.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DGGs-asOGC-topic21-fig1.png/580px-DGGs-asOGC-topic21-fig1.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/DGG-uml01.png/520px-DGG-uml01.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hilbert_curve.png/320px-Hilbert_curve.png

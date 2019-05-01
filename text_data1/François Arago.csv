@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>%C3%A7ois_Arago.svg/150px-Signature_de_Fran%C3%A7ois_Arago.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fran%C3%A7ois_Arago.jpg/200px-Fran%C3%A7ois_Arago.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Arago_medallion_Paris.jpg/250px-Arago_medallion_Paris.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/P%C3%A8re-Lachaise_-_Division_4_-_Arago_01.jpg/220px-P%C3%A8re-Lachaise_-_Division_4_-_Arago_01.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Great_Seal_of_France.svg/100px-Great_Seal_of_France.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jacques-Charles_Dupont_de_L%27Eure.jpg/100px-Jacques-Charles_Dupont_de_L%27Eure.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Great_Seal_of_France.svg/100px-Great_Seal_of_France.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fran%C3%A7ois_Arago.jpg/100px-Fran%C3%A7ois_Arago.jpg

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ning2010.JPG/220px-Stevedownie_lightning2010.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Steve_Downie_Lightning3_2012-02-12.JPG/220px-Steve_Downie_Lightning3_2012-02-12.JPG

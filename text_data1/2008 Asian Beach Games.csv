@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_mascot.png/140px-1st_beach_asiad_mascot.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Abandoned_shopping_complex_in_Garuda_Wisnu_Kencana.jpg/200px-Abandoned_shopping_complex_in_Garuda_Wisnu_Kencana.jpg

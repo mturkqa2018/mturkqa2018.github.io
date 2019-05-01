@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>orts_Mix%29.png/300px-Mario_Stadium_%28Mario_Sports_Mix%29.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mario_emblem.svg/80px-Mario_emblem.svg.png

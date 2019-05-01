@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>pg/220px-Adelaide_CBD_developments.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Adelaide_Convention_Centre.jpg/50px-Adelaide_Convention_Centre.jpg

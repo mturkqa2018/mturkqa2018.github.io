@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-_updated.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/SensorSizes.svg/300px-SensorSizes.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Olympus_E-420.jpg/220px-Olympus_E-420.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/FourLenses.jpg/300px-FourLenses.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Olympus-MicroFT-Model.jpg/220px-Olympus-MicroFT-Model.jpg

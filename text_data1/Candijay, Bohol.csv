@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ijay_Bohol_1.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ph_locator_bohol_candijay.png/250px-Ph_locator_bohol_candijay.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Philippines_location_map_%28square%29.svg/250px-Philippines_location_map_%28square%29.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Candijay_Bohol_2.JPG/297px-Candijay_Bohol_2.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Candijaychurch.jpg/264px-Candijaychurch.jpg

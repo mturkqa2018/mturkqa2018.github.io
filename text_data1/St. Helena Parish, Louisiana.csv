@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Helena_Parish.svg/200px-Map_of_Louisiana_highlighting_Saint_Helena_Parish.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Map_of_USA_LA.svg/200px-Map_of_USA_LA.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Map_of_St._Helena_Parish_Louisiana_With_Municipal_Labels.PNG/200px-Map_of_St._Helena_Parish_Louisiana_With_Municipal_Labels.PNG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Map_of_Louisiana_highlighting_Saint_Helena_Parish.svg/180px-Map_of_Louisiana_highlighting_Saint_Helena_Parish.svg.png

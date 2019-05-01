@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>x-Robert_H._Mollohan.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/West_Virginia_gubernatorial_election_1956.svg/250px-West_Virginia_gubernatorial_election_1956.svg.png

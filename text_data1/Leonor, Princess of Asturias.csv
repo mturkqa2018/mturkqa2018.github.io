@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>4.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Leonor_spain_sig.svg/125px-Leonor_spain_sig.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Escudo_Felipe_VI_de_Espa%C3%B1a.svg/75px-Escudo_Felipe_VI_de_Espa%C3%B1a.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Coat_of_Arms_of_Leonor%2C_Princess_of_Asturias.svg/75px-Coat_of_Arms_of_Leonor%2C_Princess_of_Asturias.svg.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Coat_of_Arms_of_the_Spanish_Heir_apparent_as_Prince_of_Girona.svg/75px-Coat_of_Arms_of_the_Spanish_Heir_apparent_as_Prince_of_Girona.svg.png

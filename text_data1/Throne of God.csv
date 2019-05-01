@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>0_142.png/220px-Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_142.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gottvater_thronend_Westfalen_15_Jh.jpg/150px-Gottvater_thronend_Westfalen_15_Jh.jpg

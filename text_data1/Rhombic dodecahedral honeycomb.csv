@@ -1,0 +1,14 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>0px-Dodecahedrille_cell.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/HC_R1.png/240px-HC_R1.png
+https:https://upload.wikimedia.org/wikipedia/commons/9/90/Cubes-R1_ani.gif
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rhombic_dodecahedral_honeycomb.png/400px-Rhombic_dodecahedral_honeycomb.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rhombic_dodecahedral_honeycomb_4-color.gif/320px-Rhombic_dodecahedral_honeycomb_4-color.gif
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rhombic_dodecahedral_honeycomb_6-color.gif/320px-Rhombic_dodecahedral_honeycomb_6-color.gif
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Trapez_rhombic_dodeca_hb.png/250px-Trapez_rhombic_dodeca_hb.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Trapezo-rhombic_dodecahedron.png/60px-Trapezo-rhombic_dodecahedron.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Trapezo-rhombic_dodecahedron_honeycomb.png/320px-Trapezo-rhombic_dodecahedron_honeycomb.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gyrated_alternated_cubic_honeycomb.png/160px-Gyrated_alternated_cubic_honeycomb.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/HC_R1.png/160px-HC_R1.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Half_oblate_octahedrille_cell.png/160px-Half_oblate_octahedrille_cell.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Half_oblate_octahedrille_cell-cube.png/240px-Half_oblate_octahedrille_cell-cube.png
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Truncated_Alternated_Cubic_Honeycomb.svg/160px-Truncated_Alternated_Cubic_Honeycomb.svg.png

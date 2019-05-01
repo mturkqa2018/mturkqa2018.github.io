@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2015-10-30_09_30_32_View_north_from_the_south_end_of_Nevada_State_Route_447_%28Gerlach_Road%29_in_Wadsworth%2C_Nevada.jpg/220px-2015-10-30_09_30_32_View_north_from_the_south_end_of_Nevada_State_Route_447_%28Gerlach_Road%29_in_Wadsworth%2C_Nevada.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NV447_near_Empire_Nevada.JPG/220px-NV447_near_Empire_Nevada.JPG
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/S.R._447_Between_Wadsworth_and_Pyramid.jpg/220px-S.R._447_Between_Wadsworth_and_Pyramid.jpg
+https:https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Kluft-photo-Black-Rock-Desert-Aug-2005-Img_5081.jpg/120px-Kluft-photo-Black-Rock-Desert-Aug-2005-Img_5081.jpg
