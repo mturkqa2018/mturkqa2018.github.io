@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>://upload.wikimedia.org/wikipedia/en/b/bd/OprylandUSA1990sLogo.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2007-1012-Nashville-OprylandUSA-001.JPG/300px-2007-1012-Nashville-OprylandUSA-001.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Skyride_Opryland_1.jpg/220px-Skyride_Opryland_1.jpg

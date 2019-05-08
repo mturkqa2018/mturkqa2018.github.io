@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Jean-Talon_Blue_Line.jpg/200px-Jean-Talon_Blue_Line.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Montreal_Metro.svg/80px-Montreal_Metro.svg.png

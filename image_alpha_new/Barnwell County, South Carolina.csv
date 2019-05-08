@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>dia.org/wikipedia/commons/thumb/b/b5/Map_of_South_Carolina_highlighting_Barnwell_County.svg/200px-Map_of_South_Carolina_highlighting_Barnwell_County.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Map_of_USA_SC.svg/200px-Map_of_USA_SC.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Map_of_South_Carolina_highlighting_Barnwell_County.svg/180px-Map_of_South_Carolina_highlighting_Barnwell_County.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Seal_of_South_Carolina.svg/100px-Seal_of_South_Carolina.svg.png

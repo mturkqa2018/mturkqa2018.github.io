@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>peedway_-_Road_Course.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/1967_Daytona_Box.jpg/220px-1967_Daytona_Box.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DaytonaPrototype.jpg/220px-DaytonaPrototype.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/RWR_2012_Rolex_24.jpg/220px-RWR_2012_Rolex_24.jpg

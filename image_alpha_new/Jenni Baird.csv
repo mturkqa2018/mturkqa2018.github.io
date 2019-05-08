@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Jenni_Baird_at_WonderCon_2009.JPG/220px-Jenni_Baird_at_WonderCon_2009.JPG

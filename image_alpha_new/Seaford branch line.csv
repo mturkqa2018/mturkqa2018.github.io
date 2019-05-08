@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.jpg/275px-Newhaven_Harbour_-_geograph.org.uk_-_867316.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/EnglandSouthEast.png/75px-EnglandSouthEast.png

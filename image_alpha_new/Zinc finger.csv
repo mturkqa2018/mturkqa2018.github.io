@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>inc_finger_DNA_complex.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/PDB_1zaa_EBI.jpg/150px-PDB_1zaa_EBI.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/PDB_1ncp_EBI.jpg/150px-PDB_1ncp_EBI.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/PDB_1pft_EBI.jpg/150px-PDB_1pft_EBI.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/PDB_1d66_EBI.jpg/150px-PDB_1d66_EBI.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/PDB_1pxe_EBI.jpg/220px-PDB_1pxe_EBI.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/PDB_1pxe_EBI.jpg/220px-PDB_1pxe_EBI.jpg

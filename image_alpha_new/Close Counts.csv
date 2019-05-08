@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>tps://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Dollar_sign_in_circle_cleaned_%28PD_version%29.svg/50px-Dollar_sign_in_circle_cleaned_%28PD_version%29.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Close_Counts_%28album%29.jpg/220px-Close_Counts_%28album%29.jpg

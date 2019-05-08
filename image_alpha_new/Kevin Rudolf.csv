@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>und-openclipart.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kevin_Rudolf%2C_Miami_2013.JPG/220px-Kevin_Rudolf%2C_Miami_2013.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

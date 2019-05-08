@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>a_edcp_relief_location_map.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kittpeak2.jpg/250px-Kittpeak2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/P200_Dome_Open.jpg/50px-P200_Dome_Open.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Shane_dome.JPG/40px-Shane_dome.JPG
+https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/NicholasMayallAtTelescope.jpg/150px-NicholasMayallAtTelescope.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kitt_Peak_in_1988.jpg/220px-Kitt_Peak_in_1988.jpg

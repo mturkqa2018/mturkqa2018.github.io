@@ -1,0 +1,11 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>px-Gwynedd_UK_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bangor-Wales-map.jpg/220px-Bangor-Wales-map.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bangormap1947.png/220px-Bangormap1947.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ysbyty_Gwynedd%2C_Bangor.jpg/220px-Ysbyty_Gwynedd%2C_Bangor.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/A_market_day_in_Bangor.jpeg/220px-A_market_day_in_Bangor.jpeg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_city_of_Bangor%2C_Caernarvonshire.jpeg/220px-The_city_of_Bangor%2C_Caernarvonshire.jpeg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/A_plan_%26_view_of_a_chain_bridge_-_erecting_over_the_menai_at_Bangor_Ferry_1820.jpeg/220px-A_plan_%26_view_of_a_chain_bridge_-_erecting_over_the_menai_at_Bangor_Ferry_1820.jpeg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Electoral_wards_in_the_city_of_Bangor%2C_Gwynedd.jpg/250px-Electoral_wards_in_the_city_of_Bangor%2C_Gwynedd.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Wales_Gwynedd_locator_map.svg/150px-Wales_Gwynedd_locator_map.svg.png

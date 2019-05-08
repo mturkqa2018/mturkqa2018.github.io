@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>eas_Palos_Heights_Highlighted.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Illinois_in_United_States_%28US48%29.svg/250px-Illinois_in_United_States_%28US48%29.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Map_of_Illinois_highlighting_Cook_County.svg/42px-Map_of_Illinois_highlighting_Cook_County.svg.png

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>netsGeneve02.jpg/250px-CingriaMauriceVernetsGeneve02.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/CingriaMauriceVernetsGeneve03.jpg/250px-CingriaMauriceVernetsGeneve03.jpg

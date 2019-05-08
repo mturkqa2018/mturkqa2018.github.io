@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>rsburg%2C_Russia_-_20070614.jpg/40px-Roman_bust_of_a_Dacian_tarabostes%2C_Hermitage%2C_St_Petersburg%2C_Russia_-_20070614.jpg

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>rg/wikipedia/commons/thumb/e/e8/Horrornovel.png/45px-Horrornovel.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Thrillerbook.png/45px-Thrillerbook.png

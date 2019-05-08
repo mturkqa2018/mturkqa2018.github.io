@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>oad.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulton_Field_2.jpg/300px-Fulton_Field_2.jpg

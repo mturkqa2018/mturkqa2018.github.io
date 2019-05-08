@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ater.JPG/220px-JKT48_Theater.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/JKT48.jpg/120px-JKT48.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/JKT48_Guide_Book_signing.jpg/220px-JKT48_Guide_Book_signing.jpg

@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ou_Station_Inner.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Xinbeitou_Station_Platform_201507.jpg/250px-Xinbeitou_Station_Platform_201507.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%E6%96%B0%E5%8C%97%E6%8A%95%E9%A9%9B.JPG/250px-%E6%96%B0%E5%8C%97%E6%8A%95%E9%A9%9B.JPG

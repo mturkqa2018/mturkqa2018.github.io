@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>rchbishop_Damaskinos_of_Greece.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/The_Archbishop_Regent_Damaskinos_of_Greece%2C_15_February_1945_TR2759.jpg/220px-The_Archbishop_Regent_Damaskinos_of_Greece%2C_15_February_1945_TR2759.jpg

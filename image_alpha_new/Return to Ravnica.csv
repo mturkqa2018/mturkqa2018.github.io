@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>l.jpg/96px-Gatecrash_symbol.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Dragon%27s_Maze_symbol.jpg/96px-Dragon%27s_Maze_symbol.jpg

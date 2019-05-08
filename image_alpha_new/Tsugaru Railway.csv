@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>px-Text_document_with_red_question_mark.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tsugaru_Railway_line_2010.JPG/300px-Tsugaru_Railway_line_2010.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Tsugaru_Railway_linemap_EN.png/250px-Tsugaru_Railway_linemap_EN.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/140914_Tsugaru_Railway_Goshogawara_Aomori_pref_Japan01bs3.jpg/120px-140914_Tsugaru_Railway_Goshogawara_Aomori_pref_Japan01bs3.jpg

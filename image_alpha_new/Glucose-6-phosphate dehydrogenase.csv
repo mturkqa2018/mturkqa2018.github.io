@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>PD_active_site_labeled_2.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/G6PD_structural_site_hydrogen.png/350px-G6PD_structural_site_hydrogen.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/G6PD_Structural_site_hydrophobic.png/350px-G6PD_Structural_site_hydrophobic.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Pathology_of_G6PD_deficiency.png/400px-Pathology_of_G6PD_deficiency.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/PDB_1qki_EBI.jpg/180px-PDB_1qki_EBI.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PDB_2bh9_EBI.png/180px-PDB_2bh9_EBI.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/PDB_2bhl_EBI.png/180px-PDB_2bhl_EBI.png

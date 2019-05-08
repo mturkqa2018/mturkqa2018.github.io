@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>px-Change_UK_Logo_2.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Independent_Group_Logo.png/220px-The_Independent_Group_Logo.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Official_portrait_of_Heidi_Allen_crop_2.jpg/170px-Official_portrait_of_Heidi_Allen_crop_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TIG_Change_logo.png/100px-TIG_Change_logo.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Official_portrait_of_Mr_Gavin_Shuker_crop_2.jpg/170px-Official_portrait_of_Mr_Gavin_Shuker_crop_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Official_portrait_of_Chuka_Umunna_crop_2_%28cropped%29.jpg/170px-Official_portrait_of_Chuka_Umunna_crop_2_%28cropped%29.jpg

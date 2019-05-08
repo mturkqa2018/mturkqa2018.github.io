@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>t%2C_MI_location.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/USA_Michigan_location_map.svg/250px-USA_Michigan_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Frankfort_Michigan_frozen_harbor.jpg/220px-Frankfort_Michigan_frozen_harbor.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/3/37/PrattHotel.jpg/250px-PrattHotel.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Map_of_Michigan_highlighting_Benzie_County.svg/85px-Map_of_Michigan_highlighting_Benzie_County.svg.png

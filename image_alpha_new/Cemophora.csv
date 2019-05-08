@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ogo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SimotesSplendidusFord_%28cropped%29.jpg/90px-SimotesSplendidusFord_%28cropped%29.jpg

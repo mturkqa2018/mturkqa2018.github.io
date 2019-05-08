@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>denktafel_helmut_newton.jpg/237px-Berlin_gedenktafel_helmut_newton.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Helmut_Newton_1950._Model_June_Browne._Myer%27s_Department_store_contract%2C_Hat_of_the_Week.png/200px-Helmut_Newton_1950._Model_June_Browne._Myer%27s_Department_store_contract%2C_Hat_of_the_Week.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Friedhof_Schoeneberg_III_-_Helmut_Newtons_Grave.jpg/200px-Friedhof_Schoeneberg_III_-_Helmut_Newtons_Grave.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hemut_Newton_Plaque_-_Chateau_Marmont.jpg/220px-Hemut_Newton_Plaque_-_Chateau_Marmont.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Helmut_Newton_Museum.jpg/200px-Helmut_Newton_Museum.jpg

@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>0px-Danica_Patrick_Car_2010_Indy_500_Practice_Day_7.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dixon_2010_Indianapolis_500_qualification.jpg/220px-Dixon_2010_Indianapolis_500_qualification.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Franchitti_after_winning_2010_Indianapolis_500.jpg/220px-Franchitti_after_winning_2010_Indianapolis_500.jpg

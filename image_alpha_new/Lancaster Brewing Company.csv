@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-Lancaster_Brewing_Company_%28emblem%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/McGovern_Warehouse.JPG/290px-McGovern_Warehouse.JPG

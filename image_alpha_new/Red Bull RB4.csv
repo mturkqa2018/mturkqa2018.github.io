@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ce.jpg/220px-Mark_Webber_2008_France.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/David_Coulthard_2008_Canada.jpg/220px-David_Coulthard_2008_Canada.jpg

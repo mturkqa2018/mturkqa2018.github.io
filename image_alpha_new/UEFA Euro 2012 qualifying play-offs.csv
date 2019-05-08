@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>thumb/d/d4/Zbigniew_Boniek_2011_%281%29.jpg/220px-Zbigniew_Boniek_2011_%281%29.jpg

@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>meplay.jpg/250px-Final_Fantasy_XIII-2_gameplay.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Motomu_Toriyama_-_Game_Developers_Conference_2010.jpg/220px-Motomu_Toriyama_-_Game_Developers_Conference_2010.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Concert_Masashi_Hamauzu_-_Imeruat_-_Toulouse_Game_Show_-_2012-12-01-_P1500790.jpg/200px-Concert_Masashi_Hamauzu_-_Imeruat_-_Toulouse_Game_Show_-_2012-12-01-_P1500790.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

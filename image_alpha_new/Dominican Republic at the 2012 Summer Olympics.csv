@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ez_2012.JPG/280px-Felix_Sanchez_2012.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/DRRussia2012.jpg/250px-DRRussia2012.jpg

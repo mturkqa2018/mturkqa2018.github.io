@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/LIT_Skaudwile_COA.jpg/100px-LIT_Skaudwile_COA.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lithuania_adm_location_map.svg/250px-Lithuania_adm_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Skaudvil%C4%97sPolicijosNuovada.JPG/120px-Skaudvil%C4%97sPolicijosNuovada.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Skaudvil%C4%97sSpecMokykla.JPG/120px-Skaudvil%C4%97sSpecMokykla.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Skaudvil%C4%97sAto2.JPG/120px-Skaudvil%C4%97sAto2.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Skaudvil%C4%97sGimnazija.JPG/120px-Skaudvil%C4%97sGimnazija.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Taurage_County_flag.png/100px-Taurage_County_flag.png

@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/250px-Location_of_Barkam_within_Sichuan_%28China%29.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/China_Sichuan_location_map.svg/250px-China_Sichuan_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Barkhams2.JPG/200px-Barkhams2.JPG

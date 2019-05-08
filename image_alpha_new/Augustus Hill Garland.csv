@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>px-Augustus_Hill_Garland_-_Brady-Handy.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Augustus_Hill_Garland.jpg/200px-Augustus_Hill_Garland.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/80px-Seal_of_the_United_States_Senate.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Seal_of_the_Confederate_States_of_America.svg/80px-Seal_of_the_Confederate_States_of_America.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Seal_of_Arkansas.svg/80px-Seal_of_Arkansas.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Seal_of_the_United_States_Department_of_Justice.svg/80px-Seal_of_the_United_States_Department_of_Justice.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/StephenGroverCleveland.png/120px-StephenGroverCleveland.png

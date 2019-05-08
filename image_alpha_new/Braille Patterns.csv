@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-BrailleValues.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Braille_I9.svg/50px-Braille_I9.svg.png

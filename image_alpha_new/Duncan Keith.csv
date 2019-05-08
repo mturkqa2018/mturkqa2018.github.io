@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ith_2011-02-16.jpg/220px-Duncan_Keith_2011-02-16.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Duncan_Keith_-_Switzerland_vs._Canada%2C_29th_April_2012-2.jpg/225px-Duncan_Keith_-_Switzerland_vs._Canada%2C_29th_April_2012-2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dk-cstrophy-2015.jpg/220px-Dk-cstrophy-2015.jpg

@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Najib_Razak_2008-08-21.jpg/75px-Najib_Razak_2008-08-21.jpg

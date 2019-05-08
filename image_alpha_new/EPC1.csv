@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>e_10_ideogram.svg/300px-Human_chromosome_10_ideogram.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ideogram_house_mouse_chromosome_18.svg/260px-Ideogram_house_mouse_chromosome_18.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ideogram_of_house_mouse_chromosome_18.svg/300px-Ideogram_of_house_mouse_chromosome_18.svg.png

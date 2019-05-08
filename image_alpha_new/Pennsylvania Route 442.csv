@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Route_442_at_Route_42.jpg/220px-Route_442_at_Route_42.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pennsylvania_Route_442_near_its_western_terminus_looking_west.JPG/220px-Pennsylvania_Route_442_near_its_western_terminus_looking_west.JPG

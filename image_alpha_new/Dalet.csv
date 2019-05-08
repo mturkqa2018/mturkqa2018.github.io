@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ac_Serta_dalat.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Syriac_Estrangela_dalat.svg/50px-Syriac_Estrangela_dalat.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Syriac_letter_shapes_Dalath.PNG/600px-Syriac_letter_shapes_Dalath.PNG

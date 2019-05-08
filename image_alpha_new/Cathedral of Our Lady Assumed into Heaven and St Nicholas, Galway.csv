@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>thedralinterior2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Galway_Cathedral_%286254030278%29.jpg/120px-Galway_Cathedral_%286254030278%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Galway_Cathedral_%286254031600%29.jpg/120px-Galway_Cathedral_%286254031600%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Galway_Cathedral_%287061207855%29.jpg/120px-Galway_Cathedral_%287061207855%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Galway_Cathedral_%287061216017%29.jpg/120px-Galway_Cathedral_%287061216017%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Galway_Cathedral_%287061228289%29.jpg/120px-Galway_Cathedral_%287061228289%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Galway_Cathedral_%286254033618%29.jpg/120px-Galway_Cathedral_%286254033618%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Galwaycathedralinterior1.jpg/120px-Galwaycathedralinterior1.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Galway_CoA.png/100px-Galway_CoA.png

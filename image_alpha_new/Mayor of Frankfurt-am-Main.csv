@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ons/thumb/3/31/Peter-feldmann-paulskirche-2012-ffm-347_%28cropped%29.jpg/150px-Peter-feldmann-paulskirche-2012-ffm-347_%28cropped%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Daniel_Heinrich_Mumm_von_Schwarzenstein.jpg/180px-Daniel_Heinrich_Mumm_von_Schwarzenstein.jpg

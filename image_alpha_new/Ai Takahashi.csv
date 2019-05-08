@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-Morning_Musume_20100703_Japan_Expo_29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ai_Takahashi_-_Platinum_9_Tour_Spring_2009.jpg/220px-Ai_Takahashi_-_Platinum_9_Tour_Spring_2009.jpg

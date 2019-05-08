@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ime-sound-openclipart.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gill_Scott_Heron_2009_Regency.jpg/170px-Gill_Scott_Heron_2009_Regency.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gil_Scott-Heron.jpg/220px-Gil_Scott-Heron.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/ChicoGsh.png/220px-ChicoGsh.png

@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>trait%28cropped%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rahul_Gandhi_%28cropped%29.jpg/118px-Rahul_Gandhi_%28cropped%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Indian_General_Election_2019.svg/300px-Indian_General_Election_2019.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Loksabha_Election_2019_ECI_official_logo_Desh_Ka_Mahatyauhar.jpg/220px-Loksabha_Election_2019_ECI_official_logo_Desh_Ka_Mahatyauhar.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/2019_Lok_Sabha_Election_Schedule.svg/220px-2019_Lok_Sabha_Election_Schedule.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Opinion_polling_for_the_2019_Indian_general_election.svg/800px-Opinion_polling_for_the_2019_Indian_general_election.svg.png

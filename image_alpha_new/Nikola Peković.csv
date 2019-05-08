@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>hony_Davis_%281%29.JPG/200px-20140101_Nikola_Pekovi%C4%87_guarded_by_Anthony_Davis_%281%29.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nikola_Pekovic.jpg/200px-Nikola_Pekovic.jpg

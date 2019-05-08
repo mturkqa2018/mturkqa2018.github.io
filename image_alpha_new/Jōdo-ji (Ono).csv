@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>50px-Jodoji_Ono_Hyogo04n3200.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Jodoji_Ono_Hyogo07n4272.jpg/120px-Jodoji_Ono_Hyogo07n4272.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Jodoji_Ono_Hyogo15n3200.jpg/120px-Jodoji_Ono_Hyogo15n3200.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jodoji_Ono_Hyogo14n4272.jpg/120px-Jodoji_Ono_Hyogo14n4272.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Jodoji_Ono_Hyogo12n3200.jpg/120px-Jodoji_Ono_Hyogo12n3200.jpg

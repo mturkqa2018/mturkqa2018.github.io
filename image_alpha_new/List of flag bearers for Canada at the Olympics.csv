@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Hughes_by_Freeman_cropped.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hubert_Brooks_Canadian_Flag_Bearer_1948_Winter_Olympics.png/220px-Hubert_Brooks_Canadian_Flag_Bearer_1948_Winter_Olympics.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/1912_Opening_ceremony_-_Canada.JPG/220px-1912_Opening_ceremony_-_Canada.JPG

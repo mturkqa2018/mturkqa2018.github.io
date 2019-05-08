@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>6_ideogram.svg/300px-Human_chromosome_6_ideogram.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ideogram_house_mouse_chromosome_17.svg/260px-Ideogram_house_mouse_chromosome_17.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ideogram_of_house_mouse_chromosome_17.svg/300px-Ideogram_of_house_mouse_chromosome_17.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/PBB_GE_STK19_36019_at_fs.png/250px-PBB_GE_STK19_36019_at_fs.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/PBB_GE_STK19_204090_at_fs.png/250px-PBB_GE_STK19_204090_at_fs.png

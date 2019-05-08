@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ornamental_Kale.jpg/220px-Ornamental_Kale.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kale-Bundle.jpg/220px-Kale-Bundle.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CSA-Red-Russian-Kale.jpg/219px-CSA-Red-Russian-Kale.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Making_kale_chips_in_Lockport%2C_Illinois.jpg/100px-Making_kale_chips_in_Lockport%2C_Illinois.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kogt_skinke_brunede_kartofler_gr%C3%B8nlangk%C3%A5l.jpg/188px-Kogt_skinke_brunede_kartofler_gr%C3%B8nlangk%C3%A5l.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Broccoli_and_cross_section_edit.jpg/110px-Broccoli_and_cross_section_edit.jpg

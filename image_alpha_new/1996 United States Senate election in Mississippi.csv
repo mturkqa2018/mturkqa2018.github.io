@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_image.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mississippi_Senate_Election_Results_by_County%2C_1996.svg/165px-Mississippi_Senate_Election_Results_by_County%2C_1996.svg.png

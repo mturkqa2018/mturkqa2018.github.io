@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>t_land_cover_location_map.svg/240px-Paris_department_land_cover_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Luigi_Loir_-_Les_Grands_Boulevards.jpg/220px-Luigi_Loir_-_Les_Grands_Boulevards.jpg

@@ -1,0 +1,19 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Song_contest_current_event.png/35px-Song_contest_current_event.png
+https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Eurovision_Song_Contest_1958_-_Andr%C3%A9_Claveau.png/120px-Eurovision_Song_Contest_1958_-_Andr%C3%A9_Claveau.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Eurovision_Song_Contest_1965_-_Guy_Mardel.jpg/120px-Eurovision_Song_Contest_1965_-_Guy_Mardel.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Dan_ar_braz.jpg/96px-Dan_ar_braz.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Jonatan_Cerrada.jpg/51px-Jonatan_Cerrada.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ESC_2007_France_-_Fatals_Picards_-_L%27amour_%C3%A0_la_fran%C3%A7aise.jpg/120px-ESC_2007_France_-_Fatals_Picards_-_L%27amour_%C3%A0_la_fran%C3%A7aise.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/S%C3%A9bastien_Tellier_-_ESC_2008.jpg/75px-S%C3%A9bastien_Tellier_-_ESC_2008.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Patricia_Kaas.jpg/120px-Patricia_Kaas.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jessy_Matador_01.JPG/80px-Jessy_Matador_01.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/France_at_ESC_2011.jpg/120px-France_at_ESC_2011.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Anggun_%40_Eurovision_2012.jpg/120px-Anggun_%40_Eurovision_2012.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/ESC2013_-_France_05.jpg/120px-ESC2013_-_France_05.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ESC2014_-_France_25.jpg/120px-ESC2014_-_France_25.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/20150520_ESC_2015_Lisa_Angell_9205.jpg/120px-20150520_ESC_2015_Lisa_Angell_9205.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ESC2016_-_France_15.jpg/120px-ESC2016_-_France_15.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eurovision_Song_Contest_2017%2C_Semi_Final_2_Rehearsals._Photo_277_%28cropped%29.jpg/97px-Eurovision_Song_Contest_2017%2C_Semi_Final_2_Rehearsals._Photo_277_%28cropped%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/ESC-2018_France_Madame_Monsieur%2C_rehearsal.jpg/120px-ESC-2018_France_Madame_Monsieur%2C_rehearsal.jpg

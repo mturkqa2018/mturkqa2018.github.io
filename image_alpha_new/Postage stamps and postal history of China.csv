@@ -1,0 +1,16 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Big_Dragon_stamps.jpg/250px-Big_Dragon_stamps.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Stamp_China_1885_1c.jpg/130px-Stamp_China_1885_1c.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stamp_China_1897_0.5c_litho.jpg/130px-Stamp_China_1897_0.5c_litho.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/1902_Chine_Yv67.jpg/104px-1902_Chine_Yv67.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/1908_Chine_Yv78.jpg/105px-1908_Chine_Yv78.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stamp_China_1910_3c.jpg/101px-Stamp_China_1910_3c.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Stamp_China_1912_30c_ovpt_Waterlow.jpg/106px-Stamp_China_1912_30c_ovpt_Waterlow.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Stamp_China_1910_2c_with_overprint.png/120px-Stamp_China_1910_2c_with_overprint.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chinese_republic_memorial_stamp.jpg/220px-Chinese_republic_memorial_stamp.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stamp_China_1931_25c.jpg/104px-Stamp_China_1931_25c.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Stamp_China_1945_2_inauguration.jpg/83px-Stamp_China_1945_2_inauguration.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stamp_China_1946_2000_on_5_ovpt.jpg/97px-Stamp_China_1946_2000_on_5_ovpt.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Stamp_China_1949_4c_on_100_silver_ovpt.jpg/120px-Stamp_China_1949_4c_on_100_silver_ovpt.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Chinese_stamp_in_1950.jpg/220px-Chinese_stamp_in_1950.jpg
+https://upload.wikimedia.org/wikipedia/en/3/3a/YangW82.jpg

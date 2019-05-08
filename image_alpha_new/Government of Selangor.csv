@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Aziz_Shah_building.jpg/220px-Sultan_Salahuddin_Abdul_Aziz_Shah_building.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/DunSelangor.svg/220px-DunSelangor.svg.png

@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/1946_Peoria_Redwings.jpg/345px-1946_Peoria_Redwings.jpg

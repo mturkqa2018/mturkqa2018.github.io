@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ons/thumb/6/66/Tajikistan_satellite_photo.jpg/150px-Tajikistan_satellite_photo.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Spetsnaz_troopers_during_the_1992_Tajik_war.jpg/150px-Spetsnaz_troopers_during_the_1992_Tajik_war.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Destroyed_turret_of_a_T-62_in_Tajikistan.jpg/150px-Destroyed_turret_of_a_T-62_in_Tajikistan.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tajikistan_fractions_in_civil_war.gif/150px-Tajikistan_fractions_in_civil_war.gif
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ti-cities.gif/150px-Ti-cities.gif

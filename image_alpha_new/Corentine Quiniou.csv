@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ad.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Corentine_Rallye_Aicha_des_Gazelles.jpg/250px-Corentine_Rallye_Aicha_des_Gazelles.jpg

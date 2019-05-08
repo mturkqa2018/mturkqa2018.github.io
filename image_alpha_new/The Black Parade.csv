@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>rt.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Blackparaemcrse.jpg/220px-Blackparaemcrse.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/My_Chemical_Romance_fire.jpg/200px-My_Chemical_Romance_fire.jpg

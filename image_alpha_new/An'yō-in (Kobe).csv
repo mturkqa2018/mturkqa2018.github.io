@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Anyoin04_1024.jpg/120px-Anyoin04_1024.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Anyoin10_1024.jpg/120px-Anyoin10_1024.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Anyoin02_1024.jpg/120px-Anyoin02_1024.jpg

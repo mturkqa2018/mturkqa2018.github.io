@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>isley_Renfrewshire.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Billy_Connolly_Festival_Cine_Sidney.jpg/170px-Billy_Connolly_Festival_Cine_Sidney.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Stealers_Wheel_-_TopPop_1973_1.png/220px-Stealers_Wheel_-_TopPop_1973_1.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Baker_Street_Sign.jpg/220px-Baker_Street_Sign.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hugh_Murphy_02.jpg/220px-Hugh_Murphy_02.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Former_Chipping_Norton_Recording_Studios.jpg/220px-Former_Chipping_Norton_Recording_Studios.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

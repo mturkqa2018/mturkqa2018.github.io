@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>commons/thumb/5/50/Map_of_USA_SD.svg/200px-Map_of_USA_SD.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Map_of_South_Dakota_highlighting_Moody_County.svg/180px-Map_of_South_Dakota_highlighting_Moody_County.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/SouthDakota-StateSeal.svg/100px-SouthDakota-StateSeal.svg.png

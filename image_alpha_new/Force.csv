@@ -1,0 +1,13 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ouvre2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GodfreyKneller-IsaacNewton-1689.jpg/220px-GodfreyKneller-IsaacNewton-1689.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Freebodydiagram3_pn.svg/220px-Freebodydiagram3_pn.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Galileo.arp.300pix.jpg/220px-Galileo.arp.300pix.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Beta_Negative_Decay.svg/220px-Beta_Negative_Decay.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Falling_ball.jpg/170px-Falling_ball.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/GRAVITY_A_powerful_new_probe_of_black_holes.jpg/220px-GRAVITY_A_powerful_new_probe_of_black_holes.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Incline.svg/220px-Incline.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mass-spring-system.png/170px-Mass-spring-system.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Stokes_sphere.svg/170px-Stokes_sphere.svg.png
+https://upload.wikimedia.org/wikipedia/commons/0/09/Torque_animation.gif
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/SpongeDiver.jpg/100px-SpongeDiver.jpg

@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Levenshtein distance - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Levenshtein_distance","wgTitle":"Levenshtein distance","wgCurRevisionId":894091390,"wgRevisionId":894091390,"wgArticleId":406418,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 uses Russian-language script (ru)","CS1 Russian-language sources (ru)","All articles with unsourced statements","Articles with unsourced statements from January 2019","Use dmy dates from April 2017","Articles with example pseudocode","String similarity measures","Dynamic programming","Quantitative linguistics","Similarity and distance measures"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Levenshtein_distance","wgRelevantArticleId":406418,"wgRequestId":"XMHYqwpAICwAAIvjt68AAABA","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q496939","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.34.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Levenshtein_distance" rel="alternate"/>
+<link href="/w/index.php?title=Levenshtein_distance&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Levenshtein_distance&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="//en.wikipedia.org/wiki/Levenshtein_distance" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?lang=qqx&amp;modules=html5shiv&amp;only=scripts&amp;skin=fallback&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Levenshtein_distance rootpage-Levenshtein_distance skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Levenshtein distance</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div id="jump-to-nav"></div>
+Jump to navigation
+Jump to search
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>In information theory, linguistics and computer science, the <b>Levenshtein distance</b> is a string metric for measuring the difference between two sequences. Informally, the Levenshtein distance between two words is the minimum number of single-character edits (insertions, deletions or substitutions) required to change one word into the other. It is named after the Soviet mathematician Vladimir Levenshtein, who considered this distance in 1965.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">1</span></p><p>Levenshtein distance may also be referred to as <b>edit distance</b>, although that term may also denote a larger family of distance metrics. It is closely related to pairwise string alignments.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">2</span></p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Definition</span>
+<ul>
+<li class="toclevel-2 tocsection-2"><span class="tocnumber">1.1</span> <span class="toctext">Example</span></li>
+<li class="toclevel-2 tocsection-3"><span class="tocnumber">1.2</span> <span class="toctext">Upper and lower bounds</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><span class="tocnumber">2</span> <span class="toctext">Applications</span></li>
+<li class="toclevel-1 tocsection-5"><span class="tocnumber">3</span> <span class="toctext">Relationship with other edit distance metrics</span></li>
+<li class="toclevel-1 tocsection-6"><span class="tocnumber">4</span> <span class="toctext">Computing Levenshtein distance</span>
+<ul>
+<li class="toclevel-2 tocsection-7"><span class="tocnumber">4.1</span> <span class="toctext">Recursive</span></li>
+<li class="toclevel-2 tocsection-8"><span class="tocnumber">4.2</span> <span class="toctext">Iterative with full matrix</span></li>
+<li class="toclevel-2 tocsection-9"><span class="tocnumber">4.3</span> <span class="toctext">Iterative with two matrix rows</span></li>
+<li class="toclevel-2 tocsection-10"><span class="tocnumber">4.4</span> <span class="toctext">Adaptive variant</span></li>
+<li class="toclevel-2 tocsection-11"><span class="tocnumber">4.5</span> <span class="toctext">Approximation</span></li>
+<li class="toclevel-2 tocsection-12"><span class="tocnumber">4.6</span> <span class="toctext">Computational complexity</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><span class="tocnumber">5</span> <span class="toctext">See also</span></li>
+<li class="toclevel-1 tocsection-14"><span class="tocnumber">6</span> <span class="toctext">References</span></li>
+<li class="toclevel-1 tocsection-15"><span class="tocnumber">7</span> <span class="toctext">External links</span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Definition">Definition</span></h2>
+<p>Mathematically, the Levenshtein distance between two strings <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a,b}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<mo>,</mo>
+<mi>b</mi>
+</mstyle>
+</mrow>
+{\displaystyle a,b}</annotation>
+</semantics>
+</math></span><img alt="a,b" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/181523deba732fda302fd176275a0739121d3bc8" srcset style="vertical-align: -0.671ex; width:3.261ex; height:2.509ex;"/></span> (of length <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle |a|}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle |a|}</annotation>
+</semantics>
+</math></span><img alt="|a|" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/8b61d5baa05004815f3abc52f517ce62b609b9b6" srcset style="vertical-align: -0.838ex; width:2.523ex; height:2.843ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle |b|}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle |b|}</annotation>
+</semantics>
+</math></span><img alt="|b|" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/881f49e94388a46a05d329251551ce20baf4f05d" srcset style="vertical-align: -0.838ex; width:2.291ex; height:2.843ex;"/></span> respectively) is given by <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \operatorname {lev} _{a,b}(|a|,|b|)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>lev</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+<mo>,</mo>
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>â¡<!-- â¡ --></mo>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mo>,</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+{\displaystyle \operatorname {lev} _{a,b}(|a|,|b|)}</annotation>
+</semantics>
+</math></span><img alt="\operatorname{lev}_{a,b}(|a|,|b|)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/4cf357d8f2135035207088d2c7b890fb4b64e410" srcset style="vertical-align: -1.005ex; width:12.829ex; height:3.009ex;"/></span> where
+<span style="border: 3px solid blue; color:blue;font-weight: bold">3</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \qquad \operatorname {lev} _{a,b}(i,j)={\begin{cases}\max(i,j)&amp;{\text{ if }}\min(i,j)=0,\\\min {\begin{cases}\operatorname {lev} _{a,b}(i-1,j)+1\\\operatorname {lev} _{a,b}(i,j-1)+1\\\operatorname {lev} _{a,b}(i-1,j-1)+1_{(a_{i}\neq b_{j})}\end{cases}}&amp;{\text{ otherwise.}}\end{cases}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mspace width="2em"></mspace>
+<msub>
+<mi>lev</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+<mo>,</mo>
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>â¡<!-- â¡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>i</mi>
+<mo>,</mo>
+<mi>j</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>{</mo>
+<mtable columnalign="left left" columnspacing="1em" displaystyle="false" rowspacing=".2em">
+<mtr>
+<mtd>
+<mo form="prefix" movablelimits="true">max</mo>
+<mo stretchy="false">(</mo>
+<mi>i</mi>
+<mo>,</mo>
+<mi>j</mi>
+<mo stretchy="false">)</mo>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Â ifÂ </mtext>
+</mrow>
+<mo form="prefix" movablelimits="true">min</mo>
+<mo stretchy="false">(</mo>
+<mi>i</mi>
+<mo>,</mo>
+<mi>j</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0</mn>
+<mo>,</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mo form="prefix" movablelimits="true">min</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>{</mo>
+<mtable columnalign="left left" columnspacing="1em" displaystyle="false" rowspacing=".2em">
+<mtr>
+<mtd>
+<msub>
+<mi>lev</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+<mo>,</mo>
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>â¡<!-- â¡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>i</mi>
+<mo>âˆ’<!-- âˆ’ --></mo>
+<mn>1</mn>
+<mo>,</mo>
+<mi>j</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>lev</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+<mo>,</mo>
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>â¡<!-- â¡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>i</mi>
+<mo>,</mo>
+<mi>j</mi>
+<mo>âˆ’<!-- âˆ’ --></mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>lev</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+<mo>,</mo>
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>â¡<!-- â¡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>i</mi>
+<mo>âˆ’<!-- âˆ’ --></mo>
+<mn>1</mn>
+<mo>,</mo>
+<mi>j</mi>
+<mo>âˆ’<!-- âˆ’ --></mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<msub>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>â‰ <!-- â‰  --></mo>
+<msub>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+</mtable>
+<mo fence="true" stretchy="true" symmetric="true"></mo>
+</mrow>
+</mrow>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Â otherwise.</mtext>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+<mo fence="true" stretchy="true" symmetric="true"></mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle \qquad \operatorname {lev} _{a,b}(i,j)={\begin{cases}\max(i,j)&amp;{\text{ if }}\min(i,j)=0,\\\min {\begin{cases}\operatorname {lev} _{a,b}(i-1,j)+1\\\operatorname {lev} _{a,b}(i,j-1)+1\\\operatorname {lev} _{a,b}(i-1,j-1)+1_{(a_{i}\neq b_{j})}\end{cases}}&amp;{\text{ otherwise.}}\end{cases}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \qquad \operatorname {lev} _{a,b}(i,j)={\begin{cases}\max(i,j)&amp;{\text{ if }}\min(i,j)=0,\\\min {\begin{cases}\operatorname {lev} _{a,b}(i-1,j)+1\\\operatorname {lev} _{a,b}(i,j-1)+1\\\operatorname {lev} _{a,b}(i-1,j-1)+1_{(a_{i}\neq b_{j})}\end{cases}}&amp;{\text{ otherwise.}}\end{cases}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/4520f5376b54613a5b0e6c6db46083989f901821" srcset style="vertical-align: -5.505ex; width:73.52ex; height:12.176ex;"/></span></dd></dl>
+<p>where  <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1_{(a_{i}\neq b_{j})}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>â‰ <!-- â‰  --></mo>
+<msub>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+{\displaystyle 1_{(a_{i}\neq b_{j})}}</annotation>
+</semantics>
+</math></span><img alt="1_{(a_{i}\neq b_{j})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/52512ede08444b13838c570ba4a3fc71d54dbce9" srcset style="vertical-align: -1.338ex; width:6.867ex; height:3.176ex;"/></span> is the indicator function equal to 0 when  <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a_{i}=b_{j}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+{\displaystyle a_{i}=b_{j}}</annotation>
+</semantics>
+</math></span><img alt="a_{i}=b_{j}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/231fda9ee578f0328c5ca28088d01928bb0aaaec" srcset style="vertical-align: -1.005ex; width:7.035ex; height:2.843ex;"/></span> and equal to 1 otherwise, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \operatorname {lev} _{a,b}(i,j)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>lev</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+<mo>,</mo>
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>â¡<!-- â¡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>i</mi>
+<mo>,</mo>
+<mi>j</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+{\displaystyle \operatorname {lev} _{a,b}(i,j)}</annotation>
+</semantics>
+</math></span><img alt="\operatorname{lev}_{a,b}(i,j)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/bdc0315678caad28648aafedb6ebafb16bd1655c" srcset style="vertical-align: -1.005ex; width:9.775ex; height:3.009ex;"/></span> is the distance between the first <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle i}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>i</mi>
+</mstyle>
+</mrow>
+{\displaystyle i}</annotation>
+</semantics>
+</math></span><img alt="i" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/add78d8608ad86e54951b8c8bd6c8d8416533d20" srcset style="vertical-align: -0.338ex; width:0.802ex; height:2.176ex;"/></span> characters of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+</mstyle>
+</mrow>
+{\displaystyle a}</annotation>
+</semantics>
+</math></span><img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" srcset style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/></span> and the first <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle j}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>j</mi>
+</mstyle>
+</mrow>
+{\displaystyle j}</annotation>
+</semantics>
+</math></span><img alt="j" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/2f461e54f5c093e92a55547b9764291390f0b5d0" srcset style="vertical-align: -0.671ex; margin-left: -0.027ex; width:0.985ex; height:2.509ex;"/></span> characters of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle b}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>b</mi>
+</mstyle>
+</mrow>
+{\displaystyle b}</annotation>
+</semantics>
+</math></span><img alt="b" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/f11423fbb2e967f986e36804a8ae4271734917c3" srcset style="vertical-align: -0.338ex; width:0.998ex; height:2.176ex;"/></span>.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">4</span></p><p>Note that the first element in the minimum corresponds to deletion (from <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+</mstyle>
+</mrow>
+{\displaystyle a}</annotation>
+</semantics>
+</math></span><img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" srcset style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/></span> to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle b}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>b</mi>
+</mstyle>
+</mrow>
+{\displaystyle b}</annotation>
+</semantics>
+</math></span><img alt="b" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/f11423fbb2e967f986e36804a8ae4271734917c3" srcset style="vertical-align: -0.338ex; width:0.998ex; height:2.176ex;"/></span>), the second to insertion and the third to match or mismatch, depending on whether the respective symbols are the same.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">5</span></p>
+<h3><span class="mw-headline" id="Example">Example</span></h3>
+<p>For example, the Levenshtein distance between "kitten" and "sitting" is 3, since the following three edits change one into the other, and there is no way to do it with fewer than three edits:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">6</span></p>
+<ol><li><b>k</b>itten â†’ <b>s</b>itten (substitution of "s" for "k")</li>
+<li>sitt<b>e</b>n â†’ sitt<b>i</b>n (substitution of "i" for "e")</li>
+<li>sittin â†’ sittin<b>g</b> (insertion of "g" at the end).</li></ol>
+<h3><span class="mw-headline" id="Upper_and_lower_bounds">Upper and lower bounds</span></h3>
+<p>The Levenshtein distance has several simple upper and lower bounds. These include:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">7</span></p>
+<ul><li>It is at least the difference of the sizes of the two strings.</li>
+<li>It is at most the length of the longer string.</li>
+<li>It is zero if and only if the strings are equal.</li>
+<li>If the strings are the same size, the Hamming distance is an upper bound on the Levenshtein distance.</li>
+<li>The Levenshtein distance between two strings is no greater than the sum of their Levenshtein distances from a third string (triangle inequality).</li></ul>
+<p>An example where the Levenshtein distance between two strings of the same length is strictly less than the Hamming distance is given by the pair "flaw" and "lawn". Here the Levenshtein distance equals 2 (delete "f" from the front; insert "n" at the end). The Hamming distance is 4.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">8</span></p>
+<h2><span class="mw-headline" id="Applications">Applications</span></h2>
+<p>In approximate string matching, the objective is to find matches for short strings in many longer texts, in situations where a small number of differences is to be expected. The short strings could come from a dictionary, for instance. Here, one of the strings is typically short, while the other is arbitrarily long. This has a wide range of applications, for instance, spell checkers, correction systems for optical character recognition, and software to assist natural language translation based on translation memory.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">9</span></p><p>The Levenshtein distance can also be computed between two longer strings, but the cost to compute it, which is roughly proportional to the product of the two string lengths, makes this impractical.  Thus, when used to aid in fuzzy string searching in applications such as record linkage, the compared strings are usually short to help improve speed of comparisons.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">10</span></p><p>In linguistics, the Levenshtein distance is used as a metric to quantify the linguistic distance, or how different two languages are from one another. It is related to mutual intelligibility, the higher the linguistic distance, the lower the mutual intelligibility, and the lower the linguistic distance, the higher the mutual intelligibility.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">11</span></p>
+<h2><span class="mw-headline" id="Relationship_with_other_edit_distance_metrics">Relationship with other edit distance metrics</span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: Edit distance</div>
+<p>There are other popular measures of edit distance, which are calculated using a different set of allowable edit operations. For instance,
+<span style="border: 3px solid blue; color:blue;font-weight: bold">12</span></p>
+<ul><li>the Damerauâ€“Levenshtein distance allows insertion, deletion, substitution, and the transposition of two adjacent characters;</li>
+<li>the longest common subsequence (LCS) distance allows only insertion and deletion, not substitution;</li>
+<li>the Hamming distance allows only substitution, hence, it only applies to strings of the same length.</li>
+<li>the Jaro distance allows only transposition.</li></ul>
+<p>Edit distance is usually defined as a parameterizable metric calculated with a specific set of allowed edit operations, and each operation is assigned a cost (possibly infinite). This is further generalized by DNA sequence alignment algorithms such as the Smithâ€“Waterman algorithm, which make an operation's cost depend on where it is applied.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">13</span></p>
+<h2><span class="mw-headline" id="Computing_Levenshtein_distance">Computing Levenshtein distance</span></h2>
+<h3><span class="mw-headline" id="Recursive">Recursive</span></h3>
+<p>This is a straightforward, but inefficient, recursive C implementation of a <code>LevenshteinDistance</code> function that takes two strings, <i>s</i> and <i>t</i>, together with their lengths, and returns the Levenshtein distance between them:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">14</span></p>
+<div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span><span class="c1">// len_s and len_t are the number of characters in string s and t respectively</span>
+<span class="kt">int</span> <span class="nf">LevenshteinDistance</span><span class="p">(</span><span class="k">const</span> <span class="kt">char</span> <span class="o">*</span><span class="n">s</span><span class="p">,</span> <span class="kt">int</span> <span class="n">len_s</span><span class="p">,</span> <span class="k">const</span> <span class="kt">char</span> <span class="o">*</span><span class="n">t</span><span class="p">,</span> <span class="kt">int</span> <span class="n">len_t</span><span class="p">)</span>
+<span class="p">{</span> 
+  <span class="kt">int</span> <span class="n">cost</span><span class="p">;</span>
+
+  <span class="cm">/* base case: empty strings */</span>
+  <span class="k">if</span> <span class="p">(</span><span class="n">len_s</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="k">return</span> <span class="n">len_t</span><span class="p">;</span>
+  <span class="k">if</span> <span class="p">(</span><span class="n">len_t</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="k">return</span> <span class="n">len_s</span><span class="p">;</span>
+
+  <span class="cm">/* test if last characters of the strings match */</span>
+  <span class="k">if</span> <span class="p">(</span><span class="n">s</span><span class="p">[</span><span class="n">len_s</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span> <span class="o">==</span> <span class="n">t</span><span class="p">[</span><span class="n">len_t</span><span class="o">-</span><span class="mi">1</span><span class="p">])</span>
+      <span class="n">cost</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+  <span class="k">else</span>
+      <span class="n">cost</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span>
+
+  <span class="cm">/* return minimum of delete char from s, delete char from t, and delete char from both */</span>
+  <span class="k">return</span> <span class="n">minimum</span><span class="p">(</span><span class="n">LevenshteinDistance</span><span class="p">(</span><span class="n">s</span><span class="p">,</span> <span class="n">len_s</span> <span class="o">-</span> <span class="mi">1</span><span class="p">,</span> <span class="n">t</span><span class="p">,</span> <span class="n">len_t</span>    <span class="p">)</span> <span class="o">+</span> <span class="mi">1</span><span class="p">,</span>
+                 <span class="n">LevenshteinDistance</span><span class="p">(</span><span class="n">s</span><span class="p">,</span> <span class="n">len_s</span>    <span class="p">,</span> <span class="n">t</span><span class="p">,</span> <span class="n">len_t</span> <span class="o">-</span> <span class="mi">1</span><span class="p">)</span> <span class="o">+</span> <span class="mi">1</span><span class="p">,</span>
+                 <span class="n">LevenshteinDistance</span><span class="p">(</span><span class="n">s</span><span class="p">,</span> <span class="n">len_s</span> <span class="o">-</span> <span class="mi">1</span><span class="p">,</span> <span class="n">t</span><span class="p">,</span> <span class="n">len_t</span> <span class="o">-</span> <span class="mi">1</span><span class="p">)</span> <span class="o">+</span> <span class="n">cost</span><span class="p">);</span>
+<span class="p">}</span>
+</pre></div>
+<p>This implementation is very inefficient because it recomputes the Levenshtein distance of the same substrings many times.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">15</span></p><p>A more efficient method would never repeat the same distance calculation. For example, the Levenshtein distance of all possible prefixes might be stored in an array <code class="mw-highlight" dir="ltr" id="" style=""><span class="n">d</span><span class="p">[][]</span></code> where <code class="mw-highlight" dir="ltr" id="" style=""><span class="n">d</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span></code> is the distance between the first <code>i</code> characters of string <code>s</code> and the first <code>j</code> characters of string <code>t</code>. The table is easy to construct one row at a time starting with row 0. When the entire table has been built, the desired distance is <code class="mw-highlight" dir="ltr" id="" style=""><span class="n">d</span><span class="p">[</span><span class="n">len_s</span><span class="p">][</span><span class="n">len_t</span><span class="p">]</span></code>.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">16</span></p>
+<h3><span class="mw-headline" id="Iterative_with_full_matrix">Iterative with full matrix</span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: Wagnerâ€“Fischer algorithm</div>
+<dl><dd><dl><dd><span style="font-size:85%;">Note: This section uses 1-based strings instead of 0-based strings</span></dd></dl></dd></dl>
+<p>Computing the Levenshtein distance is based on the observation that if we reserve a matrix to hold the Levenshtein distances between all prefixes of the first string and all prefixes of the second, then we can compute the values in the matrix in a dynamic programming fashion, and thus find the distance between the two full strings as the last value computed.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">17</span></p><p>This algorithm, an example of bottom-up dynamic programming, is discussed, with variants, in the 1974 article <i>The String-to-string correction problem</i> by Robert A. Wagner and Michael J. Fischer.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">18</span></p><p>This is a straightforward pseudocode implementation for a function <code>LevenshteinDistance</code> that takes two strings, <i>s</i> of length <i>m</i>, and <i>t</i> of length <i>n</i>, and returns the Levenshtein distance between them:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">19</span></p>
+<div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span><span class="n">function</span> <span class="n">LevenshteinDistance</span><span class="p">(</span><span class="kt">char</span> <span class="n">s</span><span class="p">[</span><span class="mf">1.</span><span class="p">.</span><span class="n">m</span><span class="p">],</span> <span class="kt">char</span> <span class="n">t</span><span class="p">[</span><span class="mf">1.</span><span class="p">.</span><span class="n">n</span><span class="p">])</span><span class="o">:</span>
+  <span class="c1">// for all i and j, d[i,j] will hold the Levenshtein distance between</span>
+  <span class="c1">// the first i characters of s and the first j characters of t</span>
+  <span class="c1">// note that d has (m+1)*(n+1) values</span>
+  <span class="n">declare</span> <span class="kt">int</span> <span class="n">d</span><span class="p">[</span><span class="mf">0.</span><span class="p">.</span><span class="n">m</span><span class="p">,</span> <span class="mf">0.</span><span class="p">.</span><span class="n">n</span><span class="p">]</span>
+ 
+  <span class="n">set</span> <span class="n">each</span> <span class="n">element</span> <span class="n">in</span> <span class="n">d</span> <span class="n">to</span> <span class="n">zero</span>
+ 
+  <span class="c1">// source prefixes can be transformed into empty string by</span>
+  <span class="c1">// dropping all characters</span>
+  <span class="k">for</span> <span class="n">i</span> <span class="n">from</span> <span class="mi">1</span> <span class="n">to</span> <span class="nl">m</span><span class="p">:</span>
+      <span class="n">d</span><span class="p">[</span><span class="n">i</span><span class="p">,</span> <span class="mi">0</span><span class="p">]</span> <span class="o">:=</span> <span class="n">i</span>
+ 
+  <span class="c1">// target prefixes can be reached from empty source prefix</span>
+  <span class="c1">// by inserting every character</span>
+  <span class="k">for</span> <span class="n">j</span> <span class="n">from</span> <span class="mi">1</span> <span class="n">to</span> <span class="nl">n</span><span class="p">:</span>
+      <span class="n">d</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span> <span class="n">j</span><span class="p">]</span> <span class="o">:=</span> <span class="n">j</span>
+ 
+  <span class="k">for</span> <span class="n">j</span> <span class="n">from</span> <span class="mi">1</span> <span class="n">to</span> <span class="nl">n</span><span class="p">:</span>
+      <span class="k">for</span> <span class="n">i</span> <span class="n">from</span> <span class="mi">1</span> <span class="n">to</span> <span class="nl">m</span><span class="p">:</span>
+          <span class="k">if</span> <span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span> <span class="o">=</span> <span class="n">t</span><span class="p">[</span><span class="n">j</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span><span class="o">:</span>
+            <span class="nl">substitutionCost</span> <span class="p">:</span><span class="o">=</span> <span class="mi">0</span>
+          <span class="k">else</span><span class="o">:</span>
+            <span class="nl">substitutionCost</span> <span class="p">:</span><span class="o">=</span> <span class="mi">1</span>
+          <span class="n">d</span><span class="p">[</span><span class="n">i</span><span class="p">,</span> <span class="n">j</span><span class="p">]</span> <span class="o">:=</span> <span class="n">minimum</span><span class="p">(</span><span class="n">d</span><span class="p">[</span><span class="n">i</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="n">j</span><span class="p">]</span> <span class="o">+</span> <span class="mi">1</span><span class="p">,</span>                   <span class="c1">// deletion</span>
+                             <span class="n">d</span><span class="p">[</span><span class="n">i</span><span class="p">,</span> <span class="n">j</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span> <span class="o">+</span> <span class="mi">1</span><span class="p">,</span>                   <span class="c1">// insertion</span>
+                             <span class="n">d</span><span class="p">[</span><span class="n">i</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="n">j</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span> <span class="o">+</span> <span class="n">substitutionCost</span><span class="p">)</span>  <span class="c1">// substitution</span>
+ 
+  <span class="k">return</span> <span class="n">d</span><span class="p">[</span><span class="n">m</span><span class="p">,</span> <span class="n">n</span><span class="p">]</span>
+</pre></div>
+<p>Two examples of the resulting matrix (hovering over a tagged number reveals the operation performed to get that number):
+<span style="border: 3px solid blue; color:blue;font-weight: bold">20</span></p>
+<center>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:auto;"><tbody><tr>
+<td style="text-align: left; vertical-align: top;">
+<table >
+<tbody><tr>
+<td>
+</td>
+<td>
+</td>
+<th>k
+</th>
+<th>i
+</th>
+<th>t
+</th>
+<th>t
+</th>
+<th>e
+</th>
+<th>n
+</th></tr>
+<tr>
+<td></td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6
+</td></tr>
+<tr>
+<th>s
+</th>
+<td>1</td>
+<td><span style="border-bottom:1px dotted" title="substitution of 's' for 'k'">1</span></td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6
+</td></tr>
+<tr>
+<th>i
+</th>
+<td>2</td>
+<td>2</td>
+<td><span style="border-bottom:1px dotted" title="'i' equals 'i'">1</span></td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5
+</td></tr>
+<tr>
+<th>t
+</th>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td><span style="border-bottom:1px dotted" title="'t' equals 't'">1</span></td>
+<td>2</td>
+<td>3</td>
+<td>4
+</td></tr>
+<tr>
+<th>t
+</th>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td><span style="border-bottom:1px dotted" title="'t' equals 't'">1</span></td>
+<td>2</td>
+<td>3
+</td></tr>
+<tr>
+<th>i
+</th>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td><span style="border-bottom:1px dotted" title="substitution of 'i' for 'e'">2</span></td>
+<td>3
+</td></tr>
+<tr>
+<th>n
+</th>
+<td>6</td>
+<td>6</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td><span style="border-bottom:1px dotted" title="'n' equals 'n'">2</span>
+</td></tr>
+<tr>
+<th>g
+</th>
+<td>7</td>
+<td>7</td>
+<td>6</td>
+<td>5</td>
+<td>4</td>
+<td>4</td>
+<td><span style="border-bottom:1px dotted" title="insert 'g'">3</span>
+</td></tr></tbody></table><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>1</span>
+<p>
+<span style="border: 3px solid blue; color:blue;font-weight: bold">21</span></p>
+</td>
+<td style="text-align: left; vertical-align: top; padding-left: 1em;">
+<table >
+<tbody><tr>
+<td>
+</td>
+<td>
+</td>
+<th>S
+</th>
+<th>a
+</th>
+<th>t
+</th>
+<th>u
+</th>
+<th>r
+</th>
+<th>d
+</th>
+<th>a
+</th>
+<th>y
+</th></tr>
+<tr>
+<td>
+</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8
+</td></tr>
+<tr>
+<th>S
+</th>
+<td>1</td>
+<td><span style="border-bottom:1px dotted" title="'S' equals 'S'">0</span></td>
+<td><span style="border-bottom:1px dotted" title="delete 'a'">1</span></td>
+<td><span style="border-bottom:1px dotted" title="delete 't'">2</span></td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7
+</td></tr>
+<tr>
+<th>u
+</th>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td><span style="border-bottom:1px dotted" title="'u' equals 'u'">2</span></td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6
+</td></tr>
+<tr>
+<th>n
+</th>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td><span style="border-bottom:1px dotted" title="substitution of 'n' for 'r'">3</span></td>
+<td>4</td>
+<td>5</td>
+<td>6
+</td></tr>
+<tr>
+<th>d
+</th>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>4</td>
+<td><span style="border-bottom:1px dotted" title="'d' equals 'd'">3</span></td>
+<td>4</td>
+<td>5
+</td></tr>
+<tr>
+<th>a
+</th>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td><span style="border-bottom:1px dotted" title="'a' equals 'a'">3</span></td>
+<td>4
+</td></tr>
+<tr>
+<th>y
+</th>
+<td>6</td>
+<td>5</td>
+<td>4</td>
+<td>4</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+<td><span style="border-bottom:1px dotted" title="'y' equals 'y'">3</span>
+</td></tr></tbody></table><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>2</span>
+<p>
+<span style="border: 3px solid blue; color:blue;font-weight: bold">22</span></p>
+</td></tr></tbody></table></div>
+</center>
+<p>The invariant maintained throughout the algorithm is that we can transform the initial segment <code class="mw-highlight" dir="ltr" id="" style=""><span class="n">s</span><span class="p">[</span><span class="mf">1.</span><span class="p">.</span><span class="n">i</span><span class="p">]</span></code> into <code class="mw-highlight" dir="ltr" id="" style=""><span class="n">t</span><span class="p">[</span><span class="mf">1.</span><span class="p">.</span><span class="n">j</span><span class="p">]</span></code> using a minimum of <code class="mw-highlight" dir="ltr" id="" style=""><span class="n">d</span><span class="p">[</span><span class="n">i</span><span class="p">,</span><span class="n">j</span><span class="p">]</span></code> operations. At the end, the bottom-right element of the array contains the answer.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">23</span></p>
+<h3><span class="mw-headline" id="Iterative_with_two_matrix_rows">Iterative with two matrix rows</span></h3>
+<p>It turns out that only two rows of the table are needed for the construction if one does not want to reconstruct the edited input strings (the previous row and the current row being calculated).
+<span style="border: 3px solid blue; color:blue;font-weight: bold">24</span></p><p>The Levenshtein distance may be calculated iteratively using the following algorithm:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">25</span></p>
+<div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span><span class="n">function</span> <span class="n">LevenshteinDistance</span><span class="p">(</span><span class="kt">char</span> <span class="n">s</span><span class="p">[</span><span class="mf">1.</span><span class="p">.</span><span class="n">m</span><span class="p">],</span> <span class="kt">char</span> <span class="n">t</span><span class="p">[</span><span class="mf">1.</span><span class="p">.</span><span class="n">n</span><span class="p">])</span><span class="o">:</span>
+    <span class="c1">// create two work vectors of integer distances</span>
+    <span class="n">declare</span> <span class="kt">int</span> <span class="n">v0</span><span class="p">[</span><span class="n">n</span> <span class="o">+</span> <span class="mi">1</span><span class="p">]</span>
+    <span class="n">declare</span> <span class="kt">int</span> <span class="n">v1</span><span class="p">[</span><span class="n">n</span> <span class="o">+</span> <span class="mi">1</span><span class="p">]</span>
+
+    <span class="c1">// initialize v0 (the previous row of distances)</span>
+    <span class="c1">// this row is A[0][i]: edit distance for an empty s</span>
+    <span class="c1">// the distance is just the number of characters to delete from t</span>
+    <span class="k">for</span> <span class="n">i</span> <span class="n">from</span> <span class="mi">0</span> <span class="n">to</span> <span class="nl">n</span><span class="p">:</span>
+        <span class="n">v0</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="n">i</span>
+
+    <span class="k">for</span> <span class="n">i</span> <span class="n">from</span> <span class="mi">0</span> <span class="n">to</span> <span class="n">m</span><span class="o">-</span><span class="mi">1</span><span class="o">:</span>
+        <span class="c1">// calculate v1 (current row distances) from the previous row v0</span>
+
+        <span class="c1">// first element of v1 is A[i+1][0]</span>
+        <span class="c1">//   edit distance is delete (i+1) chars from s to match empty t</span>
+        <span class="n">v1</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="n">i</span> <span class="o">+</span> <span class="mi">1</span>
+
+        <span class="c1">// use formula to fill in the rest of the row</span>
+        <span class="k">for</span> <span class="n">j</span> <span class="n">from</span> <span class="mi">0</span> <span class="n">to</span> <span class="n">n</span><span class="o">-</span><span class="mi">1</span><span class="o">:</span>
+            <span class="c1">// calculating costs for A[i+1][j+1]</span>
+            <span class="nl">deletionCost</span> <span class="p">:</span><span class="o">=</span> <span class="n">v0</span><span class="p">[</span><span class="n">j</span> <span class="o">+</span> <span class="mi">1</span><span class="p">]</span> <span class="o">+</span> <span class="mi">1</span>
+            <span class="nl">insertionCost</span> <span class="p">:</span><span class="o">=</span> <span class="n">v1</span><span class="p">[</span><span class="n">j</span><span class="p">]</span> <span class="o">+</span> <span class="mi">1</span>
+            <span class="k">if</span> <span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="n">t</span><span class="p">[</span><span class="n">j</span><span class="p">]</span><span class="o">:</span>
+                <span class="nl">substitutionCost</span> <span class="p">:</span><span class="o">=</span> <span class="n">v0</span><span class="p">[</span><span class="n">j</span><span class="p">]</span>
+            <span class="k">else</span><span class="o">:</span>
+                <span class="nl">substitutionCost</span> <span class="p">:</span><span class="o">=</span> <span class="n">v0</span><span class="p">[</span><span class="n">j</span><span class="p">]</span> <span class="o">+</span> <span class="mi">1</span>
+
+            <span class="n">v1</span><span class="p">[</span><span class="n">j</span> <span class="o">+</span> <span class="mi">1</span><span class="p">]</span> <span class="o">:=</span> <span class="n">minimum</span><span class="p">(</span><span class="n">deletionCost</span><span class="p">,</span> <span class="n">insertionCost</span><span class="p">,</span> <span class="n">substitutionCost</span><span class="p">)</span>
+
+        <span class="c1">// copy v1 (current row) to v0 (previous row) for next iteration</span>
+        <span class="n">swap</span> <span class="n">v0</span> <span class="n">with</span> <span class="n">v1</span>
+    <span class="c1">// after the last swap, the results of v1 are now in v0</span>
+    <span class="k">return</span> <span class="n">v0</span><span class="p">[</span><span class="n">n</span><span class="p">]</span>
+</pre></div>
+<p>This two row variant is suboptimalâ€”the amount of memory required may be reduced to one row and one word of overhead.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">26</span></p><p>Hirschberg's algorithm combines this method with divide and conquer. It can compute the optimal edit sequence, and not just the edit distance, in the same asymptotic time and space bounds.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">27</span></p>
+<h3><span class="mw-headline" id="Adaptive_variant">Adaptive variant</span></h3>
+<p>The dynamic variant is not the ideal implementation. An adaptive approach may reduce the amount of memory required and, in the best case, may reduce the time complexity to linear in the length of the shortest string, and, in the worst case, no more than quadratic in the length of the shortest string. 
+<span style="border: 3px solid blue; color:blue;font-weight: bold">28</span></p>
+<h3><span class="mw-headline" id="Approximation">Approximation</span></h3>
+<p>The Levenshtein distance between two strings of length <span class="texhtml mvar" style="font-style:italic;">n</span> can be approximated to within a factor
+<span style="border: 3px solid blue; color:blue;font-weight: bold">29</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle (\log n)^{O(1/\varepsilon )}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<mi>log</mi>
+<mo>â¡<!-- â¡ --></mo>
+<mi>n</mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>O</mi>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>Îµ<!-- Îµ --></mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+{\displaystyle (\log n)^{O(1/\varepsilon )}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle (\log n)^{O(1/\varepsilon )}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/bfb91ed8f205ca16e2b391b756b278e14331eed9" srcset style="vertical-align: -0.838ex; width:11.738ex; height:3.343ex;"/></span></dd></dl>
+<p>where <span class="texhtml"><i>Îµ</i> &gt; 0</span> is a free parameter to be tuned, in time <span class="texhtml"><i>O</i>(n)</span>.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">30</span></p>
+<h3><span class="mw-headline" id="Computational_complexity">Computational complexity</span></h3>
+<p>It has been shown that the Levenshtein distance of two strings of length <span class="texhtml mvar" style="font-style:italic;">n</span> cannot be computed in time <span class="texhtml"><i>O</i>(n)</span> for any Îµ greater than zero unless the strong exponential time hypothesis is false.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">31</span></p>
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>

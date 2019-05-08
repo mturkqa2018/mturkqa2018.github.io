@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>5e_arr_jms.gif
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Blason_paris_75.svg/50px-Blason_paris_75.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Paris_5th.png/120px-Paris_5th.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/5e_Arrondissement%2C_Paris%2C_France_-_Open_Street_Map.png/120px-5e_Arrondissement%2C_Paris%2C_France_-_Open_Street_Map.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Paris_5e_arrondissement_-_Quartiers.svg/120px-Paris_5e_arrondissement_-_Quartiers.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Metro_5to_arrondissement.png/120px-Metro_5to_arrondissement.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Metro_5to_arrondissement.png/300px-Metro_5to_arrondissement.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Paris_75005_Place_de_la_Sorbonne_Sainte-Ursule_20041101.jpg/200px-Paris_75005_Place_de_la_Sorbonne_Sainte-Ursule_20041101.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Blason_paris_75.svg/60px-Blason_paris_75.svg.png

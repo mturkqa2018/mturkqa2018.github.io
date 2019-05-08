@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Thrashers_offensive_zone.jpg/220px-Thrashers_offensive_zone.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Atlanta_Tharshaers_Champs.jpg/220px-Atlanta_Tharshaers_Champs.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Thrashers_birdheads.jpg/220px-Thrashers_birdheads.jpg

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ion_map.svg/240px-China_Beijing_adm_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Xihongmen_Sta_site.jpg/200px-Xihongmen_Sta_site.jpg

@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Norway_Counties_Akershus_Position.svg/112px-Norway_Counties_Akershus_Position.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/NO_0235_Ullensaker.svg/175px-NO_0235_Ullensaker.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Herredshuset_Ullensaker.jpg/250px-Herredshuset_Ullensaker.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Akershus_v%C3%A5pen.svg/40px-Akershus_v%C3%A5pen.svg.png

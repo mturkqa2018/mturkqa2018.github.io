@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>mmons/thumb/9/94/IMTFE_judges.jpg/220px-IMTFE_judges.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/IMTFE_court_chamber.jpg/220px-IMTFE_court_chamber.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/IMTFE_defendants.jpg/220px-IMTFE_defendants.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Imperial_Seal_of_Japan.svg/80px-Imperial_Seal_of_Japan.svg.png

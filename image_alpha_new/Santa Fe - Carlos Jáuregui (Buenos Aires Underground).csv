@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>mmons/thumb/6/61/Santa_Fe_antes_de_abrir_08.jpg/120px-Santa_Fe_antes_de_abrir_08.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Estaci%C3%B3n_Santa_Fe%2C_l%C3%ADnea_H_01.jpg/120px-Estaci%C3%B3n_Santa_Fe%2C_l%C3%ADnea_H_01.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Estaci%C3%B3n_Santa_Fe%2C_l%C3%ADnea_H_02.jpg/120px-Estaci%C3%B3n_Santa_Fe%2C_l%C3%ADnea_H_02.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Estaci%C3%B3n_Santa_Fe%2C_l%C3%ADnea_H_03.jpg/120px-Estaci%C3%B3n_Santa_Fe%2C_l%C3%ADnea_H_03.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estaci%C3%B3n_Santa_Fe%2C_l%C3%ADnea_H_05.jpg/120px-Estaci%C3%B3n_Santa_Fe%2C_l%C3%ADnea_H_05.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Estaci%C3%B3n_Santa_Fe_de_la_L%C3%ADnea_H.jpg/120px-Estaci%C3%B3n_Santa_Fe_de_la_L%C3%ADnea_H.jpg

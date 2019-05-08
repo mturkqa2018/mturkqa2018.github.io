@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/85px-Emblem_of_Karakalpakstan.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Qaraqalpaqstan_Respublikasi_in_Uzbekistan.svg/250px-Qaraqalpaqstan_Respublikasi_in_Uzbekistan.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Karakalpakstan_districts_numbered2.png/350px-Karakalpakstan_districts_numbered2.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Karakalpakstan_map.png/250px-Karakalpakstan_map.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/O%60zbekiston_bo%60linish_qor.png/160px-O%60zbekiston_bo%60linish_qor.png

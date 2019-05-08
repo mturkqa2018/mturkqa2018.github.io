@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Girl_sufferedwithburnwounds.jpg/220px-Girl_sufferedwithburnwounds.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Vandalized_graveyard.jpg/220px-Vandalized_graveyard.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Anti-Christian_graffiti.jpg/220px-Anti-Christian_graffiti.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nicaea_icon.jpg/125px-Nicaea_icon.jpg

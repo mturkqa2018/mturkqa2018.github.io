@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>humb/1/10/StromThurmond.png/124px-StromThurmond.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Harry_S._Truman.jpg/125px-Harry_S._Truman.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/ThomasDewey.png/124px-ThomasDewey.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Great_Seal_of_the_State_of_Louisiana.svg/150px-Great_Seal_of_the_State_of_Louisiana.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ElectoralCollege1948.svg/150px-ElectoralCollege1948.svg.png

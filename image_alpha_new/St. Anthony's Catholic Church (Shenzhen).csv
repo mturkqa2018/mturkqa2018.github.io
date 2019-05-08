@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>pg/250px-Shenzhen_St._Anthony%27s_Catholic_Church3.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/China_Guangdong_location_map.svg/250px-China_Guangdong_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/China_edcp_location_map.svg/250px-China_edcp_location_map.svg.png

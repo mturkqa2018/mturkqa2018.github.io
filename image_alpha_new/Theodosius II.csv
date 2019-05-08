@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>osius_II_Louvre_Ma1036.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theodosius_II_solidus_Constantinople_439_450_gold_4480mg.jpg/220px-Theodosius_II_solidus_Constantinople_439_450_gold_4480mg.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Menologion_of_Basil_061.jpg/300px-Menologion_of_Basil_061.jpg

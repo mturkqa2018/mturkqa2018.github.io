@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>0px-Holden_VE_Commodore_of_Rick_Kelly_2012.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Nissan_L33_Altima_of_Rick_Kelly_2013.JPG/200px-Nissan_L33_Altima_of_Rick_Kelly_2013.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nissan_L33_Altima_of_Rick_Kelly_2014.JPG/200px-Nissan_L33_Altima_of_Rick_Kelly_2014.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Nissan_Altima_of_Rick_Kelly_%282017%29.JPG/200px-Nissan_Altima_of_Rick_Kelly_%282017%29.JPG

@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Howard_Ferguson.jpg/100px-Howard_Ferguson.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Richard_Bedford_Bennett.jpg/100px-Richard_Bedford_Bennett.jpg

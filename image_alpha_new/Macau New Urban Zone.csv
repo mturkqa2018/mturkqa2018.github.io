@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>f_Macau.png/185px-Administrative_Division_of_Macau.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/50px-Flag_of_Macau.svg.png

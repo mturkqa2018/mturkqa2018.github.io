@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>a_1949.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Toshiya_Sugiuchi_on_March_24%2C_2012.jpg/170px-Toshiya_Sugiuchi_on_March_24%2C_2012.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/20140621_Takayuki_Kishi_pitcher_of_the_Saitama_Seibu_Lions%2C_at_Yokohama_Stadium.JPG/170px-20140621_Takayuki_Kishi_pitcher_of_the_Saitama_Seibu_Lions%2C_at_Yokohama_Stadium.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CD-Daisuke-Yamai.jpg/125px-CD-Daisuke-Yamai.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CD-Hitoki-Iwase.jpg/125px-CD-Hitoki-Iwase.jpg

@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Dakota.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/89_Dakota_Sport_conv.jpg/220px-89_Dakota_Sport_conv.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/1989_Dodge_Dakota_right_side_view.jpg/220px-1989_Dodge_Dakota_right_side_view.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dodge_Dakota_1994_SLT.JPG/220px-Dodge_Dakota_1994_SLT.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/1991_Dodge_Dakota_regular_cab.jpg/220px-1991_Dodge_Dakota_regular_cab.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2nd-Dodge-Dakota-extcab.jpg/280px-2nd-Dodge-Dakota-extcab.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Dodge_Dakota_Quad_Cab_Sport.jpg/220px-Dodge_Dakota_Quad_Cab_Sport.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dodge-Dakota-extended.jpg/280px-Dodge-Dakota-extended.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2008_Dodge_Dakota.jpg/220px-2008_Dodge_Dakota.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/2007_Dodge_Dakota_SLT_4x4_Crew_Cab%2C_rear_view.jpg/220px-2007_Dodge_Dakota_SLT_4x4_Crew_Cab%2C_rear_view.jpg

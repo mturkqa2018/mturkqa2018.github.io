@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_de_Bischwiller.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alsace-Champagne-Ardenne-Lorraine_region_location_map.svg/270px-Alsace-Champagne-Ardenne-Lorraine_region_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bischwiller_15.JPG/120px-Bischwiller_15.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bischwiller_22.JPG/120px-Bischwiller_22.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bischwiller_03.JPG/120px-Bischwiller_03.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bischwiller_17.JPG/90px-Bischwiller_17.JPG

@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>a-cartridges.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Modern-rifle-cartridges-cases.jpg/220px-Modern-rifle-cartridges-cases.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/7.62_x_54_R_cartridge.svg/400px-7.62_x_54_R_cartridge.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/7%2C62x54R_standard_military_bullets.JPG/220px-7%2C62x54R_standard_military_bullets.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DP_LMG_Polish_Army.jpg/220px-DP_LMG_Polish_Army.jpg

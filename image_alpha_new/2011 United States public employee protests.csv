@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>on.svg/600px-Map_of_collective_bargaining_legislation.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2011_Wisconsin_Budget_Protests_1_JO.jpg/300px-2011_Wisconsin_Budget_Protests_1_JO.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2011_Wisconsin_Budget_Protests_2_JO.jpg/300px-2011_Wisconsin_Budget_Protests_2_JO.jpg

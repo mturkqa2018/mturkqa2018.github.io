@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/thumb/d/d0/L%C3%A4nsi-Suomen_l%C3%A4%C3%A4ni.sijainti.suomi.2009.svg/130px-L%C3%A4nsi-Suomen_l%C3%A4%C3%A4ni.sijainti.suomi.2009.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/60px-Flag_of_Finland.svg.png

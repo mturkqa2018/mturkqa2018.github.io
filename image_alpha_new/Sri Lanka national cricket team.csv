@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ttps://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png
+https://upload.wikimedia.org/wikipedia/commons/9/9b/Kit_trousers_long.png
+https://upload.wikimedia.org/wikipedia/commons/4/40/Kit_body_yellowshoulders.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png
+https://upload.wikimedia.org/wikipedia/commons/9/9b/Kit_trousers_long.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sri_Lanka_location_map.svg/350px-Sri_Lanka_location_map.svg.png

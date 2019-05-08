@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Japanese_National_Route_Sign_0466.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DaisanKeihin_04.jpg/220px-DaisanKeihin_04.jpg

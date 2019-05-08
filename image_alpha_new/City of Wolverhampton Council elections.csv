@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>umb/a/a7/Wolverhampton_UK_local_election_2006_map.svg/120px-Wolverhampton_UK_local_election_2006_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wolverhampton_UK_local_election_2007_map.svg/120px-Wolverhampton_UK_local_election_2007_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Wolverhampton_UK_local_election_2008_map.svg/120px-Wolverhampton_UK_local_election_2008_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wolverhampton_UK_local_election_2010_map.svg/120px-Wolverhampton_UK_local_election_2010_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/English_metropolitan_boroughs_2009.svg/125px-English_metropolitan_boroughs_2009.svg.png

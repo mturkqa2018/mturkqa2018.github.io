@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/140px-012308-TC-Twolves002-MikeDantoni.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mike_D%27Antoni_and_Allan_Houston.jpg/220px-Mike_D%27Antoni_and_Allan_Houston.jpg

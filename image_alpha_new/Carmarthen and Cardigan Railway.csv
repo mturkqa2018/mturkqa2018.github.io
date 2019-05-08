@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ailway_station_2040575.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Etna_%286647880915%29.jpg/220px-Etna_%286647880915%29.jpg

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ttps://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Motta-paisagem-mnba.jpg/220px-Motta-paisagem-mnba.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Agostinho_Jos%C3%A9_da_Mota_-_Flores_-_c_1873.jpg/220px-Agostinho_Jos%C3%A9_da_Mota_-_Flores_-_c_1873.jpg

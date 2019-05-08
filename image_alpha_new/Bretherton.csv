@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>orley.svg/240px-Location_map_United_Kingdom_Borough_of_Chorley.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lancashire_UK_location_map.svg/240px-Lancashire_UK_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bank_Hall_-_Buttercups_on_Tower_Lawn.jpeg/220px-Bank_Hall_-_Buttercups_on_Tower_Lawn.jpeg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Congregational_Church%2C_Bretherton_-_1374678.jpg/220px-Congregational_Church%2C_Bretherton_-_1374678.jpg

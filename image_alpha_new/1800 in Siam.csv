@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ad.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Thailand_%281782%29.svg/90px-Flag_of_Thailand_%281782%29.svg.png

@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>px-Wilmslow_Church.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/140px-Alan_Turing_Aged_16.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alan_Garner.JPG/140px-Alan_Garner.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/William_Roache_2017.jpg/140px-William_Roache_2017.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Liz_Blatchford.jpg/140px-Liz_Blatchford.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Michael_rother_2007-11-14_live2.jpg/140px-Michael_rother_2007-11-14_live2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png

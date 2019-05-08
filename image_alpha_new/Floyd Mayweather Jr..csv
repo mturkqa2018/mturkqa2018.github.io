@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/40px-Ambox_important.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mayweather_Press_Conference_-_2007.jpg/220px-Mayweather_Press_Conference_-_2007.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Floyd_Mayweather%2C_Jr._vs._Juan_Manuel_M%C3%A1rquez.jpg/220px-Floyd_Mayweather%2C_Jr._vs._Juan_Manuel_M%C3%A1rquez.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Floyd_Mayweather_Jr_2011.jpg/220px-Floyd_Mayweather_Jr_2011.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Floyd_Mayweather%2C_Jr._June_2011.jpg/220px-Floyd_Mayweather%2C_Jr._June_2011.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Floyd_Mayweather_jr_weigh-in.jpg/220px-Floyd_Mayweather_jr_weigh-in.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mayweather.jpg/170px-Mayweather.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

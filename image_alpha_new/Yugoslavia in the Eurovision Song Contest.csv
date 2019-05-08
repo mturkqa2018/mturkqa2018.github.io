@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g_contest_current_event.png/35px-Song_contest_current_event.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Eurovision_Song_Contest_1965_-_Vice_Vukov.jpg/220px-Eurovision_Song_Contest_1965_-_Vice_Vukov.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eurovisie_Song_Festival_in_RAI_Amsterdam%2C_repetities._Eva_Srsen_%28Joegoslavie%29_zi%2C_Bestanddeelnr_923-3592.jpg/220px-Eurovisie_Song_Festival_in_RAI_Amsterdam%2C_repetities._Eva_Srsen_%28Joegoslavie%29_zi%2C_Bestanddeelnr_923-3592.jpg

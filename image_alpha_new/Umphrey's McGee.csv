@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/UmphreysMcGeeBonnaroo2006.jpg/250px-UmphreysMcGeeBonnaroo2006.jpg
+https://upload.wikimedia.org/wikipedia/en/timeline/6d2aa52ce443bc4cf54a2ba5ca7bbdba.png

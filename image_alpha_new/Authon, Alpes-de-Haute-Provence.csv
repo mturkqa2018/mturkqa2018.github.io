@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>kimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Provence-Alpes-Cote_d%27azur_region_location_map.svg/270px-Provence-Alpes-Cote_d%27azur_region_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Les_Monges7389.JPG/220px-Les_Monges7389.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cabanon_%C3%A0_Authon.jpg/220px-Cabanon_%C3%A0_Authon.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Maison_%C3%A0_Authon.jpg/220px-Maison_%C3%A0_Authon.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Blason_Authon.svg/120px-Blason_Authon.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Agneau_et_brebis.JPG/220px-Agneau_et_brebis.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Golden_delicious_apple.jpg/220px-Golden_delicious_apple.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Pot_de_Miel_de_Lavande.JPG/220px-Pot_de_Miel_de_Lavande.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Fontaine_%C3%A0_Authon.jpg/220px-Fontaine_%C3%A0_Authon.jpg

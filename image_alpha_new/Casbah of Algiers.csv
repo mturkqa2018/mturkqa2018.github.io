@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>elief_location_map.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Casbah_baths.jpg/120px-Casbah_baths.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ruellecasbah.jpg/120px-Ruellecasbah.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/House_interior_casbah_algiers.jpg/120px-House_interior_casbah_algiers.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Algiers_fishing_port.jpg/120px-Algiers_fishing_port.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png

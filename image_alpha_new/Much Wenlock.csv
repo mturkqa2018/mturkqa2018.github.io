@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>dia.org/wikipedia/commons/thumb/3/3b/Shropshire_UK_location_map.svg/240px-Shropshire_UK_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Council_Chamber%2C_Much_Wenlock.jpg/220px-Council_Chamber%2C_Much_Wenlock.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Holy_Trinity_Church%2C_Much_Wenlock_-_geograph.org.uk_-_417929.jpg/220px-Holy_Trinity_Church%2C_Much_Wenlock_-_geograph.org.uk_-_417929.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bookshop_in_Much_Wenlock.jpg/220px-Bookshop_in_Much_Wenlock.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png

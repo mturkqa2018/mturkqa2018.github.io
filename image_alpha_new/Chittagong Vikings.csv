@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>pedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png
+https://upload.wikimedia.org/wikipedia/commons/9/9b/Kit_trousers_long.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BPL.svg/140px-BPL.svg.png

@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>x-Graf_pol_pot.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cambodia_Oddar_Meancheay_locator_map.svg/75px-Cambodia_Oddar_Meancheay_locator_map.svg.png

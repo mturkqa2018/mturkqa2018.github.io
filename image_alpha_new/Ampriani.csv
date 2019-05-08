@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>nd_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Corse_region_location_map.svg/270px-Corse_region_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Population_-_Municipality_code_2B015.svg/475px-Population_-_Municipality_code_2B015.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cunventu_di_Z%C3%B9ani.jpg/220px-Cunventu_di_Z%C3%B9ani.jpg

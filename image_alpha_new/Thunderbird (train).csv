@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_express.jpg/220px-Thunderbird_express.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/683-4000_Thunderbird_Yamazaki_20151220.jpg/220px-683-4000_Thunderbird_Yamazaki_20151220.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/JR_logo_%28west%29.svg/80px-JR_logo_%28west%29.svg.png

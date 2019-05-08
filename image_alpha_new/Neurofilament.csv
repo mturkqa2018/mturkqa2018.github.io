@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>pg/220px-Mouse_NT_antibody_NF_Ki67.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Central_chromatolysis_-_nf_-_high_mag.jpg/220px-Central_chromatolysis_-_nf_-_high_mag.jpg

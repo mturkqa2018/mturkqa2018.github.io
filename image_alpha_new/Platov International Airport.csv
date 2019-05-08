@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.org/wikipedia/commons/thumb/9/97/Platov-Aero_20171210165606.jpg/250px-Platov-Aero_20171210165606.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Russia_edcp_location_map.svg/220px-Russia_edcp_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Platov-Aero_20171210170425.jpg/220px-Platov-Aero_20171210170425.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Platov-Aero_20171210170138.jpg/220px-Platov-Aero_20171210170138.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Platov-Aero_20171210172014.jpg/220px-Platov-Aero_20171210172014.jpg

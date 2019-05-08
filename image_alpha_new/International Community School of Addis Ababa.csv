@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>a_adm_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ICSAA_campus_2.jpg/120px-ICSAA_campus_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/ICSAA_campus_3.jpg/120px-ICSAA_campus_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/ICSAA_campus_4.jpg/120px-ICSAA_campus_4.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/ICSAA_Secondary_Library_2009.jpg/120px-ICSAA_Secondary_Library_2009.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ICS_2009_graduates.jpg/120px-ICS_2009_graduates.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/ICS_MS_lockers.jpg/120px-ICS_MS_lockers.jpg

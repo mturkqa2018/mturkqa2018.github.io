@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>pedia/en/thumb/f/ff/San_Juan_County_NM_seal.jpg/75px-San_Juan_County_NM_seal.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Map_of_New_Mexico_highlighting_San_Juan_County.svg/200px-Map_of_New_Mexico_highlighting_San_Juan_County.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Map_of_USA_NM.svg/200px-Map_of_USA_NM.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Four_Corners_marker%2C_southwestern_United_States.jpg/200px-Four_Corners_marker%2C_southwestern_United_States.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Shiprock.jpg/200px-Shiprock.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Map_of_New_Mexico_highlighting_San_Juan_County.svg/180px-Map_of_New_Mexico_highlighting_San_Juan_County.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Seal_of_New_Mexico.svg/100px-Seal_of_New_Mexico.svg.png

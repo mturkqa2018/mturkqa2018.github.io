@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>kipedia/commons/thumb/4/4a/Aquitaine-Limousin-Poitou-Charentes_region_location_map.svg/270px-Aquitaine-Limousin-Poitou-Charentes_region_location_map.svg.png

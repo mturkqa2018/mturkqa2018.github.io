@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>x-Saquon_Barkley.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Saquon_Barkley_2018.jpg/220px-Saquon_Barkley_2018.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Saquon_Barkely_Giants_2018_2.jpg/220px-Saquon_Barkely_Giants_2018_2.jpg

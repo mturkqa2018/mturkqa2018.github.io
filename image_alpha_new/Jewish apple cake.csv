@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>e.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Apples.jpg/100px-Apples.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Nuvola_apps_cookie.svg/35px-Nuvola_apps_cookie.svg.png

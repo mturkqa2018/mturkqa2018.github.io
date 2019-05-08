@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Carver_MA_lg.PNG/250px-Carver_MA_lg.PNG
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Edaville_Sign.jpg/175px-Edaville_Sign.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Map_of_Massachusetts_highlighting_Plymouth_County.svg/180px-Map_of_Massachusetts_highlighting_Plymouth_County.svg.png

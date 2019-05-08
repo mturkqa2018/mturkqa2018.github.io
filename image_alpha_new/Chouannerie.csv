@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>nnerie.JPG/220px-Episode_Chouannerie.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Si%C3%A8ge_Quiberon.jpg/220px-Si%C3%A8ge_Quiberon.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chapelle_de_La_Madeleine_%C3%A0_Malestroit.jpg/220px-Chapelle_de_La_Madeleine_%C3%A0_Malestroit.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Embuscade_de_Chouans_%C3%A0_la_bataille_de_La_Gravelle_%281793%29.jpg/170px-Embuscade_de_Chouans_%C3%A0_la_bataille_de_La_Gravelle_%281793%29.jpg

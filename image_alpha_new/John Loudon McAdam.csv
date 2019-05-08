@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>oudon_McAdam.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/John_Loudon_McAdam%2C_1830%2C_National_Gallery%2C_London.JPG/220px-John_Loudon_McAdam%2C_1830%2C_National_Gallery%2C_London.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/John_Loudoun_McAdam%27s_Gravestone%2C_Moffat.JPG/170px-John_Loudoun_McAdam%27s_Gravestone%2C_Moffat.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png

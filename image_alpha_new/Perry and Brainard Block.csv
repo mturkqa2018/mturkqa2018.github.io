@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>50px-USA_Iowa_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/250px-Usa_edcp_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Map_of_Iowa_highlighting_Polk_County.svg/80px-Map_of_Iowa_highlighting_Polk_County.svg.png

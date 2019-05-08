@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>load.wikimedia.org/wikipedia/commons/thumb/b/b0/BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg/115px-BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Daniel_Caesar_2017.jpg/113px-Daniel_Caesar_2017.jpg

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>jpg/220px-Cult_of_Luna_-_2013_Vertikal_tour.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Cult_of_Luna_-_Vertikal_II.jpg/220px-Cult_of_Luna_-_Vertikal_II.jpg

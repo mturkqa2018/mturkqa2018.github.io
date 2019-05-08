@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Konradin.jpg/220px-Konradin.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Enthauptung_Konradins.jpg/220px-Enthauptung_Konradins.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Corradino_Statue.jpg/220px-Corradino_Statue.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arms_of_the_Kingdom_of_Jerusalem_%28Str%C3%B6hl%29.svg/50px-Arms_of_the_Kingdom_of_Jerusalem_%28Str%C3%B6hl%29.svg.png

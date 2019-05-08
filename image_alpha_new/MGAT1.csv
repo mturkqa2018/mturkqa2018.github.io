@@ -1,0 +1,13 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>DB_1fo8.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ideogram_human_chromosome_5.svg/300px-Ideogram_human_chromosome_5.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Human_chromosome_5_ideogram.svg/300px-Human_chromosome_5_ideogram.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ideogram_house_mouse_chromosome_11.svg/260px-Ideogram_house_mouse_chromosome_11.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ideogram_of_house_mouse_chromosome_11.svg/300px-Ideogram_of_house_mouse_chromosome_11.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/PBB_GE_MGAT1_201126_s_at_fs.png/250px-PBB_GE_MGAT1_201126_s_at_fs.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/PDB_1fo8_EBI.jpg/180px-PDB_1fo8_EBI.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/PDB_1fo9_EBI.jpg/180px-PDB_1fo9_EBI.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/PDB_1foa_EBI.jpg/180px-PDB_1foa_EBI.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/PDB_2am3_EBI.jpg/180px-PDB_2am3_EBI.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PDB_2am4_EBI.jpg/180px-PDB_2am4_EBI.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/PDB_2am5_EBI.jpg/180px-PDB_2am5_EBI.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/PDB_2apc_EBI.jpg/180px-PDB_2apc_EBI.jpg

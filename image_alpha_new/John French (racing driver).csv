@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>aham-Ruckert.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Mini-French-Graham-Ruckert.jpg/120px-Mini-French-Graham-Ruckert.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alfa-French-Graham-Ruckert.jpg/120px-Alfa-French-Graham-Ruckert.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/French-GTHO-Graham-Ruckert.jpg/120px-French-GTHO-Graham-Ruckert.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/GTHO-French-Graham-Ruckert.jpg/120px-GTHO-French-Graham-Ruckert.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Falcon-French-G-Ruckert.jpg/120px-Falcon-French-G-Ruckert.jpg

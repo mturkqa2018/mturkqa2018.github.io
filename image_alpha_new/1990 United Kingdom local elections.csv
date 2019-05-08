@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>9%29.jpg/112px-Neil_Kinnock_%281989%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ASHDOWN_Paddy.jpg/129px-ASHDOWN_Paddy.jpg

@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>0px-Cincinnati-kroger-building.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Kroger_in_Fort_Worth%2C_TX.png/229px-Kroger_in_Fort_Worth%2C_TX.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kroger_Frisco.jpg/220px-Kroger_Frisco.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/9/90/KrogerValueLogo.jpg/220px-KrogerValueLogo.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/KrogerPrivateSelection.jpg/220px-KrogerPrivateSelection.jpg

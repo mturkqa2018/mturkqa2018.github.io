@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ut_general_election%2C_2013_results_by_riding_-_Voter_turnout.svg/250px-Nunavut_general_election%2C_2013_results_by_riding_-_Voter_turnout.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Nunavut.svg/100px-Flag_of_Nunavut.svg.png

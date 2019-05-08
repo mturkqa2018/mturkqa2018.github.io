@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Edicts_of_Ashoka_numerals.jpg/330px-Edicts_of_Ashoka_numerals.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ashoka_Brahmi_numerals_256.jpg/130px-Ashoka_Brahmi_numerals_256.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Guitar_1.jpg/200px-Guitar_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Black_Star_of_David.svg/100px-Black_Star_of_David.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bienenwabe_mit_Eiern_und_Brut_5.jpg/200px-Bienenwabe_mit_Eiern_und_Brut_5.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/67/Benzene_structure.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Standard_Model_of_Elementary_Particles.svg/200px-Standard_Model_of_Elementary_Particles.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/U%2B2678_DejaVu_Sans.svg/80px-U%2B2678_DejaVu_Sans.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ICS_Six.svg/66px-ICS_Six.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png

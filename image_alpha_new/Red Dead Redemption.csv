@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>mptionGameplay.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Red_Dead_Redemption_-_Gameplay.ogv/300px-seek%3D16-Red_Dead_Redemption_-_Gameplay.ogv.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

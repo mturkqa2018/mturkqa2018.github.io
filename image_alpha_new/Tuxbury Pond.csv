@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/250px-South_end_of_Tuxbury_Pond%2C_Amesbury_MA.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Map_of_Massachusetts_highlighting_Essex_County.svg/65px-Map_of_Massachusetts_highlighting_Essex_County.svg.png

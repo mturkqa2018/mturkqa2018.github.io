@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.svg/85px-Coat_of_arms_of_Karelian_ASSR.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Soviet_Union_-_Karelo-Finnish_SSR_%281940%29.svg/250px-Soviet_Union_-_Karelo-Finnish_SSR_%281940%29.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/State_Emblem_of_the_Soviet_Union.svg/75px-State_Emblem_of_the_Soviet_Union.svg.png

@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ncorezzo-Stemma.png/100px-Concorezzo-Stemma.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Italy_provincial_location_map_2015.svg/250px-Italy_provincial_location_map_2015.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Italy_Lombardy_location_map.svg/250px-Italy_Lombardy_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Municipi_de_Cuncuress_Concorezzo.JPG/120px-Municipi_de_Cuncuress_Concorezzo.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Regione-Lombardia-Stemma.svg/55px-Regione-Lombardia-Stemma.svg.png

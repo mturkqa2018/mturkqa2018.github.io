@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>nd-openclipart.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Next_2_You.JPG/220px-Next_2_You.JPG

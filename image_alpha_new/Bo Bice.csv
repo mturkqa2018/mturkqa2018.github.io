@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ikimedia.org/wikipedia/commons/thumb/7/73/Bo_Bice_Share_the_Beat_Atlanta_2008.jpg/170px-Bo_Bice_Share_the_Beat_Atlanta_2008.jpg

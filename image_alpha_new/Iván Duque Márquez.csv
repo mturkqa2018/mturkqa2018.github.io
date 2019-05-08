@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>uque_escobar.png/150px-Iv%C3%A1n_duque_escobar.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Macri_%26_Duque_01.jpg/220px-Macri_%26_Duque_01.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/President_Trump_and_the_First_Lady_Welcome_Colombian_President_Iv%C3%A1n_Duque_M%C3%A1rquez_and_his_wife_Mrs._Maria_Juliana_Ruiz_Sandoval_to_the_White_House_%2832144037107%29_%28cropped%29.jpg/220px-thumbnail.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_President_of_Colombia.svg/50px-Flag_of_the_President_of_Colombia.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Presidential_Seal_of_Colombia.svg/100px-Presidential_Seal_of_Colombia.svg.png

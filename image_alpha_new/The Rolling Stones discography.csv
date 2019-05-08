@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Stones_ad_1965-2.jpg/80px-Stones_ad_1965-2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Rolling_Stones_-_Keith-Mick-Ron_%281981%29.jpg/80px-Rolling_Stones_-_Keith-Mick-Ron_%281981%29.jpg

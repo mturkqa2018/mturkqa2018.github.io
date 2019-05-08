@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>px-Arrow_anti-ballistic_missile_launch2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Arafat%26Clinton%26Barak.jpg/200px-Arafat%26Clinton%26Barak.jpg

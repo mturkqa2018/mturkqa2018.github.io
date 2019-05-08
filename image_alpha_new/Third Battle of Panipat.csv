@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>thumb/8/87/India1760_1905.jpg/220px-India1760_1905.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Sadashivrao_bhau.jpg/150px-Sadashivrao_bhau.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maratha_Soldier.jpg/150px-Maratha_Soldier.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Afghan_royal_soldiers_of_the_Durrani_Empire.jpg/150px-Afghan_royal_soldiers_of_the_Durrani_Empire.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mahadaji_Sindhia.jpg/200px-Mahadaji_Sindhia.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/IGI1908India1765a.jpg/200px-IGI1908India1765a.jpg

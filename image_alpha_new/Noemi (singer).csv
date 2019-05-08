@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>in_Rome_2009.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Noemimannoia.jpg/220px-Noemimannoia.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Noemi_in_concerto_a_Varallo%2C_Alp%C3%A0a_2010_-_Crop_%282%29.jpg/220px-Noemi_in_concerto_a_Varallo%2C_Alp%C3%A0a_2010_-_Crop_%282%29.jpg

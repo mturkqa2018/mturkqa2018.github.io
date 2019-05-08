@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>pped.png/135px-2008-Hsieh-cropped.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lien_Chan_%28chopped%29.jpg/135px-Lien_Chan_%28chopped%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/%E5%AE%8B%E6%A5%9A%E7%91%9C%E4%B8%BB%E5%B8%AD2016.jpg/134px-%E5%AE%8B%E6%A5%9A%E7%91%9C%E4%B8%BB%E5%B8%AD2016.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2008TaipeiCityNewYearCountdownParty_ParadeFestival_Lung-pin_Hau.jpg/135px-2008TaipeiCityNewYearCountdownParty_ParadeFestival_Lung-pin_Hau.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2001ROCCounty.svg/350px-2001ROCCounty.svg.png

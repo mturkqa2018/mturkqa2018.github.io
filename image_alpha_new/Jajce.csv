@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ce_coat_of_arms.gif
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bosnia_and_Herzegovina_location_map.svg/250px-Bosnia_and_Herzegovina_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Grad_Jajce.JPG/220px-Grad_Jajce.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Jajce_AVNOJ_museum.JPG/220px-Jajce_AVNOJ_museum.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pravoslavna_crkva_u_Jajcu.JPG/220px-Pravoslavna_crkva_u_Jajcu.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Zentralbibliothek_Z%C3%BCrich_-_Jajce_Wasserfall_-_400017380.jpg/220px-Zentralbibliothek_Z%C3%BCrich_-_Jajce_Wasserfall_-_400017380.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Ramadan_begova_d%C5%BEamija%2C_Jajce.JPG/220px-Ramadan_begova_d%C5%BEamija%2C_Jajce.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png

@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>pg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_the_Papacy_SE.svg/60px-Emblem_of_the_Papacy_SE.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Coat_of_arms_Holy_See.svg/75px-Coat_of_arms_Holy_See.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_the_Papacy_SE.svg/35px-Emblem_of_the_Papacy_SE.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_the_Papacy_SE.svg/50px-Emblem_of_the_Papacy_SE.svg.png

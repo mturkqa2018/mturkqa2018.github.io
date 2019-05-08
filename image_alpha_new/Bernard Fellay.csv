@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ay.svg/50px-Coat_of_Arms_of_Bishop_Bernard_Fellay.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mgr_Bernard_Fellay.jpg/200px-Mgr_Bernard_Fellay.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Santa_Cecilia.jpg/100px-Santa_Cecilia.jpg

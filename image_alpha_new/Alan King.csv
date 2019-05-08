@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dick_Cavett_Alan_King_Johnny_Carson_Friars_Club_Carson_roast_1968.JPG/220px-Dick_Cavett_Alan_King_Johnny_Carson_Friars_Club_Carson_roast_1968.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

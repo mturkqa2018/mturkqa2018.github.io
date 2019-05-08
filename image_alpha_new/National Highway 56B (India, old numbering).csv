@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NEblank-IN.svg/50px-NEblank-IN.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/NHblank-IN.svg/50px-NHblank-IN.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/State_Highway_India.png/50px-State_Highway_India.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/India-roads.svg/40px-India-roads.svg.png

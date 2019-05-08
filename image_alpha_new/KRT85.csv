@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>e_12_ideogram.svg/300px-Human_chromosome_12_ideogram.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/PBB_GE_KRT85_207670_at_fs.png/250px-PBB_GE_KRT85_207670_at_fs.png

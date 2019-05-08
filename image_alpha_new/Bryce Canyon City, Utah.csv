@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>field_County_Utah_incorporated_and_unincorporated_areas_Bryce_Canyon_City_highlighted.svg/300px-Garfield_County_Utah_incorporated_and_unincorporated_areas_Bryce_Canyon_City_highlighted.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Map_of_Utah_highlighting_Garfield_County.svg/80px-Map_of_Utah_highlighting_Garfield_County.svg.png

@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>upload.wikimedia.org/wikipedia/en/thumb/4/44/Don_Diamont_as_Bill_Spencer_Jr.png/240px-Don_Diamont_as_Bill_Spencer_Jr.png

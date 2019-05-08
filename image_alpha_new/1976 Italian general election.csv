@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Enrico_Berlinguer_1976.jpg/107px-Enrico_Berlinguer_1976.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Francesco_De_Martino.jpg/112px-Francesco_De_Martino.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Italian_Election_1976_Province.png/212px-Italian_Election_1976_Province.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/1976_Italian_Senate_election_map.png/198px-1976_Italian_Senate_election_map.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Italian_Chamber_of_Deputies%2C_1976.svg/300px-Italian_Chamber_of_Deputies%2C_1976.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Italian_Senate%2C_1976.svg/300px-Italian_Senate%2C_1976.svg.png

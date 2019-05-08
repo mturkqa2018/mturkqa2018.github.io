@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-Smatanova_crop3.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Knechtova04.jpg/170px-Knechtova04.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Balon_Oro_U.png/108px-Balon_Oro_U.png

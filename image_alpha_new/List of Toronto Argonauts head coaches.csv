@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ad.wikimedia.org/wikipedia/en/thumb/3/34/Pinball_clemons.jpg/170px-Pinball_clemons.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Marc_Trestman_2017_%28cropped%29.JPG/220px-Marc_Trestman_2017_%28cropped%29.JPG

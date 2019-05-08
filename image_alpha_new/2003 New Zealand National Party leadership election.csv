@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>990.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Don.Brash.jpg/127px-Don.Brash.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bill-English-Parliament-Profile.jpg/113px-Bill-English-Parliament-Profile.jpg

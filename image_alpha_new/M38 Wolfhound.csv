@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/M38_Wolfhound_with_Chaffee_turret.jpg/150px-M38_Wolfhound_with_Chaffee_turret.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/M38_Wolfhound_2.jpg/252px-M38_Wolfhound_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/M38-armored-car-haugh-4.jpg/327px-M38-armored-car-haugh-4.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/M38_Wolfhound_with_Chaffee_turret_rear.jpg/328px-M38_Wolfhound_with_Chaffee_turret_rear.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tank_template.gif/40px-Tank_template.gif

@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g.png
+https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/I-99_N_foliage.jpg/220px-I-99_N_foliage.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/US_15_south_at_Presho_NY_exit.jpg/220px-US_15_south_at_Presho_NY_exit.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Interstate_99_entering_New_York.jpg/220px-Interstate_99_entering_New_York.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/I99SkyTop.jpg/170px-I99SkyTop.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Route_322_WB_2.jpg/220px-Route_322_WB_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Future_I-99_Corridor.jpg/220px-Future_I-99_Corridor.jpg

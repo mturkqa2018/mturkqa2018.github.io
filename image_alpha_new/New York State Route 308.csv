@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/NY_308_in_Rhinebeck_4.jpg/220px-NY_308_in_Rhinebeck_4.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sepasco_Indian_Trail_plaque.JPG/220px-Sepasco_Indian_Trail_plaque.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kingston-Rhinecliff_Bridge.jpg/220px-Kingston-Rhinecliff_Bridge.jpg

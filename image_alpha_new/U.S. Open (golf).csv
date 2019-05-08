@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Golf_current_event.svg/33px-Golf_current_event.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/US_Open_Trophy_at_the_2008_PGA_Golf_Show.jpg/220px-US_Open_Trophy_at_the_2008_PGA_Golf_Show.jpg

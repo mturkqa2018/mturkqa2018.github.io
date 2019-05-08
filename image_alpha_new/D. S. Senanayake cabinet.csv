@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>enanayake.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg/80px-Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sir_Oliver_Goonetilleke.gif/61px-Sir_Oliver_Goonetilleke.gif
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Junius_Richard_Jayawardana_%281906-1996%29.jpg/73px-Junius_Richard_Jayawardana_%281906-1996%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dudley_Shelton_Senanayaka_%281911-1973%29.jpg/74px-Dudley_Shelton_Senanayaka_%281911-1973%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Emblem_of_Sri_Lanka.svg/50px-Emblem_of_Sri_Lanka.svg.png

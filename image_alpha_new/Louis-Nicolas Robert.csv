@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>nd.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Papermaking_machine_at_a_paper_mill_near_Pensacola.jpg/200px-Papermaking_machine_at_a_paper_mill_near_Pensacola.jpg

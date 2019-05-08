@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>5/StephenGroverCleveland.png/123px-StephenGroverCleveland.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/James_B._Weaver_1892.jpg/123px-James_B._Weaver_1892.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Alabama_Presidential_Election_Results_by_County%2C_1892.svg/235px-Alabama_Presidential_Election_Results_by_County%2C_1892.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ElectoralCollege1892.svg/150px-ElectoralCollege1892.svg.png

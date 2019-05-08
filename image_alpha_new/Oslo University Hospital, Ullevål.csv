@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>load.wikimedia.org/wikipedia/commons/thumb/a/a0/Location_map_Norway_Oslo.png/225px-Location_map_Norway_Oslo.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Norway_location_map.svg/225px-Norway_location_map.svg.png

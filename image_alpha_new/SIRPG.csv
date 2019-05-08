@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>e_20_ideogram.svg/300px-Human_chromosome_20_ideogram.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/PBB_GE_SIRPG_220485_s_at_fs.png/250px-PBB_GE_SIRPG_220485_s_at_fs.png

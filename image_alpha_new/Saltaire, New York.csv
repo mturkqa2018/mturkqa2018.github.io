@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>on_map.svg/250px-USA_New_York_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Saltaire_Beach_Shed_4.jpg/220px-Saltaire_Beach_Shed_4.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Beach_%40_Saltaire%2C_Fire_Island.jpg/220px-Beach_%40_Saltaire%2C_Fire_Island.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Saltaire_Village_Hall_7.jpg/220px-Saltaire_Village_Hall_7.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Saltaire_Volunteer_Fire_Company_5.jpg/220px-Saltaire_Volunteer_Fire_Company_5.jpg

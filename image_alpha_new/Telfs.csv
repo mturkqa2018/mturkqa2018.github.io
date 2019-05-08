@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ttps://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Austria_adm_location_map.svg/270px-Austria_adm_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telfs.jpg/120px-Telfs.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Old_Church_at_Telfs.jpg/90px-Old_Church_at_Telfs.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telfs_-_prostranstv%C3%AD_p%C5%99ed_obchodn%C3%ADm_centrem_Inntal_Center.jpg/120px-Telfs_-_prostranstv%C3%AD_p%C5%99ed_obchodn%C3%ADm_centrem_Inntal_Center.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/800_year_old_house_in_Telfs.jpg/120px-800_year_old_house_in_Telfs.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Old_House_in_Telfs.jpg/120px-Old_House_in_Telfs.jpg

@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>kimedia.org/wikipedia/commons/thumb/1/10/Charles_Le_Brun-Grande_Commande-Les_Quatre_saisons.jpg/120px-Charles_Le_Brun-Grande_Commande-Les_Quatre_saisons.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Charles_Le_Brun-Grande_Commande-Les_Quatre_elements.jpg/120px-Charles_Le_Brun-Grande_Commande-Les_Quatre_elements.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Charles_Le_Brun-Grande_Commande-Les_Quatre_temperaments.jpg/120px-Charles_Le_Brun-Grande_Commande-Les_Quatre_temperaments.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Charles_Le_Brun-Grande_Commande-Les_Quatre_poemes.jpg/120px-Charles_Le_Brun-Grande_Commande-Les_Quatre_poemes.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Regnaudin-The-Automne-Versailles.jpg/170px-Regnaudin-The-Automne-Versailles.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Chateau_Versailles_galerie_basse.jpg/170px-Chateau_Versailles_galerie_basse.jpg

@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Carolina_Governor_Robert_E._McNair.jpg/101px-An_undated_portrait_of_South_Carolina_Governor_Robert_E._McNair.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Joseph_O._Rogers.jpg/110px-Joseph_O._Rogers.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/e7/1966SCGovResults.png

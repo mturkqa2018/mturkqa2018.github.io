@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>thants_-_geograph.org.uk_-_125818.jpg/240px-All_Saints_Church%2C_Great_Addington%2C_Northants_-_geograph.org.uk_-_125818.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Northamptonshire_UK_location_map.svg/240px-Northamptonshire_UK_location_map.svg.png

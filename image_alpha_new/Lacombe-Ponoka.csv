@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>d.wikimedia.org/wikipedia/commons/thumb/d/dd/LacombePonoka_electoral_district_2010.jpg/200px-LacombePonoka_electoral_district_2010.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/LacombePonoka_in_Red_Deer.jpg/200px-LacombePonoka_in_Red_Deer.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/LacombePonoka_in_Alberta.jpg/200px-LacombePonoka_in_Alberta.jpg

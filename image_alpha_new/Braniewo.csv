@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/100px-POL_Braniewo_COA.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Warmian-Masurian_Voivodeship_location_map.svg/250px-Warmian-Masurian_Voivodeship_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Poland_adm_location_map.svg/250px-Poland_adm_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Braniewo_1684.jpg/310px-Braniewo_1684.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Braniewo_dworzec_front.jpg/310px-Braniewo_dworzec_front.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Braniewo_-_Bazylika_mniejsza_pw._%C5%9Bw._Katarzyny.JPG/175px-Braniewo_-_Bazylika_mniejsza_pw._%C5%9Bw._Katarzyny.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/POL_powiat_braniewski_COA.svg/50px-POL_powiat_braniewski_COA.svg.png

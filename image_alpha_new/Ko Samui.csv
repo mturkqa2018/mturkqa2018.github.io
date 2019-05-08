@@ -1,0 +1,17 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>upload.wikimedia.org/wikipedia/commons/thumb/8/80/Koh_Samui_Lipa_Noi2.jpg/250px-Koh_Samui_Lipa_Noi2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Thailand_adm_location_map.svg/150px-Thailand_adm_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bo_Phut_Beach.jpg/250px-Bo_Phut_Beach.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sunrise_thailand_ko_samui.jpg/220px-Sunrise_thailand_ko_samui.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Tambon_8404.png/180px-Tambon_8404.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/KoSamuiAirport_OwlofDoom.jpg/250px-KoSamuiAirport_OwlofDoom.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/KoSamuiNaThonFromJungle_OwlofDoom.jpg/120px-KoSamuiNaThonFromJungle_OwlofDoom.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Koh_Samui_Lipa_Noi2.jpg/120px-Koh_Samui_Lipa_Noi2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bo_Phut_Beach_on_the_north_end_of_Koh_Samui.jpg/120px-Bo_Phut_Beach_on_the_north_end_of_Koh_Samui.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sunrise_thailand_ko_samui.jpg/120px-Sunrise_thailand_ko_samui.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/KoSamuiAirport_OwlofDoom.jpg/120px-KoSamuiAirport_OwlofDoom.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/7/78/ChawengBeach55.jpg/90px-ChawengBeach55.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Laem_Yai_Cape.jpg/120px-Laem_Yai_Cape.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Chaweng_Beach.jpg/120px-Chaweng_Beach.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Namuang_Waterfall.jpg/120px-Namuang_Waterfall.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Big_Buddha_Temple_%28Wat_Phra_Yai%29.jpg/120px-Big_Buddha_Temple_%28Wat_Phra_Yai%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Big_Buddha_in_Big_Buddha_Temple_%28Wat_Phra_Yai%29.jpg/120px-Big_Buddha_in_Big_Buddha_Temple_%28Wat_Phra_Yai%29.jpg

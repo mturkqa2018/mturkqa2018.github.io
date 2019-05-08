@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Michael_Greyeyes_by_Gage_Skidmore.jpg/220px-Michael_Greyeyes_by_Gage_Skidmore.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Michael_Greyeyes_%2851480%29.jpg/220px-Michael_Greyeyes_%2851480%29.jpg

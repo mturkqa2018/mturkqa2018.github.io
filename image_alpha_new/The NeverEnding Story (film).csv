@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>rg/wikipedia/commons/thumb/e/ee/Bavaria_Filmstadt_-_NeverEnding_Story%2C_Falkor_the_Luckdragon.jpg/170px-Bavaria_Filmstadt_-_NeverEnding_Story%2C_Falkor_the_Luckdragon.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_city_hall.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Bungotakada_Oita.JPG/100px-Flag_of_Bungotakada_Oita.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Symbol_of_Bungotakada_Oita.svg/100px-Symbol_of_Bungotakada_Oita.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bungotakada_in_Oita_Prefecture_Ja.svg/250px-Bungotakada_in_Oita_Prefecture_Ja.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg/250px-Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kumano-magaibutsu.jpg/250px-Kumano-magaibutsu.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Showa_no_Machi_04.jpg/250px-Showa_no_Machi_04.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flag_of_Oita_Prefecture.svg/60px-Flag_of_Oita_Prefecture.svg.png

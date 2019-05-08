@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>n_VY_Commodore_of_Steve_Voight.jpg/220px-Holden_VY_Commodore_of_Steve_Voight.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ford_BA_Falcon_of_Nathan_Garioch.jpg/220px-Ford_BA_Falcon_of_Nathan_Garioch.jpg

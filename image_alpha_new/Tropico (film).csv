@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ife_Ball_2014_red_carpet_057_Shaun_Ross.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Lana_Del_Rey_-_Tropico_%28EP%29.png/220px-Lana_Del_Rey_-_Tropico_%28EP%29.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Peter_Paul_Rubens_004.jpg/100px-Peter_Paul_Rubens_004.jpg

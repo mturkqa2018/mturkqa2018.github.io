@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>e/e2/Lee_Jun_Ki_K%26C.jpg/170px-Lee_Jun_Ki_K%26C.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Episode_II_Shanghai.jpg/170px-Episode_II_Shanghai.jpg

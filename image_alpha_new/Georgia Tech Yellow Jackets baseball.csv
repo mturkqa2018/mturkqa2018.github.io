@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>logo.svg/200px-Georgia_Tech_Yellow_Jackets_logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/May_2017_GT_vs._UGA_baseball_-_GT_dugout.jpg/220px-May_2017_GT_vs._UGA_baseball_-_GT_dugout.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Russchancock.jpg/220px-Russchancock.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Georgia_Tech_Baseball_1907.jpg/220px-Georgia_Tech_Baseball_1907.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Tech_Tower-7.jpg/100px-Tech_Tower-7.jpg

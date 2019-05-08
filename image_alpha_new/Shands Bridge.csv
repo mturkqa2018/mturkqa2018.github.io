@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>e_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Old_Shands_Bridge.jpg/120px-Old_Shands_Bridge.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Shands_bridge_2.jpg/120px-Shands_bridge_2.jpg

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>b/b/ba/1930_census_Norton_Carr.jpg/220px-1930_census_Norton_Carr.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Robert_%28Bob%29_Barker_-_South_Dakota%27s_Indian_Census_Roll%3B_April_1%2C_1930.jpg/250px-Robert_%28Bob%29_Barker_-_South_Dakota%27s_Indian_Census_Roll%3B_April_1%2C_1930.jpg

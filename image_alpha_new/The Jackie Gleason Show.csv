@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jackie_Gleason_show_1955.JPG/250px-Jackie_Gleason_show_1955.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jackie_Gleason_Audrey_Meadows_Ralph_and_Alice_Kramden_1956.JPG/220px-Jackie_Gleason_Audrey_Meadows_Ralph_and_Alice_Kramden_1956.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Jackie_Gleason_Show_Miami_Beach_Auditorium_1968.JPG/220px-Jackie_Gleason_Show_Miami_Beach_Auditorium_1968.JPG

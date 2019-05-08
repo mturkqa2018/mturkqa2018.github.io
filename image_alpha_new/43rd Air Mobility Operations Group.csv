@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>MOG_emblem.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wing_0043rd_Bomb_%28B-29_Era%29.gif/165px-Wing_0043rd_Bomb_%28B-29_Era%29.gif
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/B-17F-25-BO_Flying_Fortress_41-24554_63rd_BS_43rd_BG_1943.jpg/220px-B-17F-25-BO_Flying_Fortress_41-24554_63rd_BS_43rd_BG_1943.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/43d_bomb_group_b-17s_New_Guinea_1942.jpg/220px-43d_bomb_group_b-17s_New_Guinea_1942.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/43d_Bombardment_Group_Boeing_B-29A-75-BN_Superfortress_44-62310_1946.jpg/220px-43d_Bombardment_Group_Boeing_B-29A-75-BN_Superfortress_44-62310_1946.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Military_service_mark_of_the_United_States_Air_Force.svg/80px-Military_service_mark_of_the_United_States_Air_Force.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Air_Mobility_Command.svg/80px-Air_Mobility_Command.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Shield_Strategic_Air_Command.png/70px-Shield_Strategic_Air_Command.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fifth_Air_Force_-_Emblem_%28World_War_II%29.svg/70px-Fifth_Air_Force_-_Emblem_%28World_War_II%29.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/First_Air_Force_-_Emblem_%28World_War_II%29.jpg/80px-First_Air_Force_-_Emblem_%28World_War_II%29.jpg

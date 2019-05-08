@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/upload.wikimedia.org/wikipedia/commons/thumb/d/db/WestboroBaptistChurch_Opening.png/220px-WestboroBaptistChurch_Opening.png
+https://upload.wikimedia.org/wikipedia/commons/3/39/Fred_Phelps_on_his_pulpit.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DNC4_7-27-2004.jpg/220px-DNC4_7-27-2004.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>pg/123px-John_Baldacci_-_107th_United_States_Congress.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/PeterCianchette.jpg/112px-PeterCianchette.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/3x4.svg/112px-3x4.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/MaineGubernationElection2002.svg/170px-MaineGubernationElection2002.svg.png

@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s_2010_AVN_Awards_Show.jpg/200px-Rocco_Siffredi%2C_Stormy_Daniels_2010_AVN_Awards_Show.jpg

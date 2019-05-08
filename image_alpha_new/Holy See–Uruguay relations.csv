@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Montevideo.jpg/220px-Nunciatura_apost%C3%B3lica_Montevideo.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Coat_of_arms_of_Uruguay.svg/90px-Coat_of_arms_of_Uruguay.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Coat_of_arms_Holy_See.svg/75px-Coat_of_arms_Holy_See.svg.png

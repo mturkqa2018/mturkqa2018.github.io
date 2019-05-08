@@ -1,0 +1,11 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eomuk-bokkeum.jpg/192px-Eomuk-bokkeum.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Goguma-julgi-bokkeum.jpg/200px-Goguma-julgi-bokkeum.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Korean_cuisine-Kkomjangeo_bokkeum-01.jpg/181px-Korean_cuisine-Kkomjangeo_bokkeum-01.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jeyuk-bokkeum.jpg/200px-Jeyuk-bokkeum.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jukkumi-bokkeum.jpg/181px-Jukkumi-bokkeum.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Maneul-jong-bokkeum.jpg/200px-Maneul-jong-bokkeum.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Myeolchi-bokkeum_2.jpg/160px-Myeolchi-bokkeum_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nakji-bokkeum.jpg/181px-Nakji-bokkeum.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ojingeo-bokkeum.jpg/181px-Ojingeo-bokkeum.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Pyogobokkeum.jpg/174px-Pyogobokkeum.jpg

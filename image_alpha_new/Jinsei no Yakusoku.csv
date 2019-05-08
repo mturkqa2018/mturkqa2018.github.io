@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>r_w.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Drama_film_icon.svg/35px-Drama_film_icon.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Japan_film_clapperboard.svg/35px-Japan_film_clapperboard.svg.png

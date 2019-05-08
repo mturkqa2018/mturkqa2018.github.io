@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ns_Cup.svg/600px-2017_FIVB_Volleyball_Women%27s_World_Grand_Champions_Cup.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg/250px-Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tokyo_Metropolitan_Gymnasium_2008.jpg/200px-Tokyo_Metropolitan_Gymnasium_2008.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nagoya_City_Sports_Complex_01.JPG/200px-Nagoya_City_Sports_Complex_01.JPG

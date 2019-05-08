@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>i_12_Choshi_20120128.JPG/220px-E257-500_NB-04_Shiosai_12_Choshi_20120128.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Naruto_Station_with_Shiosai_May2005.jpg/220px-Naruto_Station_with_Shiosai_May2005.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/JRE_165-revival_train_Inubou.jpg/220px-JRE_165-revival_train_Inubou.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/JR_logo_%28east%29.svg/80px-JR_logo_%28east%29.svg.png

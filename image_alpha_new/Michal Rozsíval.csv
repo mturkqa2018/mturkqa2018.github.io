@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>hal_Rozsival.jpg/220px-Michal_Rozsival.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Michal_Rozs%C3%ADval_2014_Winter_Olympics.jpg/200px-Michal_Rozs%C3%ADval_2014_Winter_Olympics.jpg

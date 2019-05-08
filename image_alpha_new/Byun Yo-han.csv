@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>pg/250px-181027_%EB%B3%80%EC%9A%94%ED%95%9C_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EB%AA%85%EB%8F%99%EB%B3%B8%EC%A0%90_%ED%8C%AC%EC%8B%B8%EC%9D%B8%ED%9A%8C_03.jpg

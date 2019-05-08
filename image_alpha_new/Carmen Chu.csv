@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-2015.04.22_Profile_Picture_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2015.04.22_Profile_Picture_7_Supervisor_2.jpg/220px-2015.04.22_Profile_Picture_7_Supervisor_2.jpg

@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>13px-Jos%C3%A9_Mar%C3%ADa_Aznar_1996_%28cropped%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Felipe_Gonz%C3%A1lez_1996_%28cropped%29.jpg/114px-Felipe_Gonz%C3%A1lez_1996_%28cropped%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Julio_Anguita_1996_%28cropped%29.jpg/113px-Julio_Anguita_1996_%28cropped%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jordi_Pujol_1996_%28cropped%29.jpg/113px-Jordi_Pujol_1996_%28cropped%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Xabier_Arzalluz_%28cropped%29.jpg/113px-Xabier_Arzalluz_%28cropped%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Portrait_placeholder.svg/111px-Portrait_placeholder.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/SpainProvinceMapMunicipal1995.png/435px-SpainProvinceMapMunicipal1995.png

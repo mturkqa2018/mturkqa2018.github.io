@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>us_Christi_Islanders_wordmark.svg/250px-Texas_A%26M%E2%80%93Corpus_Christi_Islanders_wordmark.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Basketball_Clipart.svg/35px-Basketball_Clipart.svg.png

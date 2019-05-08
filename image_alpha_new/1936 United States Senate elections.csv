@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>pg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/US_1936_senate_election_map.svg/300px-US_1936_senate_election_map.svg.png

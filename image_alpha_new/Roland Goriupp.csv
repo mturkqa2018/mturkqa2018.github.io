@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>October_2015_%2812%29.jpg/220px-Austria_national_under-21_football_team_-_Teamcamp_October_2015_%2812%29.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Soccerball_mask.svg/40px-Soccerball_mask.svg.png

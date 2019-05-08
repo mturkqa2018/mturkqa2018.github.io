@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s/thumb/f/f3/BeijingConfuciusTemple4.jpg/80px-BeijingConfuciusTemple4.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sacr%C3%A9-C%C5%93ur_de_Shizhi.jpg/35px-Sacr%C3%A9-C%C5%93ur_de_Shizhi.jpg

@@ -1,0 +1,17 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/BTC_number_of_transactions_per_month.png/200px-BTC_number_of_transactions_per_month.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Utxo-count.svg/200px-Utxo-count.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bitcoin_Transaction_Visual.svg/220px-Bitcoin_Transaction_Visual.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Minage_de_crypto-monnaie_%282%29.jpg/137px-Minage_de_crypto-monnaie_%282%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/USB_Erupter.jpg/139px-USB_Erupter.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cryptocurrency_Mining_Farm.jpg/183px-Cryptocurrency_Mining_Farm.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/History_of_Bitcoin_difficulty.svg/220px-History_of_Bitcoin_difficulty.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Total-bitcoins.svg/220px-Total-bitcoins.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Screenshot_of_Bitcoin-qt-0.5.2.png/191px-Screenshot_of_Bitcoin-qt-0.5.2.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Electrum_Bitcoin_Wallet.png/209px-Electrum_Bitcoin_Wallet.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bitcoin_paper_wallet_generated_at_bitaddress.jpg/149px-Bitcoin_paper_wallet_generated_at_bitaddress.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Casascius_coin.jpg/106px-Casascius_coin.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/10elqpi.jpg/142px-10elqpi.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Estimated-transaction-volume-usd.svg/220px-Estimated-transaction-volume-usd.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bitcoin-bubble-chart-history-2017.png/221px-Bitcoin-bubble-chart-history-2017.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bitcoin_price_and_volatility.svg/179px-Bitcoin_price_and_volatility.svg.png

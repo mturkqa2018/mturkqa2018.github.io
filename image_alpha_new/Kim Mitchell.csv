@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Mitchell_publicity_image.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kim_Mitchell_Fergus_2008.jpg/170px-Kim_Mitchell_Fergus_2008.jpg

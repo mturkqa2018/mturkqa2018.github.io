@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>nsaf_flag.PNG/100px-Pakistan_Tehreek-e-Insaf_flag.PNG
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_MMA.svg/100px-Flag_of_MMA.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Red_flag.svg/100px-Red_flag.svg.png

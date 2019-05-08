@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>rt_current_event.svg/33px-Motorsport_current_event.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Lance_Norick_L%26R_Racing_Dodge_1998.jpg/220px-Lance_Norick_L%26R_Racing_Dodge_1998.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Matt_Crafton_NASCAR_Truck_shown_at_Road_America_2012.jpg/220px-Matt_Crafton_NASCAR_Truck_shown_at_Road_America_2012.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/NASCAR_Trucks_in_garage_at_Lowes_Motor_Speedway%2C_May_2008.jpg/220px-NASCAR_Trucks_in_garage_at_Lowes_Motor_Speedway%2C_May_2008.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Texas_Pit_Stop.jpg/220px-Texas_Pit_Stop.jpg

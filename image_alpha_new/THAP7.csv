@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>human_chromosome_22.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Human_chromosome_22_ideogram.svg/300px-Human_chromosome_22_ideogram.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ideogram_house_mouse_chromosome_16.svg/260px-Ideogram_house_mouse_chromosome_16.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ideogram_of_house_mouse_chromosome_16.svg/300px-Ideogram_of_house_mouse_chromosome_16.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PBB_GE_THAP7_218492_s_at_fs.png/250px-PBB_GE_THAP7_218492_s_at_fs.png

@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>8_ideogram.svg/300px-Human_chromosome_8_ideogram.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ideogram_house_mouse_chromosome_14.svg/260px-Ideogram_house_mouse_chromosome_14.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ideogram_of_house_mouse_chromosome_14.svg/300px-Ideogram_of_house_mouse_chromosome_14.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/FAM167A_locus.jpg/550px-FAM167A_locus.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chart.jpg/220px-Chart.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aceview.jpg/220px-Aceview.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Int_web.jpg/220px-Int_web.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Expression_of_FAM167A.jpg/220px-Expression_of_FAM167A.jpg

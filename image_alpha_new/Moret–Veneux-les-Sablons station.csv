@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.jpg/300px-Gare-de_Moret_-_Veneux-les-Sablons_IMG_8384.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gare-de_Moret_-_Veneux-les-Sablons_IMG_8386.jpg/120px-Gare-de_Moret_-_Veneux-les-Sablons_IMG_8386.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gare-de_Moret_-_Veneux-les-Sablons_IMG_8390.jpg/120px-Gare-de_Moret_-_Veneux-les-Sablons_IMG_8390.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Moret-Veneux-les-Sablons2.jpg/120px-Moret-Veneux-les-Sablons2.jpg

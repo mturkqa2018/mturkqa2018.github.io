@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Coloccini_v_Ipswich.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/FabricioColoccini_May2015.jpg/220px-FabricioColoccini_May2015.jpg

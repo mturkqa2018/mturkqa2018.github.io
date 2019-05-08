@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>40px-Melbourne_Demons_Jumper.png
+https://upload.wikimedia.org/wikipedia/commons/8/81/South-Colac-Jumper.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Glenelg_Tigers_Jumper.svg/40px-Glenelg_Tigers_Jumper.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Waratah_Warriors_Jumper.svg/40px-Waratah_Warriors_Jumper.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Geelong_Cats_Jumper.jpg/40px-Geelong_Cats_Jumper.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Footscray_Football_Guernsey.png/40px-Footscray_Football_Guernsey.png

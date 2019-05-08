@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Laurent_Gamelon_-_Monte-Carlo_Television_Festival.JPG/220px-Laurent_Gamelon_-_Monte-Carlo_Television_Festival.JPG

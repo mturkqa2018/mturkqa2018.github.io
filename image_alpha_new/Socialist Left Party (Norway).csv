@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/250px-Sosialistisk_Venstreparti_Logo_2013.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/B%C3%A5rd_Vegar_Solhjell_05.jpg/170px-B%C3%A5rd_Vegar_Solhjell_05.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kristin_Halvorsen_-_World_Economic_Forum_Annual_Meeting_Davos_2008.jpg/220px-Kristin_Halvorsen_-_World_Economic_Forum_Annual_Meeting_Davos_2008.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Norwegian_ISAF_soldiers.jpg/220px-Norwegian_ISAF_soldiers.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Erik_Solheim_juni_09_A.jpg/220px-Erik_Solheim_juni_09_A.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Forstemaytog.jpg/220px-Forstemaytog.jpg

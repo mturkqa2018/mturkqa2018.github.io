@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>nd_Mt._Garfield.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cliff_edge_on_Grand_Mesa_Colorado.jpg/250px-Cliff_edge_on_Grand_Mesa_Colorado.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Grand_Mesa-NW-view.JPG/140px-Grand_Mesa-NW-view.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Colorado_State_Highway_65.JPG/260px-Colorado_State_Highway_65.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Colorado_State_Highway_65.JPG/120px-Colorado_State_Highway_65.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Seal_of_Colorado.svg/100px-Seal_of_Colorado.svg.png

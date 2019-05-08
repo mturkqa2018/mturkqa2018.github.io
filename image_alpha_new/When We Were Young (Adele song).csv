@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ikipedia/commons/thumb/8/89/Ariel_Rechtshaid_studio_picture.png/220px-Ariel_Rechtshaid_studio_picture.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Adele_Live_2016_tour.jpeg/230px-Adele_Live_2016_tour.jpeg

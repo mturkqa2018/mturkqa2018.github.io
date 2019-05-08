@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>300px-IJN_cruiser_Takao_on_trial_run_in_1932.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/KondoKirishimaNov14.jpg/220px-KondoKirishimaNov14.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Takao_class_recognition_drawings.jpg/220px-Takao_class_recognition_drawings.jpg

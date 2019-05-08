@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>vg/250px-Madhya_Pradesh_districts_location_map_big.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/India_location_map.svg/250px-India_location_map.svg.png

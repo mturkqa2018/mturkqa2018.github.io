@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>3%BD_Ples_from_air_K_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Nov%C3%BD_Ples_znak.jpg/100px-Nov%C3%BD_Ples_znak.jpg

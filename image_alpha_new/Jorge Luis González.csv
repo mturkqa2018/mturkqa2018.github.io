@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Biko_Botowamungu%2C_Jorge_Luis_Gonzales.jpg/220px-Bundesarchiv_Bild_183-1987-0329-004%2C_Ikomonya_Biko_Botowamungu%2C_Jorge_Luis_Gonzales.jpg

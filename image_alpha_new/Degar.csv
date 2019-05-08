@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ad.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/45px-Unbalanced_scales.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Montagnards_in_field.png/220px-Montagnards_in_field.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Anti-communists001.jpg/220px-Anti-communists001.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/F38.jpeg/220px-F38.jpeg

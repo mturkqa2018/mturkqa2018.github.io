@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>anuel_moire_%285%29.JPG/235px-Emmanuel_moire_%285%29.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/EmmanuelMoire.png/200px-EmmanuelMoire.png

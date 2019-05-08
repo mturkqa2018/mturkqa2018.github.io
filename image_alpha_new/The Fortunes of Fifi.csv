@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ad/The_Fortunes_of_Fifi_1917_newspaper.jpg/220px-The_Fortunes_of_Fifi_1917_newspaper.jpg

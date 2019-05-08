@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>laphrosaurus_size.png/220px-Elaphrosaurus_size.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Elaphrosaurus_bambergi.jpg/220px-Elaphrosaurus_bambergi.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Elaphrosaurus.jpg/220px-Elaphrosaurus.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Ceratosaurus_nasicornis_DB.jpg/140px-Ceratosaurus_nasicornis_DB.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Limusaurus_runner_%28flipped%29.jpg/140px-Limusaurus_runner_%28flipped%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rajasaurus_restoration.jpg/140px-Rajasaurus_restoration.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Aucasaurus_garridoi_by_Paleocolour.jpg/140px-Aucasaurus_garridoi_by_Paleocolour.jpg

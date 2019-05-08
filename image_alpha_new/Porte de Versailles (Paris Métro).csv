@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/wikipedia/commons/thumb/7/74/Paris_department_land_cover_location_map.svg/240px-Paris_department_land_cover_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/M%C3%A9tro_Porte_de_Versailles%2C_Paris_15e_20140427_1.jpg/800px-M%C3%A9tro_Porte_de_Versailles%2C_Paris_15e_20140427_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Porte_de_Versailles_L12_2.jpg/200px-Porte_de_Versailles_L12_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ligne_12_-_Porte_de_Versailles.JPG/200px-Ligne_12_-_Porte_de_Versailles.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Porte_de_Versailles_L12_3.jpg/200px-Porte_de_Versailles_L12_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ligne--T3-porte-de-Versaill.jpg/200px-Ligne--T3-porte-de-Versaill.jpg

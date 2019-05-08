@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ouncil_March_2019.svg/280px-Devon_County_Council_March_2019.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Clock_tower%2C_County_Hall%2C_Exeter.jpg/250px-Clock_tower%2C_County_Hall%2C_Exeter.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Devon_UK_local_election_2017_map.svg/400px-Devon_UK_local_election_2017_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/8/8c/Devon_Ceremonial_Numbered.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Devon.svg/220px-Flag_of_Devon.svg.png

@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>png
+https://upload.wikimedia.org/wikipedia/en/thumb/9/99/CHiP%27s.jpg/220px-CHiP%27s.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/CHP_70%27s_helmet.jpg/220px-CHP_70%27s_helmet.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/9/98/CHiPs_%2799_FilmPoster.jpeg/250px-CHiPs_%2799_FilmPoster.jpeg

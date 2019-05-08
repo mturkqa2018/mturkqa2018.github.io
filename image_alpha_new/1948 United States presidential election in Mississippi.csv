@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>hurmond.png/107px-StromThurmond.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Harry_S._Truman.jpg/108px-Harry_S._Truman.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ElectoralCollege1948.svg/150px-ElectoralCollege1948.svg.png

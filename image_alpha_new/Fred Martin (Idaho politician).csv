@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>tin.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/A_picture_of_Senator_Martin.jpg/220px-A_picture_of_Senator_Martin.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png

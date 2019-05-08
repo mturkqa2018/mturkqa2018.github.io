@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>1828-1829%29.jpg/220px-Ancien_Pont_des_Invalides_%281828-1829%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/b/ba/Paris-Ponts-Invalides.png

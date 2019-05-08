@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/45px-Unbalanced_scales.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Histoiredesdeuxindes.jpg/220px-Histoiredesdeuxindes.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Guillaumethomasraynal.jpg/220px-Guillaumethomasraynal.jpg

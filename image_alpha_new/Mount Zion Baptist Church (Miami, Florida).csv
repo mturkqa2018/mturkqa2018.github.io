@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ion_map_Miami.png/250px-Location_map_Miami.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/USA_Florida_location_map.svg/250px-USA_Florida_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/250px-Usa_edcp_location_map.svg.png

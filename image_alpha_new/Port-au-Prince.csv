@@ -1,0 +1,14 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>iti_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/North_America_laea_location_map.svg/250px-North_America_laea_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Port-au-Prince-TF.jpg/220px-Port-au-Prince-TF.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hispaniola_Vinckeboons4.jpg/300px-Hispaniola_Vinckeboons4.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HabitationSaintDomingue.jpg/220px-HabitationSaintDomingue.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Central_Market%2C_Port-au-Prince.jpg/220px-Central_Market%2C_Port-au-Prince.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Port-au-Prince%2C_Haiti_%281920%29.jpg/220px-Port-au-Prince%2C_Haiti_%281920%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Haitian_national_palace_earthquake.jpg/220px-Haitian_national_palace_earthquake.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2010_Haiti_earthquake_USAID_relief_situation.svg/220px-2010_Haiti_earthquake_USAID_relief_situation.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/View_of_Port-au_Prince_from_Hotel_Montana2.jpg/220px-View_of_Port-au_Prince_from_Hotel_Montana2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Port-au-Prince%2C_Haiti.JPG/220px-Port-au-Prince%2C_Haiti.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Port_au_Prince..JPG/220px-Port_au_Prince..JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hotel_Oloffson_mars_2007.JPG/250px-Hotel_Oloffson_mars_2007.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Haiti_communes.png/150px-Haiti_communes.png

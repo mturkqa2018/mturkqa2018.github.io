@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sussex_spaniel_276.jpg/220px-Sussex_spaniel_276.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/108._Sussex_Spaniel.JPG/220px-108._Sussex_Spaniel.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sussex_Spaniel_from_1915.JPG/220px-Sussex_Spaniel_from_1915.JPG

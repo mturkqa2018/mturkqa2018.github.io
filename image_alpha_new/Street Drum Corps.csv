@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-258.jpg/220px-Unique_sound_rocks_Guantanamo_141003-A-FH838-258.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Street_Drum_Corps_2011_Ottawa_Folk_Festival.jpg/220px-Street_Drum_Corps_2011_Ottawa_Folk_Festival.jpg

@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>vg/73px-Blason_ville_fr_Calenzana_%28Haute-Corse%29.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Corse_region_location_map.svg/270px-Corse_region_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Calenzana_E1aJPG.jpg/300px-Calenzana_E1aJPG.jpg

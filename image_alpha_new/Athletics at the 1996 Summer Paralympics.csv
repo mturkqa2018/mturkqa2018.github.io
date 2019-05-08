@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>30/38_ACPS_Atlanta_1996_Field_Frances_Stanley.jpg/220px-38_ACPS_Atlanta_1996_Field_Frances_Stanley.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Athletics_pictogram_%28Paralympics%29.svg/50px-Athletics_pictogram_%28Paralympics%29.svg.png

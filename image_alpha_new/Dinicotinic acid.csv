@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>0px-3%2C5-Pyridine_Dicarboxylic_Acid_V.2.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/3%2C5-pyridinedicarboxylic_acid.jpg/150px-3%2C5-pyridinedicarboxylic_acid.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GHS-pictogram-exclam.svg/50px-GHS-pictogram-exclam.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dinicotinic_Acid%E2%80%93%E2%80%93_Nicotinic_Acid_V1.svg/380px-Dinicotinic_Acid%E2%80%93%E2%80%93_Nicotinic_Acid_V1.svg.png

@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>kel_1965.jpg/220px-Miles_Davis_The_Complete_Live_at_the_Plugged_Nickel_1965.jpg

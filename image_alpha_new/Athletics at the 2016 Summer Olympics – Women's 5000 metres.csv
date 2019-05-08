@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>V-icon-2.svg/110px-TV-icon-2.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Vivian_Cheruiyot_-_Rio_2016.jpg/220px-Vivian_Cheruiyot_-_Rio_2016.jpg

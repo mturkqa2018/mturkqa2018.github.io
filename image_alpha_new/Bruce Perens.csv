@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>uce.Perens.ogv/220px--051118-WSIS.2005-Bruce.Perens.ogv.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/80px-Openlogo-debianV2.svg.png

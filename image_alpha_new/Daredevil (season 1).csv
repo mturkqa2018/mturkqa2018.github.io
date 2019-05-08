@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>27s_Daredevil.gif/220px-Charlie_Cox_as_Daredevil_in_Marvel%27s_Daredevil.gif
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Judge_32_%2815236588671%29.jpg/150px-The_Judge_32_%2815236588671%29.jpg

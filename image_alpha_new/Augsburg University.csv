@@ -1,0 +1,14 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Augsburg_University_seal.svg/220px-Augsburg_University_seal.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Augsburg_University_wordmark.svg/250px-Augsburg_University_wordmark.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Augsburg_College_Sign.jpg/200px-Augsburg_College_Sign.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hillary_Clinton_Feb_3_2008.jpg/220px-Hillary_Clinton_Feb_3_2008.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nobel_Peace_Prize_Flags_at_Augsburg.jpg/220px-Nobel_Peace_Prize_Flags_at_Augsburg.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Old_Main_Augsburg_3.JPG/250px-Old_Main_Augsburg_3.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/USA_Minnesota_location_map.svg/250px-USA_Minnesota_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Oren_Gateway_Augsburg_College.jpg/220px-Oren_Gateway_Augsburg_College.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Urness_Tower%2C_Augsburg_College.jpg/220px-Urness_Tower%2C_Augsburg_College.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lindell_Library_%28Augsburg_College%29.JPG/220px-Lindell_Library_%28Augsburg_College%29.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Devean_George_Feb_24_2008_crop.jpg/158px-Devean_George_Feb_24_2008_crop.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Augsburg_College_Edor_Nelson_Field.jpg/220px-Augsburg_College_Edor_Nelson_Field.jpg

@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Union_location_map.svg/550px-South_West_England_Rugby_Union_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/South_West_England_Rugby_Union_location_map.svg/550px-South_West_England_Rugby_Union_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/England_south_location_map.svg/500px-England_south_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiltshire_UK_location_map.svg/240px-Wiltshire_UK_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/England_south_location_map.svg/600px-England_south_location_map.svg.png

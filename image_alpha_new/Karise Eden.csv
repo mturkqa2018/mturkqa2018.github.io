@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_and_Karise_Eden%2C_2012.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Karise_Eden_2%2C_2012.jpg/160px-Karise_Eden_2%2C_2012.jpg

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>penclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Carly_Rae_Jepson-DSC_0209-10.20.12_%288107384948%29.jpg/180px-Carly_Rae_Jepson-DSC_0209-10.20.12_%288107384948%29.jpg

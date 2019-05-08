@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>png/175px-Logosudouest.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Carte_localisation_Montr%C3%A9al_-_Le_Sud-Ouest.svg/250px-Carte_localisation_Montr%C3%A9al_-_Le_Sud-Ouest.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lachine-canal.jpg/220px-Lachine-canal.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Victoriatown_Big_Black_Rock.jpg/220px-Victoriatown_Big_Black_Rock.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Place-Saint-Henri_32.jpg/220px-Place-Saint-Henri_32.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/AtwaterMarket.jpg/150px-AtwaterMarket.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bibliotheque_Saint-Henri.jpg/220px-Bibliotheque_Saint-Henri.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Montreal.svg/80px-Flag_of_Montreal.svg.png

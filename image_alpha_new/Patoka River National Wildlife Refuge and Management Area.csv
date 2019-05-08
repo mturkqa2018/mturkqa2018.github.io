@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Usa_edcp_relief_location_map.png/300px-Usa_edcp_relief_location_map.png
+https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Patoka_Area.PNG/400px-Patoka_Area.PNG

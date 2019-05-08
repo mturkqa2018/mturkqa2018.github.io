@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>20px-Chalmers_entrance.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Scare_PewDiePie_logo.jpg/250px-Scare_PewDiePie_logo.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/T-series-logo.svg/170px-T-series-logo.svg.png
+https://upload.wikimedia.org/wikipedia/en/7/7d/PewDiePie%27s_Tuber_Simulator_icon.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Marzia_Bisognin_on_Instagram.jpg/220px-Marzia_Bisognin_on_Instagram.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

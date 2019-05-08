@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>29-1939.svg/250px-Locator_map_Drina_Banovina_in_Yugoslavia_1929-1939.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Drinska_banovina1931.png/250px-Drinska_banovina1931.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Banovine_Jugoslavia.png/250px-Banovine_Jugoslavia.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Presidency_BosniaandHerzegovina.png/220px-Presidency_BosniaandHerzegovina.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Flag_of_Yugoslavia_%281918%E2%80%931941%29.svg/64px-Flag_of_Yugoslavia_%281918%E2%80%931941%29.svg.png

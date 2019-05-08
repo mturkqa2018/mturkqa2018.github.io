@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Heraldic_shield_shape_600x660.svg/80px-Heraldic_shield_shape_600x660.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Archdiocese_of_Chicago_Coat_of_Arms.svg/75px-Archdiocese_of_Chicago_Coat_of_Arms.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Archdiocese_of_Chicago_Coat_of_Arms.svg/100px-Archdiocese_of_Chicago_Coat_of_Arms.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Archdiocese_of_Chicago_Coat_of_Arms.svg/100px-Archdiocese_of_Chicago_Coat_of_Arms.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Archdiocese_of_Chicago_Coat_of_Arms.svg/100px-Archdiocese_of_Chicago_Coat_of_Arms.svg.png

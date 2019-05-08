@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>opped.jpg/220px-Justin_Abdelkader%27s_Stanley_Cup2008_cropped.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Stanley_Cup_no_background.png/85px-Stanley_Cup_no_background.png

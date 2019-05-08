@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Childbook.svg/45px-Childbook.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/YAlit.png/45px-YAlit.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/WWI-stub-icon.PNG/36px-WWI-stub-icon.PNG

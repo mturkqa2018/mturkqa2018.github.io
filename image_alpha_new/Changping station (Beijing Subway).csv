@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>8C%E5%B9%B3%E7%AB%99%E7%AB%99%E5%8F%B02.JPG/300px-%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E6%98%8C%E5%B9%B3%E7%AB%99%E7%AB%99%E5%8F%B02.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/China_Beijing_adm_location_map.svg/240px-China_Beijing_adm_location_map.svg.png

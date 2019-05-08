@@ -1,0 +1,11 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Trump_official_portrait_%28cropped%29.jpg/116px-Donald_Trump_official_portrait_%28cropped%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bernie_Sanders_September_2015_cropped.jpg/108px-Bernie_Sanders_September_2015_cropped.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vermont_Presidential_Election_Results_2016.svg/200px-Vermont_Presidential_Election_Results_2016.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/United_States_presidential_election_in_Vermont%2C_2016.svg/390px-United_States_presidential_election_in_Vermont%2C_2016.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Vermont_Democratic_Presidential_Primary_Election_Results_by_County%2C_2016.svg/154px-Vermont_Democratic_Presidential_Primary_Election_Results_by_County%2C_2016.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Donald_Trump_August_19%2C_2015_%28cropped%29.jpg/94px-Donald_Trump_August_19%2C_2015_%28cropped%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Governor_John_Kasich.jpg/89px-Governor_John_Kasich.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Marco_Rubio%2C_Official_Portrait%2C_112th_Congress.jpg/99px-Marco_Rubio%2C_Official_Portrait%2C_112th_Congress.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ted_Cruz%2C_official_portrait%2C_113th_Congress_%28cropped_2%29.jpg/86px-Ted_Cruz%2C_official_portrait%2C_113th_Congress_%28cropped_2%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Vermont_Republican_Presidential_Primary_Election_Results_by_County%2C_2016.svg/140px-Vermont_Republican_Presidential_Primary_Election_Results_by_County%2C_2016.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ElectoralCollege2016.svg/150px-ElectoralCollege2016.svg.png

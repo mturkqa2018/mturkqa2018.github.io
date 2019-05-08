@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g.png
+https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/List_of_countries_by_firearm-related_death_rate.jpg/214px-List_of_countries_by_firearm-related_death_rate.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2010_homicide_suicide_rates_high-income_countries.png/165px-2010_homicide_suicide_rates_high-income_countries.png

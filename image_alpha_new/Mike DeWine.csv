@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>pg/220px-Mike_DeWine_105th_Congress_1997.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mike_DeWine_and_family_pose_with_Ronald_Reagan.jpg/300px-Mike_DeWine_and_family_pose_with_Ronald_Reagan.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/President_George_W._Bush_congratulates_Senator_Mike_DeWine%2C_R-Ohio%2C_on_S._650%2C_the_Pediatric_Equity_Research_Act_of_2003.jpg/300px-President_George_W._Bush_congratulates_Senator_Mike_DeWine%2C_R-Ohio%2C_on_S._650%2C_the_Pediatric_Equity_Research_Act_of_2003.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_the_Governor_of_Ohio.svg/100px-Flag_of_the_Governor_of_Ohio.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/100px-Flag_of_Ohio.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Seal_of_Ohio_%28Official%29.svg/100px-Seal_of_Ohio_%28Official%29.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Seal_of_the_Attorney_General_of_Ohio.svg/75px-Seal_of_the_Attorney_General_of_Ohio.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Seal_of_the_United_States_House_of_Representatives.svg/75px-Seal_of_the_United_States_House_of_Representatives.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/80px-Seal_of_the_United_States_Senate.svg.png

@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ttps://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ph_locator_map_samar.png/250px-Ph_locator_map_samar.png
+https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ph_fil_samar.png/220px-Ph_fil_samar.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Catbalogan_Samar.jpg/220px-Catbalogan_Samar.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ph_eastern_visayas.png/150px-Ph_eastern_visayas.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Coat_of_arms_of_the_Philippines.svg/80px-Coat_of_arms_of_the_Philippines.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Labelled_map_of_the_Philippines_-_Provinces_and_Regions.png/80px-Labelled_map_of_the_Philippines_-_Provinces_and_Regions.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Coat_of_arms_of_the_Philippines.svg/100px-Coat_of_arms_of_the_Philippines.svg.png

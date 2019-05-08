@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>dia.org/wikipedia/commons/thumb/7/73/Kit_body_basketball.svg/38px-Kit_body_basketball.svg.png
+https://upload.wikimedia.org/wikipedia/commons/2/29/Kit_shorts_whitesides.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png
+https://upload.wikimedia.org/wikipedia/commons/7/71/Kit_body_blacksides.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kit_body_basketball.svg/38px-Kit_body_basketball.svg.png
+https://upload.wikimedia.org/wikipedia/commons/e/ee/Kit_shorts_black_stripes.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/LG_logo_%282015%29.svg/100px-LG_logo_%282015%29.svg.png

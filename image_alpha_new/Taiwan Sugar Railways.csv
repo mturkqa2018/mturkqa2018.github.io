@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sugar_cane_train_passes_through_shepherd%27s_needle_flowers_fields_in_Huwei.jpg/250px-Sugar_cane_train_passes_through_shepherd%27s_needle_flowers_fields_in_Huwei.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Taiwan_2009_GuangFu_Sugar_Factory_Historical_Train_Exhibition_RD_6173.jpg/220px-Taiwan_2009_GuangFu_Sugar_Factory_Historical_Train_Exhibition_RD_6173.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CSIRO_ScienceImage_10529_Sugarcane_and_bowl_of_sugar.jpg/120px-CSIRO_ScienceImage_10529_Sugarcane_and_bowl_of_sugar.jpg

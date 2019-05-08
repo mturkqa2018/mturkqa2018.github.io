@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>e_for_Syria_and_the_Lebanon_map_en.svg/250px-French_Mandate_for_Syria_and_the_Lebanon_map_en.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/French_Mandate_for_Syria_and_the_Lebanon_map_en.svg/120px-French_Mandate_for_Syria_and_the_Lebanon_map_en.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Outre-mer_en.png/210px-Outre-mer_en.png

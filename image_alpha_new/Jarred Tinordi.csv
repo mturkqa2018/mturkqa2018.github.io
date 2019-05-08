@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>re_-_09-11-12_%2840%29.jpg/227px-Hamilton_Bulldogs_-_Syracuse_Crunch_-_Bell_Centre_-_09-11-12_%2840%29.jpg

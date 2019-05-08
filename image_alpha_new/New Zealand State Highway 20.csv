@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>20_NZ.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SH20-SH20A_Interchange_In_Mangere.jpg/290px-SH20-SH20A_Interchange_In_Mangere.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/State_Highway_1_NZ.svg/40px-State_Highway_1_NZ.svg.png

@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/General_Julian_Byng.jpg/220px-General_Julian_Byng.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Julian_Byng_%28April_1917%29.jpg/220px-Julian_Byng_%28April_1917%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Lord_and_Lady_Byng_%28HS85-10-40078%29_cropped.jpg/220px-Lord_and_Lady_Byng_%28HS85-10-40078%29_cropped.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Byng_in_Calgary_2.jpg/220px-Byng_in_Calgary_2.jpg

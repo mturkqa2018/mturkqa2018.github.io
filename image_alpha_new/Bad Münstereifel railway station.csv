@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>tps://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bahnhof_Bad_M%C3%BCnstereifel.jpg/300px-Bahnhof_Bad_M%C3%BCnstereifel.jpg

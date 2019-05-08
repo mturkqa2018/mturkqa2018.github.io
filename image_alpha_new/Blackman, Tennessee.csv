@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Community_Club.jpeg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/USA_Tennessee_location_map.svg/250px-USA_Tennessee_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Map_of_Tennessee_highlighting_Rutherford_County.svg/180px-Map_of_Tennessee_highlighting_Rutherford_County.svg.png

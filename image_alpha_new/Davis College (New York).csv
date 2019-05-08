@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>tps://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png
+https://upload.wikimedia.org/wikipedia/en/1/1b/Davis_College.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pbtsclass.jpg/269px-Pbtsclass.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Davis_College_Campus.jpg/382px-Davis_College_Campus.jpg

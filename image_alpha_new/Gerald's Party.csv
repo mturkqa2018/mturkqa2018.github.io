@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/GeraldsParty.jpg/220px-GeraldsParty.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Books-aj.svg_aj_ashton_01f.svg/40px-Books-aj.svg_aj_ashton_01f.svg.png

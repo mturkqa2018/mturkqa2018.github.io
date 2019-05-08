@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/220px-Diante_do_Trono_-_Grava%C3%A7%C3%A3o_Creio.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ana_Paula_Valad%C3%A3o_Bessa_live_at_CFNI.png/220px-Ana_Paula_Valad%C3%A3o_Bessa_live_at_CFNI.png

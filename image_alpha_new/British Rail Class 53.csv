@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>n%29_at_King%27s_Cross_station%2C_London.jpg/300px-British_Rail_Class_53_number_D0280_%28Falcon%29_at_King%27s_Cross_station%2C_London.jpg

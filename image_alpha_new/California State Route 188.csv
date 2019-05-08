@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>nia_State_Route_188.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CaliforniaHighway188a.jpg/220px-CaliforniaHighway188a.jpg

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ntonio_Banderas_KVIFF.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/d/df/TaketheLeadOST.PNG/220px-TaketheLeadOST.PNG

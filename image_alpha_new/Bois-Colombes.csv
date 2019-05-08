@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>de-Seine%29.svg/73px-Blason_ville_fr_Bois-Colombes_%28Hauts-de-Seine%29.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bois-Colombes_map.svg/250px-Bois-Colombes_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ile-de-France_region_location_map.svg/270px-Ile-de-France_region_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/BoisColombesEglise.jpg/220px-BoisColombesEglise.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Asnieres_-_Bois-Colombes_-_Rue_des_Bourguignons.jpg/220px-Asnieres_-_Bois-Colombes_-_Rue_des_Bourguignons.jpg

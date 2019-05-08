@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>20px-Wil_Wheaton.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wil_Wheaton_wOOtstock_2.4_04.jpg/220px-Wil_Wheaton_wOOtstock_2.4_04.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wil_Wheaton_Meets_Tim_O%27Reilly.jpg/220px-Wil_Wheaton_Meets_Tim_O%27Reilly.jpg

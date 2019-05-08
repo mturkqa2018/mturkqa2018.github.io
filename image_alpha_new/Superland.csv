@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>book-new.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/RLZ_Superland_-_SLC_689m_Kumba_Roller_Coaster_02.JPG/120px-RLZ_Superland_-_SLC_689m_Kumba_Roller_Coaster_02.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/RLZ_Superland_Ferris_wheel_03.JPG/120px-RLZ_Superland_Ferris_wheel_03.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/RLZ_Superland_Pirate_ship_01.JPG/120px-RLZ_Superland_Pirate_ship_01.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/RLZ_Superland_Skycoaster_01.JPG/120px-RLZ_Superland_Skycoaster_01.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SuperlandPI.JPG/120px-SuperlandPI.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Superland_amusement_park_%2813056140805%29.jpg/120px-Superland_amusement_park_%2813056140805%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/SuperlandPK.JPG/120px-SuperlandPK.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Superland_amusement_park_%2813056269623%29.jpg/120px-Superland_amusement_park_%2813056269623%29.jpg

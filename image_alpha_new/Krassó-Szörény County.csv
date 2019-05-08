@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Krasso-szoreny.png/250px-Krasso-szoreny.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Koh_administrative_1370_01.png/300px-Koh_administrative_1370_01.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Krasso-Szoreny_county_map.jpg/220px-Krasso-Szoreny_county_map.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Krass%C3%B3-Sz%C3%B6r%C3%A9ny_ethnic_map.png/200px-Krass%C3%B3-Sz%C3%B6r%C3%A9ny_ethnic_map.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kingdom_of_Hungary_counties.svg/150px-Kingdom_of_Hungary_counties.svg.png

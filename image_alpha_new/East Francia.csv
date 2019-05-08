@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ait%C3%A9_de_Verdun_en_843.JPG/220px-Partage_de_l%27Empire_carolingien_au_Trait%C3%A9_de_Verdun_en_843.JPG

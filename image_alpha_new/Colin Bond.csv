@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>px-Bond_Monaro_1970_Graham_Ruckert.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Colin_Bond_and_George_Shepheard%2C_Warana_Rally%2C_Photo_by_Graham_Ruckert.jpg/220px-Colin_Bond_and_George_Shepheard%2C_Warana_Rally%2C_Photo_by_Graham_Ruckert.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bond_1974_Graham_Ruckert.jpg/220px-Bond_1974_Graham_Ruckert.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Toranabond76.jpg/220px-Toranabond76.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ford_Escort_RS1800_%28VJT444%29.jpg/220px-Ford_Escort_RS1800_%28VJT444%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ford_Capri_at_Queensland_Raceway.jpg/220px-Ford_Capri_at_Queensland_Raceway.jpg

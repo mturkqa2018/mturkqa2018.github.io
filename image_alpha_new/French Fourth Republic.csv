@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>oad.wikimedia.org/wikipedia/commons/thumb/f/f7/Coat_of_arms_of_the_French_Republic.svg/85px-Coat_of_arms_of_the_French_Republic.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/France_%281946_-_1957%29.png/250px-France_%281946_-_1957%29.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Insigne_modernum_Francum.svg/50px-Insigne_modernum_Francum.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Insigne_Francum_Napoleonis.svg/50px-Insigne_Francum_Napoleonis.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Insigne_Francum.svg/50px-Insigne_Francum.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Arms_of_the_French_Republic.svg/80px-Arms_of_the_French_Republic.svg.png

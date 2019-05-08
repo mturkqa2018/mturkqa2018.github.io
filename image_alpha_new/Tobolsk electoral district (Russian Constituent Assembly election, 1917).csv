@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>n%2C_1917.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Districts_of_the_Russian_Constituent_Assembly_election%2C_1917.png/300px-Districts_of_the_Russian_Constituent_Assembly_election%2C_1917.png

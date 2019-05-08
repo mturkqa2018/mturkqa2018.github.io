@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>ADX (file format) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ADX_(file_format)","wgTitle":"ADX (file format)","wgCurRevisionId":866918701,"wgRevisionId":866918701,"wgArticleId":8530037,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using Infobox software with unknown parameters","Articles needing cleanup from June 2012","All pages needing cleanup","Articles containing how-to sections","Wikipedia articles needing clarification from December 2008","Articles with example C code","Audio codecs","Lossy compression algorithms","Computer file formats"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"ADX_(file_format)","wgRelevantArticleId":8530037,"wgRequestId":"XL-ZhwpAIDEAAJI8nNEAAACA","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q290741","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.34.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/8/82/ADX_logo.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/ADX_(file_format)" rel="alternate"/>
+<link href="/w/index.php?title=ADX_(file_format)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=ADX_(file_format)&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="//en.wikipedia.org/wiki/ADX_(file_format)" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?lang=qqx&amp;modules=html5shiv&amp;only=scripts&amp;skin=fallback&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-ADX_file_format rootpage-ADX_file_format skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">ADX (file format)</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div id="jump-to-nav"></div>
+Jump to navigation
+Jump to search
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox vevent" style="width:22em"><caption class="summary">CRI ADX</caption><tbody><tr><td colspan="2" style="text-align:center"><img alt="ADX logo.png" data-file-height="300" data-file-width="244" decoding="async" height="270" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/ADX_logo.png/220px-ADX_logo.png" srcset width="220"/></td></tr><tr><th scope="row" style="white-space: nowrap;">Developer(s)</th><td>CRI Middleware</td></tr><tr><th scope="row" style="white-space: nowrap;">Platform</th><td>Cross-platform</td></tr><tr><th scope="row" style="white-space: nowrap;">Type</th><td>Codec / File format</td></tr><tr><th scope="row" style="white-space: nowrap;">License</th><td>Proprietary</td></tr><tr><th scope="row" style="white-space: nowrap;">Website</th><td>CRI Middleware</td></tr></tbody></table>
+<p><b>ADX</b> is a lossy proprietary audio storage and compression format developed by CRI Middleware specifically for use in video games; it is derived from ADPCM. Its most notable feature is a looping function that has proved useful for background sounds in various games that have adopted the format, including many games for the Sega Dreamcast as well as some PlayStation 2, GameCube and Wii games. One of the first games to use ADX was Burning Rangers, on the Sega Saturn. Notably, the Sonic the Hedgehog series from the Dreamcast generation up to at least <i>Shadow the Hedgehog</i> have used this format for sound and voice recordings.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">1</span></p><p>On top of the main ADPCM encoding, the ADX toolkit also includes a sibling format, AHX, which uses a variant of MPEG-2 audio intended specifically for voice recordings and a packaging archive, AFS, for bundling multiple ADX and AHX tracks into a single container file.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">2</span></p><p>Version 2 of the format (ADX2) uses the HCA and HCA-MX extension, which are usually bundled into a container file with the extensions ACB and AWB.
+The AWB extension is not to be confused with the Audio format with the same extension and mostly contains the binary data for the HCA files.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">3</span></p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">General Overview</span></li>
+<li class="toclevel-1 tocsection-2"><span class="tocnumber">2</span> <span class="toctext">Technical Description</span>
+<ul>
+<li class="toclevel-2 tocsection-3"><span class="tocnumber">2.1</span> <span class="toctext">File Header</span></li>
+<li class="toclevel-2 tocsection-4"><span class="tocnumber">2.2</span> <span class="toctext">Sample Format</span></li>
+<li class="toclevel-2 tocsection-5"><span class="tocnumber">2.3</span> <span class="toctext">ADX Decoding</span>
+<ul>
+<li class="toclevel-3 tocsection-6"><span class="tocnumber">2.3.1</span> <span class="toctext">Encryption</span></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><span class="tocnumber">2.4</span> <span class="toctext">AHX Decoding</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><span class="tocnumber">3</span> <span class="toctext">References</span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="General_Overview">General Overview</span></h2>
+<p>ADX is a compressed audio format but unlike MP3 and similar formats, it doesn't apply a psychoacoustic model to the sound to reduce its complexity. The ADPCM model instead stores samples by recording the <i>error</i> relative to a prediction function which means more of the original signal survives the encoding process; as such ADPCM compression instead trades accuracy of the representation for size by using relatively small sample sizes, usually 4bits. The human auditory system's tolerance for the noise this causes makes  the loss of accuracy barely noticeable.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">4</span></p><p>Like other encoding formats, ADX supports multiple sampling frequencies such as 22050 Hz, 44100 Hz, 48000 Hz, etc. however, the output sample depth is locked at 16bits, generally due to the lack of precision already mentioned. It supports multiple channels but there seems to be an implicit limitation of stereo (2 channel) audio although the file format itself can represent up to 255 channels. The only particularly distinctive feature that sets ADX apart from alternatives like IMA ADPCM (other than having a different prediction function) is the integrated looping functionality, this enables an audio player to optionally skip backwards after reaching a single specified point in the track to create a coherent loop; hypothetically, this functionality could be used to skip forwards as well but that would be redundant since the audio could simply be clipped with an editing program instead.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">5</span></p><p>For playback there are a few plugins for WinAmp and a convert to wave tool (see the references section). The open source program / library FFmpeg also has ADX support implemented, however, its decoder is hard coded so can only properly decode 44100 Hz ADXs.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">6</span></p>
+<h2><span class="mw-headline" id="Technical_Description">Technical Description</span></h2>
+<table class="box-Howto plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" decoding="async" height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>contains instructions, advice, or how-to content</b>.<span class="hide-when-compact"> The purpose of Wikipedia is to present facts, not to train. Please help improve this article either by rewriting the how-to content or by moving it to Wikiversity, Wikibooks or Wikivoyage.</span> <small class="date-container"><i>(<span class="date">June 2012</span>)</i></small></div></td></tr></tbody></table>
+<p>The ADX specification is not freely available, however the most important elements of the structure have been reverse engineered and documented in various places on the web. The information here may be incomplete but should be sufficient to build a working codec or transcoder.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">7</span></p><p>As a side note, the AFS archive files that ADXs are sometimes packed in are a simple variant of a tarball which uses numerical indices to identify the contents rather than names. Source code for an extractor can be found in the ADX archive at.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">8</span></p>
+<h3><span class="mw-headline" id="File_Header">File Header</span></h3>
+<p>The ADX disk format is defined in big-endian. The identified sections of the main header are outlined below:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">9</span></p>
+<table >
+<tbody><tr>
+<th>
+</th>
+<th>0
+</th>
+<th>1
+</th>
+<th>2
+</th>
+<th>3
+</th>
+<th>4
+</th>
+<th>5
+</th>
+<th>6
+</th>
+<th>7
+</th>
+<th>8
+</th>
+<th>9
+</th>
+<th>A
+</th>
+<th>B
+</th>
+<th>C
+</th>
+<th>D
+</th>
+<th>E
+</th>
+<th>F
+</th></tr>
+<tr>
+<th>0x0
+</th>
+<td>0x80
+</td>
+<td>0x00
+</td>
+<td colspan="2">Copyright Offset
+</td>
+<td>Encoding Type
+</td>
+<td>Block Size
+</td>
+<td>Sample Bitdepth
+</td>
+<td>Channel Count
+</td>
+<td colspan="4">Sample Rate
+</td>
+<td colspan="4">Total Samples
+</td></tr>
+<tr>
+<th>0x10
+</th>
+<td colspan="2">Highpass Frequency
+</td>
+<td>Version
+</td>
+<td>Flags
+</td>
+<td colspan="2">Loop Alignment Samples (v3)
+</td>
+<td colspan="2">Loop Enabled (v3)
+</td>
+<td colspan="4">Loop Enabled (v3)
+</td>
+<td colspan="4">Loop Begin Sample Index (v3)
+</td></tr>
+<tr>
+<th>0x20
+</th>
+<td colspan="4">Loop Begin Byte Index (v3)
+</td>
+<td colspan="4">Loop Enabled (v4)
+<p>Loop End Sample Index (v3)
+<span style="border: 3px solid blue; color:blue;font-weight: bold">10</span></p>
+</td>
+<td colspan="4">Loop Begin Sample Index (v4)
+<p>Loop End Byte Index (v3)
+<span style="border: 3px solid blue; color:blue;font-weight: bold">11</span></p>
+</td>
+<td colspan="4">Loop Begin Byte Index (v4)
+</td></tr>
+<tr>
+<th>0x30
+</th>
+<td colspan="4">Loop End Sample Index (v4)
+</td>
+<td colspan="4">Loop End Byte Index (v4)
+</td>
+<td colspan="8">Zero or more bytes empty space
+</td></tr>
+<tr>
+<th>???
+</th>
+<td colspan="16">[CopyrightOffset - 2] ASCII (unterminated) string: "(c)CRI"
+</td></tr>
+<tr>
+<th>...
+</th>
+<td colspan="16">[CopyrightOffset + 4] Audio data starts here
+</td></tr></tbody></table><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>1</span>
+<p>Fields labelled "Unknown" contain either unknown data or are apparently just reserved (i.e. filled with null bytes). Fields labelled with 'v3' or 'v4' but not both are considered "Unknown" in the version they are not marked with. It should also be noted that this header may be as short as 20 bytes (0x14), as determined by the copyright offset, which implicitly removes support for a loop since those fields are not present.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">12</span></p><p>The "Encoding Type" field should contain one of:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">13</span></p>
+<ul><li><b>0x02</b> for ADX with pre-set prediction coefficients</li>
+<li><b>0x03</b> for Standard ADX</li>
+<li><b>0x04</b> for ADX with an exponential scale</li>
+<li><b>0x10</b> or <b>0x11</b> for AHX</li></ul>
+<p>The "Version" field should contain one of:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">14</span></p>
+<ul><li><b>0x03</b> for ADX 'version 3'</li>
+<li><b>0x04</b> for ADX 'version 4'</li>
+<li><b>0x05</b> for a variant of ADX 4 without looping support</li></ul>
+<p>When decoding AHX audio, the version field does not appear to have any meaning and can be safely ignored.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">15</span></p><p>Files with encoding type '2' use 4 possible sets of prediction coefficients as listed below:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">16</span></p>
+<table >
+<tbody><tr>
+<th>
+</th>
+<th>Coefficient 0
+</th>
+<th>Coefficient 1
+</th></tr>
+<tr>
+<td>Set 0
+</td>
+<td>0x0000
+</td>
+<td>0x0000
+</td></tr>
+<tr>
+<td>Set 1
+</td>
+<td>0x0F00
+</td>
+<td>0x0000
+</td></tr>
+<tr>
+<td>Set 2
+</td>
+<td>0x1CC0
+</td>
+<td>0xF300
+</td></tr>
+<tr>
+<td>Set 3
+</td>
+<td>0x1880
+</td>
+<td>0xF240
+</td></tr></tbody></table><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>2</span>
+<h3><span class="mw-headline" id="Sample_Format">Sample Format</span></h3>
+<p>ADX encoded audio data is broken into a series of 'blocks', each containing data for only one channel. The blocks are then laid out in 'frames' which consist of one block from every channel in ascending order. For example, in a stereo (2 channel) stream this would consist of Frame 1: left channel block, right channel block; Frame 2: left, right; etc. Blocks are usually always 18 bytes in size containing 4bit samples though other sizes are technically possible, an example of such a block looks like this:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">17</span></p>
+<table >
+<tbody><tr>
+<th>0
+</th>
+<th>1
+</th>
+<th>2
+</th>
+<th>3
+</th>
+<th>4
+</th>
+<th>5
+</th>
+<th>6
+</th>
+<th>7
+</th>
+<th>8
+</th>
+<th>9
+</th>
+<th>10
+</th>
+<th>11
+</th>
+<th>12
+</th>
+<th>13
+</th>
+<th>14
+</th>
+<th>15
+</th>
+<th>16
+</th>
+<th>17
+</th></tr>
+<tr>
+<td colspan="2">Predictor/Scale
+</td>
+<td colspan="16">32 4bit samples
+</td></tr></tbody></table><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>3</span>
+<p>The first 3 bits of the 'Predictor/Scale' integer contain the predictor index. The scale is contained in the remaining 13 bits.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">18</span></p><p>The predictor index is a 3bit integer that specifies which prediction coefficient set should be used to decode that block. This is only used in files with encoding type '2'.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">19</span></p><p>The scale is a 13bit unsigned integer (big-endian like the header) which is essentially the amplification of all the samples in that block. Each sample in the block must be decoded in bit-stream order, that is, most significant bit first. For example, when the sample size is 4bits:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">20</span></p>
+<table >
+<tbody><tr>
+<th>7
+</th>
+<th>6
+</th>
+<th>5
+</th>
+<th>4
+</th>
+<th>3
+</th>
+<th>2
+</th>
+<th>1
+</th>
+<th>0
+</th></tr>
+<tr>
+<td colspan="4">First sample
+</td>
+<td colspan="4">Second sample
+</td></tr></tbody></table><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>4</span>
+<p>The samples themselves are not in reverse so there is no need to fiddle with them once they are extracted. Each sample is signed so for this example, the value can range between -8 and +7 (which will be multiplied by the scale during decoding). As an aside, although any bit-depth between 1 and 255 is made possible by the header. It is unlikely that one bit samples would ever occur as they can only represent the values {0, 1}, {-1, 0} or {-1, 1}, all of which are not particularly useful for encoding songs — if they were to occur then it is unclear which of the three possibilities is the correct interpretation.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">21</span></p>
+<h3><span class="mw-headline" id="ADX_Decoding">ADX Decoding</span></h3>
+<p>This section walks through decoding ADX 'version 3' or 'version 4' when "Encoding Type" is "Standard ADX" (<b>0x03</b>). An encoder can also be built by simply flipping the code to run in reverse. All code samples in this section are written using C99.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">22</span></p><p>Before a 'standard' ADX can be either encoded or decoded, the set of prediction coefficients must be calculated. This is generally best done in the initialisation stage:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">23</span></p>
+<div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span> <span class="cp">#define M_PI acos(-1.0)</span>
+ <span class="kt">double</span> <span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">,</span> <span class="n">c</span><span class="p">;</span>
+ <span class="n">a</span> <span class="o">=</span> <span class="n">sqrt</span><span class="p">(</span><span class="mf">2.0</span><span class="p">)</span> <span class="o">-</span> <span class="n">cos</span><span class="p">(</span><span class="mf">2.0</span> <span class="o">*</span> <span class="n">M_PI</span> <span class="o">*</span> <span class="p">((</span><span class="kt">double</span><span class="p">)</span><span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">highpass_frequency</span> <span class="o">/</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">sample_rate</span><span class="p">));</span>
+ <span class="n">b</span> <span class="o">=</span> <span class="n">sqrt</span><span class="p">(</span><span class="mf">2.0</span><span class="p">)</span> <span class="o">-</span> <span class="mf">1.0</span><span class="p">;</span>
+ <span class="n">c</span> <span class="o">=</span> <span class="p">(</span><span class="n">a</span> <span class="o">-</span> <span class="n">sqrt</span><span class="p">((</span><span class="n">a</span> <span class="o">+</span> <span class="n">b</span><span class="p">)</span> <span class="o">*</span> <span class="p">(</span><span class="n">a</span> <span class="o">-</span> <span class="n">b</span><span class="p">)))</span> <span class="o">/</span> <span class="n">b</span><span class="p">;</span> <span class="c1">//(a+b)*(a-b) = a*a-b*b, however the simpler formula loses accuracy in floating point</span>
+ 
+ <span class="c1">// double coefficient[2];</span>
+ <span class="n">coefficient</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="n">c</span> <span class="o">*</span> <span class="mf">2.0</span><span class="p">;</span>
+ <span class="n">coefficient</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">=</span> <span class="o">-</span><span class="p">(</span><span class="n">c</span> <span class="o">*</span> <span class="n">c</span><span class="p">);</span>
+</pre></div>
+<p>This code calculates prediction coefficients for predicting the current sample from the 2 previous samples. These coefficients also form a first order Finite Impulse Response high-pass filter as well.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">24</span></p><p>Once we know the decoding coefficients we can start decoding the stream:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">25</span></p>
+<div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span> <span class="k">static</span> <span class="kt">int32_t</span><span class="o">*</span>      <span class="n">past_samples</span><span class="p">;</span> <span class="c1">// Previously decoded samples from each channel, zeroed at start (size = 2*channel_count)</span>
+ <span class="k">static</span> <span class="kt">uint_fast32_t</span> <span class="n">sample_index</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="c1">// sample_index is the index of sample set that needs to be decoded next</span>
+ <span class="k">static</span> <span class="n">ADX_header</span><span class="o">*</span>   <span class="n">adx_header</span><span class="p">;</span>
+ 
+ <span class="c1">// buffer is where the decoded samples will be put</span>
+ <span class="c1">// samples_needed states how many sample 'sets' (one sample from every channel) need to be decoded to fill the buffer</span>
+ <span class="c1">// looping_enabled is a boolean flag to control use of the built-in loop</span>
+ <span class="c1">// Returns the number of sample 'sets' in the buffer that could not be filled (EOS)</span>
+ <span class="kt">unsigned</span> <span class="nf">decode_adx_standard</span><span class="p">(</span> <span class="kt">int16_t</span><span class="o">*</span> <span class="n">buffer</span><span class="p">,</span> <span class="kt">unsigned</span> <span class="n">samples_needed</span><span class="p">,</span> <span class="kt">bool</span> <span class="n">looping_enabled</span> <span class="p">)</span>
+ <span class="p">{</span>
+  <span class="kt">unsigned</span> <span class="k">const</span> <span class="n">samples_per_block</span> <span class="o">=</span> <span class="p">(</span><span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">block_size</span> <span class="o">-</span> <span class="mi">2</span><span class="p">)</span> <span class="o">*</span> <span class="mi">8</span> <span class="o">/</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">sample_bitdepth</span><span class="p">;</span>
+  <span class="kt">int16_t</span> <span class="n">scale</span><span class="p">[</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">channel_count</span> <span class="p">];</span>
+ 
+  <span class="k">if</span> <span class="p">(</span><span class="n">looping_enabled</span> <span class="o">&amp;&amp;</span> <span class="o">!</span><span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">loop_enabled</span><span class="p">)</span>
+     <span class="n">looping_enabled</span> <span class="o">=</span> <span class="nb">false</span><span class="p">;</span>
+ 
+  <span class="c1">// Loop until the requested number of samples are decoded, or the end of file is reached</span>
+  <span class="k">while</span> <span class="p">(</span><span class="n">samples_needed</span> <span class="o">&gt;</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span> <span class="n">sample_index</span> <span class="o">&lt;</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">total_samples</span><span class="p">)</span>
+  <span class="p">{</span>
+     <span class="c1">// Calculate the number of samples that are left to be decoded in the current block</span>
+     <span class="kt">unsigned</span> <span class="n">sample_offset</span> <span class="o">=</span> <span class="n">sample_index</span> <span class="o">%</span> <span class="n">samples_per_block</span><span class="p">;</span>
+     <span class="kt">unsigned</span> <span class="n">samples_can_get</span> <span class="o">=</span> <span class="n">samples_per_block</span> <span class="o">-</span> <span class="n">sample_offset</span><span class="p">;</span>
+
+     <span class="c1">// Clamp the samples we can get during this run if they won't fit in the buffer</span>
+     <span class="k">if</span> <span class="p">(</span><span class="n">samples_can_get</span> <span class="o">&gt;</span> <span class="n">samples_needed</span><span class="p">)</span>
+        <span class="n">samples_can_get</span> <span class="o">=</span> <span class="n">samples_needed</span><span class="p">;</span>
+ 
+     <span class="c1">// Clamp the number of samples to be acquired if the stream isn't long enough or the loop trigger is nearby</span>
+     <span class="k">if</span> <span class="p">(</span><span class="n">looping_enabled</span> <span class="o">&amp;&amp;</span> <span class="n">sample_index</span> <span class="o">+</span> <span class="n">samples_can_get</span> <span class="o">&gt;</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">loop_end_index</span><span class="p">)</span>
+        <span class="n">samples_can_get</span> <span class="o">=</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">loop_end_index</span> <span class="o">-</span> <span class="n">sample_index</span><span class="p">;</span>
+     <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="n">sample_index</span> <span class="o">+</span> <span class="n">samples_can_get</span> <span class="o">&gt;</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">total_samples</span><span class="p">)</span>
+        <span class="n">samples_can_get</span> <span class="o">=</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">total_samples</span> <span class="o">-</span> <span class="n">sample_index</span><span class="p">;</span>
+ 
+     <span class="c1">// Calculate the bit address of the start of the frame that sample_index resides in and record that location</span>
+     <span class="kt">unsigned</span> <span class="kt">long</span> <span class="n">started_at</span> <span class="o">=</span> <span class="p">(</span><span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">copyright_offset</span> <span class="o">+</span> <span class="mi">4</span> <span class="o">+</span> \
+                     <span class="n">sample_index</span> <span class="o">/</span> <span class="n">samples_per_block</span> <span class="o">*</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">block_size</span> <span class="o">*</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">channel_count</span><span class="p">)</span> <span class="o">*</span> <span class="mi">8</span><span class="p">;</span>
+ 
+     <span class="c1">// Read the scale values from the start of each block in this frame</span>
+     <span class="k">for</span> <span class="p">(</span><span class="kt">unsigned</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span> <span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">channel_count</span> <span class="p">;</span> <span class="o">++</span><span class="n">i</span><span class="p">)</span>
+     <span class="p">{</span>
+        <span class="n">bitstream_seek</span><span class="p">(</span> <span class="n">started_at</span> <span class="o">+</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">block_size</span> <span class="o">*</span> <span class="n">i</span> <span class="o">*</span> <span class="mi">8</span> <span class="p">);</span>
+        <span class="n">scale</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="n">ntohs</span><span class="p">(</span> <span class="n">bitstream_read</span><span class="p">(</span> <span class="mi">16</span> <span class="p">)</span> <span class="p">);</span>
+     <span class="p">}</span>
+ 
+     <span class="c1">// Pre-calculate the stop value for sample_offset</span>
+     <span class="kt">unsigned</span> <span class="n">sample_endoffset</span> <span class="o">=</span> <span class="n">sample_offset</span> <span class="o">+</span> <span class="n">samples_can_get</span><span class="p">;</span>
+ 
+     <span class="c1">// Save the bitstream address of the first sample immediately after the scale in the first block of the frame</span>
+     <span class="n">started_at</span> <span class="o">+=</span> <span class="mi">16</span><span class="p">;</span>
+     <span class="k">while</span> <span class="p">(</span> <span class="n">sample_offset</span> <span class="o">&lt;</span> <span class="n">sample_endoffset</span> <span class="p">)</span>
+     <span class="p">{</span>
+        <span class="k">for</span> <span class="p">(</span><span class="kt">unsigned</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span> <span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">channel_count</span> <span class="p">;</span> <span class="o">++</span><span class="n">i</span><span class="p">)</span>
+        <span class="p">{</span>
+           <span class="c1">// Predict the next sample</span>
+           <span class="kt">double</span> <span class="n">sample_prediction</span> <span class="o">=</span> <span class="n">coefficient</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">*</span> <span class="n">past_samples</span><span class="p">[</span><span class="n">i</span><span class="o">*</span><span class="mi">2</span> <span class="o">+</span> <span class="mi">0</span><span class="p">]</span> <span class="o">+</span> <span class="n">coefficient</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">*</span> <span class="n">past_samples</span><span class="p">[</span><span class="n">i</span><span class="o">*</span><span class="mi">2</span> <span class="o">+</span> <span class="mi">1</span><span class="p">];</span>
+ 
+           <span class="c1">// Seek to the sample offset, read and sign extend it to a 32bit integer</span>
+           <span class="c1">// Implementing sign extension is left as an exercise for the reader</span>
+           <span class="c1">// The sign extension will also need to include a endian adjustment if there are more than 8 bits</span>
+           <span class="n">bitstream_seek</span><span class="p">(</span> <span class="n">started_at</span> <span class="o">+</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">sample_bitdepth</span> <span class="o">*</span> <span class="n">sample_offset</span> <span class="o">+</span> \
+                           <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">block_size</span> <span class="o">*</span> <span class="mi">8</span> <span class="o">*</span> <span class="n">i</span> <span class="p">);</span>
+           <span class="kt">int_fast32_t</span> <span class="n">sample_error</span> <span class="o">=</span> <span class="n">bitstream_read</span><span class="p">(</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">sample_bitdepth</span> <span class="p">);</span>
+           <span class="n">sample_error</span> <span class="o">=</span> <span class="n">sign_extend</span><span class="p">(</span> <span class="n">sample_error</span><span class="p">,</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">sample_bitdepth</span> <span class="p">);</span>
+ 
+           <span class="c1">// Scale the error correction value</span>
+           <span class="n">sample_error</span> <span class="o">*=</span> <span class="n">scale</span><span class="p">[</span><span class="n">i</span><span class="p">];</span>
+ 
+           <span class="c1">// Calculate the sample by combining the prediction with the error correction</span>
+           <span class="kt">int_fast32_t</span> <span class="n">sample</span> <span class="o">=</span> <span class="n">sample_error</span> <span class="o">+</span> <span class="p">(</span><span class="kt">int_fast32_t</span><span class="p">)</span><span class="n">sample_prediction</span><span class="p">;</span>
+ 
+           <span class="c1">// Update the past samples with the newer sample</span>
+           <span class="n">past_samples</span><span class="p">[</span><span class="n">i</span><span class="o">*</span><span class="mi">2</span> <span class="o">+</span> <span class="mi">1</span><span class="p">]</span> <span class="o">=</span> <span class="n">past_samples</span><span class="p">[</span><span class="n">i</span><span class="o">*</span><span class="mi">2</span> <span class="o">+</span> <span class="mi">0</span><span class="p">];</span>
+           <span class="n">past_samples</span><span class="p">[</span><span class="n">i</span><span class="o">*</span><span class="mi">2</span> <span class="o">+</span> <span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="n">sample</span><span class="p">;</span>
+ 
+           <span class="c1">// Clamp the decoded sample to the valid range for a 16bit integer</span>
+           <span class="k">if</span> <span class="p">(</span><span class="n">sample</span> <span class="o">&gt;</span> <span class="mi">32767</span><span class="p">)</span>
+              <span class="n">sample</span> <span class="o">=</span> <span class="mi">32767</span><span class="p">;</span>
+           <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="n">sample</span> <span class="o">&lt;</span> <span class="o">-</span><span class="mi">32768</span><span class="p">)</span>
+              <span class="n">sample</span> <span class="o">=</span> <span class="o">-</span><span class="mi">32768</span><span class="p">;</span>
+ 
+           <span class="c1">// Save the sample to the buffer then advance one place</span>
+           <span class="o">*</span><span class="n">buffer</span><span class="o">++</span> <span class="o">=</span> <span class="n">sample</span><span class="p">;</span>
+        <span class="p">}</span>
+        <span class="o">++</span><span class="n">sample_offset</span><span class="p">;</span>  <span class="c1">// We've decoded one sample from every block, advance block offset by 1</span>
+        <span class="o">++</span><span class="n">sample_index</span><span class="p">;</span>   <span class="c1">// This also means we're one sample further into the stream</span>
+        <span class="o">--</span><span class="n">samples_needed</span><span class="p">;</span> <span class="c1">// And so there is one less set of samples that need to be decoded</span>
+    <span class="p">}</span>
+ 
+    <span class="c1">// Check if we hit the loop end marker, if we did we need to jump to the loop start</span>
+    <span class="k">if</span> <span class="p">(</span><span class="n">looping_enabled</span> <span class="o">&amp;&amp;</span> <span class="n">sample_index</span> <span class="o">==</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">loop_end_index</span><span class="p">)</span>
+       <span class="n">sample_index</span> <span class="o">=</span> <span class="n">adx_header</span><span class="o">-&gt;</span><span class="n">loop_start_index</span><span class="p">;</span>
+  <span class="p">}</span>
+ 
+  <span class="k">return</span> <span class="n">samples_needed</span><span class="p">;</span>
+ <span class="p">}</span>
+</pre></div>
+<p>Most of the above code should be straightforward enough for anyone versed in C. The '<code>ADX_header</code>' pointer refers to the data extracted from the header as outlined earlier, it is assumed to have already been converted to the host Endian. This implementation is not intended to be optimal and the external concerns have been ignored such as the specific method for sign extension and the method of acquiring a bitstream from a file or network source. Once it completes, there will be <i>samples_needed</i> sets (if stereo, there will be pairs for example) of samples in the output <i>buffer</i>. The decoded samples will be in host-endian standard interleaved PCM format, i.e. left 16bit, right 16bit, left, right, etc. Finally, if looping is not enabled, or not supported, then the function will return the number of sample spaces that were not used in the buffer. The caller can test if this value is not zero to detect the end of the stream and drop or write silence into the unused spaces if necessary.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">26</span></p>
+<h4><span class="mw-headline" id="Encryption">Encryption</span></h4>
+<p>ADX supports a simple encryption scheme which XORs values from a linear congruential pseudorandom number generator with the block scale values. This method is computationally inexpensive to decrypt (in keeping with ADX's real-time decoding) yet renders the encrypted files unusable. The encryption is active when the "Flags" value in the header is <b>0x08</b>. As XOR is symmetric the same method is used to decrypt as to encrypt. The encryption key is a set of three 16-bit values: the multiplier, increment, and start values for the linear congruential generator (the modulus is 0x8000 to keep the values in the 15-bit range of valid block scales). Typically all ADX files from a single game will use the same key.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">27</span></p><p>The encryption method is vulnerable to known-plaintext attacks. If an unencrypted version of the same audio is known the random number stream can be easily retrieved and from it the key parameters can be determined, rendering every ADX encrypted with that same key decryptable. The encryption method attempts to make this more difficult by not encrypting silent blocks (with all sample nybbles equal to 0), as their scale is known to be 0.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">28</span></p><p>Even if the encrypted ADX is the only sample available, it is possible to determine a key by assuming that the scale values of the decrypted ADX must fall within a "low range". This method does not necessarily find the key used to encrypt the file, however. While it can always determine keys that produce an apparently correct output, errors may exist undetected.  This is due to the increasingly random distribution of the lower bits of the scale values, which becomes impossible to separate from the randomness added by the encryption.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">29</span></p>
+<h3><span class="mw-headline" id="AHX_Decoding">AHX Decoding</span></h3>
+<p>As noted earlier, AHX is just an implementation of MPEG2 audio and the decoding method is basically the same as the standard, it is possible just to demux the stream from the ADX container and feed it through a standard MPEG Audio decoder like mpg123. The ADX header's "sample rate" and "total samples" are usually correct if a decoder needs them (so should be set by encoder/muxer implementations) but most of the other fields such as the "block size" and "sample bitdepth" will usually be zero — as noted above, the looping functionality is also unavailable.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">30</span></p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b>^</b></span> <span class="reference-text"><cite class="citation web">"Title Unknown". Archived from the original on 2009-10-24.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Title+Unknown&amp;rft_id=http%3A%2F%2Fwww.geocities.co.jp%2FPlaytown%2F2004%2Fdcdev%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AADX+%28file+format%29"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div>
+<ul><li>ADX product page at CRI Middleware website</li>
+<li>vgmstream WinAMP codec with source (supports ADX)</li>
+<li>Dreamcast utilities including ADX converters with source ( ( 2009-10-24)</li>
+<li>CRI ADX Description from multimedia.cx Wiki</li>
+<li>ADX technical description on vgmstream Wiki</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20190423161123
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.224 seconds
+Real time usage: 0.704 seconds
+Preprocessor visited node count: 660/1000000
+Preprocessor generated node count: 0/1500000
+Post�expand include size: 10247/2097152 bytes
+Template argument size: 886/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post�expand size: 20812/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.102/10.000 seconds
+Lua memory usage: 2.53 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  642.886      1 -total
+ 14.08%   90.506      1 Template:Cite_web
+ 10.77%   69.268      1 Template:Infobox_Software
+  7.75%   49.815      1 Template:Infobox
+  6.75%   43.410      1 Template:Howto
+  6.45%   41.454      1 Template:Clarify
+  5.66%   36.387      1 Template:Fix-span
+  5.58%   35.897      1 Template:Ambox
+  3.17%   20.365      1 Template:Replace
+  2.06%   13.257      1 Template:Delink
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8530037-0!canonical and timestamp 20190423161122 and revision id 866918701
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" srcset style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+<div class="printfooter">Retrieved from "//en.wikipedia.org/w/index.php?title=ADX_(file_format)&amp;oldid=866918701"</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks">Categories: <ul><li>Audio codecs</li><li>Lossy compression algorithms</li><li>Computer file formats</li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li>Pages using Infobox software with unknown parameters</li><li>Articles needing cleanup from June 2012</li><li>All pages needing cleanup</li><li>Articles containing how-to sections</li><li>Wikipedia articles needing clarification from December 2008</li><li>Articles with example C code</li></ul></div></div>
+<div class="visualClear"></div>
+</div>
+</div>
+
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 2 November 2018, at 12:21<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy">Privacy policy</li>
+<li id="footer-places-about">About Wikipedia</li>
+<li id="footer-places-disclaimer">Disclaimers</li>
+<li id="footer-places-contact">Contact Wikipedia</li>
+<li id="footer-places-developers">Developers</li>
+<li id="footer-places-cookiestatement">Cookie statement</li>
+<li id="footer-places-mobileview">Mobile view</li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset width="88"/> </li>
+<li id="footer-poweredbyico">
+<img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset width="88"/> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.224","walltime":"0.704","ppvisitednodes":{"value":660,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10247,"limit":2097152},"templateargumentsize":{"value":886,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20812,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  642.886      1 -total"," 14.08%   90.506      1 Template:Cite_web"," 10.77%   69.268      1 Template:Infobox_Software","  7.75%   49.815      1 Template:Infobox","  6.75%   43.410      1 Template:Howto","  6.45%   41.454      1 Template:Clarify","  5.66%   36.387      1 Template:Fix-span","  5.58%   35.897      1 Template:Ambox","  3.17%   20.365      1 Template:Replace","  2.06%   13.257      1 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.102","limit":"10.000"},"limitreport-memusage":{"value":2651206,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20190423161123","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"\/\/schema.org","@type":"Article","name":"ADX (file format)","url":"\/\/en.wikipedia.org\/wiki\/ADX_(file_format)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q290741","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q290741","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-12-20T15:12:18Z","dateModified":"2018-11-02T12:21:59Z","image":"\/\/upload.wikimedia.org\/wikipedia\/en\/8\/82\/ADX_logo.png","headline":"file format family"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1328"});});</script>
+</body>
+</html>
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>

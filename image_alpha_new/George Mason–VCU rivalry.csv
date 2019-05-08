@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>go.svg/120px-VCU_Rams_logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/USA_Virginia_location_map.svg/300px-USA_Virginia_location_map.svg.png

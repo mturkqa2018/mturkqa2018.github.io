@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Birkenau_-_hiver.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Wielun_zbombardowaneCentrum.jpg/220px-Wielun_zbombardowaneCentrum.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Victims_of_Wola_Massacre.jpg/220px-Victims_of_Wola_Massacre.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lapanka_zoliborz_warszawa_Polska_1941.jpg/220px-Lapanka_zoliborz_warszawa_Polska_1941.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Egzekucja_w_Palmirach.jpg/220px-Egzekucja_w_Palmirach.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Warsaw_1944_by_Ba%C5%82uk_-_26202.jpg/220px-Warsaw_1944_by_Ba%C5%82uk_-_26202.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Katyn_Massacre_-_Mass_Graves_2.jpg/220px-Katyn_Massacre_-_Mass_Graves_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Polish_children_in_Nazi-German_labor_camp_in_Dzier%C5%BC%C4%85zna.jpg/220px-Polish_children_in_Nazi-German_labor_camp_in_Dzier%C5%BC%C4%85zna.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lipniki_massacre.jpg/220px-Lipniki_massacre.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dywizja.JPG/220px-Dywizja.JPG

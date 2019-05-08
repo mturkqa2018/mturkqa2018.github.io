@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>egativities.png/220px-Pauling_and_Mullikan_electronegativities.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pauling_and_Allred-Rochow_electronegativities.png/220px-Pauling_and_Allred-Rochow_electronegativities.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pauling_and_Sanderson_electronegativities.png/220px-Pauling_and_Sanderson_electronegativities.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pauling_and_Allen_electronegativities.png/220px-Pauling_and_Allen_electronegativities.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sn-119_isomer_shifts_in_hexahalostannates.png/220px-Sn-119_isomer_shifts_in_hexahalostannates.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Periodic_variation_of_Pauling_electronegativities.png/220px-Periodic_variation_of_Pauling_electronegativities.png

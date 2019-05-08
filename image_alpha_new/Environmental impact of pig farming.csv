@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Emoji_u1f52e.svg/40px-Emoji_u1f52e.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hog_confinement_barn_interior.jpg/220px-Hog_confinement_barn_interior.jpg

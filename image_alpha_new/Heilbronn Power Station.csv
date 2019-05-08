@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_EnBW_20050905.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Heilbronn_Dampfkraftwerk_20070725.jpg/220px-Heilbronn_Dampfkraftwerk_20070725.jpg

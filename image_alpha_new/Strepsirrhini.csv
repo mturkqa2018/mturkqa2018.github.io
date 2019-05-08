@@ -1,0 +1,13 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_fossil_sites.png/220px-Extant_strepsirrhine_range_with_fossil_sites.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aye-Aye_skeleton.jpg/220px-Aye-Aye_skeleton.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Loris_lydekkerianus_nordicus_003.jpg/220px-Loris_lydekkerianus_nordicus_003.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Notharctus_osborni.jpg/170px-Notharctus_osborni.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Geoffroy72.jpg/170px-Geoffroy72.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Darwinius_masillae_PMO_214.214.jpg/170px-Darwinius_masillae_PMO_214.214.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/GarnettsGalago_CincinnatiZoo.jpg/220px-GarnettsGalago_CincinnatiZoo.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Eulemur_mongoz_%28male_-_face%29.jpg/220px-Eulemur_mongoz_%28male_-_face%29.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Prosimian_noses.jpg/220px-Prosimian_noses.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Captive_N._bengalensis_from_Laos_with_6-week_baby.JPG/170px-Captive_N._bengalensis_from_Laos_with_6-week_baby.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Fat-tailed_Dwarf_Lemur%2C_Kirindy%2C_Madagascar.jpg/140px-Fat-tailed_Dwarf_Lemur%2C_Kirindy%2C_Madagascar.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Galago_senegalensis.jpg/140px-Galago_senegalensis.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Koh_Kong_logging.JPG/220px-Koh_Kong_logging.JPG

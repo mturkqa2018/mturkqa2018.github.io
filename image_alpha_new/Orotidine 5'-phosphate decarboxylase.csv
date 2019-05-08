@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ng
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/BMP_Bound_to_the_Active_Site_of_OMP_Carboxylase_from_M_thermoautotrophicum.png/450px-BMP_Bound_to_the_Active_Site_of_OMP_Carboxylase_from_M_thermoautotrophicum.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/OMPDC_Carbanion_Mechanism.png/500px-OMPDC_Carbanion_Mechanism.png

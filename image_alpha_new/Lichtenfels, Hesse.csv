@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>thumb/c/c6/Wappen_Lichtenfels_%28Hessen%29.svg/74px-Wappen_Lichtenfels_%28Hessen%29.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Lichtenfels_in_KB.svg/240px-Lichtenfels_in_KB.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/250px-Germany_adm_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hesse_location_map.svg/250px-Hesse_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Castle_lichtenfels_small.jpg/220px-Castle_lichtenfels_small.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png

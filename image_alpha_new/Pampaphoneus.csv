@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_svijagensis.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Archaeosyodon_praeventor.jpg/100px-Archaeosyodon_praeventor.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Biarmosuchus.jpg/75px-Biarmosuchus.jpg

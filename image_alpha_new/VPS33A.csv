@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ram_of_house_mouse_chromosome_5.svg/300px-Ideogram_of_house_mouse_chromosome_5.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PBB_GE_VPS33A_204590_x_at_fs.png/250px-PBB_GE_VPS33A_204590_x_at_fs.png

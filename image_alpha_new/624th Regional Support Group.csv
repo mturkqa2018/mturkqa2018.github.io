@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/624th_Regional_Support_Group_emblem.jpg/250px-624th_Regional_Support_Group_emblem.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Military_service_mark_of_the_United_States_Air_Force.svg/80px-Military_service_mark_of_the_United_States_Air_Force.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Air_Force_Reserve_Command.png/80px-Air_Force_Reserve_Command.png

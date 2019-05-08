@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/250px-India_Uttar_Pradesh_districts_2012_Gonda.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mulagandhakuti.jpg/250px-Mulagandhakuti.jpg

@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>d.wikimedia.org/wikipedia/commons/thumb/4/4f/James_Michael_Curley.jpg/122px-James_Michael_Curley.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Malcolm_E._Nichols_former_Mayor_of_Boston.png/101px-Malcolm_E._Nichols_former_Mayor_of_Boston.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/No_image.svg/120px-No_image.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Seal_of_Boston%2C_Massachusetts.svg/80px-Seal_of_Boston%2C_Massachusetts.svg.png

@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Zolotarev's lemma - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Zolotarev's_lemma","wgTitle":"Zolotarev's lemma","wgCurRevisionId":885543608,"wgRevisionId":885543608,"wgArticleId":2995566,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing proofs","Lemmas","Permutations","Quadratic residue","Squares in number theory","Theorems in number theory"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Zolotarev's_lemma","wgRelevantArticleId":2995566,"wgRequestId":"XL93nQpAADkAAJzM2joAAAAY","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3229349","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.34.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Zolotarev%27s_lemma" rel="alternate"/>
+<link href="/w/index.php?title=Zolotarev%27s_lemma&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Zolotarev%27s_lemma&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="//en.wikipedia.org/wiki/Zolotarev%27s_lemma" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?lang=qqx&amp;modules=html5shiv&amp;only=scripts&amp;skin=fallback&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Zolotarev_s_lemma rootpage-Zolotarev_s_lemma skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Zolotarev's lemma</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div id="jump-to-nav"></div>
+Jump to navigation
+Jump to search
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>In number theory, <b>Zolotarev's lemma</b> states that the Legendre symbol
+<span style="border: 3px solid blue; color:blue;font-weight: bold">1</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {a}{p}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>a</mi>
+<mi>p</mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle \left({\frac {a}{p}}\right)}</annotation>
+</semantics>
+</math></span><img alt="\left({\frac {a}{p}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/aad4dd123bb7bc0da377dec595d91761753ba294" srcset style="vertical-align: -2.505ex; width:5.487ex; height:6.176ex;"/></span></dd></dl>
+<p>for an integer <i>a</i> modulo an odd prime number <i>p</i>, where <i>p</i> does not divide <i>a</i>, can be computed as the sign of a permutation:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">2</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {a}{p}}\right)=\varepsilon (\pi _{a})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>a</mi>
+<mi>p</mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mi>ε<!-- ε --></mi>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+{\displaystyle \left({\frac {a}{p}}\right)=\varepsilon (\pi _{a})}</annotation>
+</semantics>
+</math></span><img alt="\left({\frac  {a}{p}}\right)=\varepsilon (\pi _{a})" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/8f2c53c2ddbececc8644a75c8e7bb78e01bf7111" srcset style="vertical-align: -2.505ex; width:13.905ex; height:6.176ex;"/></span></dd></dl>
+<p>where ε denotes the signature of a permutation and π<sub><i>a</i></sub> is the permutation of the nonzero residue classes mod <i>p</i> induced by multiplication by <i>a</i>.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">3</span></p><p>For example, take <i>a</i> = 2 and <i>p</i> = 7. The nonzero squares mod 7 are 1, 2, and 4, so (2|7) = 1 and (6|7) = −1. Multiplication by 2 on the nonzero numbers mod 7 has the cycle decomposition (1,2,4)(3,6,5), so the sign of this permutation is 1, which is (2|7). Multiplication by 6 on the nonzero numbers mod 7 has cycle decomposition (1,6)(2,5)(3,4), whose sign is −1, which is (6|7).
+<span style="border: 3px solid blue; color:blue;font-weight: bold">4</span></p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Proof</span></li>
+<li class="toclevel-1 tocsection-2"><span class="tocnumber">2</span> <span class="toctext">Another proof</span></li>
+<li class="toclevel-1 tocsection-3"><span class="tocnumber">3</span> <span class="toctext">Jacobi symbol</span></li>
+<li class="toclevel-1 tocsection-4"><span class="tocnumber">4</span> <span class="toctext">History</span></li>
+<li class="toclevel-1 tocsection-5"><span class="tocnumber">5</span> <span class="toctext">References</span></li>
+<li class="toclevel-1 tocsection-6"><span class="tocnumber">6</span> <span class="toctext">External links</span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Proof">Proof</span></h2>
+<p>In general, for any finite group <i>G</i> of order <i>n</i>, it is straightforward to determine the signature of the permutation π<sub><i>g</i></sub> made by left-multiplication by the element <i>g</i> of <i>G</i>. The permutation π<sub><i>g</i></sub> will be even, unless there are an odd number of orbits of even size. Assuming <i>n</i> even, therefore, the condition for π<sub><i>g</i></sub> to be an odd permutation, when <i>g</i> has order <i>k</i>, is that <i>n</i>/<i>k</i> should be odd, or that the subgroup &lt;<i>g</i>&gt; generated by <i>g</i> should have odd index.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">5</span></p><p>We will apply this to the group of nonzero numbers mod <i>p</i>, which is a cyclic group of order <i>p</i> − 1. The <i>j</i>th power of a primitive root modulo p will by index calculus have index the greatest common divisor
+<span style="border: 3px solid blue; color:blue;font-weight: bold">6</span></p>
+<dl><dd><i>i</i> = (<i>j</i>, <i>p</i> − 1).</dd></dl>
+<p>The condition for a nonzero number mod <i>p</i> to be a quadratic non-residue is to be an odd power of a primitive root.
+The lemma therefore comes down to saying that <i>i</i> is odd when <i>j</i> is odd, which is true <i>a fortiori</i>, and <i>j</i> is odd when <i>i</i> is odd, which is true because <i>p</i> − 1 is even (<i>p</i> is odd).
+<span style="border: 3px solid blue; color:blue;font-weight: bold">7</span></p>
+<h2><span class="mw-headline" id="Another_proof">Another proof</span></h2>
+<p>Zolotarev's lemma can be deduced easily from Gauss's lemma and <i>vice versa</i>. The example
+<span style="border: 3px solid blue; color:blue;font-weight: bold">8</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {3}{11}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>3</mn>
+<mn>11</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle \left({\frac {3}{11}}\right)}</annotation>
+</semantics>
+</math></span><img alt="\left({\frac  {3}{11}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/6700cebb2cb09e5af2b0b60726237083612d7a61" srcset style="vertical-align: -2.505ex; width:6.582ex; height:6.176ex;"/></span>,</dd></dl>
+<p>i.e. the Legendre symbol (<i>a</i>/<i>p</i>) with <i>a</i> = 3 and <i>p</i> = 11, will illustrate how the proof goes. Start with the set {1, 2, . . . , <i>p</i> − 1} arranged as a matrix of two rows such that the sum of the two elements in any column is zero mod <i>p</i>, say:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">9</span></p>
+<table >
+<tbody><tr>
+<td>1
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>4
+</td>
+<td>5
+</td></tr>
+<tr>
+<td>10
+</td>
+<td>9
+</td>
+<td>8
+</td>
+<td>7
+</td>
+<td>6
+</td></tr></tbody></table><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>1</span>
+<p>Apply the permutation <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle U:x\mapsto ax{\pmod {p}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo>:</mo>
+<mi>x</mi>
+<mo stretchy="false">↦<!-- ↦ --></mo>
+<mi>a</mi>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace width="1em"></mspace>
+<mo stretchy="false">(</mo>
+<mi>mod</mi>
+<mspace width="0.333em"></mspace>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mstyle>
+</mrow>
+{\displaystyle U:x\mapsto ax{\pmod {p}}}</annotation>
+</semantics>
+</math></span><img alt="U:x\mapsto ax{\pmod  p}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/e0048d7930c9d5cf1f20553d695f29a4da23105f" srcset style="vertical-align: -0.838ex; width:22.076ex; height:2.843ex;"/></span>:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">10</span></p>
+<table >
+<tbody><tr>
+<td>3
+</td>
+<td>6
+</td>
+<td>9
+</td>
+<td>1
+</td>
+<td>4
+</td></tr>
+<tr>
+<td>8
+</td>
+<td>5
+</td>
+<td>2
+</td>
+<td>10
+</td>
+<td>7
+</td></tr></tbody></table><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>2</span>
+<p>The columns still have the property that the sum of two elements in one column is zero mod <i>p</i>. Now apply a permutation <i>V</i> which swaps any pairs in which the upper member was originally a lower member:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">11</span></p>
+<table >
+<tbody><tr>
+<td>3
+</td>
+<td>5
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>4
+</td></tr>
+<tr>
+<td>8
+</td>
+<td>6
+</td>
+<td>9
+</td>
+<td>10
+</td>
+<td>7
+</td></tr></tbody></table><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>3</span>
+<p>Finally, apply a permutation W which gets back the original matrix:
+<span style="border: 3px solid blue; color:blue;font-weight: bold">12</span></p>
+<table >
+<tbody><tr>
+<td>1
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>4
+</td>
+<td>5
+</td></tr>
+<tr>
+<td>10
+</td>
+<td>9
+</td>
+<td>8
+</td>
+<td>7
+</td>
+<td>6
+</td></tr></tbody></table><span style='border: 3px solid #00cc00;color:#00cc00;font-size: 24px;'>4</span>
+<p>We have <i>W</i> = <i>VU</i>. Zolotarev's lemma says (<i>a</i>/<i>p</i>) = 1 if and only if the permutation <i>U</i> is even. Gauss's lemma says (<i>a/p</i>) = 1 iff <i>V</i> is even. But <i>W</i> is even, so the two lemmas are equivalent for the given (but arbitrary) <i>a</i> and <i>p</i>.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">13</span></p>
+<h2><span class="mw-headline" id="Jacobi_symbol">Jacobi symbol</span></h2>
+<p>This interpretation of the Legendre symbol as the sign of a permutation can be extended to the Jacobi symbol
+<span style="border: 3px solid blue; color:blue;font-weight: bold">14</span></p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {a}{n}}\right),}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>a</mi>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+{\displaystyle \left({\frac {a}{n}}\right),}</annotation>
+</semantics>
+</math></span><img alt="\left({\frac  {a}{n}}\right)," aria-hidden="true" class="mwe-math-fallback-image-inline" src="//wikimedia.org/api/rest_v1/media/math/render/svg/c45d7b94eb4e5963b890e1d82ea1282cfe69fd42" srcset style="vertical-align: -1.838ex; width:6.04ex; height:4.843ex;"/></span></dd></dl>
+<p>where <i>a</i> and <i>n</i> are relatively prime odd integers with <i>n</i> &gt; 0: <i>a</i> is invertible mod <i>n</i>, so multiplication by <i>a</i> on <b>Z</b>/<i>n</i><b>Z</b> is a permutation and a generalization of Zolotarev's lemma is that the Jacobi symbol above is the sign of this permutation.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">15</span></p><p>For example, multiplication by 2 on <b>Z</b>/21<b>Z</b> has cycle decomposition (0)(1,2,4,8,16,11)(3,6,12)(5,10,20,19,17,13)(7,14)(9,18,15), so the sign of this permutation is (1)(−1)(1)(−1)(−1)(1) = −1 and the Jacobi symbol (2|21) is −1.  (Note that multiplication by 2 on the units mod 21 is a product of two 6-cycles, so its sign is 1. Thus it's important to use <i>all</i> integers mod <i>n</i> and not just the units mod <i>n</i> to define the right permutation.)
+<span style="border: 3px solid blue; color:blue;font-weight: bold">16</span></p><p>When <i>n</i> = <i>p</i> is an odd prime and <i>a</i> is not divisible by <i>p</i>, multiplication by <i>a</i> fixes 0 mod <i>p</i>, so the sign of multiplication by <i>a</i> on all numbers mod <i>p</i> and on the units mod <i>p</i> have the same sign. But for composite <i>n</i> that is not the case, as we see in the example above.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">17</span></p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p>This lemma was introduced by Yegor Ivanovich Zolotarev in an 1872 proof of quadratic reciprocity.
+<span style="border: 3px solid blue; color:blue;font-weight: bold">18</span></p>
+<div class="hatnote navigation-not-searchable" role="note">See also: Gauss's lemma</div>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<ul><li><cite class="citation journal">Zolotareff G. (1872). "Nouvelle démonstration de la loi de réciprocité de Legendre" <span class="cs1-format">(PDF)</span>. <i>Nouvelles Annales de Mathématiques</i>. 2e série. <b>11</b>: 354–362.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nouvelles+Annales+de+Math%C3%A9matiques&amp;rft.atitle=Nouvelle+d%C3%A9monstration+de+la+loi+de+r%C3%A9ciprocit%C3%A9+de+Legendre&amp;rft.volume=11&amp;rft.pages=354-362&amp;rft.date=1872&amp;rft.au=Zolotareff+G.&amp;rft_id=http%3A%2F%2Farchive.numdam.org%2FARCHIVE%2FNAM%2FNAM_1872_2_11_%2FNAM_1872_2_11__354_0%2FNAM_1872_2_11__354_0.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZolotarev%27s+lemma"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul><li>PlanetMath article on Zolotarev's lemma; includes his proof of quadratic reciprocity</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1262
+Cached time: 20190423192735
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.124 seconds
+Real time usage: 0.194 seconds
+Preprocessor visited node count: 104/1000000
+Preprocessor generated node count: 0/1500000
+Post�expand include size: 2032/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post�expand size: 2052/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.077/10.000 seconds
+Lua memory usage: 1.34 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  131.385      1 -total
+ 75.68%   99.428      1 Template:Cite_journal
+ 24.24%   31.854      1 Template:See_also
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2995566-0!canonical!math=5 and timestamp 20190423192735 and revision id 885543608
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" srcset style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+<div class="printfooter">Retrieved from "//en.wikipedia.org/w/index.php?title=Zolotarev%27s_lemma&amp;oldid=885543608"</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks">Categories: <ul><li>Lemmas</li><li>Permutations</li><li>Quadratic residue</li><li>Squares in number theory</li><li>Theorems in number theory</li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li>Articles containing proofs</li></ul></div></div>
+<div class="visualClear"></div>
+</div>
+</div>
+
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 28 February 2019, at 18:09<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy">Privacy policy</li>
+<li id="footer-places-about">About Wikipedia</li>
+<li id="footer-places-disclaimer">Disclaimers</li>
+<li id="footer-places-contact">Contact Wikipedia</li>
+<li id="footer-places-developers">Developers</li>
+<li id="footer-places-cookiestatement">Cookie statement</li>
+<li id="footer-places-mobileview">Mobile view</li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset width="88"/> </li>
+<li id="footer-poweredbyico">
+<img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset width="88"/> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.124","walltime":"0.194","ppvisitednodes":{"value":104,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":2032,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2052,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  131.385      1 -total"," 75.68%   99.428      1 Template:Cite_journal"," 24.24%   31.854      1 Template:See_also"]},"scribunto":{"limitreport-timeusage":{"value":"0.077","limit":"10.000"},"limitreport-memusage":{"value":1401286,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20190423192735","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1262"});});</script>
+</body>
+</html>
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>

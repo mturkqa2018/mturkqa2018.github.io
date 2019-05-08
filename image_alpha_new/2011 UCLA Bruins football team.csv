@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>uins_defense.jpg/220px-2011_Houston_Cougars_offense_vs_UCLA_Bruins_defense.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/UCLA_Texas_2011.jpg/220px-UCLA_Texas_2011.jpg
+https://upload.wikimedia.org/wikipedia/commons/2/24/Rick_Neuheisel.jpg

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ngelo_Caloiaro.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Angelo_Caloiaro_2019.jpg/220px-Angelo_Caloiaro_2019.jpg

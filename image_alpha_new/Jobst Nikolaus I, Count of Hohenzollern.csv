@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Burg_Hohenzollern_Statue_Jobst_Nikolaus_I.JPG/220px-Burg_Hohenzollern_Statue_Jobst_Nikolaus_I.JPG

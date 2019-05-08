@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>//upload.wikimedia.org/wikipedia/commons/thumb/6/63/David_Widhopff_Laying_the_table_for_lunch.jpg/220px-David_Widhopff_Laying_the_table_for_lunch.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/D_O_Widhopff.jpg/220px-D_O_Widhopff.jpg

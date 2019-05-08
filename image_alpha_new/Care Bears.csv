@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Care_Bears.png/200px-Care_Bears.png
+https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Funshine_Bear_from_Care_Bear_%2C_Junction_8%2C_Singapore%2C_Dec_2013_01.JPG/90px-Funshine_Bear_from_Care_Bear_%2C_Junction_8%2C_Singapore%2C_Dec_2013_01.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Cheer_Bear_from_Care_Bear_%2C_Junction_8%2C_Singapore%2C_Dec_2013.JPG/90px-Cheer_Bear_from_Care_Bear_%2C_Junction_8%2C_Singapore%2C_Dec_2013.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Share_Bear_from_Care_Bear_%2C_Junction_8%2C_Singapore%2C_Dec_2013.JPG/90px-Share_Bear_from_Care_Bear_%2C_Junction_8%2C_Singapore%2C_Dec_2013.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Teddy02.jpg/100px-Teddy02.jpg

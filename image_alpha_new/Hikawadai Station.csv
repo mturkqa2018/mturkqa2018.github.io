@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-to_g%C3%A9olocalisation.svg/240px-Tokyo-to_g%C3%A9olocalisation.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg/240px-Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hikawadai_Station_platforms_20081209.JPG/220px-Hikawadai_Station_platforms_20081209.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Johoku-Chuo-Park-2010.jpg/220px-Johoku-Chuo-Park-2010.jpg

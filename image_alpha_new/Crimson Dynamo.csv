@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/wikipedia/en/d/de/Crimson_Dynamo_002.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Yuricrimson.jpg/250px-Yuricrimson.jpg
+https://upload.wikimedia.org/wikipedia/en/5/50/Crimson_Dynamo_Shatalov.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Crimsondynamogennady1.jpg/250px-Crimsondynamogennady1.jpg

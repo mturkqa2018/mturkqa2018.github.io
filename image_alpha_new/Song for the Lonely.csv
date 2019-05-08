@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>a.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Cher_-_Song_for_the_Lonely_video.jpg/220px-Cher_-_Song_for_the_Lonely_video.jpg

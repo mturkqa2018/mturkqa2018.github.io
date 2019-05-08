@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Battle_of_Quistello_%281734%29.jpg/220px-Battle_of_Quistello_%281734%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Clementi%2C_follower_of_-_Charles_Emmanuel_III_in_profile.jpg/220px-Clementi%2C_follower_of_-_Charles_Emmanuel_III_in_profile.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/W%C3%BCrttemberg-Winnental%2C_Friedrich_Ludwig%2C_Prinz_von.jpg/220px-W%C3%BCrttemberg-Winnental%2C_Friedrich_Ludwig%2C_Prinz_von.jpg

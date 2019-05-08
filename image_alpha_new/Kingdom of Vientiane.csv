@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>kimedia.org/wikipedia/commons/thumb/d/d3/Laos_-_Division_territ%C3%B2riala_v%C3%A8rs_1750_%28vuege%29.png/250px-Laos_-_Division_territ%C3%B2riala_v%C3%A8rs_1750_%28vuege%29.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Emerald_Buddha%2C_August_2012%2C_Bangkok.jpg/220px-Emerald_Buddha%2C_August_2012%2C_Bangkok.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Emblem_of_Laos.svg/120px-Emblem_of_Laos.svg.png

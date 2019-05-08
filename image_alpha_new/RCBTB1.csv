@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ogram_of_house_mouse_chromosome_14.svg/300px-Ideogram_of_house_mouse_chromosome_14.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PBB_GE_RCBTB1_218352_at_fs.png/250px-PBB_GE_RCBTB1_218352_at_fs.png

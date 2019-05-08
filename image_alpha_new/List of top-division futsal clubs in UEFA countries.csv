@@ -1,0 +1,25 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>n_map.svg/250px-Albania_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Andorra_location_map.svg/375px-Andorra_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Armenia_adm_location_map.svg/320px-Armenia_adm_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Austria_adm_location_map.svg/425px-Austria_adm_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Azerbaijan_adm_location_map.svg/375px-Azerbaijan_adm_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Belarus_adm_location_map.svg/400px-Belarus_adm_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Belgium_location_map.svg/460px-Belgium_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Croatia_location_map.svg/400px-Croatia_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cyprus_location_map.svg/400px-Cyprus_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Czech_Republic_adm_location_map.svg/475px-Czech_Republic_adm_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/England_location_map.svg/440px-England_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/500px-France_location_map-Regions_and_departements-2016.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Italy_provincial_location_map_2015.svg/425px-Italy_provincial_location_map_2015.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kazakhstan_adm_location_map.svg/375px-Kazakhstan_adm_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netherlands_location_map.svg/400px-Netherlands_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Norway_location_map.svg/300px-Norway_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Poland_adm_location_map.svg/400px-Poland_adm_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Portugal_location_map.svg/200px-Portugal_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/North_Macedonia_location_map.svg/370px-North_Macedonia_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Romania_location_map.svg/500px-Romania_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Russia_edcp_location_map.svg/800px-Russia_edcp_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Serbia_adm_location_map.svg/300px-Serbia_adm_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Slovakia_location_map.svg/300px-Slovakia_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Spain_location_map.svg/500px-Spain_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ukraine_adm_location_map.svg/500px-Ukraine_adm_location_map.svg.png

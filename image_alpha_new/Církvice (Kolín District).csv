@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>org/wikipedia/commons/thumb/5/51/Vlajka_obce_C%C3%ADrkvice_u_Kol%C3%ADna.gif/100px-Vlajka_obce_C%C3%ADrkvice_u_Kol%C3%ADna.gif
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/C%C3%ADrkvice_%28okres_Kol%C3%ADn%29_znak.jpg/100px-C%C3%ADrkvice_%28okres_Kol%C3%ADn%29_znak.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Czech_Republic_adm_location_map.svg/250px-Czech_Republic_adm_location_map.svg.png

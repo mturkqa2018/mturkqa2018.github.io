@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>svg/290px-Connecticut_Route_153_Map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/CT_153_in_Westbrook.jpg/220px-CT_153_in_Westbrook.jpg

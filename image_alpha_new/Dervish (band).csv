@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>top_the_spring.jpg/220px-ESC_2007_Ireland_-_Dervish_-_They_can%27t_stop_the_spring.jpg

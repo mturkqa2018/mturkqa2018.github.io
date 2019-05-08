@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ducks_football.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Oregon_Ducks_Spring_Game_2013-1.JPG/350px-Oregon_Ducks_Spring_Game_2013-1.JPG

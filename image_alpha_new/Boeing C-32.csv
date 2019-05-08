@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gates_and_Bush_on_a_C-32.jpg/220px-Gates_and_Bush_on_a_C-32.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Barack_Obama_in_Air_Force_Two.jpg/220px-Barack_Obama_in_Air_Force_Two.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/C-32.jpg/220px-C-32.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png

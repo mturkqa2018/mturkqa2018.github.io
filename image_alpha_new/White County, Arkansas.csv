@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>lag.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/2/28/White-county-seal.gif/150px-White-county-seal.gif
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Map_of_Arkansas_highlighting_White_County.svg/200px-Map_of_Arkansas_highlighting_White_County.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Map_of_USA_AR.svg/200px-Map_of_USA_AR.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/USA_White_County%2C_Arkansas_age_pyramid.svg/150px-USA_White_County%2C_Arkansas_age_pyramid.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Map_of_Arkansas_highlighting_White_County.svg/180px-Map_of_Arkansas_highlighting_White_County.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Seal_of_Arkansas.svg/100px-Seal_of_Arkansas.svg.png

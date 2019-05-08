@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s/thumb/1/1a/Brazil_location_map.svg/250px-Brazil_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Forcas_armadas.jpg/35px-Forcas_armadas.jpg

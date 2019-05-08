@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g.png
+https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Porto_2016-17_Room_2_%2834971247306%29.jpg/220px-Porto_2016-17_Room_2_%2834971247306%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Anywhen%2C_Tate_Modern%2C_November_2016_%2805%29.JPG/256px-Anywhen%2C_Tate_Modern%2C_November_2016_%2805%29.JPG

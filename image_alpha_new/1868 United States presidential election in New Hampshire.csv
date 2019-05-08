@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>-restored_%28cropped%29.jpg/174px-Ulysses_S_Grant_by_Brady_c1870-restored_%28cropped%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Horatio_Seymour_-_Brady-Handysmall.jpg/177px-Horatio_Seymour_-_Brady-Handysmall.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/United_States_presidential_election_in_New_Hampshire%2C_1868_results_by_county.svg/150px-United_States_presidential_election_in_New_Hampshire%2C_1868_results_by_county.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ElectoralCollege1868.svg/150px-ElectoralCollege1868.svg.png

@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_-_inizio_autostrada.svg/80px-Italian_traffic_signs_-_inizio_autostrada.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/A4-passante_di_mestre_dd.png/250px-A4-passante_di_mestre_dd.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Italian_traffic_signs_-_strada_extraurbana_principale.svg/80px-Italian_traffic_signs_-_strada_extraurbana_principale.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Italian_traffic_signs_-_autostrada.svg/100px-Italian_traffic_signs_-_autostrada.svg.png

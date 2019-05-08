@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>x-Warren_G_Harding-Harris_%26_Ewing.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/James_M._Cox_1920.jpg/105px-James_M._Cox_1920.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ElectoralCollege1920.svg/150px-ElectoralCollege1920.svg.png

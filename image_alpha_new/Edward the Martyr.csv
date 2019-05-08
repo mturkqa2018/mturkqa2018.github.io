@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>tyr.gif
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/A_Chronicle_of_England_-_Page_072_-_Edward_Murdered_at_Corfe.jpg/220px-A_Chronicle_of_England_-_Page_072_-_Edward_Murdered_at_Corfe.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Corfe_Castle2.jpg/220px-Corfe_Castle2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Death_of_edward_martyr.jpg/220px-Death_of_edward_martyr.jpg
+https://upload.wikimedia.org/wikipedia/commons/c/cd/Shaftesbury_Abbey.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/St_Edward_the_Martyr_Shrine_Brookwood.jpg/160px-St_Edward_the_Martyr_Shrine_Brookwood.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Edward_the_Martyr_Plaque_Brookwood.jpg/160px-Edward_the_Martyr_Plaque_Brookwood.jpg

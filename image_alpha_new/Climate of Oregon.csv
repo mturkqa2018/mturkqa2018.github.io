@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Oregon_Average_Annual_Precipitation_%281961-1990%29_Map.png/220px-Oregon_Average_Annual_Precipitation_%281961-1990%29_Map.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Wintersports_terrain_park_P1391.jpeg/220px-Wintersports_terrain_park_P1391.jpeg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Oregon_High_Desert.jpg/220px-Oregon_High_Desert.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/USA_Oregon_location_map.svg/300px-USA_Oregon_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Seal_of_Oregon.svg/100px-Seal_of_Oregon.svg.png

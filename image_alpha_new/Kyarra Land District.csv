@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Western_Australia_land_districts.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/WA_in_Australia_map.png/38px-WA_in_Australia_map.png

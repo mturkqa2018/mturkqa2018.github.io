@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/45px-Unbalanced_scales.svg.png
+https://upload.wikimedia.org/wikipedia/commons/f/f7/Synthesia_logo.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/OS_X_10.8.2_running_Synthesia.tiff/lossless-page1-220px-OS_X_10.8.2_running_Synthesia.tiff.png

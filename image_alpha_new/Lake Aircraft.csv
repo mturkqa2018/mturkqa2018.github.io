@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>LA-4-200BucaneerC-FZZN01.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/LakeLA-4-200BucaneerC-FZZN02.jpg/220px-LakeLA-4-200BucaneerC-FZZN02.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lake_LA-4-250_Seawolf_N59CA_03.JPG/220px-Lake_LA-4-250_Seawolf_N59CA_03.JPG

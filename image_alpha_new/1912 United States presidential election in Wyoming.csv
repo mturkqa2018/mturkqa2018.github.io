@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>son-H%26E.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/William_Howard_Taft_-_Harris_and_Ewing.jpg/115px-William_Howard_Taft_-_Harris_and_Ewing.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Theodore_Roosevelt-Pach.jpg/114px-Theodore_Roosevelt-Pach.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/EugeneVictorDebs.png/122px-EugeneVictorDebs.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ElectoralCollege1912.svg/150px-ElectoralCollege1912.svg.png

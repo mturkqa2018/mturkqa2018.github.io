@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>px-Canary_Islands_CoA.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/S%C3%ADmbolo_del_Gobierno_de_Canarias.svg/50px-S%C3%ADmbolo_del_Gobierno_de_Canarias.svg.png

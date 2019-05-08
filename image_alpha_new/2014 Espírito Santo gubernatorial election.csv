@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>o_Esp%C3%ADrito_Santo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Paulo_Hartung_%28cropped%29.jpg/135px-Paulo_Hartung_%28cropped%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Renato_Casagrande_em_maio_de_2018.jpg/140px-Renato_Casagrande_em_maio_de_2018.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Brazil_Espirito_Santo_location_map.svg/200px-Brazil_Espirito_Santo_location_map.svg.png

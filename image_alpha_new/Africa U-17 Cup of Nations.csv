@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>x-Soccerball_current_event.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Carte_Afrique_CAF.png/200px-Carte_Afrique_CAF.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/World_Map_FIFA.svg/220px-World_Map_FIFA.svg.png

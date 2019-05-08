@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/en/thumb/a/a4/Hobo_coin_British_penny_1891.jpg/220px-Hobo_coin_British_penny_1891.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/1937_George_VI_penny.jpg/220px-1937_George_VI_penny.jpg

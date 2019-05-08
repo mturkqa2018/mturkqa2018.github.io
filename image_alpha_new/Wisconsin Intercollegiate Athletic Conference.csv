@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ipedia/commons/thumb/5/59/WIAC-USA-states.png/250px-WIAC-USA-states.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/USA_Wisconsin_location_map.svg/250px-USA_Wisconsin_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/en/timeline/54d34b8b56ea7804e0183146bebf0e4d.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/100px-NCAA_logo.svg.png

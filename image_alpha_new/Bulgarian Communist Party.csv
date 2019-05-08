@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ia.org/wikipedia/commons/thumb/c/cb/Museum_of_Sozart_Collage_1.jpg/300px-Museum_of_Sozart_Collage_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Georgi_Dimitrov.jpg/60px-Georgi_Dimitrov.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Valko_Chervenkov.jpg/60px-Valko_Chervenkov.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bundesarchiv_Bild_183-B0115-0010-066%2C_Berlin%2C_VI._SED-Parteitag%2C_Warnke%2C_Shiwkow_-_Zhivkov.jpg/60px-Bundesarchiv_Bild_183-B0115-0010-066%2C_Berlin%2C_VI._SED-Parteitag%2C_Warnke%2C_Shiwkow_-_Zhivkov.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Petar_Mladenov_1978.jpg/60px-Petar_Mladenov_1978.jpg

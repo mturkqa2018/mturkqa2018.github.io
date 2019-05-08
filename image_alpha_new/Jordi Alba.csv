@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>rdi_Alba.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jordi_Alba_goal_celebration_Euro_2012_final.jpg/250px-Jordi_Alba_goal_celebration_Euro_2012_final.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/SPA-ITA_Euro_2012_Spain_NT_v2.JPG/220px-SPA-ITA_Euro_2012_Spain_NT_v2.JPG
+https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/50px-Flag_of_Spain.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/50px-Flag_of_Spain.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/50px-Flag_of_Spain.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/50px-Flag_of_Spain.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/50px-Flag_of_Spain.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/50px-Flag_of_Spain.svg.png

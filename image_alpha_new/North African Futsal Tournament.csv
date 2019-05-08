@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>l_current_event.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/World_Map_FIFA.svg/280px-World_Map_FIFA.svg.png

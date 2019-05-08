@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ole_Miss_Rebels_logo.svg/120px-Ole_Miss_Rebels_logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/USA_Mississippi_location_map.svg/295px-USA_Mississippi_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/LSU_OLE_MISS_1.JPG/315px-LSU_OLE_MISS_1.JPG
+https://upload.wikimedia.org/wikipedia/commons/6/66/Magnolia_Bowl_trophy.jpg

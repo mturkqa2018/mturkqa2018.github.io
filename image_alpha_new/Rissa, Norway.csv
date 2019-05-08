@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ps://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Norway_Counties_S%C3%B8r-Tr%C3%B8ndelag_Position.svg/112px-Norway_Counties_S%C3%B8r-Tr%C3%B8ndelag_Position.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/NO_1624_Rissa.svg/175px-NO_1624_Rissa.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rissa_kirke.jpg/220px-Rissa_kirke.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Lauja.jpg/220px-Lauja.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coat_of_arms_of_Norway.svg/60px-Coat_of_arms_of_Norway.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tr%C3%B8ndelag_v%C3%A5pen.svg/60px-Tr%C3%B8ndelag_v%C3%A5pen.svg.png

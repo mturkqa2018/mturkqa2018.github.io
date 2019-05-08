@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>0%93_Nathan_Broad_%28cropped%29.jpg/200px-2017_AFL_Grand_Final_parade_%E2%80%93_Nathan_Broad_%28cropped%29.jpg

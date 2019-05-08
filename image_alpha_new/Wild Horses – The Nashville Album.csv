@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>98%29_front_cover.jpg/220px-Smokie_-_Wild_Horses_-_The_Nashville_Album_%281998%29_front_cover.jpg

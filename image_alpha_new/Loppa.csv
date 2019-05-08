@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>imedia.org/wikipedia/commons/thumb/a/a2/Loppa_komm.svg/96px-Loppa_komm.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Norway_Counties_Finnmark_Position.svg/112px-Norway_Counties_Finnmark_Position.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/NO_2014_Loppa.svg/175px-NO_2014_Loppa.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bergsfjord_Loppa.jpg/220px-Bergsfjord_Loppa.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Oeksfjord_kirke.JPG/220px-Oeksfjord_kirke.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fv882_road_near_Steinvikneset_at_%C3%98ksfjorden%2C_2012_June.jpg/220px-Fv882_road_near_Steinvikneset_at_%C3%98ksfjorden%2C_2012_June.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coat_of_arms_of_Norway.svg/60px-Coat_of_arms_of_Norway.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Finnmark_v%C3%A5pen.svg/60px-Finnmark_v%C3%A5pen.svg.png

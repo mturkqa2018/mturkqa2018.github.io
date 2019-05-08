@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/upload.wikimedia.org/wikipedia/commons/thumb/4/42/Manzanitas_Hall.JPG/250px-Manzanitas_Hall.JPG
+https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/OviattLibrary.jpg/220px-OviattLibrary.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Student_Recreation_Center_%28Cal_State%2C_Northridge%29.jpg/200px-Student_Recreation_Center_%28Cal_State%2C_Northridge%29.jpg

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>pedia/commons/thumb/2/24/Vuk_Draskovic_by_Kubik_01.JPG/105px-Vuk_Draskovic_by_Kubik_01.JPG
+https://upload.wikimedia.org/wikipedia/commons/1/13/Serbian_Parliament_1990.png

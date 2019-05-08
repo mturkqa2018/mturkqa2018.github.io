@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ya_2008.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/No_image.svg/125px-No_image.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NM-Gov_1982.svg/200px-NM-Gov_1982.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_New_Mexico.svg/80px-Flag_of_New_Mexico.svg.png

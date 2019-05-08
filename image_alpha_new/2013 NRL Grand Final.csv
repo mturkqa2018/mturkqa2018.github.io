@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>px-Eastern_Suburbs_colours.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Manly_Sea_Eagles_colours.svg/50px-Manly_Sea_Eagles_colours.svg.png

@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ps://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Buraq_Air_Boeing_737-800_KvW.jpg/250px-Buraq_Air_Boeing_737-800_KvW.jpg

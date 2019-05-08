@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Boca_Metro_Alfonso_XIII_DSCF0541.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Location_map_Madrid.png/240px-Location_map_Madrid.png

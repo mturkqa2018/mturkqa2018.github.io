@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>e_2005.jpg/220px-Brick_Lane_2005.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/LondonTowerHamlets.svg/100px-LondonTowerHamlets.svg.png

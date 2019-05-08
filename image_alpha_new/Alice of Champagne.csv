@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>rusader_states_1240-eng.png/220px-Map_Crusader_states_1240-eng.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/AlixKypr.jpg/220px-AlixKypr.jpg

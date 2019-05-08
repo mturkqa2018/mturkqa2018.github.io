@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_ver_4.png/400px-Population_Canada_ver_4.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Distribution_of_Population%2C_1851_to_1941.jpg/340px-Distribution_of_Population%2C_1851_to_1941.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Canada_immigration_graph.png/340px-Canada_immigration_graph.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Population_of_Canada_by_Province_and_Territory_%28July_2013%29.png/220px-Population_of_Canada_by_Province_and_Territory_%28July_2013%29.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/2011_Canada_Pop_Column.png/340px-2011_Canada_Pop_Column.png

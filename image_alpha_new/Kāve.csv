@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>wikimedia.org/wikipedia/commons/thumb/c/c6/Shahnameh3-5.jpg/80px-Shahnameh3-5.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hajir_%28The_Shahnama_of_Shah_Tahmasp%29.png/80px-Hajir_%28The_Shahnama_of_Shah_Tahmasp%29.png

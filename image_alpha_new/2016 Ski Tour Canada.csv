@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>px-2016_Ski_Tour_Canada_Quebec_city_08.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cross_country_skiing_pictogram.svg/80px-Cross_country_skiing_pictogram.svg.png

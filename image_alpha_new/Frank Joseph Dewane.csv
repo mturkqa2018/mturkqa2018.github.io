@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>oat_of_arms_of_Frank_Joseph_Dewane.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Diocese_of_Venice_in_Florida_map_1.png/100px-Diocese_of_Venice_in_Florida_map_1.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Heraldic_shield_shape_600x660.svg/80px-Heraldic_shield_shape_600x660.svg.png

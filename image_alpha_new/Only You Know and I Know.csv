@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ow_and_I_Know_-_Delaney_%26_Bonnie.jpg/220px-Only_You_Know_and_I_Know_-_Delaney_%26_Bonnie.jpg

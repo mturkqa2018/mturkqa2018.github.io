@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>kingpointsmemo2.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BlogActive.com_Screenshot_2004.jpg/200px-BlogActive.com_Screenshot_2004.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Blogosphere_map.jpg/200px-Blogosphere_map.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Internet_map_1024_-_transparent%2C_inverted.png/80px-Internet_map_1024_-_transparent%2C_inverted.png

@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gnome-mime-audio-openclipart.svg/50px-Gnome-mime-audio-openclipart.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Crystal_Ballroom%2C_Millennium_Biltmore_Hotel%2C_Los_Angeles-198396857.jpg/220px-Crystal_Ballroom%2C_Millennium_Biltmore_Hotel%2C_Los_Angeles-198396857.jpg

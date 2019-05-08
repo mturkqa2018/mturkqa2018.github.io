@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ShinglesDay1.JPG/143px-ShinglesDay1.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ShinglesDay2_ed.JPG/120px-ShinglesDay2_ed.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ShinglesDay5_ed.JPG/145px-ShinglesDay5_ed.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ShinglesDay6_ed.JPG/149px-ShinglesDay6_ed.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/A_Course_of_Shingles_diagram.png/220px-A_Course_of_Shingles_diagram.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Herpes_zoster_chest.png/220px-Herpes_zoster_chest.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Herpes_zoster_ophthalmicus.2.jpg/220px-Herpes_zoster_ophthalmicus.2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Varicella_%28Chickenpox%29_Virus_PHIL_1878_lores.jpg/220px-Varicella_%28Chickenpox%29_Virus_PHIL_1878_lores.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tango_Phone_medapp.svg/42px-Tango_Phone_medapp.svg.png

@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>antinos_Simitis_2012-01-23.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PASOK_MPs_in_the_Greek_parliament_during_2009_budget_discussion.jpg/220px-PASOK_MPs_in_the_Greek_parliament_during_2009_budget_discussion.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Vladimir_Putin_in_Saint_Petersburg-34.jpg/220px-Vladimir_Putin_in_Saint_Petersburg-34.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png

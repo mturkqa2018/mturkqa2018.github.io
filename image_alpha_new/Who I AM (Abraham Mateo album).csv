@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_AM_%28Abraham_Mateo_album%29_-_Special_edition_cover.jpg/220px-Who_I_AM_%28Abraham_Mateo_album%29_-_Special_edition_cover.jpg

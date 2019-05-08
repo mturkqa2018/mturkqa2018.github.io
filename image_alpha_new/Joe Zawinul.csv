@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/220px-Joe_zawinul_2007-03-28_live_in_freiburg.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/JoeZawinul.jpg/220px-JoeZawinul.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zawinul_syndicate_2007-03-28_live_in_freiburg.jpg/300px-Zawinul_syndicate_2007-03-28_live_in_freiburg.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png

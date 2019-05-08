@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>r_at_sea.png/120px-Russian_submarine_Vepr_at_sea.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Russian_submarine_Volk_1916.jpg/120px-Russian_submarine_Volk_1916.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/%D0%9B%D0%BE%D0%B4%D0%BA%D0%B0_%C2%AB%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D1%80%D0%B0%C2%BB.jpg/120px-%D0%9B%D0%BE%D0%B4%D0%BA%D0%B0_%C2%AB%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D1%80%D0%B0%C2%BB.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Yorsh1917-1921a.jpg/120px-Yorsh1917-1921a.jpg

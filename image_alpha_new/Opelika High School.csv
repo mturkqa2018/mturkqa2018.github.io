@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_School_2014.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Opelika_High_fire_1917.jpg/200px-Opelika_High_fire_1917.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Opelika_High_School_Logo.jpg/220px-Opelika_High_School_Logo.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/0/02/SpiritBand.jpg/300px-SpiritBand.jpg

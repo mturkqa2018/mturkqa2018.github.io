@@ -1,0 +1,7 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/SudanWorldMap.png/218px-SudanWorldMap.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Sudan_political_map_2000.jpg/220px-Sudan_political_map_2000.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sudan_Topography.png/220px-Sudan_Topography.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sudan_sat.jpg/220px-Sudan_sat.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/40px-Wikipedia-logo-v2.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/40px-Wikipedia-logo-v2.svg.png

@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ocephale_bickering.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Prenocephale_prenes5991.JPG/220px-Prenocephale_prenes5991.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/PrenocephaleNV.jpg/220px-PrenocephaleNV.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Stegoceras_validum.jpg/140px-Stegoceras_validum.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Protoceratops_reconstruction.png/140px-Protoceratops_reconstruction.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Centrosaurus.png/175px-Centrosaurus.png

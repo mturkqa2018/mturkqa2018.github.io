@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ons/thumb/2/26/Chronicon_Pictum_P113_Az_aradi_v%C3%A9res_gy%C5%B1l%C3%A9s.JPG/190px-Chronicon_Pictum_P113_Az_aradi_v%C3%A9res_gy%C5%B1l%C3%A9s.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Coa_Hungary_Country_History_%2814th_century%29.svg/80px-Coa_Hungary_Country_History_%2814th_century%29.svg.png

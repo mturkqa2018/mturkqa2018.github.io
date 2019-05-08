@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>thumb/0/0b/Flag_of_J%C3%B8rgen_J%C3%B8rgensen_%281809%29.png/210px-Flag_of_J%C3%B8rgen_J%C3%B8rgensen_%281809%29.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pirate_Flag_of_Jack_Rackham.svg/95px-Pirate_Flag_of_Jack_Rackham.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Skull_and_Crossbones.svg/100px-Skull_and_Crossbones.svg.png

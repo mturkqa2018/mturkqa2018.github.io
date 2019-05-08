@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Powell_-_Piano_Solos_MGC_502_%28album_cover%29.jpg/200px-Bud_Powell_-_Piano_Solos_MGC_502_%28album_cover%29.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Bud_Powell_-_Piano_Solos_2_MGC_507_%28album_cover%29.jpg/200px-Bud_Powell_-_Piano_Solos_2_MGC_507_%28album_cover%29.jpg

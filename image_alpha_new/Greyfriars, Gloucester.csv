@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>pedia/commons/thumb/3/3d/Severn_Cross.svg/166px-Severn_Cross.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gloucestershire_UK_locator_map_2010.svg/166px-Gloucestershire_UK_locator_map_2010.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Croyland_Abbey_%26_Parish_Church_of_Crowland.JPG/50px-Croyland_Abbey_%26_Parish_Church_of_Crowland.JPG

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>uid-Heerkuil_1_%281%29.JPG/234px-Sint_Geertruid-Heerkuil_1_%281%29.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Voorzijde_-_Sint_Geertruid_-_20075590_-_RCE.jpg/255px-Voorzijde_-_Sint_Geertruid_-_20075590_-_RCE.jpg

@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Luis_de_la_Cruz.jpg/220px-Carlota_Godoy%2C_por_Luis_de_la_Cruz.jpg

@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ad.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Young_man_demonstrating_a_tin_whistle.jpg/170px-Young_man_demonstrating_a_tin_whistle.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tin_whistle_fingering_chart_in_D.png/220px-Tin_whistle_fingering_chart_in_D.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png

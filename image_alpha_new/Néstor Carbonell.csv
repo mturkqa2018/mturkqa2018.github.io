@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>stor_Carbonell_2010.jpeg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nestor_Carbonell_%26_Sarah_Michelle_Gellar_%285983154188%29.jpg/220px-Nestor_Carbonell_%26_Sarah_Michelle_Gellar_%285983154188%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bates_Motel_Cast_2013.jpg/220px-Bates_Motel_Cast_2013.jpg

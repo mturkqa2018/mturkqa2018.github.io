@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.svg/105px-Sleeve_Insignia_of_the_Russian_Baltic_Fleet.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Medium_emblem_of_the_Armed_Forces_of_the_Russian_Federation_%2827.01.1997-present%29.svg/50px-Medium_emblem_of_the_Armed_Forces_of_the_Russian_Federation_%2827.01.1997-present%29.svg.png

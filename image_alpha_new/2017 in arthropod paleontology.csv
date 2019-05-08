@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>enthetria_lugens_holotype_MNHN_direct_lighting.jpg/170px-Penthetria_lugens_holotype_MNHN_direct_lighting.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Plecia_larteti_holotype_MNHN.F.R06667_direct_lighting.jpg/170px-Plecia_larteti_holotype_MNHN.F.R06667_direct_lighting.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boltonimecia_canadensis_fig_1_A-_Borysenko_bioRxiv_preprint_2016.jpg/150px-Boltonimecia_canadensis_fig_1_A-_Borysenko_bioRxiv_preprint_2016.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bombus_%28Cullumanobombus%29_trophonius_holotype_whole.jpg/150px-Bombus_%28Cullumanobombus%29_trophonius_holotype_whole.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Linguamyrmex_vladi_AMNH-BUPH01_profile.jpg/150px-Linguamyrmex_vladi_AMNH-BUPH01_profile.jpg

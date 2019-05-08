@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>steeplechase_women_podium_Helsinki_2012.jpg/260px-3000_m_steeplechase_women_podium_Helsinki_2012.jpg

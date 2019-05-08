@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.wikimedia.org/wikipedia/commons/thumb/c/c7/Independence_Stadium.jpg/300px-Independence_Stadium.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_Shreveport%2C_Louisiana.png/80px-Flag_of_Shreveport%2C_Louisiana.png

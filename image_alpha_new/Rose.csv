@@ -1,0 +1,17 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Roseleaves3800px.JPG/220px-Roseleaves3800px.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Roses_Boutons_FR_2012.jpg/220px-Roses_Boutons_FR_2012.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rose_hip_02_ies.jpg/220px-Rose_hip_02_ies.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Redoute_-_Rosa_gallica_purpuro-violacea_magna.jpg/220px-Redoute_-_Rosa_gallica_purpuro-violacea_magna.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rose_flower_in_bundle.jpg/220px-Rose_flower_in_bundle.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bouquet_de_roses_roses.jpg/220px-Bouquet_de_roses_roses.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Geraniol_structure.png/220px-Geraniol_structure.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Rosa_rubiginosa_hips.jpg/170px-Rosa_rubiginosa_hips.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rose_Jam.jpg/170px-Rose_Jam.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Gulaab_Jamun_%28homemade%21%29_bright.jpg/170px-Gulaab_Jamun_%28homemade%21%29_bright.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Codex_Manesse_Rudolf_von_Neuenburg.jpg/170px-Codex_Manesse_Rudolf_von_Neuenburg.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Plucking_the_Red_and_White_Roses%2C_by_Henry_Payne.jpg/220px-Plucking_the_Red_and_White_Roses%2C_by_Henry_Payne.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rosa_%27Rosengr%C3%A4fin_Marie_Henriette%27_%28actm%29.jpg/120px-Rosa_%27Rosengr%C3%A4fin_Marie_Henriette%27_%28actm%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/She-wolf_suckles_Romulus_and_Remus.jpg/70px-She-wolf_suckles_Romulus_and_Remus.jpg

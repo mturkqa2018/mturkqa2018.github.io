@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Reset.jpg/220px-Trip_Reset.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/6/64/PsychicTVColdBlueTorchAlbumCover.jpg/220px-PsychicTVColdBlueTorchAlbumCover.jpg

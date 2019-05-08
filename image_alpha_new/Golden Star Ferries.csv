@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>y.jpg/200px-20180501_Heraklion_Superferry.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/20180926_Heraklion_Superferry_II.jpg/200px-20180926_Heraklion_Superferry_II.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/GSF_Super_Runner_%2839381339052%29.jpg/200px-GSF_Super_Runner_%2839381339052%29.jpg

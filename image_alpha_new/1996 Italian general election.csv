@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Berlusconi94.jpg/116px-Berlusconi94.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Umberto_Bossi_1996.jpg/116px-Umberto_Bossi_1996.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Italian_1996_elections.png/400px-Italian_1996_elections.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Romano_Prodi_96.jpg/110px-Romano_Prodi_96.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Berlusconi94.jpg/110px-Berlusconi94.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Umberto_Bossi_1996.jpg/110px-Umberto_Bossi_1996.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fausto_Bertinotti_1996.jpg/110px-Fausto_Bertinotti_1996.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marco_Pannella_1992.jpg/110px-Marco_Pannella_1992.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Italian_Chamber_of_Deputies%2C_1996.svg/300px-Italian_Chamber_of_Deputies%2C_1996.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Italian_Senate%2C_1996.svg/300px-Italian_Senate%2C_1996.svg.png

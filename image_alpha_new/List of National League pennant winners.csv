@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/220px-1903_World_Series_-_Boston_Americans.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/New_York_Giants_team_picture.jpg/225px-New_York_Giants_team_picture.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cardinals_at_White_House.jpg/170px-Cardinals_at_White_House.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/NLCSAnthem.JPG/170px-NLCSAnthem.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1896_Baltimore_Orioles.jpg/220px-1896_Baltimore_Orioles.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/1888_Detroit_Wolverines.jpg/220px-1888_Detroit_Wolverines.jpg

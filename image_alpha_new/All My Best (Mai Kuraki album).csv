@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>upload.wikimedia.org/wikipedia/en/thumb/5/57/AllMyBestMusing.jpg/220px-AllMyBestMusing.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/4/44/AllMyBestUSB.jpg/220px-AllMyBestUSB.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/AllMyBestSpecial.jpg/220px-AllMyBestSpecial.jpg

@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>
+https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png
+https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Jokers_Wild_logo.gif/250px-Jokers_Wild_logo.gif
+https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Barry002.jpg/200px-Barry002.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Joker_Joker_Joker.jpg/250px-Joker_Joker_Joker.jpg

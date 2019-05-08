@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>x-Coin_of_Perdikkas_III._365-359_BCE.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Coin_of_Perdiccas_III_with_figure_of_Herakles.jpg/220px-Coin_of_Perdiccas_III_with_figure_of_Herakles.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Vergina_sun.svg/50px-Vergina_sun.svg.png

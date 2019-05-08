@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>eter_Tatchell_-_Red_Wall_-_8by10_-_2016-10-15.jpg
+https://upload.wikimedia.org/wikipedia/en/1/12/S_Hughes_83.jpg

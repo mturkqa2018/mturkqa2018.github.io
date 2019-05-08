@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>efox_3.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Firefox_3.x_download_manager.png/255px-Firefox_3.x_download_manager.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Firefox_3_Location_Bar.png/255px-Firefox_3_Location_Bar.png
+https://upload.wikimedia.org/wikipedia/commons/c/cd/Firefox_3_Strata_Aero.png
+https://upload.wikimedia.org/wikipedia/commons/6/64/Firefox_3_Strata_on_2000.png
+https://upload.wikimedia.org/wikipedia/commons/c/c0/Firefox_3_Strata_XP.png
+https://upload.wikimedia.org/wikipedia/commons/a/a9/Firefox_3_Firelight.png
+https://upload.wikimedia.org/wikipedia/commons/7/7c/Firefox_3_Tango_Blubuntu.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Google_Breakpad_Mozilla_Firefox_Crash_Reporter_Minefield_3.0pre_2008041704_en-US_Xfce4.png/220px-Google_Breakpad_Mozilla_Firefox_Crash_Reporter_Minefield_3.0pre_2008041704_en-US_Xfce4.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Firefox_3_Downloads.svg/250px-Firefox_3_Downloads.svg.png

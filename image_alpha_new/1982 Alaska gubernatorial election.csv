@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_1989.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tom_Fink_1975.jpg/133px-Tom_Fink_1975.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dick_Randolph.jpg/125px-Dick_Randolph.jpg

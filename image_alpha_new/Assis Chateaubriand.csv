@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ad.wikimedia.org/wikipedia/commons/thumb/b/b9/Senador_Francisco_de_Assis_Chateaubriand_Bandeira_de_Mello.tif/lossy-page1-220px-Senador_Francisco_de_Assis_Chateaubriand_Bandeira_de_Mello.tif.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Olivenkranz.png/80px-Olivenkranz.png

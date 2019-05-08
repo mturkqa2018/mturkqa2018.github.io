@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>18.svg/250px-Slovenian_Parliament_2018.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Coat_of_arms_of_Slovenia.svg/120px-Coat_of_arms_of_Slovenia.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/100px-Flag_of_Slovenia.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/National_Assembly_SLO%2C_June_2018_elections.svg/220px-National_Assembly_SLO%2C_June_2018_elections.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Coat_of_arms_of_Slovenia.svg/80px-Coat_of_arms_of_Slovenia.svg.png

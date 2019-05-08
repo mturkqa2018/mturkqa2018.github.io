@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>/thumb/d/dc/Alan_Keyes_2004_sign.png/220px-Alan_Keyes_2004_sign.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2004_Illinois_Senate_results.svg/150px-2004_Illinois_Senate_results.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alan_Keyes_booth.jpg/220px-Alan_Keyes_booth.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Alan_Keyes_speech.jpg/220px-Alan_Keyes_speech.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/U.S._Department_of_State_official_seal.svg/50px-U.S._Department_of_State_official_seal.svg.png

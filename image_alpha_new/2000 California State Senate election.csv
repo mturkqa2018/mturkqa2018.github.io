@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>urton_in_2015.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/CA2000StateSenate.svg/300px-CA2000StateSenate.svg.png

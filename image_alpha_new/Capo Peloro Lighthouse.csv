@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>y_Sicily.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Italy_relief_location_map.jpg/240px-Italy_relief_location_map.jpg

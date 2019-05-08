@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>re_2004.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Aere_2004_track.png/220px-Aere_2004_track.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/2004_Pacific_typhoon_season_summary.jpg/100px-2004_Pacific_typhoon_season_summary.jpg

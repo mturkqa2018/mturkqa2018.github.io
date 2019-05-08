@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Riti_pathak.png/75px-Riti_pathak.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kirit_Somaiya.jpg/75px-Kirit_Somaiya.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Atal_Bihari_Vajpayee_2002-06-12.jpg/75px-Atal_Bihari_Vajpayee_2002-06-12.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pumapaparti.N.rao.jpg/75px-Pumapaparti.N.rao.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Atal_Bihari_Vajpayee_2002-06-12.jpg/75px-Atal_Bihari_Vajpayee_2002-06-12.jpg

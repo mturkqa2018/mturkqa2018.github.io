@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ons/thumb/4/43/Gigantopelta_chessoia.png/80px-Gigantopelta_chessoia.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Chrysomallon_squamiferum_9.png/80px-Chrysomallon_squamiferum_9.png

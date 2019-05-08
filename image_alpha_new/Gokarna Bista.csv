@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>l.png/200px-Gokarna_Bista_at_Sajha_Sawal.png
+https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Gokarna_Bista.jpg/200px-Gokarna_Bista.jpg

@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>f_Namastey_London.jpg/250px-Katrina_Kaif_and_Akshay_Kumar_on_the_set_of_Namastey_London.jpg

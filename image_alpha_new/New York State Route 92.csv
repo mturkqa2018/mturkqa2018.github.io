@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ps://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Forman_park_ny_route_92.jpg/220px-Forman_park_ny_route_92.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/New_York_Route_92_at_Route_257_in_Manlius.jpg/220px-New_York_Route_92_at_Route_257_in_Manlius.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Manliusvillage2.jpg/220px-Manliusvillage2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NY_92_eastern_terminus_from_NY_20.jpg/220px-NY_92_eastern_terminus_from_NY_20.jpg

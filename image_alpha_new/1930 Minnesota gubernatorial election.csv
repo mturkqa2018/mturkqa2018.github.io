@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>nd_P._Chase.jpg/125px-Raymond_P._Chase.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MinnesotaGubernational1930.svg/250px-MinnesotaGubernational1930.svg.png

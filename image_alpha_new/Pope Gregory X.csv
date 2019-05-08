@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>media.org/wikipedia/commons/thumb/8/8c/C_o_a_Gregorio_X.svg/50px-C_o_a_Gregorio_X.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/C_o_a_Gregorio_X.svg/60px-C_o_a_Gregorio_X.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Duomo_di_arezzo%2C_interno%2C_sepolcro_di_gregorio_X%2C_inizi_XIV_secolo.JPG/140px-Duomo_di_arezzo%2C_interno%2C_sepolcro_di_gregorio_X%2C_inizi_XIV_secolo.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/NoccoloAndMaffeoPoloWithGregoryX.JPG/145px-NoccoloAndMaffeoPoloWithGregoryX.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2593_Lead_alloy_Papal_Bulla_of_Gregory_X_%28FindID_253118%29.jpg/220px-2593_Lead_alloy_Papal_Bulla_of_Gregory_X_%28FindID_253118%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tomb_of_Pope_Gregory_X_in_Arezzo_Cathedral.jpg/230px-Tomb_of_Pope_Gregory_X_in_Arezzo_Cathedral.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Coat_of_arms_Holy_See.svg/75px-Coat_of_arms_Holy_See.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_the_Papacy_SE.svg/35px-Emblem_of_the_Papacy_SE.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_the_Papacy_SE.svg/50px-Emblem_of_the_Papacy_SE.svg.png

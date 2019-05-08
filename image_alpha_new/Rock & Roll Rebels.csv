@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>lfRock%26RollRebels.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Feed_the_Fire_-_Steppenwolf.jpg/220px-Feed_the_Fire_-_Steppenwolf.jpg

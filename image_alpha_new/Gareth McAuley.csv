@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>kipedia/commons/thumb/5/5b/Penalty_Alnwick.jpg/300px-Penalty_Alnwick.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gareth_McAuley_2013.jpg/220px-Gareth_McAuley_2013.jpg

@@ -1,0 +1,10 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>Roberto-sosa.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Eduardo_Palomo-00.jpg/145px-Eduardo_Palomo-00.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jesus-ochoa-300x350.jpg/145px-Jesus-ochoa-300x350.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pedro_Armendariz%2C_Jr._1973.JPG/145px-Pedro_Armendariz%2C_Jr._1973.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/En_locacion_Materia_de_pescado.jpg/145px-En_locacion_Materia_de_pescado.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Carlos_Cobos_2011.png/145px-Carlos_Cobos_2011.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gerardo_Taracena_at_Queen_of_the_South_at_ATX.jpg/145px-Gerardo_Taracena_at_Queen_of_the_South_at_ATX.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Mariozaragoza.jpg/145px-Mariozaragoza.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Joaquin_Cos%C3%ADo.jpg/145px-Joaquin_Cos%C3%ADo.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/No%C3%A9_Hern%C3%A1ndez_-_FotoFilm_Tijuana_-_Julio_2017.jpg/145px-No%C3%A9_Hern%C3%A1ndez_-_FotoFilm_Tijuana_-_Julio_2017.jpg

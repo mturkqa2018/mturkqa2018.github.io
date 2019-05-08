@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>org/wikipedia/commons/thumb/3/3c/Morihiro_Hosokawa_19930927.jpg/200px-Morihiro_Hosokawa_19930927.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Morihiro_Hosokawa_and_Boris_Yeltsin_199310.jpg/200px-Morihiro_Hosokawa_and_Boris_Yeltsin_199310.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Li_Peng_and_Morihiro_Hosokawa_199403.jpg/200px-Li_Peng_and_Morihiro_Hosokawa_199403.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hosokawa_Government_19930809.jpg/200px-Hosokawa_Government_19930809.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hosokawa_2014-02-07.jpg/200px-Hosokawa_2014-02-07.jpg

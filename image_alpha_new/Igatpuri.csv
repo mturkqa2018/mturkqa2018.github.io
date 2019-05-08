@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>2.jpg/220px-Myanmargate2.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Igatpura_Chapel%2C_Bombay_%28Clutterbuck%2C_p.199%29_-_Copy.jpg/200px-Igatpura_Chapel%2C_Bombay_%28Clutterbuck%2C_p.199%29_-_Copy.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png

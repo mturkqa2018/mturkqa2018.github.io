@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>108px-Byron_Dorgan_official_photo.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/3x4.svg/102px-3x4.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/North_Dakota_D_Sweep1998.svg/250px-North_Dakota_D_Sweep1998.svg.png

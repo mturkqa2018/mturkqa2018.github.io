@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>piados.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Asprochaliko_cave%2C_Preveza%2C_Greece.jpg/150px-Asprochaliko_cave%2C_Preveza%2C_Greece.jpg

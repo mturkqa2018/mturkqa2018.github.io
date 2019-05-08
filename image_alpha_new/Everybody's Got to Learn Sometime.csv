@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>20px-Everybody%27s_Got_to_Learn_Sometime_single.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/%28Everybody%27s_Got_to_Learn_Sometime%29_I_Need_Your_Loving.jpg/220px-%28Everybody%27s_Got_to_Learn_Sometime%29_I_Need_Your_Loving.jpg

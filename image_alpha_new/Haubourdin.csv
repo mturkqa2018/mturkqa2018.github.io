@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>_Haubourdin_%2859%29_Nord-France.svg/73px-Blason_de_la_ville_de_Haubourdin_%2859%29_Nord-France.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hauts-de-France_region_location_map.svg/270px-Hauts-de-France_region_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Blason_de_la_ville_de_Haubourdin_%2859%29_Nord-France.svg/120px-Blason_de_la_ville_de_Haubourdin_%2859%29_Nord-France.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Blason_ville_fr_Lille_%28Nord%29.svg/80px-Blason_ville_fr_Lille_%28Nord%29.svg.png

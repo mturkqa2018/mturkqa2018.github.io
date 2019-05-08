@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>s://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lokomotiva_754.jpg/120px-Lokomotiva_754.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%C4%8CD_Class_754_-_detail_-_side_view.jpg/120px-%C4%8CD_Class_754_-_detail_-_side_view.jpg

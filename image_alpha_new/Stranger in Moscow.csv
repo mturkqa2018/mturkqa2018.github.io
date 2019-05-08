@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>png
+https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Michael_Jackson_Stranger_in_Moscow_screenshot.JPG/220px-Michael_Jackson_Stranger_in_Moscow_screenshot.JPG

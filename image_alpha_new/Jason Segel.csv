@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>olor.jpg/170px-Jason_Segel_at_world_of_color.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/SegelJonesRuddILoveYouManMarch09.jpg/220px-SegelJonesRuddILoveYouManMarch09.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/JasonSegalNeilPatrickHarrisJossWhedonHWOFSept2011.jpg/220px-JasonSegalNeilPatrickHarrisJossWhedonHWOFSept2011.jpg

@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>px-Massachusetts_Locator_Map.PNG
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cape_Cod_Rail_Trail_Rotary%2C_Harwich_MA.jpg/220px-Cape_Cod_Rail_Trail_Rotary%2C_Harwich_MA.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Map_of_Massachusetts_highlighting_Barnstable_County.svg/65px-Map_of_Massachusetts_highlighting_Barnstable_County.svg.png

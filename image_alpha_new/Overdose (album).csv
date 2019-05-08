@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>wikipedia/en/thumb/7/78/Overdose_Reissue_Cover.jpg/220px-Overdose_Reissue_Cover.jpg

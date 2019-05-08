@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>a.org/wikipedia/commons/thumb/b/b0/Royal_Arsenal_Railway_explosives_wagon_5.jpg/220px-Royal_Arsenal_Railway_explosives_wagon_5.jpg

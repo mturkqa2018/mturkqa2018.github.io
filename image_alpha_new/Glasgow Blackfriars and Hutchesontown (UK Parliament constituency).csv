@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>ons/thumb/e/ef/Shaw_Maxwell.jpg/120px-Shaw_Maxwell.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Andrew_Bonar_Law.jpg/120px-Andrew_Bonar_Law.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/George_Nicoll_Barnes_in_1916.jpg/120px-George_Nicoll_Barnes_in_1916.jpg

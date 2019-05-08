@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>vg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Min_Languages.svg/150px-Min_Languages.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Formosan_languages_en.svg/100px-Formosan_languages_en.svg.png

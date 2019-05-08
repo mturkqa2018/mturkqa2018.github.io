@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>te_480_%28Kearneysville_Pike%29_at_Stubbs_Road_%28Jefferson_County_Route_48-3%29_in_Kearneysville%2C_Jefferson_County%2C_West_Virginia.jpg/220px-thumbnail.jpg

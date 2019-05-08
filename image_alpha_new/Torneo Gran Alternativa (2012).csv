@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/wikipedia/commons/thumb/9/95/MascaraDoradaMTY.jpg/220px-MascaraDoradaMTY.jpg

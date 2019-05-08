@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>110.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/WA-110.svg/40px-WA-110.svg.png

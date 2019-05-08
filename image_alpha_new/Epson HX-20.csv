@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>in_case_-_MfK_Bern.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Hxemu-trap.png/300px-Hxemu-trap.png

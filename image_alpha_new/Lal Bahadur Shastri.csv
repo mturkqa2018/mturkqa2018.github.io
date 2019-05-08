@@ -1,0 +1,5 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>b2/Mumbai_Shastri_statue.jpg/220px-Mumbai_Shastri_statue.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Prime_Minister_Narendra_Modi_pays_tribute_to_former_PM_Lal_Bahadur_Shashtri_in_Tashkent.jpg/220px-Prime_Minister_Narendra_Modi_pays_tribute_to_former_PM_Lal_Bahadur_Shashtri_in_Tashkent.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lal_Bahadur_Shastri_National_Academy_of_Administration%2C_Mussoorie%2C_at_night.JPG/200px-Lal_Bahadur_Shastri_National_Academy_of_Administration%2C_Mussoorie%2C_at_night.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bharat_Ratna.jpg/130px-Bharat_Ratna.jpg

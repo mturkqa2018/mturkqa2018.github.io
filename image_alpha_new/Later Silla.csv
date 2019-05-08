@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>.wikimedia.org/wikipedia/commons/thumb/d/d7/Korea-Gyeongju-Bulguksa-33.jpg/150px-Korea-Gyeongju-Bulguksa-33.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Pressapochista1.jpg/200px-Pressapochista1.jpg

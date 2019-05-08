@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g.png
+https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Spetsnaz_emblem.svg/250px-Spetsnaz_emblem.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Evstafiev-spetsnaz-prepare-for-mission.jpg/220px-Evstafiev-spetsnaz-prepare-for-mission.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Battalion_Vostok_3.jpg/220px-Battalion_Vostok_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/3_brigada_specnaza.jpg/220px-3_brigada_specnaza.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/ReconnaissanceExercise2017-01.jpg/220px-ReconnaissanceExercise2017-01.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Anti-TerroristExercise2017-07.jpg/220px-Anti-TerroristExercise2017-07.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Medium_emblem_of_the_Armed_Forces_of_the_Russian_Federation_%2827.01.1997-present%29.svg/100px-Medium_emblem_of_the_Armed_Forces_of_the_Russian_Federation_%2827.01.1997-present%29.svg.png

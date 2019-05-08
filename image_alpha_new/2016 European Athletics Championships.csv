@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>g/220px-2016_European_Athletics_Championships_Day_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/European_Athletic_Championships_2016_in_Amsterdam_-_10_July_%2828288994105%29.jpg/220px-European_Athletic_Championships_2016_in_Amsterdam_-_10_July_%2828288994105%29.jpg

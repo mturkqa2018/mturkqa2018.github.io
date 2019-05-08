@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>tive_Yuan_Seal.svg/70px-ROC_Legislative_Yuan_Seal.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Vote1.svg/70px-Vote1.svg.png

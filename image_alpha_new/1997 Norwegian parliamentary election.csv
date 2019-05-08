@@ -1,0 +1,8 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>d.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/CI_Hagen2326alt_2E_jpg_DF0000062793.jpg/100px-CI_Hagen2326alt_2E_jpg_DF0000062793.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Haugland.PNG/115px-Haugland.PNG
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/J_Petersen.jpg/100px-J_Petersen.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Anne_Enger_crop_splm13.jpg/112px-Anne_Enger_crop_splm13.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Erik_Solheim.jpg/100px-Erik_Solheim.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lars_Sponheim_1.jpg/115px-Lars_Sponheim_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Norway_1997.png/250px-Norway_1997.png

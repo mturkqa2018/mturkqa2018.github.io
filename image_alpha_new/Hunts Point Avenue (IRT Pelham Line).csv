@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>vg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/USA_New_York_City_location_map.svg/260px-USA_New_York_City_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/USA_New_York_location_map.svg/260px-USA_New_York_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/260px-Usa_edcp_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hunts_Point_Avenue.jpg/220px-Hunts_Point_Avenue.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hunts_Pt_Av_6_sta_house_steel_jeh.jpg/220px-Hunts_Pt_Av_6_sta_house_steel_jeh.jpg

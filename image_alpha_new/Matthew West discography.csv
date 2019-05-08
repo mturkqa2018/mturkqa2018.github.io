@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>spiration_Renee_Napier.jpg/220px-Matthew_West_on_stage_with_Forgiveness_inspiration_Renee_Napier.jpg

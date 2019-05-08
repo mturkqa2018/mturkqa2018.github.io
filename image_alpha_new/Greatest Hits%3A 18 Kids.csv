@@ -1,0 +1,1 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>bum_cover_-_2008_re-release%29.jpg/220px-Greatest_Hits_-_18_Kids_%28Keith_Urban_album_cover_-_2008_re-release%29.jpg

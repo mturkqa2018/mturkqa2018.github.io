@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>mpleHamiltonNewZealand.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/New_Zealand_Celestial_Room.jpg/110px-New_Zealand_Celestial_Room.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/BlankMap-Oceania.png/375px-BlankMap-Oceania.png

@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>lijn_amsterdam_zutphen.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pieter_Oosterhuis%2C_Afb_010017000037.jpg/220px-Pieter_Oosterhuis%2C_Afb_010017000037.jpg

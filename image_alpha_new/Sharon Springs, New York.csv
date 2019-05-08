@@ -1,0 +1,6 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sharon_Springs%2C_New_York_2016_424.jpg/250px-Sharon_Springs%2C_New_York_2016_424.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/USA_New_York_location_map.svg/250px-USA_New_York_location_map.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/American_Hotel%2C_Sharon_Springs%2C_NY.jpg/220px-American_Hotel%2C_Sharon_Springs%2C_NY.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Beekman_1802_Mercantile%2C_Sharon_Springs%2C_NY.jpg/220px-Beekman_1802_Mercantile%2C_Sharon_Springs%2C_NY.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/I_Sharon_Springs%2C_NY%2C_USA_%282%29.jpg/220px-I_Sharon_Springs%2C_NY%2C_USA_%282%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Map_of_New_York_highlighting_Schoharie_County.svg/180px-Map_of_New_York_highlighting_Schoharie_County.svg.png

@@ -1,0 +1,4 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>nnan.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Photograph_of_President_Truman_with_his_Cabinet%2C_at_Blair_House%2C_%28seated%2C_left_to_right%29_Secretary_of_Defense_Louis..._-_NARA_-_200166.jpg/350px-Photograph_of_President_Truman_with_his_Cabinet%2C_at_Blair_House%2C_%28seated%2C_left_to_right%29_Secretary_of_Defense_Louis..._-_NARA_-_200166.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_the_United_States_Secretary_of_Agriculture.svg/100px-Flag_of_the_United_States_Secretary_of_Agriculture.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Harry_S._Truman.jpg/100px-Harry_S._Truman.jpg

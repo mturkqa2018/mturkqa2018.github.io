@@ -1,0 +1,3 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>6_ideogram.svg/300px-Human_chromosome_6_ideogram.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PBB_GE_OR2B3_gnf1h10895_at_fs.png/250px-PBB_GE_OR2B3_gnf1h10895_at_fs.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/PBB_GE_OR2B3_gnf1h10896_at_fs.png/250px-PBB_GE_OR2B3_gnf1h10896_at_fs.png

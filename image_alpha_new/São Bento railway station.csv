@@ -1,0 +1,9 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>d.wikimedia.org/wikipedia/commons/thumb/4/4c/Porto%2C_Domingos_Alv%C3%A3o_4_%289289461953%29.jpg/235px-Porto%2C_Domingos_Alv%C3%A3o_4_%289289461953%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Obras_da_gare_de_S._Bento_-_Os_Caminhos_de_Ferro_Portugueses_1856-2006.jpg/235px-Obras_da_gare_de_S._Bento_-_Os_Caminhos_de_Ferro_Portugueses_1856-2006.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Estacao_station_Sao_Bento_Porto_1896.JPG/235px-Estacao_station_Sao_Bento_Porto_1896.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Esta%C3%A7%C3%A3o_de_Porto-S%C3%A3o_Bento_%288228178940%29.jpg/235px-Esta%C3%A7%C3%A3o_de_Porto-S%C3%A3o_Bento_%288228178940%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Portugal_no_m%C3%AAs_de_Julho_de_Dois_Mil_e_Catorze_P7171192_%2814767735533%29.jpg/235px-Portugal_no_m%C3%AAs_de_Julho_de_Dois_Mil_e_Catorze_P7171192_%2814767735533%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Porto%2C_Portugal_%2817449464415%29.jpg/235px-Porto%2C_Portugal_%2817449464415%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Egas_Moniz_apresentando-se_ao_rei_de_Le%C3%A3o_Afonso_VII.JPG/235px-Egas_Moniz_apresentando-se_ao_rei_de_Le%C3%A3o_Afonso_VII.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/S%C3%A3o_Bento_railway_station_platforms%2C_facing_east.jpg/235px-S%C3%A3o_Bento_railway_station_platforms%2C_facing_east.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/S%C3%A3o_Bento_railway_station_platforms%2C_facing_west.jpg/235px-S%C3%A3o_Bento_railway_station_platforms%2C_facing_west.jpg

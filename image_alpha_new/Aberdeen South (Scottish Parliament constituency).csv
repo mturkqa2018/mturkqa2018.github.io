@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>cy.PNG/220px-Aberdeen_South_ScottishParliamentConstituency.PNG
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/North_East_Scotland_1999_%28Scottish_Parliament_electoral_region%29.svg/220px-North_East_Scotland_1999_%28Scottish_Parliament_electoral_region%29.svg.png

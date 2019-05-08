@@ -1,0 +1,2 @@
+<script>function offsetAnchor() {if(location.hash.length !== 0) {window.scrollTo(window.scrollX, window.scrollY - 250);}}window.addEventListener("hashchange", offsetAnchor);window.setTimeout(offsetAnchor, 1);</script>load.wikimedia.org/wikipedia/en/thumb/2/2c/WeHappyFewNPCs.jpg/220px-WeHappyFewNPCs.jpg
+https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/WeHappyFewGameImage.jpg/220px-WeHappyFewGameImage.jpg
